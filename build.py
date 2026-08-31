@@ -49,9 +49,24 @@ def build_post(md_path, template_html):
     date  = meta.get("date", "")
     body_html = md_to_html(body_md)
 
+    ao3_url    = meta.get("ao3_url", "")
+    fandom     = meta.get("fandom", "")
+    word_count = meta.get("word_count", "")
+    summary    = meta.get("summary", "")
+
+    wc_block  = f' · {word_count} words' if word_count else ""
+    fan_block = f' · {fandom}' if fandom else ""
+    ao3_block = (f' · <a href="{ao3_url}" target="_blank" rel="noopener">AO3</a>'
+                 if ao3_url else "")
+    sum_block = (f'<p class="post-summary">{summary}</p>' if summary else "")
+
     html = (template_html
             .replace("{{TITLE}}", title)
             .replace("{{DATE}}", date)
+            .replace("{{WORD_COUNT_BLOCK}}", wc_block)
+            .replace("{{FANDOM_BLOCK}}", fan_block)
+            .replace("{{AO3_LINK}}", ao3_block)
+            .replace("{{SUMMARY_BLOCK}}", sum_block)
             .replace("{{BODY}}", body_html))
 
     slug = md_path.stem
