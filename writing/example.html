@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Example Post — Terrace</title>
+  <meta name="description" content="Example Post">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>">
+</head>
+<body>
+  <div class="container">
+
+    <nav>
+      <a class="nav-name" href="/">Terrace</a>
+      <ul class="nav-links">
+        <li><a href="/#work">Work</a></li>
+        <li><a href="/#projects">Projects</a></li>
+        <li><a href="/writing/">Writing</a></li>
+      </ul>
+    </nav>
+
+    <a class="back-link" href="/writing/">← Writing</a>
+
+    <article>
+      <header class="post-header">
+        <h1>Example Post</h1>
+        <p class="post-meta">2026-08-31</p>
+      </header>
+      <div class="post-body">
+        <p>This is an example post. Delete or replace it with real writing.</p>
+<p>Write posts as Markdown files in <code>writing/posts/</code>. Run
+<code>python3 build.py</code> to convert them to HTML and rebuild the
+post index.</p>
+<h2 id="front-matter">Front matter</h2>
+<p>Every post needs a <code>title</code> and <code>date</code> in YAML
+front matter at the top:</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> My Post Title</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">date</span><span class="kw">:</span><span class="at"> 2026-09-01</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div>
+<p>The filename becomes the URL slug: <code>my-post-title.md</code> →
+<code>writing/my-post-title.html</code>.</p>
+
+      </div>
+    </article>
+
+    <footer>
+      <span>terrace.zone</span>
+      <div class="footer-links">
+        <a href="/">Home</a>
+        <a href="/writing/">Writing</a>
+      </div>
+    </footer>
+
+  </div>
+</body>
+</html>
