@@ -1,55 +1,44 @@
-# Deploying to Cloudflare Pages → terrace.zone
+# Deploying terrace.zone
 
-## One-time setup
+The site is plain static files served straight from the repo root. There is no build
+step on the host: `build.py` runs **locally** and its output (`writing/*.html`) is
+committed.
 
-### 1. Push to GitHub ✅ done
+## Hosting: GitHub Pages
 
-Cloudflare Pages can't reach forge.terrace.zone (tailnet-only), so the repo lives on
-GitHub: <https://github.com/terraceonhigh/terrace-zone> (private). `origin` is already
-set and `main` is pushed — from here on, `git push` is all that's needed.
-
-It was created with:
+The repo is <https://github.com/terraceonhigh/terrace-zone>, and Pages serves `main`
+from the root. Pushing to `main` redeploys.
 
 ```bash
-gh repo create terrace-zone --private --source=. --push
+git push        # that's the whole deploy
 ```
 
-### 2. Connect Cloudflare Pages
+> **Do not** set a build command that runs `build.py` on the host. It shells out to
+> pandoc, which isn't present in hosted build images, so the deploy would fail. Build
+> locally, commit the HTML.
 
-1. Log into [dash.cloudflare.com](https://dash.cloudflare.com)
-2. Workers & Pages → Create → Pages → Connect to Git
-3. Select your `terrace-zone` repo
-4. Build settings:
-   - **Build command:** leave blank
-   - **Build output directory:** `/` (root — serve the whole repo)
-   - **Root directory:** leave blank
+### Custom domain
 
-   > Do **not** set the build command to `python3 build.py`. That script shells out to
-   > pandoc, which isn't in Cloudflare's build image, so the deploy would fail. Run
-   > `build.py` locally and commit the generated `writing/*.html` — the repo is served
-   > as-is.
-5. Deploy
+Pages serves the site at <https://terraceonhigh.github.io/terrace-zone/> until a custom
+domain is set. Every internal link and the backdrop URLs are relative, so the site works
+correctly at either location.
 
-### 3. Add custom domain
+To put it on `terrace.zone`:
 
-In the Pages project → Custom domains → Add domain → `terrace.zone`
+1. At your DNS provider, point the apex at GitHub Pages — either the four `A` records
+   (`185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`) or an
+   `ALIAS`/`CNAME` at `@` → `terraceonhigh.github.io` if the provider supports apex
+   aliasing.
+2. Repo → Settings → Pages → Custom domain → `terrace.zone` → Save. This writes a
+   `CNAME` file into the repo.
+3. Tick **Enforce HTTPS** once the certificate is issued (usually a few minutes).
 
-> **Heads up: the whole repo is served.** With output directory `/`, `DEPLOY.md`,
-> `build.py`, `writing/posts/*.md` and `writing/_post_template.html` are all reachable
-> publicly — and this file names your registrar, mail provider and `forge.terrace.zone`.
-> If that bothers you, the simplest fix is to keep the ops notes out of the deployed
-> repo (move this file to a private gist or your notes) before connecting Pages.
+> **Mail is unaffected.** These records only change HTTP/HTTPS routing; MX, SPF, DKIM
+> and DMARC stay as they are. Send yourself a test message afterwards anyway.
 
-Cloudflare will tell you what DNS records to add. Since you're on **Porkbun**:
-
-- Go to Porkbun → Domain Management → terrace.zone → DNS
-- Add an **ALIAS** record: `@` → `<your-pages-project>.pages.dev`
-  (Porkbun supports ALIAS at the apex; it behaves like CNAME but works for root domains)
-- Cloudflare Pages handles TLS automatically — no lego cert needed for this
-
-> **Mail records are untouched.** The ALIAS only affects HTTP/HTTPS traffic. Your Proton
-> Mail MX, SPF, DKIM, and DMARC records stay where they are. Still, send a test email
-> after the DNS change to confirm.
+> **This repo is public and served in full.** `DEPLOY.md`, `build.py` and
+> `writing/posts/*.md` are readable both on GitHub and over the web. Keep anything
+> private out of it.
 
 ---
 
@@ -61,19 +50,20 @@ Cloudflare will tell you what DNS records to add. Since you're on **Porkbun**:
    ---
    title: My Post Title
    date: 2026-09-15
+   summary: One line, optional.
    ---
 
    Post body in Markdown.
    ```
 
-2. Build locally to preview:
+2. Build and preview:
 
    ```bash
    python3 build.py
-   # opens writing/my-post-title.html
+   python3 -m http.server 8080   # then open http://localhost:8080
    ```
 
-3. Commit and push — Cloudflare Pages rebuilds automatically.
+3. Commit and push. Pages redeploys on its own.
 
 > Files starting with `_` in `writing/posts/` are treated as drafts and skipped.
 
@@ -81,14 +71,21 @@ Cloudflare will tell you what DNS records to add. Since you're on **Porkbun**:
 
 ## Updating the portfolio
 
-Edit `index.html` directly. The Work and Projects sections have HTML comments
-showing the pattern. No build step needed — just edit, commit, push.
+Edit `index.html` directly — no build step. The Work and Projects sections carry HTML
+comments showing the pattern.
 
 ---
 
-## Local preview
+## Backdrops
+
+`images/backdrops/` holds a light and a dark WebP per scene. `script.js` picks one at
+random for the active theme, keeps it stable for the tab via `sessionStorage`, and
+resolves it relative to its own URL. To add a scene, drop in `<name>-light.webp` and
+`<name>-dark.webp` and add `"<name>"` to the `names` array in `script.js`.
+
+Re-encode new sources rather than committing large PNGs — the originals were 6.8 MB
+of PNG, 944 KB as WebP:
 
 ```bash
-python3 -m http.server 8080
-# open http://localhost:8080
+cwebp -q 82 source.png -o images/backdrops/<name>-light.webp
 ```

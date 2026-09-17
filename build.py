@@ -86,7 +86,7 @@ def build_index(posts):
         for p in posts_sorted:
             rows.append(
                 f'<li>'
-                f'<span class="post-title"><a href="/writing/{p["slug"]}.html">{p["title"]}</a></span>'
+                f'<span class="post-title"><a href="{p["slug"]}.html">{p["title"]}</a></span>'
                 f'<span class="post-date">{p["date"]}</span>'
                 f'</li>'
             )
