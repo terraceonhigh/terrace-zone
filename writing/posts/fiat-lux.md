@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-08-31
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 15,885
+word_count: 19,528
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -31,7 +31,7 @@ She likes Auntie Collie's house too. It is on the third floor of a red brick bui
 
 ---
 
-Collie got Lewis a proper bunk when he was twelve, and spent as much time as he did at her apartment as he did at Maia's place, which Maia did sob and thank her a few times through the handset. Lewis, for his part, never did find a proper three-player game, the teams never were balanced. One time, over the lip of a patched pothole he slid off his bicycle with the console in his backpack, and—thankfully—one of the controllers took the hit. It still worked when he got to Mrs Swartz's place, the scratched plastic just dug into his hands a little.
+Collie got Lewis a proper bunk when he was twelve and spent as much time at her apartment as he did at Maia's place. Maia did sob and thank Collie through the handset when informed of the matter. Lewis, for his part, never did find a proper three-player game, the teams never were balanced. One time, over the lip of a patched pothole he slid off his bicycle with the console in his backpack, and—thankfully—one of the controllers took the hit. It still worked when he got to Mrs Swartz's place, the scratched plastic just dug into his hands a little.
 
 Nadia crashed her cart into his, and the controller didn't rumble. He noticed it, just a little bit. When he rode back in the morning, his father took the thing apart, and showed him where the wire to the motor had gone loose. Lewis opened the window and held his breath as dad put a soldering iron to it and made it work again.
 
@@ -85,13 +85,9 @@ He helped strip down and put back together Maddy's bike in the summer when Mrs S
 
 Maia and her husband came to Collie's door for Christmas and did not leave until April, when the international students flew back home and never came back and the flats were open. The old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the laminated cards that Maia and Collie wrote in longhand and signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
 
----
-
 ## Continuity Test
 
-Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were printed instead of bought, because Fixer was reliable with bringing in liquor and spotty with chips and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects.
-
-He got really good at holding his breath, even though the rig in the shop had a proper hose and fan to the outside. Every Friday, he put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on paydays, even though he definitely wasn't that age anymore.
+Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were printed instead of bought, because Fixer was reliable with bringing in liquor and spotty with chips and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects. Fridays were paydays, when he would put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on those, even though he definitely wasn't that age anymore.
 
 Every other weekend, though, Bréal and the boys from Epsilon Rho Rho would toot the horn outside the building to tell him they were there, and then they would all drive out to the city to find old parts. Madam Nona always made him bring two vials of mead on the way out. The small one for the guards at the gate, the bigger one for the boys around the fire. And she will want new rubber gloves and a few bundles of sage by next Monday.
 
@@ -99,9 +95,9 @@ Maia always hugged him tight before they headed out, he couldn't bear to tell he
 
 At her behest, he double-checked his backpack: one large electrician's toolkit (packed last night), two pairs of insulating gloves, one hardhat, one tourniquet and first aid kit. One large vial of mead, one medium vial of mead, and one small vial of grease and ointment each.
 
-*Best bring back all your fingers, boy. They're for the saws to eat. If you lose one, though, the going rate is two pounds of sausage to a finger.*
+*Best bring back all your fingers. They're for the saws to eat. If you lose one, though, the going rate is two pounds of sausage to a finger.*
 
-*No it ain't, heed not your driveling father beyond the first sentence.*
+*No it isn't, don't listen to your father except the bringing back fingers thing.*
 
 The truck bed smelled of french fries as it rolled down the highway towards the city. The governor was set at sixty kilometers an hour, with a screw that his father made sure he knew how to turn before his first outing. The biscuits had a taste of ginger from Nadia's patch, and covered the slight rancid smoke from the exhaust.
 
@@ -111,25 +107,25 @@ The medical student threw up from the fumes about the time when they lost sight 
 
 *First time, egghead?* Lewis snatched the mint.
 
-*Yeah.*
+*Yeah.* the egghead wiped her lips with a stretched sleeve.
 
 *First time in a truck or first time in a truck bed?*
 
 A lick on the edge of the paper.
 
-*We never drove growing up.*
+*Well, the buses, and then we had cargo bikes. We never drove growing up.*
 
 *That'll do it, try and keep your eyes on the road.*
 
-Lewis took out his flint and knife and told the egghead to lean in. She kept one hand holding her briefcase straight up.
+Lewis took out his flint and knife and told the egghead to lean in. She held the cigarette with the hand she wiped her lips with, and held her briefcase with the other.
 
 *...what about you?*
 
 *Must be in the dozens of trips now.*
 
-*All this... rancid?*
+*All smelling like... something died and someone fried it?*
 
-*It ain't so bad once you get used to it. Right, and you oughta try these biscuits from my auntie.*
+*It ain't so bad once you get used to it. Right, you oughta try these biscuits from my auntie.*
 
 They got to the town before sundown. Bréal dapped up the two campus guards who said something about can't wait to eat at the dining hall again after a month out in the country, before they got to briefing the two guards from the caravan who would be their replacement.
 
@@ -137,9 +133,13 @@ The other med student had been here for three months, and handed over to Egghead
 
 He caught the general store just before it closed, and got himself a link of sausage and a yard of casing for the return trip.
 
-The rest could wait, for tonight, they just had to sit around the town fire and share the soup the folks had made. Lewis took from the truck five jars of honey from the campus and a dozen of the smoked salmon from another run by another crew to another town.
+The rest could wait, for tonight, they just had to sit around the town fire and share the soup the folks had made. Five jars of honey clinked in his backpack, next to a dozen of the smoked salmon from another run by another crew to another town.
 
-The schoolteacher hugged her beau, who rode the truck behind him and Egghead. Around the fire Lewis could see them holding each other and exchanging stories. By the book, she still had five more months with this class before she would come back to the university.
+The schoolteacher hugged her beau, the carpenter who rode the truck behind Lewis and Egghead. By the book, she still had five more months with this class before she would come back to the university.
+
+The fire seemed to be the only thing in the world, a gyrating ember presence that compounded the sloshing mead. Lewis passed the bottle toward the carpenter, and the schoolteacher in his lap grabbed it instead. A chorus sang *Ayy* when she decanted from the bottle into his open mouth.
+
+Lewis fell back-first into the truck bed, and did not feel the falling stop even after he snugged himself in his sleeping bag.
 
 ---
 
@@ -169,7 +169,7 @@ She let him in.
 
 The two drops that remained of the big bottle of mead sat on the steps to the blind.
 
-He had at last learned to grab his aluminium mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
+He had at last learned to grab his aluminum mug by the handle instead of the body when she poured from the thermos. It smelled like chicken noodle soup, more metallic, more fatty. Strong sweet notes from carrot and onion. Herbs too, not like the dry stuff that made it to the university.
 
 *Duck noodle soup.*
 
@@ -185,15 +185,19 @@ They waited for the soup to cool some more.
 
 *Yes, ma'am.*
 
-*And, it is good to see you.*
+*And, it is good to see you.* Diana said as she rose and put on her gear.
 
 *And I love seeing you too.*
 
-The hinge had grime on it, most likely from the last fire from inland. Lewis grabbed a brush from his backpack and got to work. The sky cleared and said 2 p.m., and she was gone getting his sage for him. He was brushing dried leaves off the roof when a gunshot cracked from the other side of the hill. He grabbed an armful of the leaves to start a fire.
+*Sage, right?*
+
+*Stay safe out there.*
+
+The hinge had grime on it, most likely from the last fire from inland. Lewis grabbed a brush from his backpack and got to work. He was brushing dried leaves off the roof when a gunshot cracked from the other side of the hill. He grabbed an armful of the leaves to start a fire.
 
 She brought back a rabbit just as the fire took.
 
-*Y'know, my auntie Nona always said that eating nothing but rabbits is how you starve.*
+*Y'know, my auntie always said that eating nothing but rabbits is how you starve.*
 
 *That so? That woman teach you anything that would be useful out here?*
 
@@ -211,17 +215,17 @@ She handed him his sage.
 
 A nod.
 
-She moved the bottle of mead, sat down, and pulled off her metal leg.
+She moved the empty bottle, sat down, and pulled off her metal leg.
 
 *Maddy was the one that made this cream, I told her I had a sore shoulder and she said she added peppermint to help with it.*
 
 *Must you always bring up other women?* She grunted as he massaged the stump.
 
-*Well, they are my sisters, but if you want we can talk about other things.*
+*What, you scared of my sister? We can talk about other things.*
 
 *Tell me how good that Egghead character is, and if she can help with the leg.*
 
-*Didn't you say no women?*
+*Didn't you just say no women?*
 
 *It's different when they're a doctor.*
 
@@ -244,8 +248,6 @@ Someone in the cab said something about how sweet sage must burn if its smoke ca
 Maia made him swear that the mead went to the guards and the boys respectively, and he could honestly say yes. Maddy made her ointments with a bundle of herbs from another Epsilon boy. Madam Swartz did not say anything, but served the next breakfast with butter and huckleberry jam. The week after that, she brought cake batter to the bakery and layered it with the jam when she got it home. She told Lewis to bring a slice to Bréal.
 
 He held his breath as he helped puff the sage smoke onto the apiary.
-
----
 
 ## Fortification
 
@@ -281,7 +283,7 @@ For immediate distribution to affiliated bakeries.
 | 8. Bake                                                           | 30-45m   | 220-230°C, falling | Internal temperature 99°C.                              |
 | 9. Depan and cool                                                 | 60m      | 25°C               | Depan and cool on racks.                                |
 
-Printed by University Press.
+Printed by Arbutus University Press.
 
 ---
 
@@ -346,8 +348,6 @@ Rehydrate mushrooms in the pot the night before.
 Pick for buds and their leaves, bloomed ones are more bitter. Serve buds straight.
 
 Boil water with aromatics and mushrooms, cook noodles till good. Rinse the leaves in running water, then blanch in the broth for twenty seconds. Serve in the pot.
-
----
 
 ## Formulary
 
@@ -565,8 +565,6 @@ The family gave her four bottles of buttermilk as thanks.
 
 She hung the sausage on the coat rack at the front of the clinic, and slept on the examining bed.
 
----
-
 ## Off Label Part I
 
 Rosa spent the morning on horseback, the ranch had put her on a mare to help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her before noon, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
@@ -655,7 +653,7 @@ Unmount, a stumble, she took off one side of the mare's pannier and washed her h
 
 *Please, you have to save him. Please, you can take whatever you want, please.*
 
-*Hey, my name is Rosa, I am a doctor and I am here to help you. What is your name?* The gauze she unwrapped was packed in wax paper, and had the university's logo on it.
+*Hey, my name is Rosa, I am a doctor and I am here to help you. What is your name?* The gauze she unwrapped was packed in wax paper, and was stamped with a seal of Arbutus University.
 
 Impact on temporal bone, major laceration, moderate bleeding.
 
@@ -841,13 +839,8 @@ Rosa wrote and underlined something. A whistle went off.
 
 Rosa wiped down the blood pressure cuff, first with a splash of water, and then something from the flask. Carmen chose something with a purplish hue. The listening horn was stored on a shelf that required stepping on a chair to reach.
 
----
-
 ## Notifiable
 
-
-
----
 
 ## Isolation
 
@@ -1044,11 +1037,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *I can get your men whatever fresh produce the Swartz family can get, in exchange, you restore water service to our district first, right after the hospital and school get it back.*
 
-*I don't believe that is up to regulation.*
-
-*We make do, Bréal, we all make do.*
-
-*And why should I do this?*
+*I don't believe that is up to regulation. And, why should I do this?*
 
 *Because, Bréal, I have some jam of my own, and Maddy already brought your woman a sample. At the Epsilon house.*
 
@@ -1058,17 +1047,15 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *How do we explain this?*
 
-*Oh, you won't have to, just recommend the engineers to recompute the district triage with slightly different weightings, the sandwiches are just here to relieve our working boys, yes?*
+*Oh, you won't have to. Just... recommend the engineers to recompute the district triage with slightly different weightings. The sandwiches are just here to relieve our working boys, yes?*
 
 *Okay. okay.*
 
-*And, just for my best foreman.* Collie produced a bottle that must have been tied to her calves.
+*And, just for my best foreman.* Collie produced a bottle that must have been tied to her calves. *A gift, from Château Swartz.*
 
 *Where did you find grapes?*
 
 *I have my means.*
-
----
 
 ## Boil Water
 
@@ -1106,7 +1093,7 @@ The tea was from Maddy's pouch, dried from whatever good leaves she found on the
 
 *What about?*
 
-*Oh, Bréal and I had a chat, and that gave me an idea. And why are you up so early?*
+*Bréal and I had a chat, and that gave me an idea. And why are you up so early?*
 
 *mmm.*
 
@@ -1136,6 +1123,8 @@ Maddy held her mug with both hands, Collie worked on the sleeves.
 
 *She did. And she did it most to you.*
 
+The collar was stubborn, someone had put too much starch in the washing. Maddy delivered a new lump of coal by way of tongs.
+
 *Why did it happen?*
 
 *We don't know, but we lost a lot of good people that season.*
@@ -1144,15 +1133,19 @@ Maddy held her mug with both hands, Collie worked on the sleeves.
 
 *And you made her the peppermint oil for the nose.*
 
+There were two tabs open on Collie's computer the day before they made their first vial: one was about children needing some amount of agency when encountering stressful situations, on the left. The other was a website on homemade smelling salts for nausea, on the right.
+
 *And mom is still dead. Buried in a grave in the city.*
 
-*...yes, and we did our best, Maddy. We all did. Do some deep breaths for me, baby.*
+*...yes, and we did our best, Maddy. We all did. Do some deep breaths for me, baby.* She didn't tell Maddy that the drug safety agency was tendered out three summers before that.
 
 Maddy didn't.
 
 *Did it hurt? When mom died?*
 
-*We found some poppy, she just went to sleep.* She didn't tell Maddy that the drug safety agency was tendered out three summers before that.
+It didn't, the syringes were properly disinfected and stored, and it drew excellently that day.
+
+*We, found some poppy. She just went to sleep.*
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
@@ -1166,13 +1159,15 @@ Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went
 
 *Yes, it is.*
 
+Collie squeezed the bottle too hard. There was a plume of steam.
+
 *Who was she to you, mom?*
 
-*She was the smarter one, if you'll believe me. She wrote the book on hydrology when she was not teaching.*
+*She was the bookworm, if you'll believe me. The one who gave me her textbooks with the year-old notes and the one who got winded from chasing the bus.*
 
 *And they couldn't find a better vial for her.*
 
-*They couldn't find a better vial for anyone in the city.*
+*They couldn't find a better vial for anyone in the city. Grandpa and grandma did everything they could.*
 
 *That doesn't make it any better.*
 
@@ -1188,13 +1183,15 @@ They were quiet for a while.
 
 *Then you are having two eggs with your breakfast. Come on, what do you want to eat?*
 
+Maddy considered the onions, and rejected them on the grounds of chemical crying leading to emotional crying. She then rejected the cheese, because the grease won't sit well by lunch. She looked at the sausage, and decided that Collie already had enough trouble for one morning.
+
 *Mushroom, the ones Nadia put on the counter Tuesday.*
 
 *We can do that, with the garlic powder too.*
 
 *I can tell you are trying to cheer me up.*
 
-*I never meant to hide.*
+*I always was a bad liar.*
 
 They put potatoes in the boiling water. Maddy was cutting the mushrooms and Collie whisked the still-warm eggs.
 
@@ -1220,33 +1217,37 @@ Collie rinsed her hands, even though they were clean.
 
 The mushroom dissolved its flavour into the oil.
 
-*What was her name?*
+*What were their names?*
 
 Collie deglazed with a spoonful of water. The tap was slow.
 
 *What matters is that you are mine now.*
 
-*I want to know.*
+Maddy held a shallow breath, for half a second. *I want to know.*
+
+*You have a photo of them both framed on your desk.*
+
+*I want to hear it. And I want to hear it from you.*
 
 Collie moved the mushrooms to one side of the pan, and did not look at her thirdborn child.
 
-*Alice, her name was Alice Swartz, she was the smartest woman I have ever known, take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter.
+*Alice, her name was Alice Swartz and she was my sister. I was there when you were born and I was there with you when we buried her. Take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter. *Your father, Richards, he, God.*
 
-*Thank you.*
+*That is all, thank you.*
 
 Maddy set down a cloth where Collie then set down the pan. She gave Collie the nice bowl of potatoes she smoothed with the spoon, instead of the one she mashed in. Her bowl had the potato up to the edge on the left side and dug out on the right.
 
-*She, she told me to protect you, and, it was the only way to make sure that the university knew you were mine.*
+*She, she told me to protect you, and, changing you to a Swartz was the only way, to make sure that the university knew you were mine.*
 
 Collie sprinkled some more salt on her eggs.
 
-*I am sorry, Maddy.*
+*I am sorry, Maddy. I am sorry I never told you why.*
 
 She cut the egg into bite-sized pieces, and then carried on cutting. The yolk pooled like a thin moat around the potato.
 
-*I can write it back, now that things are better.*
+*I can write it all back, now that things are better.*
 
-Maddy skewered three mushroom slices on her fork.
+Maddy glanced at her aunt, skewered two mushroom slices on her fork, and stabbed a third unblinking.
 
 *Don't worry about that, mom.*
 
@@ -1254,17 +1255,17 @@ The mushroom was a bit undercooked.
 
 Collie did the dishes, and Maddy dried them with a towel before setting them back in the cupboards.
 
-*I have to do my makeup before I go, you go and get some shuteye.*
+*I have to do my makeup before I go, you go and get some sleep.*
 
-*Can I watch?*
+*I want to watch.*
 
-*Of course.*
+---
 
 There was a black paste and a rust-red one.
 
 *This one is called eyeliner, used to be that it came as a pen, like a fountain pen. I made it with an Egyptian recipe, with our beeswax and oil and crushed charcoal. Close your eyes so I can put some on you.*
 
-The brush was from a younger Collie's attempts at watercolour.
+The brush was from a younger Collie's attempts at watercolour, the old house was filled with oil paintings signed *A. Swartz*.
 
 *This one is blush, it is the same base, but with purified rust. Women began making these in Persia five thousand years ago. Purse your lips like you are about to kiss someone.*
 
@@ -1274,31 +1275,257 @@ Collie's fingertips were warm. She did another two dabs on Maddy's cheeks.
 
 Maddy looked into the mirror, a different woman looked back.
 
+*She always liked that upward flick.* Collie said.
+
 Collie put hers on, while Maddy packed her lunch and notebooks and braided and tied her hair up.
 
 *So what does the day hold for you?* Collie asked.
 
-*Oh, probably just checking in on the diarrhea cases and the worksite injuries from the emergency repairs last week. Looking to discharge a few.*
+*Oh, probably just checking in on the diarrhea cases. Looking to discharge a few.*
 
 *Good, remember to keep your handkerchief on tight when you are in the sick ward.*
 
-*The older nurses already drilled that into me.* Maddy double-checked that she packed a spare.
+*The nurses already drilled that into me.* Maddy double-checked that she packed a spare.
 
-*And, I am going to the chemists today anyway, so take these.*
+*And, take these.*
 
 Collie held out the two compacts and the brush.
 
-*Just bring them back in one piece, they used to be grandma's.*
+*Just, keep them in one piece. They used to be grandma's.*
 
 *mmm.*
 
----
-
 ## Druzhina
 
+The Emeritus' property was something done in concrete and stone, in the brutalist style that was in vogue after the Second World War (unlike the red brick construction of the Swartz property that was popular before that). The windows were no longer glazed, but rather covered with wooden shutters that did not seem to be painted, or at least painted yet. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
 
+*And the purpose of your visit, Madam Swartz?*
+
+*Socializing.*
+
+*Please come with me.*
+
+She was led in, and was patted down once the two turned a corner. The doorman apologized for the measures, and Collie was gracious in understanding due caution. She was delivered to him, in the garden, where hydrangea and lavenders were in bloom.
+
+She walked past a bronze sculpture of Demeter.
+
+*Coelia.* On his knees, he clipped a weak branch, before turning to face her.
+
+*Dr Fleming.* Collie's smile reached her mouth first, and her eyes a millisecond later.
+
+*Sit, my dear.* He said, in the process of standing up, leaning on his walking stick.
+
+*Your servant took my bottle, said she is to cool it for us.*
+
+*Oh, yes, quite lovely, isn't she?*
+
+*And the loaf, she said she will bring them sliced with the butters.*
+
+*You simply must try the one she makes with lard and dill.*
+
+*I can hardly wait for the cinnamon buns.* Collie's eyes did not twitch.
+
+Ada, Fleming's granddaughter, brought the fine china. She poured tea into Collie's cup first, which she had the arm to do from the other side of the table without standing up. She was in a dress too, another pre-collapse piece, but with fresh embroidery at the waist and shoulders. Collie could faintly recall seeing the same dress from an old magazine.
+
+*Let us wait until we are done with the first course, today is too good a day to squander in the name of business.* Dr Fleming said.
+
+*Tell me, how has Maddy been doing at school?*
+
+*Apprentice now, hospital took her in in the spring.*
+
+*I simply must see that little sunshine again soon.* Fleming said. *What of Lewis?*
+
+*Fixing old laptops, building parts and pulling wire with Epsilon on crews.*
+
+*Laptops.* Ada interjected, with the tone and eyes that one reserved for relics.
+
+*He is a resourceful young man.* Collie replied.
+
+Dr Fleming drank from his cup, a delicate porcelain one etched in pink and gold. A bee crawled on the tip of a bloom.
+
+*I see you finally finished the old greenhouse.* Collie said.
+
+*Yes, Ada, why don't you tell Coelia what you did about the roof?* Fleming commanded.
+
+*Well, it wasn't much, really. Just some strings and weights and some quick math to get the frames just right.* Ada's voice was almost all nasal, and her throat did only half the work of talking.
+
+*Oh, you know it was anything but trivial.* Fleming pressed.
+
+*Umm, well, y'know, I just, did it with physical models.* Collie could see that Ada was shy.
+
+*And entirely without electronics! Isn't she smart?* Fleming patted his grown granddaughter on the head. From his eyes, she was just still a baby.
+
+*Well, Ada, that really is something to be proud about. I don't even know how to operate a slide rule.* Collie said.
+
+*Oh, well, it's easy, dealing with the thorns is harder, I am sure.* Ada put on her best impression of puppy eyes toward her grandpa.
+
+*Shame the old faculty never got to it. And for once I did the trendy thing in time.* He chuckled.
+
+Picturing the creature that had transfixed the internet population for two months and thirteen days, and the dance that Dr Fleming did in imitation of it four months in, Collie smiled from her eyes and covered her mouth half a second after a rhythmic giggle began their departure.
+
+*It is good to see you, Coelia.*
+
+The servant brought them the bottle and the sliced bread, with three butters, jam, and a platter of cheese. There was pepper butter, cinnamon butter, and a plain one. The servant decanted the Swartz mead into champagne flutes.
+
+*I was curious, where do you get your butter, Fleming?*
+
+*Same town as you, most likely, the one to the east. What's its name...*
+
+*Aldermere, papa.* Ada supplied.
+
+*Funny, then. My Lewis has a sweetheart there, though he thinks I am clueless.* Collie said.
+
+*He is getting about that age, isn't he? I hope you are learning just how fast they grow up.* Fleming stroked Ada's cheek with his thumb, Ada covered her face, Collie said an *Aww.*
+
+*And how about your own?* Collie said a moment after they toasted, to good health.
+
+*Oh, Cecilia's out building now, with the rest of the engineers. Last I heard she was up the coast, fixing mountain passes.*
+
+*And her mother?*
+
+Ada went still for a moment, Dr Fleming went still for half of that.
+
+*Less so, Klara's quite lethargic these days, doctors say nothing to worry about, though.*
+
+*The doctor put her on a plan, she is comfortable.* Ada recited.
+
+*See? What would I do without her?* Fleming chuckled.
+
+Collie topped her toast with pepper and gouda, Fleming had his with cinnamon and jam, Ada just had hers with butter.
+
+*I will have my people bring herbs, then.* Collie said.
+
+*Right, regarding that.* Fleming washed down a crumb with a sip of tea. *That girl, Nadia. My sweet Ada said your girl is quite excellent helping in Botany.* Ada giggled, in a way that did not engage the vocal cords, but rather made its sound entirely by the rushing of air out of her nostrils.
+
+*Yes, she really is so much more a greenthumb that our generation ever was.* Collie said.
+
+*I have something for her.* Fleming said, in a tone befitting the line.
+
+Collie perked up, but caught it in time to turn it to a piqued.
+
+*Ada, would you go back to the weaving? Me and Lady Swartz will need a moment to ourselves.*
+
+*Yes, papa.* Ada nodded, and excused herself back to the ground floor, where the looms were.
+
+*She will want some field experience soon, for her degree. I have a slot for her, for the next season.*
+
+*She is already quite comfortable in the greenhouses, I think.*
+
+*—and a less backbreaking post for... what's her name, Nona, yes? I am sure you would love it.*
+
+She slathered one more slice of toast, with jam and parmesan. A moment passed before she triangulated her next line. *Have you considered voting in support of the entreaty with Epsilon and Iota?*
+
+The servant came back with more tea, along with a few strips of bacon and eggs for the two, nothing too absurd to get in the way of the afternoon.
+
+*I don't think I can, Coelia.*
+
+*Bréal would be delighted.*
+
+*Yes, he would, but you cannot possibly think he would always be bought with wine alone.*
+
+*It worked for Rome for four hundred years.*
+
+*It was less reliable east of the Balkans.* He let the bacon's heat melt the pepper butter, onto a slice of toast. There was rosemary in the loaf Coelia brought.
+
+Collie helped herself to another cup.
+
+*Coelia, think of this less as foederati, but as the legions.*
+
+*And you wrote the book on how the oligarchs got filthy rich, after the Soviets fell.* Collie opened a jar of liver paste, which made a *pop* as the button gave under it. *You could be the biggest winner. Nobody quite remembers who took over Doctor's Sausage.* Collie folded her legs, under her wine-dark dress. The same one she wore for the first week of every semester.
+
+*My bloc won't flip, I suggest you ask me to help you finding a place for Bréal instead of scheming about a private army.*
+
+Collie sighed, and rose to follow Dr Fleming's walk through the glass-covered garden.
+
+*I will tell Bréal myself first, then the rest of the men.*
+
+*Just Bréal. Because after the vote, you will be escorted by Campus Security into the Epsilon building, to convince them to hand over their guns.* Fleming fed a caged bird with nectar.
+
+*I say this now, before the University commissions you to, because he and I would both trust you to do it right.* Fleming continued. There was a shower above the university then, and the catchment from the roof flowed upon the glass to water the covered gardens.
+
+*Then I would appreciate a slot for Lewis in Electrical Engineering.*
+
+Dr Fleming sighed, rang a bell, and whispered into his servant's ear. *He sits, like anyone else.* Dr Fleming wiped what was left of the yolk with a piece of toast.
+
+*Of course.* Collie gripped on her knife a little too hard, and the muscle was seen straining.
+
+*He will be behind, and would be for two years.*
+
+*You always were steadfast about academic integrity.*
+
+*It is sausage that fills stomachs. You yourself should know panem et circenses.*
+
+*I specialized between Athens and Sparta.*
+
+*Hobbes wrote in Latin.*
+
+They had something fluffy and light after that. Topped with whipped cream.
+
+*In exchange for Lewis, I want you to cover something for my Ada when I am gone.*
+
+*What will she need?*
+
+*She is smart, she will know. All she needs is someone like us to sign.*
+
+*Someone like us.*
+
+*Klara is in no condition to sign. And, I want to back the bill that would grant us our holdings.* Collie helped Dr Fleming sit back down.
+
+That bill was going to pass anyway.
+
+*Generous, then, to show us the reason why we should back you.* Collie said.
+
+*The matter with Nadia, please do not take it personally. I just found the notion of attending a coronation tiresome.* He said.
+
+They had another helping of mead.
+
+*Right, I don't think I ever got back to you on how that internship went.* She said.
+
+*Well, how did it go?*
+
+*That department had the budget slashed midway, there was no return offer.*
+
+*Would have been a sinking ship anyway.* Host and guest emptied their second pot. *I just want you to know. When I wrote in that letter that you would have thrived anywhere, I really did mean it.*
+
+*One must focus on what they can control.* Collie set cup and plate back on the table.
+
+*...and still as disconcertingly amicable as always.*
+
+*You taught me that, before the thesis defense.*
+
+*Take care on the way home, Lady Swartz. And, congratulations on the new apiary.* Fleming did the above-the-waist part of a courtly bow. With the twisting of the outreached hand as flourish.
+
+*Deliver my greetings to the family, Sir Flemiovich.* Collie did a curtsy.
+
+Fleming considered which flowers to put on the family Coat of Arms, and settled on wheat.
 
 ---
+
+The oven was fifteen degrees warmer than it was supposed to be at this hour. The man working the counter gave the woman before Collie two dozen flatbreads to put into her bag herself.
+
+*No pie today, Madam Swartz?*
+
+*No, not this week. What do you have hot?*
+
+*The samosas just finished baking. We have potato and we have peas.*
+
+*Two. And a sausage roll.*
+
+*Madam, you look green, is everything okay?*
+
+*Just the pastries, please.*
+
+Collie had a metal one for takeouts — and in the earlier days, gruel — its lid held with a spring-loaded mechanism that she was never quite able to describe in words.
+
+It clicked down, sharp. *Here you go, madam.*
+
+*How much would that be?*
+
+*Twenty-five dollars.*
+
+Collie opened her leather wallet, and gave him two tens and a five. On the Obverse were three reproduced signatures, one by the University President, one by the Dean of Economics, and one by the Director of Food Services. The centered seal had a Dogwood flower wrapped in a Mahonia wreath.
+
+She went to the market after, to distract herself.
 
 ## Ground
 
@@ -1504,7 +1731,7 @@ Collie let that slide.
 
 *I hope I am not taking too much of your time. I know electricians don't handle concrete if they can help it.*
 
-*We make do, Collie. Anyways, the season has been quiet, so it is good to keep my hands busy.*
+*The season has been quiet, so it is good to keep my hands busy. And less dangerous work too.*
 
 *And how is Lewis? Picking up the trade well?*
 
@@ -1526,8 +1753,6 @@ Collie let that slide.
 
 It was not just one.
 
----
-
 ## Wild Oats
 
 A secretary was leaning on a workbench and staring at Bréal, when the latter saw the newly spun part blue on its surface.
@@ -1548,7 +1773,7 @@ A secretary was leaning on a workbench and staring at Bréal, when the latter sa
 
 *That do be the case. That's Lewis, Nadia, and Medea for truck 02.*
 
-*That's his sisters.*
+*Huh.*
 
 *That's why I said the But, boss.*
 
@@ -1556,7 +1781,7 @@ A secretary was leaning on a workbench and staring at Bréal, when the latter sa
 
 *Something about grass, I figure.*
 
-*Now you did get signatures for everybody?*
+*You did get signatures for everybody?*
 
 *Yessir.*
 
@@ -1570,11 +1795,11 @@ A secretary was leaning on a workbench and staring at Bréal, when the latter sa
 
 Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you don't want to risk a nasty blister.* The whatchamacallit cooled further on the now-complete tray, next to its brethren.
 
-*Now, boss, permission to speak freely?*
+*Boss, permission to speak freely?*
 
-*Wallahi bro, this ain't the navy. Spit.*
+*Spit.*
 
-*Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. The sisters are nothing if not growing into valuable university assets and bachelorettes.*
+*Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. And the girls capable bachelorettes.*
 
 *Well,* the bossman took off his safety glasses. *You ever seen them all together? Like, lined up, side to side. Or, like, heard Lewis talk about his moms and dad, singular?*
 
@@ -1582,7 +1807,7 @@ Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you
 
 *The dad, he had me brick up a good chunk of the ground floor at his building.*
 
-*But it is the Madam that frequents us. What I do know of Mr Tsien Senior is that he is an electrician working for the university.*
+*But it is the Madam that frequents us. What I do know of Mr Swartz is that he is an electrician working for the university.*
 
 *And I used to be in a private school,* Bréal nailed the lid for the parts. *Get them the pemmican.*
 
@@ -1594,15 +1819,15 @@ The seed launcher on the back of truck 02 would, twenty years ago, have been cla
 
 Thunk.
 
-*Yeah, and no workman's comp. Gimme that rollie and fuck off back to jizzing grass all over town.* Lewis steered around a pothole.
+*Yeah, and no workman's comp. Gimme that rollie and keep busy.* Lewis steered around a pothole.
 
-*Hey, put that thing on the B-side first.* Nadia wheezed, having been jostled by the rim of the same pothole.
+*Put that thing on the B-side first.* Nadia wheezed, having been jostled by the rim of the same pothole.
 
 Thunk.
 
-*Yeah yeah greenthumb, maybe this'll finally put some hair on your chest.* Lewis smoked with his left hand and flipped the cassette with his right. It took ten-ish seconds, but it was okay because the road was empty anyways.
+*Maybe this'll finally put some hair on your chest.* Lewis smoked with his left hand and flipped the cassette with his right. It took ten-ish seconds, but it was okay because the road was empty anyways.
 
-*You know, I can forgive a sparkie for that mouth, but betraying puff-puff-pass just marks you an asshole.* A third voice joined in.
+*Puff, puff, pass. Man.* A third voice joined in alongside a hand making the gesture of a gimme.
 
 No thunk, there was instead a guitar solo.
 
@@ -1620,7 +1845,7 @@ Thunk.
 
 *What's the next stop again?*
 
-*The uhh...* Lewis unfolded his map. *...Calypso Diner, they're expecting us. The flag is in the toolbox, right?*
+*The uhh...* Lewis unfolded his map. *...Calypso Diner, at Weirwick, they're expecting us. The flag is in the toolbox, right?*
 
 *Yeah, I double-checked. What do they eat out here in the country anyways?*
 
@@ -1638,13 +1863,9 @@ Maddy's voice rang in, from the cab. *Remember, only eat the hot stuff.*
 
 *But it's so hoooooot* Nadia moaned.
 
-*I hate to say this, I truly do, but listen to the annoying baby sister who insisted she tagged along, Nadia.* Lewis grabbed another seed packet.
+*Okay, this advice I can actually get behind. The rest of that child's antics notwithstanding.* Lewis grabbed another seed packet.
 
-*Ugh, we were like three months apart.* There was a growling that was not from the engine.
-
-*Awww, Lewis look at our little baby doing big girl things like having an opinion and learning to drive.*
-
-*Careful, one of these days I am going to be the family doctor.*
+*Ugh, we were like three months apart.* There was a growling that was not from the engine. *One of these days I am going to be the family doctor, and then you'll be sorry.*
 
 ---
 
@@ -1664,7 +1885,7 @@ A voice came in on the radio. Lewis opened an envelope and mumbled something bac
 
 They let them in, the handful of people on Main Street turned their heads.
 
-Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of the University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
+Nadia unfolded the leather wallet the department gave to her and produced her chit, along with a metal seal of Arbutus University. The mayor and his men took stock of their share of seeds and said the diner was expecting them.
 
 *Here, at the front for our university's officers. And, you are a doctor, right? Madam...* A woman in an apron welcomed them.
 
@@ -1680,9 +1901,9 @@ The woman walked back into the kitchen.
 
 *That's what's on the paper.* Nadia stated.
 
-*Damn, Nadia, you get a stripe just for shipping some seed. Pretty sure Bréal would lock us sparkies in the toolbox if it didn't damage us.*
+*All fancy schmancy now, aren't ya?*
 
-*Oh, as if you don't spread some seed of your own on your trips, Lew.*
+*Oh, as if you don't enjoy yourself on your trips, Lew.*
 
 *Fuck off.* He said while unscrewing the cap on their disinfectant.
 
@@ -1694,39 +1915,29 @@ Nadia blew her smoke away from the table, it was something milder than her morni
 
 *How did you know anyways?*
 
-*Oh, I told her.* Maddy interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack anyways?*
-
-*Huh?*
-
-*You know us doctors read people for a living, right?*
+*Oh, I told her.* Maddy interjected, while trying to snap off a chunk of biscuit. *Why is this so tough to crack?*
 
 *Is there no secrets under our roof?*
 
-*You live with, like, five women, Lew.*
+*No, not really. Except that magazine you keep under your pillow.* Maddy said. Nadia raised her eyebrow.
 
-Lewis sighed, and gestured for the cigarette.
+Lewis groaned, and gestured for the cigarette.
 
-*Well, uhh, she lives on the outskirts of town, real good trapper, lives with her mom. God, and the way she looks when she chuckles.*
+*Well, uhh, name's Diana, lives on the outskirts of town, real good trapper, lives with her mom. God, and the way her eyes look when she's angry.*
 
-*I love how you either love her under the sky or in her mother's home.* Nadia muttered something about men.
+*And you either love her under the sky or in her mother's home.* Nadia muttered something about men.
 
-*By Jove, what is it with y'all and my romantic life. Can't a kid working in a high-pressure environment still be tender with his sweetheart and frolic pure-of-heart style?*
+*What is it with y'all and my romantic life.*
 
-*Kids in high-pressure environments, yes. You, though, less so.* His sisters' voices began to blend into one another's.
-
-*Ugh.* A good sixth of the cig turned to ash in one breath.
-
-*Hey, at least you love her, right?* Maddy's eyes had a sharpness to them.
+*We only want to make sure that you love her, yes?* Maddy's eyes had a sharpness to them.
 
 *Yeah, of course, absolutely. Where do you think the honey goes and where the jam comes from?*
 
-*Heh, figured, that'll do.*
+*That'll do.* Nadia dipped her biscuit into her soup.
 
-*Well, then, Nadia. What about who's getting you so giddy after the long days at the greenhouse then.*
+*Well, then, Nadia. What about who's getting you so giddy after the long days at the greenhouse?* Maddy pivoted, before taking a sip of the tea she asked for.
 
 *Oh come on!*
-
-*What goes round, man, what goes round.*
 
 ---
 
@@ -1754,7 +1965,7 @@ They could see that she adjusted her collar as she walked back to that house. Th
 
 *Took you long enough.* Nadia said.
 
-*Well, should be better once the next doctor rotates in. There is still a queue I need to go through before we leave.*
+*There is still a queue I need to go through before we leave.*
 
 *How many?* Lewis asked.
 
@@ -1768,7 +1979,7 @@ They could see that she adjusted her collar as she walked back to that house. Th
 
 *Mmm.*
 
-*University officers are also supposed to render aid where possible.*
+*University officers are also supposed to render aid to our townships where possible.*
 
 *Are we now?*
 
@@ -1782,11 +1993,15 @@ Maddy was on the precipice of emptying the skin.
 
 *Mmm.*
 
+*The bees'll live?*
+
+*They're hardy.*
+
 Nadia took the waterskin, and screwed the cap back on.
 
 *Well, the wires will want inspection.*
 
-*And the farmers will want to know more about the new irrigation schedule.*
+*Yes, and the farmers will want to know more about the new irrigation schedule.*
 
 *...Radio's still warm. I'll let them know. We leave tomorrow noon. You heard that, Maddy?*
 
@@ -1870,7 +2085,7 @@ The woman scribbled something down, on the top of the letter that was otherwise 
 
 *Oh, it's nothing, the next doctor will come soon anyways, and can help better than me.*
 
-*There has been a palpable difference, really. You have been so kind.*
+*You have been so kind.*
 
 *I am flattered.*
 
@@ -1888,7 +2103,9 @@ Maddy looked Nadia in the eyes. Nadia's head nodded half a degree.
 
 *—really was wonderfully made, ma'am, but I can't begin to imagine what these two would do to me if I defied them.* Lewis said truthfully.
 
-*Right, of course.*
+*But, Maddy, think of what your mother would think. You and Nadia sleeping with Lewis in the same room.* The lady said.
+
+*I get why you worry, but, we would feel a lot more comfortable if we had big brother close.*
 
 Not much was said afterwards, except that Lewis unlocked the briefcase with their personal effects, and took out the family shotgun. The action was freshly greased, and the two shells slid in without a sound. The floor was not cold, but his back grew sore from the hardwood as Nadia and Maddy slept, holding each other. The other bed was empty.
 
@@ -1898,23 +2115,17 @@ The bed creaked, and a figure haunted Lewis.
 
 Nadia set her foot down onto the floor with a light *thud*, and gestured about the gun.
 
-*Go to sleep, Rambo.*
+*Gimme.*
 
-He did, perpendicular to the empty bed. Nadia felt for the shells in their breech.
+He did, and conked out perpendicular on the empty bed. Nadia felt for the shells in their breech.
 
 She had the watch.
-
----
-
-The trip ended up taking four and a half days.
-
----
 
 ## Mulberry
 
 Something was wrong with washer #17 in the university laundromat on the corner of Agronomy Road and Campus Parkway. The unit was on the end of the first row in, on the right, next to the machines with the German badges. Alex took off the bent-sheet control panel on its front and looked at the wiring. The original warning labels had faded to a translucence, and there was some text in Korean under that. On the back of the university's panel was a label, with the name of the student who rewired the machine and the professor who signed off on it.
 
-The load in the other machines were pure white.
+The loads in the other machines were pure white.
 
 Alex made a connection manually, and watched it sputter and attempt to spin. It jiggled back and forth instead.
 
@@ -1984,7 +2195,7 @@ The name *MADDY* had been sewed in on the tailbone, facing outward. Nona put it 
 
 The bedding was the hardest to wash, large and unwieldy as it was. Collie and Nona did the wringing. Collie had to be swapped out to Maia about halfway. Collie complained of a sore wrist and Maia almost twisted her back. They washed the clothes on their backs last, the pieces they hung up first had already begun to billow slightly in the wind.
 
-The T-shirts they were wearing hung somewhere around the tail-end of the clothesline, where they still had room after the bedding ate most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie could be seen sinking most of herself into the river.
+The T-shirts they were wearing hung somewhere around the tail-end of the clothesline, where they still had room after the bedding ate most of the rest. Maia coaxed the block of soap in her hands first, before massaging the liquid into Nona's hair, Collie sank most of herself into the river.
 
 *Nona, babe, can I ask you a favour?*
 
@@ -2018,7 +2229,7 @@ The T-shirts they were wearing hung somewhere around the tail-end of the clothes
 
 ---
 
-The big radio needed the engine running, and the engine was noisy, so Lewis wired it to the CB handset and took the call in the cab. The girls were unloading the rest of the gear into this town's pub, the room upstairs.
+The big radio needed the engine running, and the engine was noisy, so Lewis wired it to the CB handset and took the call in the cab. The girls were unloading the rest of the gear into this town's pub, to the room upstairs.
 
 *University Station, This is Truck 02, coming in for our evening check-in. Over.*
 
@@ -2038,25 +2249,171 @@ The big radio needed the engine running, and the engine was noisy, so Lewis wire
 
 *Maaan, fuck you, Vavasseur. Over and out.*
 
+## Notions
+
+The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the chunk of copper engraved with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
+
+A few children played skipping rope outside, before the innkeeper told them to git and head home for dinner. The children put their tire-made sandals back on and walked home.
+
+Nadia had to walk out midway, to sign some papers for this town's seeds. Maddy speared and stole a slice of hard-boiled egg from Nadia's pie when she was busy. Nobody would say they noticed.
+
+After dinner, an oil-lamp light shone in the girls' room. Maddy was supine, on the bed, doing half a cat's cradle. Nadia crunched the numbers that came in from this town's mayor. The wall adjoining Lewis's room was silent (barring a snore audible only when both of them held their breaths).
+
+*Still working?* Maddy asked.
+
+*Almost, the abacus will want wax when we get back.*
+
+*How are the numbers?*
+
+*Good, better than what Professor had theorized. At this rate the soil will be stable in two hundred years.*
+
+Maddy translated two hundred years to her language, roughly eight generations. *Whoa.*
+
+*Yeah, he's going to love the numbers.* Nadia did not notice the exclamation.
+
+*Any inducements I can give to get your head out of the books?*
+
+*Sadly, no.*
+
+*What if, I told you I found something to read when cleaning mom's room and snuck it out?*
+
+*Mom Nona?*
+
+*No, other mom.*
+
+*...* Nadia took a moment. *Maddy, see if the innkeeper has more oil, and go down and grab us a snack. I'll finish up.*
+
+*Hehe.* Maddy chuckled as she stood up and made for downstairs.
+
 ---
+
+They found themselves a bowl of dried nuts, roasted to a slight bitterness. Maddy excavated the better half of their suitcase to retrieve the smuggled article. Nadia sat herself on the bedroom floor and ate a pinch of the nuts.
+
+*A magazine.* Nadia uttered, between mastications.
+
+*Yes, I found it buried under a stack of old periodicals.* Maddy said as she settled herself opposite Nadia.
+
+*Why is the woman in front of the title?*
+
+*Beats me.* Maddy laid the magazine flat on the wooden floor.
+
+*Come on, page one.*
+
+It was a two-page advertisement, a model raced down mahogany stairs carrying a clutch.
+
+*Oooh.* Nadia exclaimed. *She's got one of Auntie Maia's big wallets.*
+
+Maddy's eyes rested on the bag, with the same naturalness with which a hand settles on a well-worn tool, and lingered there for a while. After the brief trance, Maddy's eyes followed the model's three-fingered cradle on the bag upward to her arms, her shoulders, dwelled a moment at her scarf, and then her cheeks. The model was thin, and tall, her name was known to Collie, and her current whereabouts were unknown to anyone west of these mountains.
+
+The dress the model was wearing did not seem to have pockets.
+
+*But where does the canteen go?* Maddy replied, belatedly.
+
+*She must have drank at fountains.* Nadia confidently extrapolated.
+
+*Must be annoying, always having to find one.*
+
+*Or maybe she had servants to bring her water.*
+
+*mmm.* Maddy conceded.
+
+Nadia reached and turned the next page.
+
+Another two pages, bought out by one brand. On the left a woman stood in a form-fitting lilac top, and a high-waisted leather midi skirt. The stilettos were made of the same leather.
+
+Maddy looked at her calves, and saw that they were in tension. *She is on her tippy toes.* The model was photographed face-on, and so the heels were covered by the front of her feet.
+
+*No, look, there is no crease in the shoes.* Nadia said. *It's heels, look at the photo on the right.*
+
+Maddy's eyes began at the mesh-covered waist and the translucence that allowed the patterned tights to show through, and marched down to the other model's feet.
+
+*Oh god.* Maddy's legs went sore, vicariously and approximately twenty years late.
+
+*It's just a little taller than the pair Mom Collie has.*
+
+*But it's on a needle. How is she standing?*
+
+*Mustn't be that hard.* Nadia guessed.
+
+*Remember that time you fell and almost scratched mom's pair walking in them? And they were way wider.*
+
+*That's only because they were a size too big.* Nadia flipped to the next page, and Maddy said *Hey, I was still looking.*
+
+It was a two-page spread of a leopard.
+
+*What a strange cougar.* Nadia said.
+
+*Wait, why is it weird?*
+
+*...You don't get to call me silly for the heels.*
+
+Next page. The flame flickered.
+
+A bust of a model, with tousled hair, wearing a pair of bulky smart glasses with a dedicated app that received a total of five updates, though nothing on the page communicated its electronic nature.
+
+*Oh dear, must have been embarrassing for her.* Maddy remarked.
+
+*Did she get stung by a bee? Why did they take her photo like this?*
+
+*Right on the lips too, and still pushing out a smile...*
+
+*That's a cool leather jacket, though.* Nadia defended her.
+
+*They didn't put any patches on for her.* Maddy said, while picturing Bréal's own jacket.
+
+*Must have been a loaner.*
+
+---
+
+[one more page]
+
+---
+
+[Sleep]
+
+---
+
+The clock they used were also from before they were born — and was wound mechanically. It rang its physical bells before the sun came up. Nadia covered the hammer a second after it came on, and told Maddy to go back to bed. She set the alarm to ring again in a ninety minutes. Doctors needed good sleep to work at their best.
+
+She changed from her pajama pants into her jeans and lit a lantern. The backpack with her kit was heavy when she went to lift it up, and considerably less unwieldy when she put it on. last item of preparation was to go down to the truck and collect the family's bees, which were kept warm under a blanket.
+
+The dry grass crunched under her boots. The local apiary had been expecting her, Mom Nona told her. Nadia scratched at an itch on her nape. She couldn't wait to finally go home for a proper wash.
+
+She cleared her throat, and knocked on the door to the beekeeper's house. The door opened.
+
+*Nadia Elbakyan-Swartz, I am here about the mites?*
+
+*Oh, yes, young lady, the mites.*
+
+[1. Count first — alcohol wash from the truck's disinfectant, half a cup of bees off a brood frame, mites counted at the bottom. "The mites" as a known thing means they've already seen them on bees]
+
+[2. The abacus — counts against the line across the keeper's hives, a fixed number of queens to spend, done on the beads while the keeper watches]
+
+[3. Sage in the smoker]
+
+[4. Nona's rubber gloves on her hands]
+
+[5. A number of queens off the truck, under the blanket]
+
+[6. Find and pinch the old queens — dawn, clustered and dull; cage between two brood frames, candy end up, don't open for a week]
+
+[7. The one crashing hive — deformed wings, crawlers, spotty brood; she wants it killed before it gets robbed out; the keeper may want it kept. She loses this one, or doesn't]
+
+[8. The keeper corrects her hands, once — grip, stance, or smoke]
+
+[9. The exchange back — a frame of survivor brood or a queen cell for the family apiary. Nona sent her for this too]
+
+[10. Written orders left in the keeper's hand — release dates, what to look for, when to radio. The result arrives after the truck leaves]
+
+[11. The clock — sun up means robbing; Maddy's alarm in ninety minutes]
 
 ## Ruts
 
 
-
----
-
 ## Skywave
 
-
-
----
 
 ## Pulp
 
 
-
----
-
 ## Colt
-
