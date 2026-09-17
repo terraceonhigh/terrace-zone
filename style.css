@@ -2,7 +2,7 @@
 
 :root {
   --page-bg:  #5a9067;
-  --backdrop: url("images/backdrops/backdrop-light.png");
+  --backdrop: url("images/backdrops/backdrop-light.webp");
   --bg:       #f4f6f1;
   --surface:  #eceee9;
   --text:     #111510;
@@ -17,7 +17,7 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --page-bg:  #1a2d1f;
-    --backdrop: url("images/backdrops/backdrop-dark.png");
+    --backdrop: url("images/backdrops/backdrop-dark.webp");
     --bg:       #111510;
     --surface:  #191d16;
     --text:     #dce3d6;
@@ -31,7 +31,7 @@
 }
 :root[data-theme="dark"] {
   --page-bg:  #1a2d1f;
-  --backdrop: url("images/backdrops/backdrop-dark.png");
+  --backdrop: url("images/backdrops/backdrop-dark.webp");
   --bg:       #111510;
   --surface:  #191d16;
   --text:     #dce3d6;

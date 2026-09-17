@@ -18,9 +18,14 @@ Or push manually to a new GitHub repo.
 2. Workers & Pages → Create → Pages → Connect to Git
 3. Select your `terrace-zone` repo
 4. Build settings:
-   - **Build command:** `python3 build.py`
+   - **Build command:** leave blank
    - **Build output directory:** `/` (root — serve the whole repo)
    - **Root directory:** leave blank
+
+   > Do **not** set the build command to `python3 build.py`. That script shells out to
+   > pandoc, which isn't in Cloudflare's build image, so the deploy would fail. Run
+   > `build.py` locally and commit the generated `writing/*.html` — the repo is served
+   > as-is.
 5. Deploy
 
 ### 3. Add custom domain
