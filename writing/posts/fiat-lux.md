@@ -7,6 +7,8 @@ word_count: 19,528
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
+> This is the canary version of *Fiat Lux*. It changes more often and may contain rougher prose than the relatively stable version on AO3.
+
 ## Ante Finem Mundi
 
 Coelia 'Collie' Swartz (please, just Collie is fine) looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display with a number that began with a two. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
