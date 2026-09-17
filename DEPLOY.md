@@ -2,15 +2,17 @@
 
 ## One-time setup
 
-### 1. Push to GitHub (or any public git host Cloudflare Pages can reach)
+### 1. Push to GitHub ✅ done
 
-Cloudflare Pages can't reach forge.terrace.zone (tailnet-only). Use GitHub:
+Cloudflare Pages can't reach forge.terrace.zone (tailnet-only), so the repo lives on
+GitHub: <https://github.com/terraceonhigh/terrace-zone> (private). `origin` is already
+set and `main` is pushed — from here on, `git push` is all that's needed.
+
+It was created with:
 
 ```bash
 gh repo create terrace-zone --private --source=. --push
 ```
-
-Or push manually to a new GitHub repo.
 
 ### 2. Connect Cloudflare Pages
 
@@ -31,6 +33,12 @@ Or push manually to a new GitHub repo.
 ### 3. Add custom domain
 
 In the Pages project → Custom domains → Add domain → `terrace.zone`
+
+> **Heads up: the whole repo is served.** With output directory `/`, `DEPLOY.md`,
+> `build.py`, `writing/posts/*.md` and `writing/_post_template.html` are all reachable
+> publicly — and this file names your registrar, mail provider and `forge.terrace.zone`.
+> If that bothers you, the simplest fix is to keep the ops notes out of the deployed
+> repo (move this file to a private gist or your notes) before connecting Pages.
 
 Cloudflare will tell you what DNS records to add. Since you're on **Porkbun**:
 
