@@ -17,24 +17,27 @@ git push        # that's the whole deploy
 > pandoc, which isn't present in hosted build images, so the deploy would fail. Build
 > locally, commit the HTML.
 
-### Custom domain
+### Custom domain ✅ live at https://terrace.zone
 
-Pages serves the site at <https://terraceonhigh.github.io/terrace-zone/> until a custom
-domain is set. Every internal link and the backdrop URLs are relative, so the site works
-correctly at either location.
+Done. For the record, the setup is:
 
-To put it on `terrace.zone`:
+- **Porkbun:** the apex `ALIAS terrace.zone` → `terraceonhigh.github.io` (Porkbun
+  flattens it to GitHub's four A records: `185.199.108–111.153`). This replaced the
+  default `pixie.porkbun.com` parking target.
+- **GitHub:** Settings → Pages → Custom domain = `terrace.zone`, which committed the
+  `CNAME` file at the repo root. **Don't delete `CNAME`** — losing it drops the domain.
+- **HTTPS:** Let's Encrypt cert issued automatically, *Enforce HTTPS* on, so `http://`
+  301s to `https://`.
 
-1. At your DNS provider, point the apex at GitHub Pages — either the four `A` records
-   (`185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`) or an
-   `ALIAS`/`CNAME` at `@` → `terraceonhigh.github.io` if the provider supports apex
-   aliasing.
-2. Repo → Settings → Pages → Custom domain → `terrace.zone` → Save. This writes a
-   `CNAME` file into the repo.
-3. Tick **Enforce HTTPS** once the certificate is issued (usually a few minutes).
+`terraceonhigh.github.io/terrace-zone/` now redirects here. Every internal link and the
+backdrop URLs are relative, so the site works at either location regardless.
 
-> **Mail is unaffected.** These records only change HTTP/HTTPS routing; MX, SPF, DKIM
-> and DMARC stay as they are. Send yourself a test message afterwards anyway.
+> **Mail was not touched.** Only the apex ALIAS changed. The Proton MX, SPF,
+> `protonmail-verification`, three DKIM CNAMEs and DMARC records are exactly as they
+> were, as are the six tailnet subdomain A records (`forge`, `cloud`, `chat`, `media`,
+> `qbit`, `cockpit` → the humboldt tailnet IP). Send yourself a test message anyway.
+
+To revert to the parking page, set the apex ALIAS back to `pixie.porkbun.com`.
 
 > **This repo is public and served in full.** `DEPLOY.md`, `build.py` and
 > `writing/posts/*.md` are readable both on GitHub and over the web. Keep anything
