@@ -15,7 +15,7 @@ import re
 import sys
 from pathlib import Path
 
-OUT = Path("writing/posts/fiat-lux.md")
+OUT = Path(__file__).resolve().parent.parent / "writing/posts/fiat-lux.md"
 
 FRONT_MATTER = """---
 title: Fiat Lux
