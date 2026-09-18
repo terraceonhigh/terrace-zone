@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-09-18
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 20,091
+word_count: 20,094
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1720,7 +1720,7 @@ Someone knocked on her door. She closed a binder.
 
 *But, we would then also be walling off the common room. I don't know how we can handle that.*
 
-*Oh, it shouldn't be too hard. I will try my best to convince the neighbours. We can acquire locks and keys, yes?*
+*Oh, it shan't be too hard. Worry not about the neighbours. The cargo basxet was really nice work. We can acquire locks and keys, yes?*
 
 *Certainly.*
 
