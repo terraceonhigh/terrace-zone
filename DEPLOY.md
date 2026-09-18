@@ -86,6 +86,9 @@ random for the active theme, keeps it stable for the tab via `sessionStorage`, a
 resolves it relative to its own URL. To add a scene, drop in `<name>-light.webp` and
 `<name>-dark.webp` and add `"<name>"` to the `names` array in `script.js`.
 
-Rebuild from source scans with `images/backdrops/build_backdrops.py`; its README
-records the source links, duotone palette, inversion rules, size caps, and encoding
-settings. Re-encode new sources rather than committing large originals.
+Re-encode new sources rather than committing large PNGs — the originals were 6.8 MB
+of PNG, 944 KB as WebP:
+
+```bash
+cwebp -q 82 source.png -o images/backdrops/<name>-light.webp
+```

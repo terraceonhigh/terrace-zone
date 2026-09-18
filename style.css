@@ -1,6 +1,27 @@
-/* terrace.zone */
+/* terrace.zone — self-hosted build.
+   Layout follows the original terrace-zone design; fonts and the variable
+   palette are lifted from Comprador's site (see NOTICES.md for OFL-1.1
+   attributions). No CDN: every request stays first-party. */
+
+/* ---- self-hosted fonts (SIL OFL): no CDN, nothing leaves the visitor's machine ---- */
+@font-face { font-family: "Bona Nova"; font-style: normal; font-weight: 400; font-display: swap;
+             src: url("fonts/bona-nova-400.woff2") format("woff2"); }
+@font-face { font-family: "Bona Nova"; font-style: italic; font-weight: 400; font-display: swap;
+             src: url("fonts/bona-nova-400italic.woff2") format("woff2"); }
+@font-face { font-family: "Bona Nova"; font-style: normal; font-weight: 700; font-display: swap;
+             src: url("fonts/bona-nova-700.woff2") format("woff2"); }
+@font-face { font-family: "IM Fell Double Pica SC"; font-style: normal; font-weight: 400; font-display: swap;
+             src: url("fonts/im-fell-double-pica-sc-400.woff2") format("woff2"); }
+@font-face { font-family: "Syne Mono"; font-style: normal; font-weight: 400; font-display: swap;
+             src: url("fonts/syne-mono-400.woff2") format("woff2"); }
 
 :root {
+  /* ---- type ---- */
+  --font-body:  "Bona Nova", Georgia, "Times New Roman", serif;
+  --font-brand: "IM Fell Double Pica SC", "Bona Nova", Georgia, serif;
+  --font-ui:    -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono:  "Syne Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
   --page-bg:  #5a9067;
   --backdrop: url("images/backdrops/backdrop-light.webp");
   --bg:       #f4f6f1;
@@ -49,7 +70,7 @@ html { font-size: 16px; -webkit-text-size-adjust: 100%; }
 body {
   background: var(--page-bg);
   color: var(--text);
-  font-family: 'DM Sans', system-ui, sans-serif;
+  font-family: var(--font-ui);
   line-height: 1.6;
   padding: 1rem;
   -webkit-font-smoothing: antialiased;
@@ -90,16 +111,16 @@ nav {
   padding: 2rem 0 1.75rem;
 }
 .nav-home {
-  font-size: 0.78rem;
-  font-weight: 500;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--muted);
+  font-family: var(--font-brand);
+  font-size: 1.25rem;
+  color: var(--text);
   text-decoration: none;
+  letter-spacing: 0.01em;
 }
-.nav-home:hover { color: var(--text); }
+.nav-home:hover { text-decoration: none; color: var(--accent); }
 .nav-links { display: flex; gap: 1.75rem; list-style: none; }
 .nav-links a {
+  font-family: var(--font-ui);
   font-size: 0.78rem;
   font-weight: 500;
   letter-spacing: 0.06em;
@@ -108,6 +129,16 @@ nav {
   text-decoration: none;
 }
 .nav-links a:hover { color: var(--text); }
+.nav-cta {
+  border: 1px solid var(--accent);
+  border-radius: 980px;
+  padding: 0.55rem 1.1rem;
+}
+.nav-links a.nav-cta:hover {
+  color: var(--bg);
+  background: var(--accent);
+  text-decoration: none;
+}
 
 /* ── Hero ── */
 .hero {
@@ -117,12 +148,11 @@ nav {
   margin-bottom: 4.5rem;
 }
 .hero-name {
-  font-family: 'Fraunces', Georgia, serif;
+  font-family: var(--font-brand);
   font-size: clamp(3.5rem, 10vw, 5.25rem);
-  font-weight: 600;
-  font-optical-sizing: auto;
-  line-height: 0.95;
-  letter-spacing: -0.02em;
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: 0.01em;
   color: var(--text);
   margin-bottom: 1.5rem;
   text-wrap: balance;
@@ -131,6 +161,7 @@ nav {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  font-family: var(--font-ui);
   font-size: 0.78rem;
   font-weight: 400;
   letter-spacing: 0.08em;
@@ -140,6 +171,7 @@ nav {
 .hero-roles .dot { margin: 0 0.65rem; color: var(--border); }
 .hero-loc {
   margin-top: 0.85rem;
+  font-family: var(--font-ui);
   font-size: 0.78rem;
   color: var(--faint);
   letter-spacing: 0.04em;
@@ -148,6 +180,7 @@ nav {
 /* ── Sections ── */
 section { margin-bottom: 4.5rem; }
 .section-label {
+  font-family: var(--font-ui);
   font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.14em;
@@ -158,7 +191,7 @@ section { margin-bottom: 4.5rem; }
 
 /* ── About ── */
 .about-body {
-  font-family: 'Source Serif 4', Georgia, serif;
+  font-family: var(--font-body);
   font-size: 1.05rem;
   line-height: 1.75;
 }
@@ -174,15 +207,16 @@ section { margin-bottom: 4.5rem; }
   gap: 0 1rem;
 }
 .work-entry:first-child { border-top: 1px solid var(--border); }
-.work-role { font-size: 0.88rem; font-weight: 500; }
+.work-role { font-family: var(--font-ui); font-size: 0.88rem; font-weight: 500; }
 .work-org {
-  font-family: 'Source Serif 4', Georgia, serif;
+  font-family: var(--font-body);
   font-style: italic;
   font-size: 0.85rem;
   color: var(--muted);
   margin-top: 0.1rem;
 }
 .work-date {
+  font-family: var(--font-ui);
   font-size: 0.75rem;
   color: var(--faint);
   text-align: right;
@@ -192,7 +226,7 @@ section { margin-bottom: 4.5rem; }
 }
 .work-desc {
   grid-column: 1 / -1;
-  font-family: 'Source Serif 4', Georgia, serif;
+  font-family: var(--font-body);
   font-size: 0.88rem;
   color: var(--muted);
   margin-top: 0.5rem;
@@ -213,11 +247,11 @@ section { margin-bottom: 4.5rem; }
   transition: background 0.1s;
 }
 .project-card:hover { background: var(--surface); }
-.project-name { font-size: 0.88rem; font-weight: 500; margin-bottom: 0.4rem; }
+.project-name { font-family: var(--font-ui); font-size: 0.88rem; font-weight: 500; margin-bottom: 0.4rem; }
 .project-name a { color: var(--text); text-decoration: none; }
 .project-name a:hover { color: var(--accent); }
 .project-desc {
-  font-family: 'Source Serif 4', Georgia, serif;
+  font-family: var(--font-body);
   font-size: 0.83rem;
   color: var(--muted);
   line-height: 1.55;
@@ -225,6 +259,7 @@ section { margin-bottom: 4.5rem; }
 }
 .project-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; }
 .tag {
+  font-family: var(--font-ui);
   font-size: 0.65rem;
   font-weight: 500;
   letter-spacing: 0.07em;
@@ -247,35 +282,34 @@ section { margin-bottom: 4.5rem; }
   gap: 1rem;
 }
 .post-list li:first-child { border-top: 1px solid var(--border); }
-.post-title a { color: var(--text); text-decoration: none; font-size: 0.9rem; font-weight: 500; }
+.post-title a { font-family: var(--font-ui); color: var(--text); text-decoration: none; font-size: 0.9rem; font-weight: 500; }
 .post-title a:hover { color: var(--accent); }
-.post-date { font-size: 0.75rem; color: var(--faint); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.post-date { font-family: var(--font-ui); font-size: 0.75rem; color: var(--faint); white-space: nowrap; font-variant-numeric: tabular-nums; }
 
 /* ── Post body ── */
 .post-header { margin-bottom: 2.5rem; }
 .post-header h1 {
-  font-family: 'Fraunces', Georgia, serif;
+  font-family: var(--font-body);
   font-size: 2rem;
-  font-weight: 600;
-  font-optical-sizing: auto;
+  font-weight: 700;
   line-height: 1.15;
   letter-spacing: -0.01em;
   text-wrap: balance;
   margin-bottom: 0.6rem;
 }
-.post-meta { font-size: 0.78rem; color: var(--faint); letter-spacing: 0.04em; }
+.post-meta { font-family: var(--font-ui); font-size: 0.78rem; color: var(--faint); letter-spacing: 0.04em; }
 .post-meta a { color: var(--faint); }
 .post-meta a:hover { color: var(--accent); }
-.post-summary { font-family: 'Source Serif 4', Georgia, serif; font-style: italic; font-size: 0.9rem; color: var(--muted); margin-top: 0.75rem; line-height: 1.6; }
+.post-summary { font-family: var(--font-body); font-style: italic; font-size: 0.9rem; color: var(--muted); margin-top: 0.75rem; line-height: 1.6; }
 .post-body {
-  font-family: 'Source Serif 4', Georgia, serif;
+  font-family: var(--font-body);
   font-size: 1.05rem;
   line-height: 1.78;
 }
 .post-body p { margin-bottom: 1.25rem; }
 .post-body p:last-child { margin-bottom: 0; }
 .post-body h2 {
-  font-family: 'DM Sans', system-ui, sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.78rem;
   font-weight: 600;
   letter-spacing: 0.12em;
@@ -284,7 +318,7 @@ section { margin-bottom: 4.5rem; }
   margin: 2.5rem 0 1rem;
 }
 .post-body h3 {
-  font-family: 'DM Sans', system-ui, sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.9rem;
   font-weight: 600;
   margin: 2rem 0 0.75rem;
@@ -300,7 +334,7 @@ section { margin-bottom: 4.5rem; }
 .post-body ul, .post-body ol { padding-left: 1.5rem; margin-bottom: 1.25rem; }
 .post-body li { margin-bottom: 0.3rem; }
 .post-body code {
-  font-family: "SF Mono", "Fira Mono", monospace;
+  font-family: var(--font-mono);
   font-size: 0.85em;
   background: var(--surface);
   padding: 0.1em 0.35em;
@@ -319,6 +353,7 @@ section { margin-bottom: 4.5rem; }
 /* ── Back link ── */
 .back-link {
   display: inline-block;
+  font-family: var(--font-ui);
   font-size: 0.78rem;
   color: var(--muted);
   text-decoration: none;
@@ -334,6 +369,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-family: var(--font-ui);
   font-size: 0.75rem;
   color: var(--faint);
 }
