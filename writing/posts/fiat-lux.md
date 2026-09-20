@@ -1,6 +1,6 @@
 ---
 title: Fiat Lux
-date: 2026-09-18
+date: 2026-09-20
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
 word_count: 20,094
@@ -2513,6 +2513,12 @@ The beekeeper took out his multitool and then put it back in.
 ---
 
 When they departed from the town, Nadia put into the logbook—the one not for the university, but rather Nona—that two viable queens were secured and on their way back home.
+
+---
+
+## Gleaning
+
+
 
 ---
 
