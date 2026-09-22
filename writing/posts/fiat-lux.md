@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-09-22
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 20,971
+word_count: 20,950
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2560,7 +2560,7 @@ His crotch was then damp, with ammonia.
 
 Bréal was so strong, why didn't he and his men brick the windows by themselves?
 
-<!-- placeholder: reconcile crew with Ground (09-ground.md:181) — Alex names four Epsilon men plus himself and Lewis for this job. Neither appears on the page here. Decide: are they elsewhere on site, is this a separate crew of hired day-labour brought in alongside Epsilon's four, or does Ground's headcount need revisiting? -->
+[STORYBOARD: Reconcile this crew with `09-ground.md:181`. Alex names four Epsilon men, himself, and Lewis. Decide whether this is a second crew or whether the headcount changes.]
 
 
 They were in whe hallway now.
@@ -2609,7 +2609,7 @@ He did not have to be on his legs for that job, and it did not hurt as much as t
 
 When they were done, the room was dark except for the light that shone in from the one doorway that remained. Lady Swartz came back, and handed them three with 
 
-[$40, and describe the bank notes, keyword rose engine]
+[STORYBOARD: Pay the three laborers $40 and describe the banknotes. Use a rose-engine pattern.]
 
 ---
 
