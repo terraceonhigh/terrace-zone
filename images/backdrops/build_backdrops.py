@@ -9,10 +9,12 @@ from pathlib import Path
 from PIL import Image, ImageOps
 
 
-LIGHT_BLACK = "#111510"
-LIGHT_WHITE = "#5a9067"
-DARK_BLACK = "#1a2d1f"
-DARK_WHITE = "#f4f6f1"
+# Comprador's parchment: sepia ink on the #f4ebe1 cream underlay by day,
+# warm lamplit lines on a near-black ground by night.
+LIGHT_BLACK = "#5a4a3f"
+LIGHT_WHITE = "#f4ebe1"
+DARK_BLACK = "#1c1612"
+DARK_WHITE = "#cdb8a5"
 
 
 def duotone(

@@ -5,8 +5,9 @@ WebP files. The color is baked into the images; CSS only chooses and positions
 them.
 
 `build_backdrops.py` first converts each scan to grayscale. Light variants map
-black to `#111510` and white to `#5a9067`. Dark variants invert the grayscale,
-then map black to `#1a2d1f` and white to `#f4f6f1`. Landscape files are capped
+black to a sepia ink `#5a4a3f` and white to Comprador's parchment `#f4ebe1`.
+Dark variants invert the grayscale, then map black to `#1c1612` and white to
+`#cdb8a5`. Landscape files are capped
 at 1920 pixels wide, the portrait Round Tower at 1600 pixels, and all are
 encoded as WebP at quality 76.
 

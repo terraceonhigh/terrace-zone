@@ -1,6 +1,6 @@
 /* terrace.zone — self-hosted build.
    Layout follows the original terrace-zone design; fonts and the variable
-   palette are lifted from Comprador's site (see NOTICES.md for OFL-1.1
+   palette (the cream parchment, pomegranate and teal) are lifted from Comprador's site (see NOTICES.md for OFL-1.1
    attributions). No CDN: every request stays first-party. */
 
 /* ---- self-hosted fonts (SIL OFL): no CDN, nothing leaves the visitor's machine ---- */
@@ -22,46 +22,60 @@
   --font-ui:    -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   --font-mono:  "Syne Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
 
-  --page-bg:  #5a9067;
+  /* ---- colour: Comprador's parchment. Anchor cream #f4ebe1; the rest is
+     offset from hue 21, with a pomegranate accent and a museum-teal link ---- */
+  --page-bg:  #f4ebe1;
   --backdrop: url("images/backdrops/backdrop-light.webp");
-  --bg:       #f4f6f1;
-  --surface:  #eceee9;
-  --text:     #111510;
-  --muted:    #5a6058;
-  --faint:    #686c65;
-  --border:   #cdd3c8;
-  --accent:   #3d6647;
-  --accent-h: #2d5236;
-  --shadow:   0 24px 60px -28px rgba(20,35,20,0.35), 0 2px 10px rgba(20,35,20,0.08);
+  --bg:       #f4ebe1;
+  --surface:  #f6ebe5;
+  --text:     #281f1a;
+  --muted:    #6d5d55;
+  --faint:    #7d6e66;
+  --border:   #e7d8d0;
+  --edge:     #efe3dc;
+  --accent:   #b84028;
+  --accent-h: #98331f;
+  --on-accent:#fdf9f7;
+  --link:     #3d6f7b;
+  --link-h:   #2b5964;
+  --shadow:   0 30px 80px -32px rgba(120,60,30,0.45), 0 2px 10px rgba(120,60,30,0.10);
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --page-bg:  #1a2d1f;
+    --page-bg:  #1c1612;
     --backdrop: url("images/backdrops/backdrop-dark.webp");
-    --bg:       #111510;
-    --surface:  #191d16;
-    --text:     #dce3d6;
-    --muted:    #9ca199;
-    --faint:    #7f8779;
-    --border:   #252c22;
-    --accent:   #7ab88a;
-    --accent-h: #9ed0ae;
-    --shadow:   0 24px 60px -28px rgba(0,0,0,0.6), 0 2px 10px rgba(0,0,0,0.3);
+    --bg:       #211b17;
+    --surface:  #2c2420;
+    --text:     #ebe0d6;
+    --muted:    #b3a69e;
+    --faint:    #968a82;
+    --border:   #3d332e;
+    --edge:     #3d332e;
+    --accent:   #da7662;
+    --accent-h: #e88f7d;
+    --on-accent:#1c1612;
+    --link:     #7bb3c1;
+    --link-h:   #98cad7;
+    --shadow:   0 30px 80px -32px rgba(0,0,0,0.7), 0 2px 10px rgba(0,0,0,0.35);
   }
 }
 :root[data-theme="dark"] {
-  --page-bg:  #1a2d1f;
+  --page-bg:  #1c1612;
   --backdrop: url("images/backdrops/backdrop-dark.webp");
-  --bg:       #111510;
-  --surface:  #191d16;
-  --text:     #dce3d6;
-  --muted:    #9ca199;
-  --faint:    #7f8779;
-  --border:   #252c22;
-  --accent:   #7ab88a;
-  --accent-h: #9ed0ae;
-  --shadow:   0 24px 60px -28px rgba(0,0,0,0.6), 0 2px 10px rgba(0,0,0,0.3);
+  --bg:       #211b17;
+  --surface:  #2c2420;
+  --text:     #ebe0d6;
+  --muted:    #b3a69e;
+  --faint:    #968a82;
+  --border:   #3d332e;
+  --edge:     #3d332e;
+  --accent:   #da7662;
+  --accent-h: #e88f7d;
+  --on-accent:#1c1612;
+  --link:     #7bb3c1;
+  --link-h:   #98cad7;
+  --shadow:   0 30px 80px -32px rgba(0,0,0,0.7), 0 2px 10px rgba(0,0,0,0.35);
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -89,15 +103,15 @@ body::before {
   background-repeat: no-repeat;
 }
 
-a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
-a:hover { color: var(--accent-h); }
+a { color: var(--link); text-decoration: none; text-underline-offset: 2px; }
+a:hover { color: var(--link-h); text-decoration: underline; }
 
 .wrap {
   max-width: 740px;
   margin: 2.5rem auto;
   padding: 0 2.5rem;
   background: var(--bg);
-  border: 1px solid var(--border);
+  border: 1px solid var(--edge);
   border-radius: 18px;
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -134,8 +148,9 @@ nav {
   border-radius: 980px;
   padding: 0.55rem 1.1rem;
 }
+.nav-links a.nav-cta { color: var(--accent); }
 .nav-links a.nav-cta:hover {
-  color: var(--bg);
+  color: var(--on-accent);
   background: var(--accent);
   text-decoration: none;
 }
@@ -323,7 +338,8 @@ section { margin-bottom: 4.5rem; }
   font-weight: 600;
   margin: 2rem 0 0.75rem;
 }
-.post-body a { color: var(--accent); }
+.post-body a { color: var(--link); text-decoration: underline; }
+.post-body a:hover { color: var(--link-h); }
 .post-body blockquote {
   border-left: 2px solid var(--border);
   padding-left: 1.25rem;
