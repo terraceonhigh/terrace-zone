@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-09-24
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 21,697
+word_count: 21,773
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2642,7 +2642,13 @@ He lapped up what was still stuck to the bottom of the bowl.
 
 It was a good broth.
 
-A minute after that, he stood up and limped back toward the room that needed boarding up. Bréal looked at him, and told him to man the mortar station. He looked at the bags, and saw that they were undisturbed. He wanted to check the insides, but that would have to wait.
+A minute after that, he stood up and limped back toward the room that needed boarding up.
+
+Lady Swartz was there, at the stairwell. She explained to two of her neighbours that now that they can put things in the common room, she can buy at wholesale rates for the whole building. One of Bréal's friends rested his shovel three steps behind her and started to smoke, Lady Swartz asked him if he could smoke outside
+
+Bréal made one of the workmen lift the foosball table upstairs with him.
+
+When they came down, Bréal looked at him, and told him to man the mortar station. He looked at the bags, and saw that they were undisturbed. He wanted to check the insides, but that would have to wait.
 
 He did not have to be on his legs for that job, and it did not hurt as much as the bricklaying did.
 
