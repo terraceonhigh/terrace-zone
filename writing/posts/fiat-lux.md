@@ -2530,7 +2530,7 @@ When they departed from the town, Nadia put into the logbook—the one not for t
 
 ---
 
-## Gleaning
+## Glean
 
 He was hungry, first thing he noticed when he woke up was that he was hungry.
 
