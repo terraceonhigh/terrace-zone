@@ -257,14 +257,19 @@ section { margin-bottom: 4.5rem; }
   border: 1px solid var(--border);
 }
 .project-card {
+  position: relative;
   background: var(--bg);
   padding: 1.2rem 1.3rem;
   transition: background 0.1s;
 }
 .project-card:hover { background: var(--surface); }
-.project-name { font-family: var(--font-ui); font-size: 0.88rem; font-weight: 500; margin-bottom: 0.4rem; }
+.project-name { font-family: var(--font-body); font-size: 1.2rem; font-weight: 700; line-height: 1.25; margin-bottom: 0.45rem; }
 .project-name a { color: var(--text); text-decoration: none; }
-.project-name a:hover { color: var(--accent); }
+/* the title link stretches over the whole card, so the box is one click target */
+.project-name a::after { content: ""; position: absolute; inset: 0; }
+.project-card:hover .project-name a { color: var(--accent); text-decoration: none; }
+.project-name a:focus-visible { outline: none; }
+.project-card:has(a:focus-visible) { outline: 2px solid var(--link); outline-offset: -2px; }
 .project-desc {
   font-family: var(--font-body);
   font-size: 0.83rem;
