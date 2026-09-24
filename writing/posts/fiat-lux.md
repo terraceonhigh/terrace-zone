@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-09-24
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 21,773
+word_count: 21,782
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1176,7 +1176,7 @@ Maddy didn't.
 
 It didn't, the syringes were properly disinfected and stored, and it drew excellently that day.
 
-*We, found some poppy. She just went to sleep.*
+*We, found some poppy. She just went to sleep.* And the undertaker came half and hour after that.
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
