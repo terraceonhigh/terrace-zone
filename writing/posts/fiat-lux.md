@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-09-24
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 21,782
+word_count: 21,834
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2686,7 +2686,7 @@ It was an okay day.
 
 ## Skywave
 
-
+yeah the kid's parents should be groundskeeper instead of astronomers, I think. So we can do a class thing when they burn to death in the wildfire and the kids is taken into House Swartz. Also with how they were the ones tuck on the observatory and maia gets to go home.
 
 ---
 
