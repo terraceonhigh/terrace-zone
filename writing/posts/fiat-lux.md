@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-09-23
+date: 2026-09-24
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 21,619
+word_count: 21,697
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -83,9 +83,23 @@ He helped strip down and put back together Maddy's bike in the summer when Mrs S
 
 *Of course, Doctor Swartz.* And then it was a handshake.
 
+She shook his hand one too many times and said *thank you*, in the way where an exhalation from her nose stole half the syllable and a healthy cough stole the rest.
+
+Her pupils were too big, he was certain of that.
+
+Outside the room, her thumb stroked the back of Nona's hand.
+
+*You're going to be okay, ma'am.* He said
+
+*Nadia won't even notice.*
+
 ---
 
-Maia and her husband came to Collie's door for Christmas and did not leave until April, when the international students flew back home and never came back and the flats were open. The old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the laminated cards that Maia and Collie wrote in longhand and signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
+Maia and her husband came to Collie's door for Christmas and did not leave until April, when the international students flew back home and never came back and the flats were open.
+
+Collie washed her good dress by hand a month before the semester started.
+
+The old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the laminated cards that Maia and Collie wrote in longhand and signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
 
 ---
 
