@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-09-24
+date: 2026-10-01
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 21,903
+word_count: 22,021
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1622,7 +1622,27 @@ The nightstand held a beeswax candle, unscented.
 
 *On?*
 
-*Moving the observatory, and they want me back up there to do the packing.*
+*Promise me to keep it secret.*
+
+*Should I know this?*
+
+*I am scared.*
+
+*Then it will be like I had never even heard of it.*
+
+*The, the radio station, at the capital. They went quiet, two weeks ago. We lost the time signal.* 
+
+*It's okay, hmm, they haven't bothered us in so long. and they are so far away.*
+
+*They told everybody to keep it secret. And, they want me to do the time signal.*
+
+*That's good, no?* Alex stroked his wife's hand.
+
+*They want me back up there to do the packing. Before they build the new observatory.*
+
+Alex thought of the bandits, or rather, what Lewis said about a brother said about what he heard about bandits.
+
+The first time Maia shot their gun, she got knocked on her feet.
 
 *When are they sending you out?*
 
@@ -2685,6 +2705,12 @@ It was an okay day.
 ---
 
 ## Ruts
+
+
+
+---
+
+## Untitled Epsilon
 
 
 
