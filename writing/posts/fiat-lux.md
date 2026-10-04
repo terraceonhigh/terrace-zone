@@ -1,6 +1,6 @@
 ---
 title: Fiat Lux
-date: 2026-10-01
+date: 2026-10-04
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
 word_count: 22,021
@@ -1087,6 +1087,12 @@ Bréal was in the office tent, where the engineering department had laid the pen
 *Where did you find grapes?*
 
 *I have my means.*
+
+---
+
+## Untitled Maia
+
+
 
 ---
 
