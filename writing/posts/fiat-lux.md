@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-04
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 22,021
+word_count: 22,055
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1092,7 +1092,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 ## Untitled Maia
 
-
+They did the dress first, the other two. Collie had the idea from a textbook she wrote and Nona actually made it work. It was labelled a saree when it was bought a d
 
 ---
 
