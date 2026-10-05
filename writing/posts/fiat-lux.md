@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-05
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 23,577
+word_count: 23,686
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1160,7 +1160,19 @@ Lewis blew into a bugle, which was attached to an olive drab strap. The two men 
 
 *mmm.*
 
-*And, you will give them options, the impractical one first, and then the good one.*
+A child was walking across the street, his mother grabbed him first by the collar and then cradled him in her arms.
+
+Collie dipped her head, and the mother bowed.
+
+Lewis took out a pressed flower from his back pocket, which he reserved for these occasions.
+
+It was in his back-right pocket, so the shooting hand would be occupied when he handed the gift to this child or any other.
+
+Lewis dipped his head, with a serene Swartz smile listing 17° toward the child.
+
+The mother mouthed the words *thank you.*
+
+*...As I was saying, you will give them options, the impractical one first, and then the good one.*
 
 *Listen to Nona.* Collie advised.
 
@@ -1188,6 +1200,10 @@ They waited outside.
 
 There was a metal detector she had to walk through, which was yellowed into a deeper beige. After it beeped, a coil with a cable to a waist-mounted something that used to be a lecture loudspeaker was used to scan her belt and shoes.
 
+*Sorry for the interruption, Madam Tsien. You may now proceed.*
+
+*It is forgiven.* Maia recited.
+
 She looked back, Nona nodded with a smile.
 
 The Dogwood-and-Mahonia seal leered over the Chair.
@@ -1204,7 +1220,7 @@ Maia did the square breathing thing, that Lewis taught her. She shut her eyes an
 
 The lectern was a bit too big.
 
-*Your right hand, please.*
+*Your left hand, please.*
 
 They had prepared a copy of the Analects for her.
 
