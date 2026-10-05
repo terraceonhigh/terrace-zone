@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-05
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 23,568
+word_count: 23,577
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1090,7 +1090,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 ---
 
-## Untitled Maia
+## Midnight
 
 They did the dress first, the other two. Collie had the idea from a textbook she wrote and Nona actually made it work. It was labelled a saree when it was bought.
 
@@ -1130,11 +1130,11 @@ Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chamb
 
 Their neckties were tucked under the carriers.
 
-The women came down, Collie was on Maia's right and held the parasol. Nona was on the left.
+The women came down, Collio was in front and Nona held the parasol from behind, it was white and silver, and the tassels went down to the three women's shoulders.
+
+Lacking other means, Maia walked by following where Collie's feet went.
 
 The girls were sent away to work, after Maia told them the story across the dinner table. They were not quite Senate age yet.
-
-The parasol was white and silver, and the tassels went down to their shoulders.
 
 *Shall we, gentlemen?* Nona asked.
 
@@ -1190,7 +1190,7 @@ There was a metal detector she had to walk through, which was yellowed into a de
 
 She looked back, Nona nodded with a smile.
 
-The dogwood-and-mahonia seal leered over the Chair.
+The Dogwood-and-Mahonia seal leered over the Chair.
 
 *The time is now ten a.m. I declare that this emergency committee is in session. All rise.*
 
@@ -1206,7 +1206,7 @@ The lectern was a bit too big.
 
 *Your right hand, please.*
 
-They had prepared a copy of the Analects.
+They had prepared a copy of the Analects for her.
 
 *Oh, can I have a Bible, please? King James.*
 
@@ -1234,7 +1234,7 @@ They had prepared a copy of the Analects.
 
 Nona told her to read off the script, but not to stare at it.
 
-*Chair, Vice Chair, and members of the committee. Two days ago, our Campus and Hamilton Peak observatories independently detected a series of faint electromagnetic pulses at around noon...*
+*Chair, Vice Chair, and members of the committee. Two days ago, our Campus and Hamilton Peak observatories independently detected a series of faint electromagnetic pulses at around midnight...*
 
 *Say the important part first,* Nona had drilled into her.
 
@@ -1246,7 +1246,7 @@ Nona told her to read off the script, but not to stare at it.
 
 The senator nodded, with a slightly scrunched brow and an open mouth.
 
-*...with our current projections, we expect radiation to make landfall in three—* Maia continued.
+*...with our current projections, we expect radiation to make landfall in three to—*
 
 *Why were we not briefed?* another senator asked, this time without raising his hand.
 
@@ -1338,7 +1338,7 @@ The Chair did not seem satisfied, yet. Collie taught her something, she forgot t
 
 It was in the afternoon when they were all back home. Lewis brought the vests and revolver back to Epsilon. There was no incense, so Alex took some of the candles instead. He took three, of the long slender ones. He and Lewis set off to the temple, with the boy still clutching the shotgun.
 
-Lewis refueled his lighter when he was alone in the room that night.
+In his room, in the dark, Lewis refueled his lighter by himself.
 
 ---
 
