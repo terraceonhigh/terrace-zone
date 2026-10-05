@@ -1130,7 +1130,7 @@ Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chamb
 
 Their neckties were tucked under the carriers.
 
-The women came down, Collio was in front and Nona held the parasol from behind, it was white and silver, and the tassels went down to the three women's shoulders.
+The women came down, Collie was in front and Nona held the parasol from behind, it was white and silver, and the tassels went down to the three women's shoulders.
 
 Lacking other means, Maia walked by following where Collie's feet went.
 
