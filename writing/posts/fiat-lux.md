@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-05
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 23,686
+word_count: 23,693
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1126,7 +1126,7 @@ The needles pinched her at the scalp.
 
 Alex and Lewis were waiting at the door. The plate carrier on Alex was not fully fitted.
 
-Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chambered and the hammer down on the empty one.
+Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chambered and the hammer down on the empty one, the way Vavasseur at Epsilon loaded it.
 
 Their neckties were tucked under the carriers.
 
