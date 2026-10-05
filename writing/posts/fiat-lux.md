@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-05
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 23,499
+word_count: 23,568
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1333,6 +1333,12 @@ The Chair did not seem satisfied, yet. Collie taught her something, she forgot t
 *We recommend that the university only state that there was a nuclear incident of unsafe nature, and to clearly communicate the countermeasures.*
 
 *Okay, thank you for your testimony, Doctor Tsien. Chair, motion to move to the next testimony?*
+
+---
+
+It was in the afternoon when they were all back home. Lewis brought the vests and revolver back to Epsilon. There was no incense, so Alex took some of the candles instead. He took three, of the long slender ones. He and Lewis set off to the temple, with the boy still clutching the shotgun.
+
+Lewis refueled his lighter when he was alone in the room that night.
 
 ---
 
