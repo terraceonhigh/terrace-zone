@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 25,383
+word_count: 25,310
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2339,12 +2339,6 @@ It took a moment for Alex to notice that it had been klepped from his outreached
 *thank you,* she whispered.
 
 *well, don't thank the messenger.*
-
-[STORYBOARD: Nadia comes home, Alex awkwardly asks her to fetch Maddy's favorite plushie, Nadia also grabs the photo of the Richards of her own volition.]
-
-[STORYBOARD: Nadia: I am not getting into this can of worms]
-
-[STORYBOARD: Nona comes home from work, the desk job that Fleming gave her, just familiarizing with the new post. is briefed on the situation, seen that Alex has it handled, Alex internal: "don't leave me like that"]
 
 [STORYBOARD: Alex fetches her blanket or some other sentimemental item, enters room, cue the arranged marriage explainer]
 
