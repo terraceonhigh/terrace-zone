@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 25,770
+word_count: 26,074
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1126,7 +1126,7 @@ The needles pinched her at the scalp.
 
 Alex and Lewis were waiting at the door. The plate carrier on Alex was not fully fitted.
 
-Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chambered and the hammer down on the empty one, the way Vavasseur at Epsilon loaded it.
+Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chambered and the hammer down on the empty one, the way Vavasseur loaded it.
 
 Their neckties were tucked under the carriers.
 
@@ -2080,7 +2080,7 @@ It was not just one.
 
 ---
 
-## Untitled Maddy
+## Hold
 
 There was a private contract to fix a till. The client was not a store owner, but rather someone who refurbished tills, for stores. The move to University money was good for business in that way.
 
@@ -2178,7 +2178,7 @@ Alex had not unloaded the bottom part of the toolbox. It scratched the floor for
 
 ---
 
-The gate in front of the door meant that one could hear someone unlocking something, before the actual door is touched. The first tumbler workeh smooth as it unlocked the gate. The second tumbler, the one for the door, needed grease.
+The gate in front of the door meant that one could hear someone unlocking something, before the actual door was touched. The first tumbler worked smooth as it unlocked the gate. The second tumbler, the one for the door, needed grease.
 
 Nadia.
 
@@ -2186,11 +2186,11 @@ The house was quiet, Collie was cooking dinner proper now. Alex was working on a
 
 *Nadia.*
 
-*Hey.* She hanged her straw hat next to the door.
+*Hey.* She hung her straw hat next to the door.
 
 Too late, Nadia went to the other living room. He heard a knock on the kitchen door.
 
-He can't fix this junk at the dinner table, he just needed half an hour more.
+He couldn't fix this junk at the dinner table. He just needed half an hour more.
 
 *...difficult...Lewis's room.*
 
@@ -2224,21 +2224,21 @@ Nona came home when they were just about to dig in.
 
 *No, um, she, isn't feeling the greatest for dinner.* Alex somehow intercepted.
 
-*hmm~* Nona grunted, though it seems her eyes read his.
+*hmmm,* Nona grunted, though it seemed her eyes read his.
 
-Nona helped herself to seme extra pickled beets.
+Nona helped herself to some extra pickled beets.
 
 *So, how is the new job?* Collie asked.
 
 *They gave me two assistants, I said I only needed one. They didn't let me send him away.*
 
-*Woah...* Nadia exclaimed.
+*Whoa...* Nadia exclaimed.
 
 *Don't be impressed by that, Nadia. We are meant for this.* Collie added.
 
-*mhmm* Nona mumbled with a mouthful of potato.
+*mhmm,* Nona mumbled with a mouthful of potato.
 
-*mmm*
+*mmm.*
 
 ---
 
@@ -2250,7 +2250,7 @@ Someone knocked on her door.
 
 *Nadia, can you help me with this?* A stack of shirts said in Alex's voice.
 
-*Woah, geez, okay, I got the top. I got the top.*
+*Whoa, geez, okay, I got the top. I got the top.*
 
 The rails on the dresser did not need grease. It was some sort of low-friction plastic, that just slid without complaint for as long as the two could remember.
 
@@ -2276,7 +2276,7 @@ The dresser took some squeezing to put its drawers back in, a bit too full was t
 
 *Look, Nadia, I just, have no idea.*
 
-*You'll figure it out. Yoe figured out Lewis.*
+*The department said they want me for a trip next week, so you'll have to figure it out. You will, you figured out Lewis.*
 
 Alex wanted to say something, but blanked on it at the last second.
 
@@ -2300,13 +2300,13 @@ Nadia grabbed a framed photo that sat next to her assignment.
 
 *there, bring this too.*
 
-It was a polaroid, tinted blue, that depicted two people eating fried chicken at a local joint. The man made some funny face with one raised eyebrow, the woman posed a peace sign while holding a bottle of mango soda.
+It was a Polaroid, tinted blue, that depicted two people eating fried chicken at a local joint. The man made some funny face with one raised eyebrow, the woman posed a peace sign while holding a bottle of mango soda.
 
 *next time, start with the big thing.* Nadia advised.
 
 *yes miss.*
 
-Collie was asleep now, in her room, way before when she is used to sleeping. He fetched a new glass of water.
+Collie was asleep now, in her room, way before when she was used to sleeping. He fetched a new glass of water.
 
 Three knocks.
 
@@ -2332,9 +2332,9 @@ It was something herbal, for sleep, and because crying girls need water.
 
 There was enough for two mugs, which Maddy set down next to Lewis's soldering station.
 
-*Right, almost forgot, Nadia also handed me this,* Alex produced the polaroid. *Don't know who they are, but seems they are important to you.*
+*Right, almost forgot, Nadia also handed me this,* Alex produced the Polaroid. *Don't know who they are, but seems they are important to you.*
 
-It took a moment for Alex to notice that it had been klepped from his outreached hand.
+It took a moment for Alex to notice that it had been klepped from his outstretched hand.
 
 *thank you,* she whispered.
 
@@ -2348,7 +2348,7 @@ The Polaroid stood next to a box of mismatched screws.
 
 *So, what did mom do to get you so angry?*
 
-She sipped from her mug. She did not say anything, he panicked.
+She sipped from her mug. She did not say anything. He panicked.
 
 *...it's okay if you—*
 
@@ -2416,13 +2416,77 @@ Collie was at the foyer, blocking the door.
 
 *Where are you going.*
 
-*Oh, uhh, to grab a breakfast, heh.* He is, though, why is he so unconvincing? *Start of the day.* He did an arm-pumping motion. *...yeah?*
+*Oh, uhh, to grab a breakfast, heh.* He is, though, why is he so unconvincing? *Start of the day!* He did an arm-pumping motion. *...yeah?*
 
-*There are sandwiches on the dinner table, egg salad.* Collie did not mention that she whipped the mayonnaise herself.
+*There are sandwiches on the dinner table, egg salad.* Collie did not mention that she whipped the mayonnaise herself. *Make sure that girl eats.*
 
-*Make sure that girl eats.*
+okay. Wait, Vavasseur.
 
-okay.
+*Collie.*
+
+*Yes, Alex.*
+
+*Maddy is a smart girl.*
+
+*She is.*
+
+*Why don't we let her be a doctor for a while, and then we will see.*
+
+*She's book-smart, like her mom.* Collie looked at the floor, *she'll end up with some buffoon.*
+
+*My Lewis is around,* most of the time *he knows how to chase a boy away.*
+
+*You seem vested in this.*
+
+*Lewis's grandma never finished her degree.*
+
+Collie tsk'd.
+
+*Fine, we'll see when she graduates.* She muttered, *I have grad students to deal with, make sure she doesn't die.*
+
+Small victories.
+
+---
+
+Ada hollered, full-throated, from the greenhouse office: *Nadia~! A call for you.*
+
+*From whom?*
+
+*Your dad~*
+
+Huh? But... Oh, yeah, it's probably him. *One sec!*
+
+She closed the sample bin, and left the trowel and gloves on the ground. She patted her palms on the front of her jeans as she walked to the office.
+
+Ada left the handset lying on the Secretary's Desk, and vacated the room for a measure of privacy. Nadia picked up the phone, *Alex, what's up?*
+
+*Hey, Nadia. So, you mentioned the department wanting you on a trip next week?*
+
+*Uh huh, cut to the chase.*
+
+*So, I was wondering, I was thinking about—*
+
+*Point being?*
+
+*Okay, uh, can you bring Maddy along.*
+
+She guessed as much, and sighed, away from the microphone.
+
+*Collie isn't the forgetful type.*
+
+*I know, I know, I can deal with that.*
+
+Can he?
+
+She felt the relief pattern on the copper badge in her wallet. The one that said Swartz.
+
+*Okay, I'll see what I can do.*
+
+*Thank you, thank you.*
+
+*You owe me and mom one, and no passing the buck to Lewis.*
+
+*Awww, but I thought Nona loved that sewing machine.*
 
 ---
 
