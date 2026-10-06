@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 24,780
+word_count: 25,134
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2218,15 +2218,91 @@ Dinner was something with potatoes simmered in a little milk, and stockfish, reh
 
 The table had room for eight, the dinner was enough for four-and-a-half, and there were three at the table set for four.
 
-Nona came home when they were just about to dig in, and helped herself to seme extra pickled beets.
+Nona came home when they were just about to dig in.
+
+*Maddy's not eating with us?*
+
+*No, um, she, isn't feeling the greatest for dinner.* Alex somehow intercepted.
+
+*hmm~* Nona grunted, though it seems her eyes read his.
+
+Nona helped herself to seme extra pickled beets.
 
 *So, how is the new job?* Collie asked.
 
-*They gave me two assistants, I said I only needed one. They didn't let me take him away.*
+*They gave me two assistants, I said I only needed one. They didn't let me send him away.*
 
 *Woah...* Nadia exclaimed.
 
-*Don't be impressed by that, Nadia. We are  
+*Don't be impressed by that, Nadia. We are meant for this.* Collie added.
+
+*mhmm* Nona mumbled with a mouthful of potato.
+
+*mmm*
+
+---
+
+The two women did dishes after dinner, they had Alex folding laundry and Nadia do her assignments. The top bunk was empty, and unmade.
+
+Someone knocked on her door.
+
+*Enter.*
+
+*Nadia, can you help me with this?* A stack of shirts said in Alex's voice.
+
+*Woah, geez, okay, I got the top. I got the top.*
+
+The rails on the dresser did not need grease. It was some sort of low-friction plastic, that just slid without complaint for as long as the two could remember.
+
+*So, tell me what happened with Maddy, why she's all pissy.*
+
+*Your, Collie. By what I heard was she wanted her to go on a date with some boy.*
+
+*Oh, wow, not exactly subtle, is she?*
+
+*You'd know better.*
+
+*I was told you're managing her?*
+
+*Until I can find a better handler.*
+
+*...who actually has a say. You're it.*
+
+*What about your mom?*
+
+*She just got that new job, no way she'll make a sound at Collie.*
+
+The dresser took some squeezing to put its drawers back in, a bit too full was the problem.
+
+*Look, Nadia, I just, have no idea.*
+
+*You'll figure it out. Yoe figured out Lewis.*
+
+Alex wanted to say something, but blanked on it at the last second.
+
+*Just, one pointer, please.*
+
+She climbed up the ladder to the top bunk. *There, bring him to her.* She handed it to his arms.
+
+*And, um.*
+
+*Hmm?*
+
+*she, collie, seemed she brought up Alice as well.*
+
+*Alic–oh.*
+
+*yeah.*
+
+Nadia grabbed a framed photo that sat next to her assignment.
+
+*there, bring this too.*
+
+It was a polaroid, tinted blue, that depicted two people eating fried chicken at a local joint. The man made some funny face with one raised eyebrow, the woman posed a peace sign while holding a bottle of mango soda.
+
+*next time, start with the big thing.* Nadia advised.
+
+*yes miss.*
 
 [STORYBOARD: Nadia comes home, Alex awkwardly asks her to fetch Maddy's favorite plushie, Nadia also grabs the photo of the Richards of her own volition.]
 
