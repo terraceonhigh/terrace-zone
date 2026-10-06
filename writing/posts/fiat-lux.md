@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,074
+word_count: 26,089
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -61,7 +61,7 @@ He helped strip down and put back together Maddy's bike in the summer when Mrs S
 
 ---
 
-*Mistress Swartz—*
+*Miss Swartz—*
 
 *Doctor, Doctor.*
 
@@ -1090,274 +1090,6 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 ---
 
-## Midnight
-
-They did the dress first, the other two. Collie had the idea from a textbook she wrote and Nona actually made it work. It was labelled a saree when it was bought.
-
-It was a rich green, that Nona dyed to a blue-black without asking Collie first, not that she needed to. The gold trim glimmered against the dark. Nona had Nadia put the extra stars in.
-
-They clipped the dress onto her, one metal clasp on each shoulder, the excess fabric draped across her breast, a wide cerulean girdle at her waist to fasten.
-
-Nerves. Collie had her have nothing but warm honeyed water for breakfast, and only sips at a time. Nona told her to exhale, before squeezing the belt in another hole.
-
-*Now, tell me what you are going to tell the Senate.* Nona said.
-
-*Um, uhh, to issue a weather warning.* Maia focused on the clock, and then the umbrellas next to the door, and then the parasol with tassels at the rim.
-
-Collie began to braid her hair, it involved knitting needles.
-
-*Not just that, some senators don't know yet.* Nona replied.
-
-*Um, do I tell them the whole story?*
-
-*No, just what you heard in the observatory.*
-
-*Do I tell them about the, the—*
-
-*—no, not the transmissions, just the, sounds.*
-
-The needles pinched her at the scalp.
-
-*The dress is good, Collie, where is the makeup?* Nona asked.
-
-*Purse, brown leather.*
-
----
-
-Alex and Lewis were waiting at the door. The plate carrier on Alex was not fully fitted.
-
-Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chambered and the hammer down on the empty one, the way Vavasseur loaded it.
-
-Their neckties were tucked under the carriers.
-
-The women came down, Collie was in front and Nona held the parasol from behind, it was white and silver, and the tassels went down to the three women's shoulders.
-
-Lacking other means, Maia walked by following where Collie's feet went.
-
-The girls were sent away to work, after Maia told them the story across the dinner table. They were not quite Senate age yet.
-
-*Shall we, gentlemen?* Nona asked.
-
-Lewis blew into a bugle, which was attached to an olive drab strap. The two men flanked the three women as they walked.
-
-*Maia, now tell me what you won't be telling them.* Collie's voice came out half-muffled on the far side of the tassels.
-
-*So, I, won't be telling them the screaming.*
-
-*No, I mean, yes, no, that is good.*
-
-*And I won't be—*
-
-*Alex, chin up, back straight.* Nona interjected. *Sorry, Maia.*
-
-*It's okay,* Maia resumed, *so, I won't be telling them about the distress signals.*
-
-*No, you will.* Collie said, *you just won't be graphic.*
-
-*Understood.*
-
-*And you will lead with what matters, why they should care, and you will stress the farms.* Nona added. *They couldn't care less if we didn't frame it as relevant.*
-
-*mmm.*
-
-A child was walking across the street, his mother grabbed him first by the collar and then cradled him in her arms.
-
-Collie dipped her head, and the mother bowed.
-
-Lewis took out a pressed flower from his back pocket, which he reserved for these occasions.
-
-It was in his back-right pocket, so the shooting hand would be occupied when he handed the gift to this child or any other.
-
-Lewis dipped his head, with a serene Swartz smile listing 17° toward the child.
-
-The mother mouthed the words *thank you.*
-
-*...As I was saying, you will give them options, the impractical one first, and then the good one.*
-
-*Listen to Nona.* Collie advised.
-
-*After the meeting, we will have you meet the aides, you tell them what actually needs done.*
-
-*But, we need the Senators.*
-
-*We have the votes for tomorrow, we just need them to agree to the proper containment.*
-
-Maia looked at her husband, her escort.
-
-She told Alex first, under candlelight, in their bedroom, away from everyone else.
-
-She held him until the candle stopped weeping.
-
-They told Lewis the night after that. His face did not show signs of minding.
-
-*Eyes forward, Dad.* Lewis said.
-
----
-
-Her entourage was outside the chamber now, Collie buttering up coworkers and Nona shaking hands with their entourages. The boys were told to put down their weapons or wait outside.
-
-They waited outside.
-
-There was a metal detector she had to walk through, which was yellowed into a deeper beige. After it beeped, a coil with a cable to a waist-mounted something that used to be a lecture loudspeaker was used to scan her belt and shoes.
-
-*Sorry for the interruption, Madam Tsien. You may now proceed.*
-
-*It is forgiven.* Maia recited.
-
-She looked back, Nona nodded with a smile.
-
-The Dogwood-and-Mahonia seal leered over the Chair.
-
-*The time is now ten a.m. I declare that this emergency committee is in session. All rise.*
-
-All were solemn except for a typewriter's clacks.
-
-*This committee is being held on the traditional, ancestral, and unceded...*
-
-Maia did the square breathing thing, that Lewis taught her. She shut her eyes and focused on the breathing, and nothing but.
-
-*Doctor Tsien, please come with me.* A clerk asked.
-
-The lectern was a bit too big.
-
-*Your left hand, please.*
-
-They had prepared a copy of the Analects for her.
-
-*Oh, can I have a Bible, please? King James.*
-
-*Of course, so sorry.* The clerk picked up another book. *Now, if you would repeat after me.*
-
-*mm...mhmm.* Nona had told her to be aloof.
-
-*You, Doctor Maia Tsien, do solemnly swear...*
-
-*I, Doctor Maia Tsien, do solemnly swear.*
-
-*That the testimony you are about to give...*
-
-*That the testimony I am about to give...*
-
-*Before this Arbutus University Senate Committee...*
-
-*Before this Arbutus University Senate Committee.*
-
-*shall be the truth, the whole truth, and nothing but the truth, so help you God...*
-
-*...shall be the truth, the whole truth, and nothing but the truth, so help me God.*
-
-*Thank you,* the clerk said, *you may begin.*
-
-Nona told her to read off the script, but not to stare at it.
-
-*Chair, Vice Chair, and members of the committee. Two days ago, our Campus and Hamilton Peak observatories independently detected a series of faint electromagnetic pulses at around midnight...*
-
-*Say the important part first,* Nona had drilled into her.
-
-*...indicating a nuclear exchange somewhere on the Eurasian landmass. Confirmed by seismic and infrasound sensors hours later—Yes, Senator?*
-
-*Roughly how many devices were used?*
-
-*We, detected about forty-four distinct bursts.*
-
-The senator nodded, with a slightly scrunched brow and an open mouth.
-
-*...with our current projections, we expect radiation to make landfall in three to—*
-
-*Why were we not briefed?* another senator asked, this time without raising his hand.
-
-*Um, uhh—*
-
-*The Chair would like to remind the committee that this is the briefing, and that the nuclear exchange is not yet public information in order to prevent panic.*
-
-Another deep breath.
-
-*Doctor Tsien, please continue.*
-
-*At this scale, me and my colleagues estimate a minor nuclear winter, and an increase in UV light concurrent to it.*
-
-*What does it mean for us?*
-
-*...the Observatory recommends,* there was something called a Royal We, *a public health warning, and to distribute counter-radiation measures—*
-
-*Such as?*
-
-*Um, uhh,*
-
-*Do you not know?*
-
-*The Chair requests that committee members reserve policy recommendations for testifiers competent in the field.*
-
-Okay, okay.
-
-*The Observatory recommends that we recommend civilians to avoid exposure to rainfall, and to avoid the upcoming harvest, pending further investigation.*
-
-*My colleagues would be able to better answer more agriculture-related questions. Yes, Senator?*
-
-*Were you the astronomer who detected it?*
-
-Maia thought of the distress calls that came in.
-
-*Yes, I was.*
-
-*The Chair asks that we stay on topic.*
-
-*Allow me to rephrase: Doctor Tsien, do we know how it happened?*
-
-*We don't know. What we had been able to collect points toward water stress in the region.*
-
-*Do you know how many died?*
-
-don't think of the screams don't think of the screams don't think of the screams
-
-*We, based on the change in radio traffic, we can assume that population centers were the target. For approximately forty bombs over major civilian areas, we can expect ten million souls at the exchange.*
-
-The room nodded in acknowledgement.
-
-*And, ongoing firestorms would increase the death toll over the coming days.*
-
-*Is the observatory expecting a major disaster-response effort to be necessary?*
-
-A grad student from the department of natural sciences walked up, and whispered in her ear.
-
-*No, at this time, we do not.*
-
-The student whispered a bit more.
-
-*We expect only an increase in granary withdrawal.*
-
-*What about the hospital?*
-
-Maia thought to say "Pre-collapse literature."
-
-*...Historical literature shows manageable effects for similar situations.*
-
-*The Chair would like to ask when the Senate will have more data.*
-
-*The, um, the report is being compiled. Committee members and senators will have it before the afternoon session.*
-
-The Chair did not seem satisfied, yet. Collie taught her something, she forgot the name, but did it anyway.
-
-*And, a series of weather balloons may be sent up with Senate approval, when landfall is expected. We will have meaningful data at most three days after that.*
-
-*And that is how many days from now?*
-
-*Uhh, four days, at least, and seven, at most.*
-
-*Does your department have recommendations on how to inform the public?*
-
-*We recommend that the university only state that there was a nuclear incident of unsafe nature, and to clearly communicate the countermeasures.*
-
-*Okay, thank you for your testimony, Doctor Tsien. Chair, motion to move to the next testimony?*
-
----
-
-It was in the afternoon when they were all back home. Lewis brought the vests and revolver back to Epsilon. There was no incense, so Alex took some of the candles instead. He took three, of the long slender ones. He and Lewis set off to the temple, with the boy still clutching the shotgun.
-
-In his room, in the dark, Lewis refueled his lighter by himself.
-
----
-
 ## Boil Water
 
 Maddy woke up some time in the night, before the sun rose up. She was in the top bunk, and Nadia was on the bottom. Some birds were outside, cawing. Lamplight shone through the bottom of the bedroom door. The LED lamp that Collie had in the office growing up, next to the little statue of Venus that always made her laugh.
@@ -1468,7 +1200,7 @@ Collie squeezed the bottle too hard. There was a plume of steam.
 
 *And they couldn't find a better vial for her.*
 
-*They couldn't find a better vial for anyone in the city. Grandpa and grandma did everything they could.*
+*They couldn't find a better vial for anyone in the city. Grandma and I did everything we could.*
 
 *That doesn't make it any better.*
 
@@ -1498,7 +1230,7 @@ They put potatoes in the boiling water. Maddy was cutting the mushrooms and Coll
 
 *What did she tell you? Before she died?*
 
-*She told me to stay healthy, to bury her next to your dad.*
+*She told me to stay healthy, to bury her next to our dad.*
 
 Collie unhooked the frying pan, the one with the Swartz name on the handle.
 
@@ -1622,7 +1354,7 @@ She walked past a bronze sculpture of Demeter.
 
 *Oh, yes, quite lovely, isn't she?*
 
-*And the loaf, she said she will bring them sliced with the butters.*
+*And the loaf, she said she will bring them sliced with the butter.*
 
 *You simply must try the one she makes with lard and dill.*
 
@@ -2080,6 +1812,274 @@ It was not just one.
 
 ---
 
+## Midnight
+
+They did the dress first, the other two. Collie had the idea from a textbook she wrote and Nona actually made it work. It was labelled a saree when it was bought.
+
+It was a rich green, that Nona dyed to a blue-black without asking Collie first, not that she needed to. The gold trim glimmered against the dark. Nona had Nadia put the extra stars in.
+
+They clipped the dress onto her, one metal clasp on each shoulder, the excess fabric draped across her breast, a wide cerulean girdle at her waist to fasten.
+
+Nerves. Collie had her have nothing but warm honeyed water for breakfast, and only sips at a time. Nona told her to exhale, before squeezing the belt in another hole.
+
+*Now, tell me what you are going to tell the Senate.* Nona said.
+
+*Um, uhh, to issue a weather warning.* Maia focused on the clock, and then the umbrellas next to the door, and then the parasol with tassels at the rim.
+
+Collie began to braid her hair, it involved knitting needles.
+
+*Not just that, some senators don't know yet.* Nona replied.
+
+*Um, do I tell them the whole story?*
+
+*No, just what you heard in the observatory.*
+
+*Do I tell them about the, the—*
+
+*—no, not the transmissions, just the, sounds.*
+
+The needles pinched her at the scalp.
+
+*The dress is good, Collie, where is the makeup?* Nona asked.
+
+*Purse, brown leather.*
+
+---
+
+Alex and Lewis were waiting at the door. The plate carrier on Alex was not fully fitted.
+
+Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chambered and the hammer down on the empty one, the way Vavasseur loaded it.
+
+Their neckties were tucked under the carriers.
+
+The women came down, Collie was in front and Nona held the parasol from behind, it was white and silver, and the tassels went down to the three women's shoulders.
+
+Lacking other means, Maia walked by following where Collie's feet went.
+
+The girls were sent away to work, after Maia told them the story across the dinner table. They were not quite Senate age yet.
+
+*Shall we, gentlemen?* Nona asked.
+
+Lewis blew into a bugle, which was attached to an olive drab strap. The two men flanked the three women as they walked.
+
+*Maia, now tell me what you won't be telling them.* Collie's voice came out half-muffled on the far side of the tassels.
+
+*So, I, won't be telling them the screaming.*
+
+*No, I mean, yes, no, that is good.*
+
+*And I won't be—*
+
+*Alex, chin up, back straight.* Nona interjected. *Sorry, Maia.*
+
+*It's okay,* Maia resumed, *so, I won't be telling them about the distress signals.*
+
+*No, you will.* Collie said, *you just won't be graphic.*
+
+*Understood.*
+
+*And you will lead with what matters, why they should care, and you will stress the farms.* Nona added. *They couldn't care less if we didn't frame it as relevant.*
+
+*mmm.*
+
+A child was walking across the street, his mother grabbed him first by the collar and then cradled him in her arms.
+
+Collie dipped her head, and the mother bowed.
+
+Lewis took out a pressed flower from his back pocket, which he reserved for these occasions.
+
+It was in his back-right pocket, so the shooting hand would be occupied when he handed the gift to this child or any other.
+
+Lewis dipped his head, with a serene Swartz smile listing 17° toward the child.
+
+The mother mouthed the words *thank you.*
+
+*...As I was saying, you will give them options, the impractical one first, and then the good one.*
+
+*Listen to Nona.* Collie advised.
+
+*After the meeting, we will have you meet the aides, you tell them what actually needs done.*
+
+*But, we need the Senators.*
+
+*We have the votes for tomorrow, we just need them to agree to the proper containment.*
+
+Maia looked at her husband, her escort.
+
+She told Alex first, under candlelight, in their bedroom, away from everyone else.
+
+She held him until the candle stopped weeping.
+
+They told Lewis the night after that. His face did not show signs of minding.
+
+*Eyes forward, Dad.* Lewis said.
+
+---
+
+Her entourage was outside the chamber now, Collie buttering up coworkers and Nona shaking hands with their entourages. The boys were told to put down their weapons or wait outside.
+
+They waited outside.
+
+There was a metal detector she had to walk through, which was yellowed into a deeper beige. After it beeped, a coil with a cable to a waist-mounted something that used to be a lecture loudspeaker was used to scan her belt and shoes.
+
+*Sorry for the interruption, Madam Tsien. You may now proceed.*
+
+*It is forgiven.* Maia recited.
+
+She looked back, Nona nodded with a smile.
+
+The Dogwood-and-Mahonia seal leered over the Chair.
+
+*The time is now ten a.m. I declare that this emergency committee is in session. All rise.*
+
+All were solemn except for a typewriter's clacks.
+
+*This committee is being held on the traditional, ancestral, and unceded...*
+
+Maia did the square breathing thing, that Lewis taught her. She shut her eyes and focused on the breathing, and nothing but.
+
+*Doctor Tsien, please come with me.* A clerk asked.
+
+The lectern was a bit too big.
+
+*Your left hand, please.*
+
+They had prepared a copy of the Analects for her.
+
+*Oh, can I have a Bible, please? King James.*
+
+*Of course, so sorry.* The clerk picked up another book. *Now, if you would repeat after me.*
+
+*mm...mhmm.* Nona had told her to be aloof.
+
+*You, Doctor Maia Tsien, do solemnly swear...*
+
+*I, Doctor Maia Tsien, do solemnly swear.*
+
+*That the testimony you are about to give...*
+
+*That the testimony I am about to give...*
+
+*Before this Arbutus University Senate Committee...*
+
+*Before this Arbutus University Senate Committee.*
+
+*shall be the truth, the whole truth, and nothing but the truth, so help you God...*
+
+*...shall be the truth, the whole truth, and nothing but the truth, so help me God.*
+
+*Thank you,* the clerk said, *you may begin.*
+
+Nona told her to read off the script, but not to stare at it.
+
+*Chair, Vice Chair, and members of the committee. Two days ago, our Campus and Hamilton Peak observatories independently detected a series of faint electromagnetic pulses at around midnight...*
+
+*Say the important part first,* Nona had drilled into her.
+
+*...indicating a nuclear exchange somewhere on the Eurasian landmass. Confirmed by seismic and infrasound sensors hours later—Yes, Senator?*
+
+*Roughly how many devices were used?*
+
+*We, detected about forty-four distinct bursts.*
+
+The senator nodded, with a slightly scrunched brow and an open mouth.
+
+*...with our current projections, we expect radiation to make landfall in three to—*
+
+*Why were we not briefed?* another senator asked, this time without raising his hand.
+
+*Um, uhh—*
+
+*The Chair would like to remind the committee that this is the briefing, and that the nuclear exchange is not yet public information in order to prevent panic.*
+
+Another deep breath.
+
+*Doctor Tsien, please continue.*
+
+*At this scale, me and my colleagues estimate a minor nuclear winter, and an increase in UV light concurrent to it.*
+
+*What does it mean for us?*
+
+*...the Observatory recommends,* there was something called a Royal We, *a public health warning, and to distribute counter-radiation measures—*
+
+*Such as?*
+
+*Um, uhh,*
+
+*Do you not know?*
+
+*The Chair requests that committee members reserve policy recommendations for testifiers competent in the field.*
+
+Okay, okay.
+
+*The Observatory recommends that we recommend civilians to avoid exposure to rainfall, and to avoid the upcoming harvest, pending further investigation.*
+
+*My colleagues would be able to better answer more agriculture-related questions. Yes, Senator?*
+
+*Were you the astronomer who detected it?*
+
+Maia thought of the distress calls that came in.
+
+*Yes, I was.*
+
+*The Chair asks that we stay on topic.*
+
+*Allow me to rephrase: Doctor Tsien, do we know how it happened?*
+
+*We don't know. What we had been able to collect points toward water stress in the region.*
+
+*Do you know how many died?*
+
+don't think of the screams don't think of the screams don't think of the screams
+
+*We, based on the change in radio traffic, we can assume that population centers were the target. For approximately forty bombs over major civilian areas, we can expect ten million souls at the exchange.*
+
+The room nodded in acknowledgement.
+
+*And, ongoing firestorms would increase the death toll over the coming days.*
+
+*Is the observatory expecting a major disaster-response effort to be necessary?*
+
+A grad student from the department of natural sciences walked up, and whispered in her ear.
+
+*No, at this time, we do not.*
+
+The student whispered a bit more.
+
+*We expect only an increase in granary withdrawal.*
+
+*What about the hospital?*
+
+Maia thought to say "Pre-collapse literature."
+
+*...Historical literature shows manageable effects for similar situations.*
+
+*The Chair would like to ask when the Senate will have more data.*
+
+*The, um, the report is being compiled. Committee members and senators will have it before the afternoon session.*
+
+The Chair did not seem satisfied, yet. Collie taught her something, she forgot the name, but did it anyway.
+
+*And, a series of weather balloons may be sent up with Senate approval, when landfall is expected. We will have meaningful data at most three days after that.*
+
+*And that is how many days from now?*
+
+*Uhh, four days, at least, and seven, at most.*
+
+*Does your department have recommendations on how to inform the public?*
+
+*We recommend that the university only state that there was a nuclear incident of unsafe nature, and to clearly communicate the countermeasures.*
+
+*Okay, thank you for your testimony, Doctor Tsien. Chair, motion to move to the next testimony?*
+
+---
+
+It was in the afternoon when they were all back home. Lewis brought the vests and revolver back to Epsilon. There was no incense, so Alex took some of the candles instead. He took three, of the long slender ones. He and Lewis set off to the temple, with the boy still clutching the shotgun.
+
+In his room, in the dark, Lewis refueled his lighter by himself.
+
+---
+
 ## Hold
 
 There was a private contract to fix a till. The client was not a store owner, but rather someone who refurbished tills, for stores. The move to University money was good for business in that way.
@@ -2300,7 +2300,7 @@ Nadia grabbed a framed photo that sat next to her assignment.
 
 *there, bring this too.*
 
-It was a Polaroid, tinted blue, that depicted two people eating fried chicken at a local joint. The man made some funny face with one raised eyebrow, the woman posed a peace sign while holding a bottle of mango soda.
+It was a Polaroid, tinted blue, that depicted two people eating fried chicken at a local joint. The man made some funny face with one raised eyebrow, the woman posed a peace sign while holding a bottle of mango soda. She was blonde, with black roots showing above the braided pigtails.
 
 *next time, start with the big thing.* Nadia advised.
 
@@ -2616,7 +2616,7 @@ The horn on this truck was something more guttural than a toot.
 
 *Driver, roll to stop just after the crest. Turn off the engine.*
 
-Lewis waved his hand from the window, Maddy could see that the man in the tower had his own binoculars. She did another count of what they had on the truck. And visualized the shotgun in their briefcase.
+Lewis waved his hand from the window, Maddy could see that the man in the tower had his own binoculars. She did another count of what they had on the truck. And visualized Hopper and the shotgun in their briefcase.
 
 A voice came in on the radio. Lewis opened an envelope and mumbled something back into the microphone.
 
@@ -3132,7 +3132,7 @@ In the dark, Maddy brushed her teeth with salt, and spat the mixture out of the 
 
 Nadia thought to herself to spit the salt-water further than that little witch ever could.
 
-Maddy always was the inner spoon, even though she was almost too big for it now.
+Discounting Hopper, Maddy always was the small spoon, even though she was almost too big for it now.
 
 On the other side of the wall, Lewis curled into a ball to keep himself warm.
 
@@ -3379,6 +3379,12 @@ They threw the onions into the fire, and used a metal pike to skewer them back o
 It was hot, and soft, and thunder cracked through the open window.
 
 It was an okay day.
+
+---
+
+## Untitled Diana
+
+
 
 ---
 
