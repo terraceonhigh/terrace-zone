@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 24,418
+word_count: 24,419
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2082,11 +2082,11 @@ It was not just one.
 
 ## Untitled Maddy
 
-There was a private contract to fix a till, the client was not a store owner, but rather someone who refurbished tills, for stores. The move to University money was good for business in that way.
+There was a private contract to fix a till. The client was not a store owner, but rather someone who refurbished tills, for stores. The move to University money was good for business in that way.
 
 Alex could not tell why that client thought it was economical to bring the till to him and have him work on it. Instead of just finding a better one.
 
-Lewis is always out with the other boys scrapping when he should be at home, learning with him. He just had to be fond of the big hot lines, where did he get that temperment.
+Lewis is always out with the other boys scrapping when he should be at home, learning with him. He just had to be fond of the big hot lines. Where did he get that temperament?
 
 But, he was not going to complain about a few quick bucks.
 
@@ -2094,11 +2094,11 @@ Within an hour, there were two breadboards and a rainbow of wires. Making sure t
 
 It stopped smelling like magic smoke around the fifth time he ran current through it, and then it took a second, but it woke up.
 
-*A-ha!*, it was a simple joy, and Maia would always be impressed.
+*A-ha!* It was a simple joy, and Maia would always be impressed.
 
 ...Oh, right, the observatory thing. They really need to get a third bicycle so she can come home when she is working the campus telescope.
 
-Didn't he tell Lewis to find one? Maybe he didn't. He'll tell him next time. Or maybe he'll buy if Lewis didn't come back with one.
+Didn't he tell Lewis to find one? Maybe he didn't. He'll tell him next time. Or maybe he'll buy one if Lewis didn't come back with one.
 
 He had a drink of water to wash down the bismuth taste in the solder.
 
@@ -2108,7 +2108,7 @@ Through the wall, two voices began to be audible.
 
 *...real mom won't...*
 
-*she doesn't have to be here....  she... golden child... irresponsible.*
+*she doesn't have to be here... she... golden child... irresponsible.*
 
 *you... no right... she...*
 
@@ -2120,7 +2120,7 @@ Maddy's sole was bony, and still managed to *thump* the floorboards the way boot
 
 *Hey Maddy, what's wrong?*
 
-*Everything.* She walked past Alex in the living room, and shut herself in Lewis' room.
+*Everything.* She walked past Alex in the living room, and shut herself in Lewis's room.
 
 He heard her scream into a pillow, but not before flipping it to the other side.
 
@@ -2148,7 +2148,7 @@ He went across the foyer, to grab another cup of water.
 
 *Don't worry, she will come around.* Collie said without looking up, while rehydrating a stockfish.
 
-The maker's mark on that glass was on the bottom, and Swedish. It tickled his fingers until he set it down outside Lewis' room.
+The maker's mark on that glass was on the bottom, and Swedish. It tickled his fingers until he set it down outside Lewis's room.
 
 *there is water outside, with salt, how you like it.*
 
@@ -2156,7 +2156,7 @@ He delivered the working till back to the client, and the cup was empty when he 
 
 He went downstairs again, to go to the baker. They had garlic bread, everybody likes garlic bread, right?
 
-And a jar of applesauce, from his own allowance, Maia made him do the accounting for them both and he was honest about it.
+And a jar of applesauce, from his own allowance. Maia made him do the accounting for them both and he was honest about it.
 
 He did the arithmetic, and made a promise to himself to ask for more, when Maia is back next week.
 
