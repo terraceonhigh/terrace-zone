@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 24,509
+word_count: 24,780
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2175,6 +2175,58 @@ She threaded the needle back through the last loop.
 The food was not set on the floor, of course. It was placed with the applesauce under the garlic bread to avoid toolbox grease, and set where Maddy just had to open the door a crack to grab it and the water.
 
 Alex had not unloaded the bottom part of the toolbox. It scratched the floor for the whole minute when Maddy dragged it in.
+
+---
+
+The gate in front of the door meant that one could hear someone unlocking something, before the actual door is touched. The first tumbler workeh smooth as it unlocked the gate. The second tumbler, the one for the door, needed grease.
+
+Nadia.
+
+The house was quiet, Collie was cooking dinner proper now. Alex was working on another thing to fix. How does one even open on this?
+
+*Nadia.*
+
+*Hey.* She hanged her straw hat next to the door.
+
+Too late, Nadia went to the other living room. He heard a knock on the kitchen door.
+
+He can't fix this junk at the dinner table, he just needed half an hour more.
+
+*...difficult...Lewis's room.*
+
+*...*
+
+*...boy...just to see.*
+
+*...*
+
+*clean...help.*
+
+Alex gave up on fixing the junk tonight, to intercept Nadia coming out of the bathroom.
+
+*Hey.* god, what was he doing.
+
+*Hey...?*
+
+*So, you heard from Collie, Maddy is angry at her.*
+
+*I don't think I got the whole story. I need to help with dinner, you tell me what happened after.*
+
+ok.
+
+Dinner was something with potatoes simmered in a little milk, and stockfish, rehydrated, partly by boiling in that mixture.
+
+The table had room for eight, the dinner was enough for four-and-a-half, and there were three at the table set for four.
+
+Nona came home when they were just about to dig in, and helped herself to seme extra pickled beets.
+
+*So, how is the new job?* Collie asked.
+
+*They gave me two assistants, I said I only needed one. They didn't let me take him away.*
+
+*Woah...* Nadia exclaimed.
+
+*Don't be impressed by that, Nadia. We are  
 
 [STORYBOARD: Nadia comes home, Alex awkwardly asks her to fetch Maddy's favorite plushie, Nadia also grabs the photo of the Richards of her own volition.]
 
