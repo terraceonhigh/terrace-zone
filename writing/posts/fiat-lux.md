@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 25,310
+word_count: 25,770
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2256,7 +2256,7 @@ The rails on the dresser did not need grease. It was some sort of low-friction p
 
 *So, tell me what happened with Maddy, why she's all pissy.*
 
-*Your, Collie. By what I heard was she wanted her to go on a date with some boy.*
+*Your, Collie. By what I heard was something about a date and a boy.*
 
 *Oh, wow, not exactly subtle, is she?*
 
@@ -2330,7 +2330,7 @@ He refilled the cup before she came back out, and, because she didn't shut the d
 
 It was something herbal, for sleep, and because crying girls need water.
 
-There was enough for two mugs, which he set down next to Lewis's soldering station.
+There was enough for two mugs, which Maddy set down next to Lewis's soldering station.
 
 *Right, almost forgot, Nadia also handed me this,* Alex produced the polaroid. *Don't know who they are, but seems they are important to you.*
 
@@ -2338,9 +2338,91 @@ It took a moment for Alex to notice that it had been klepped from his outreached
 
 *thank you,* she whispered.
 
-*well, don't thank the messenger.*
+*well, don't thank the messenger,* vapours billowed above the mugs. *May I come in?*
 
-[STORYBOARD: Alex fetches her blanket or some other sentimemental item, enters room, cue the arranged marriage explainer]
+She moved back from the doorway, and did not agree or disagree.
+
+---
+
+The Polaroid stood next to a box of mismatched screws.
+
+*So, what did mom do to get you so angry?*
+
+She sipped from her mug. She did not say anything, he panicked.
+
+*...it's okay if you—*
+
+*She wanted me to meet Vavasseur, to go and have a lunch with him.*
+
+*and who is Vavasseur?*
+
+*Doesn't matter.* The tea leaves twirled at the bottom of the cup. *I don't wanna.*
+
+*Okay, that's okay. That's an okay thing to not want.*
+
+*He tricks, like mom.* Her eyes did not leave the floor, *I hate that.*
+
+Alex did not know how to answer. *mhmm,* he improvised.
+
+*and then, she told me, that,* she thought of how to end the sentence, *it is for my own good.*
+
+Alex did not answer. He drank from his mug.
+
+*and, real mom won't have done this, I know she won't.*
+
+*she sounds like she was a good mom.* Alex said, *do you have someone already? Is that why you don't want the date with the Vavasseur fellow?*
+
+Maddy cradled her mug.
+
+*Actually, I was stupid to ask that.*
+
+They were quiet for a while, Maddy set down the mug and held Hopper instead.
+
+The tea cooled.
+
+*The mugs will want to be washed. I will make you breakfast tomorrow, okay?*
+
+She hid her face under Lewis's blanket.
+
+*and, I will tell the hospital you are not feeling well.*
+
+He smothered the candle with his fingertips.
+
+---
+
+When he brought it home, the phone was in a plain cardboard box, surrounded by a nest of straw. He wired in a phone for every floor from ground till fourth, not that Lewis wasn't made to do the long wire runs for the price of a pasty a day.
+
+It was made by an outfit that grew out of the Electronics Club, and was compatible with the University cables.
+
+He picked up the phone at two past seven in the morning, when the operators were back at work.
+
+*Arbutus General Hospital, please. For a Doctor Franklin?*
+
+They abolished on-hold music when they made the new network, so the last twenty years were not all terrible.
+
+*Doctor, I am calling to notify that Medea is not feeling well today?*
+
+*...*
+
+*Yes, I meant Maddy.*
+
+*...*
+
+*Okay, thank you.*
+
+He grabbed the toolbox, for getting breakfast. And then on second thought, he went and found Maia's grocery basket instead.
+
+Collie was at the foyer, blocking the door.
+
+*Where are you going.*
+
+*Oh, uhh, to grab a breakfast, heh.* He is, though, why is he so unconvincing? *Start of the day.* He did an arm-pumping motion. *...yeah?*
+
+*There are sandwiches on the dinner table, egg salad.* Collie did not mention that she whipped the mayonnaise herself.
+
+*Make sure that girl eats.*
+
+okay.
 
 ---
 
