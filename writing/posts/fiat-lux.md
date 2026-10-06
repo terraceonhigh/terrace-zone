@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 25,134
+word_count: 25,383
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2282,15 +2282,17 @@ Alex wanted to say something, but blanked on it at the last second.
 
 *Just, one pointer, please.*
 
-She climbed up the ladder to the top bunk. *There, bring him to her.* She handed it to his arms.
+She climbed up the ladder to the top bunk. *There, bring him to her.* She handed it to his arms. It was a sheep, or rather, a pillow's idea of a sheep. The fur was matted, the black face faded to a grey, and the horns and ears were all it—he, he had for limbs.
+
+And the horns were harmless.
 
 *And, um.*
 
 *Hmm?*
 
-*she, collie, seemed she brought up Alice as well.*
+*she, collie, seemed she brought up a... 'real mom'? as well.*
 
-*Alic–oh.*
+*oh.*
 
 *yeah.*
 
@@ -2303,6 +2305,40 @@ It was a polaroid, tinted blue, that depicted two people eating fried chicken at
 *next time, start with the big thing.* Nadia advised.
 
 *yes miss.*
+
+Collie was asleep now, in her room, way before when she is used to sleeping. He fetched a new glass of water.
+
+Three knocks.
+
+*Maddy, um, Nadia told me to get you your sheep.* It was quiet inside. *Baaaah,* the sheep said in Alex's voice.
+
+Still quiet, *well, if you don't want to come out yet, Mister Sheep will be here waiting for you, and there is a glass of water too.*
+
+The door opened.
+
+*His name,* Maddy said, face buried in the sheep, *is Hopper.*
+
+*Don't forget your water too.*
+
+*I want to pee.*
+
+*okay, okay, you can use the one on our side.*
+
+Hopper jumped onto Lewis's bed.
+
+He refilled the cup before she came back out, and, because she didn't shut the door, he started a kettle.
+
+It was something herbal, for sleep, and because crying girls need water.
+
+There was enough for two mugs, which he set down next to Lewis's soldering station.
+
+*Right, almost forgot, Nadia also handed me this,* Alex produced the polaroid. *Don't know who they are, but seems they are important to you.*
+
+It took a moment for Alex to notice that it had been klepped from his outreached hand.
+
+*thank you,* she whispered.
+
+*well, don't thank the messenger.*
 
 [STORYBOARD: Nadia comes home, Alex awkwardly asks her to fetch Maddy's favorite plushie, Nadia also grabs the photo of the Richards of her own volition.]
 
