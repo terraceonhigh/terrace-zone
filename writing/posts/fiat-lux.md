@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-05
+date: 2026-10-06
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 23,693
+word_count: 24,418
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2077,6 +2077,104 @@ Collie let that slide.
 *Very well, just one. I tell you, just one.*
 
 It was not just one.
+
+---
+
+## Untitled Maddy
+
+There was a private contract to fix a till, the client was not a store owner, but rather someone who refurbished tills, for stores. The move to University money was good for business in that way.
+
+Alex could not tell why that client thought it was economical to bring the till to him and have him work on it. Instead of just finding a better one.
+
+Lewis is always out with the other boys scrapping when he should be at home, learning with him. He just had to be fond of the big hot lines, where did he get that temperment.
+
+But, he was not going to complain about a few quick bucks.
+
+Within an hour, there were two breadboards and a rainbow of wires. Making sure there were no shorts took up more time than the actual debugging.
+
+It stopped smelling like magic smoke around the fifth time he ran current through it, and then it took a second, but it woke up.
+
+*A-ha!*, it was a simple joy, and Maia would always be impressed.
+
+...Oh, right, the observatory thing. They really need to get a third bicycle so she can come home when she is working the campus telescope.
+
+Didn't he tell Lewis to find one? Maybe he didn't. He'll tell him next time. Or maybe he'll buy if Lewis didn't come back with one.
+
+He had a drink of water to wash down the bismuth taste in the solder.
+
+Through the wall, two voices began to be audible.
+
+*I am not asking...anything more than a date.* Collie sounded stern.
+
+*...real mom won't...*
+
+*she doesn't have to be here....  she... golden child... irresponsible.*
+
+*you... no right... she...*
+
+*I... keep you... alive.*
+
+*I can't do this right now.*
+
+Maddy's sole was bony, and still managed to *thump* the floorboards the way boots do.
+
+*Hey Maddy, what's wrong?*
+
+*Everything.* She walked past Alex in the living room, and shut herself in Lewis' room.
+
+He heard her scream into a pillow, but not before flipping it to the other side.
+
+He peeked across the foyer. Collie was seated, pinching the bridge of her nose in the other living room, the one with the board games.
+
+He puffed up his cheeks, and exhaled.
+
+---
+
+Collie was preparing dinner now, and he spent the last twenty minutes soldering and desoldering a joint.
+
+The wick was soaked through. He turned the gear off and left his workstation.
+
+A few gentle knocks, *Maddy, can I come in?*
+
+*No, go away.*
+
+*okay, let me know if you want anything.*
+
+*Just, go back to your stupid LEDs.*
+
+He backed off, quietly. She didn't mean it.
+
+He went across the foyer, to grab another cup of water.
+
+*Don't worry, she will come around.* Collie said without looking up, while rehydrating a stockfish.
+
+The maker's mark on that glass was on the bottom, and Swedish. It tickled his fingers until he set it down outside Lewis' room.
+
+*there is water outside, with salt, how you like it.*
+
+He delivered the working till back to the client, and the cup was empty when he was back.
+
+He went downstairs again, to go to the baker. They had garlic bread, everybody likes garlic bread, right?
+
+And a jar of applesauce, from his own allowance, Maia made him do the accounting for them both and he was honest about it.
+
+He did the arithmetic, and made a promise to himself to ask for more, when Maia is back next week.
+
+He carried the food upstairs in his toolbox, the top compartment. The tools in it were almost all already on the table for fixing the till before he emptied the rest.
+
+*Collie...?* Collie was sewing a patch onto something.
+
+*Just Col—yes?* She said while attempting to pick a stitch. The needle was not cooperative.
+
+*Well, Collie, Maddy just told me she isn't hungry, so don't fret about dinner, okay?*
+
+She threaded the needle back through the last loop.
+
+*Sure, whatever suits her.*
+
+The food was not set on the floor, of course. It was placed with the applesauce under the garlic bread to avoid toolbox grease, and set where Maddy just had to open the door a crack to grab it and the water.
+
+Alex had not unloaded the bottom part of the toolbox. It scratched the floor for the whole minute when Maddy dragged it in.
 
 ---
 
