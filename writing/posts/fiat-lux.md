@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-06
+date: 2026-10-07
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,089
+word_count: 26,092
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2478,7 +2478,7 @@ She guessed as much, and sighed, away from the microphone.
 
 Can he?
 
-She felt the relief pattern on the copper badge in her wallet. The one that said Swartz.
+Nadia reached into her pocket, felt the relief pattern on the ID card in her wallet. The one that said Swartz.
 
 *Okay, I'll see what I can do.*
 
@@ -2996,7 +2996,7 @@ The big radio needed the engine running, and the engine was noisy, so Lewis wire
 
 ## Notions
 
-The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the chunk of copper engraved with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
+The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the ID card stamped with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
 
 A few children played skipping rope outside, before the innkeeper told them to get going and head home for dinner. The children put their tire-made sandals back on and walked home.
 
