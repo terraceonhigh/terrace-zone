@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-08
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,819
+word_count: 26,821
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3410,7 +3410,7 @@ A fridge compressor kicked in.
 
 *...the carvers seemed to have an opinion on which is which.*
 
-She plugged the hose into the new can, the one stamped `IOTA`, pressed the button again, and the machine stopped complaining.
+She plugged the hose into the new can, the one stamped `Iota Iron Works`, pressed the button again, and the machine stopped complaining.
 
 Ada touched Klara's cheek, she was warm.
 
