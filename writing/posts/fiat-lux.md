@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-08
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,805
+word_count: 26,821
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1089,6 +1089,12 @@ Bréal was in the office tent, where the engineering department had laid the pen
 *Where did you find grapes?*
 
 *I have my means.*
+
+---
+
+## Untitled Neighbour
+
+
 
 ---
 
@@ -3436,9 +3442,9 @@ Klara's hair should be washed soon.
 
 Ada failed to mention that they did not give her a shirt.
 
-*The Chief of the dam told me the turbine I was holding was the same kind they used up the river.*
+*The Chief of the dam told me the turbine I was holding was the same kind they used up the river, And papa let the Chief's boy kiss my hand.*
 
-*Papa let the Chief's boy kiss my hand.*
+*Papa told me the boy had two orphaned cousins, so it was a good match.*
 
 *And, the girl from Aldermere was there too. The one who braided my hair when we were not modelling.*
 
