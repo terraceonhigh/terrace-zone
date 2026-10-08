@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-07
+date: 2026-10-08
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,092
+word_count: 26,819
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3394,9 +3394,81 @@ It was an okay day.
 
 ---
 
-## Untitled Epsilon
+## Splendor
 
+It was some time in the afternoon, and some birds were chirping. Outside the window, wind did not penetrate the glass roof to rustle the leaves of a cherry tree. Ada signed for the delivery downstairs, and she had a helper or two actually carry it up the stairs.
 
+She had it from the stairwell, on a small hand-cart. It rang, resonant and bell-like, when cart and can landed in the room.
+
+*You won't believe what I saw today,* Ada said. *Papa made me cut the ribbon on the Terrarium's new front.*
+
+A fridge compressor kicked in.
+
+*...and every time someone said hi to us, the first thing he said was, 'oh did you see my baby there on the pedestal.'* Ada twisted a valve shut.
+
+*and it's a pediment, not a pedestal,* Ada pressed a button on a monitor. The crude was pumped out of Arabia, pelletized in a wetter place, and formed into a button sixteen hours away from where the machine was made.
+
+*...the carvers seemed to have an opinion on which is which.*
+
+She plugged the hose into the new can, the one stamped `IOTA`, pressed the button again, and the machine stopped complaining.
+
+Ada touched Klara's cheek, she was warm.
+
+*But, the lunch was good, though. Wish you could eat it with me.*
+
+A drop of some solution dripped down an IV. Ada lifted a chair two inches off the ground and set it down next to the bed.
+
+*A butcher cut us some lamb right there in the garden, and a professor burned the bones and fat.*
+
+*Papa got us the loin. It smelled so nice.*
+
+*Mama, when you're better, we'll go there, okay?*
+
+Klara's hair should be washed soon.
+
+*They made me look so pretty for the statue,* Ada said. *They put me in a hat from the museum, said it crossed an icy river to get there. The long jacket was a bit funky, though.*
+
+Ada failed to mention that they did not give her a shirt.
+
+*The Chief of the dam told me the turbine I was holding was the same kind they used up the river.*
+
+*Papa let the Chief's boy kiss my hand.*
+
+*And, the girl from Aldermere was there too. The one who braided my hair when we were not modelling.*
+
+*They let her keep her glasses on for the modelling, and, she had the prettiest chains on her glasses.* Ada brushed a speck of dust off her mother's blanket. *She told me she put the sweetgrass into the chains herself.*
+
+Her family gave her a jade ring to wear before she rode into Arbutus.
+
+*There was a big fight, I heard, to have her hair up or down when they carved her. But, she braided my hair with the handkerchief, and I made sure the carvers put that in.*
+
+*And, they made her urn pour out salmon, mine just gave water.*
+
+The clock struck five, and then the clock tower's bell did not enter the room.
+
+*I'll be back in a moment, okay?*
+
+The syringe and needles were boiled before they were put away, but, Ada insisted on boiling them again before using them. In the scullery, the helpers dipped their heads as she walked past. They were having a stew, something red with carrots, with bits of lamb sinew simmered soft.
+
+Ada tied her hair up in the upstairs bathroom.
+
+The medicine was in the fridge in Klara's room, where there was a small wooden compartment just for it, next to the spirits and wines. They were low on mead.
+
+She broke the ampule, the contents within could be traded for five vials of poppy.
+
+She drew the plunger about halfway down, and let the fluid flow down the interior walls. The needle was narrow, and it took a while. She lifted the blanket off one shoulder, keeping the rest of Klara warm.
+
+She had already injected on this shoulder yesterday, so she had to swap sides. The blanket was cold when it landed back on Klara's shoulder.
+
+*Sorry.* Ada held a browned-glass bottle with one hand and rubbed the cold moist rag on Klara's shoulder with the other.
+
+It called for a smooth stroke down, to get the medicine in.
+
+Clean-up involved saline, and more alcohol.
+
+*Get well soon, mama.*
+
+Another boil, and then Ada did her own injection in her room.
 
 ---
 
