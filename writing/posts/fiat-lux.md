@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-08
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,777
+word_count: 26,785
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -11,7 +11,7 @@ summary: At the beginning, a restaurant advertised that they used locally grown 
 
 ## Ante Finem Mundi
 
-Coelia 'Collie' Swartz (please, just Collie is fine) looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display with a number that began with a six. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
+Coelia 'Collie' Swartz (please, just Collie is fine) looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display that said six-something a gallon. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
 
 The break room had an AC unit installed by someone's butch rendezvous a week before the summer term began. The school would have liked to complain about unregulated appliances, if the school had so much as bothered to inspect. Collie buttoned up the cardigan Nona knitted. Her laptop had a tab open about how to get soy sauce out of wool and another about the university housing portal. The portal showed a label that said `waitlisted` without any further information.
 
@@ -121,7 +121,7 @@ At her behest, he double-checked his backpack: one large electrician's toolkit (
 
 *No it isn't, don't listen to your father except the bringing back fingers thing.*
 
-The truck bed smelled of french fries as it rolled down the highway towards the city. The governor was set at sixty kilometers an hour, with a screw that his father made sure he knew how to turn before his first outing. The biscuits had a taste of ginger from Nadia's patch, and covered the slight rancid smoke from the exhaust.
+The truck bed smelled of french fries as it rolled down the highway towards the city. The governor was set at thirty-five miles an hour, with a screw that his father made sure he knew how to turn before his first outing. The biscuits had a taste of ginger from Nadia's patch, and covered the slight rancid smoke from the exhaust.
 
 The road to the hardware store had flashing red in the traffic lights and two moving cars on it. His job there was to haul salt and painkillers and disinfectant, which always was heavy, though it didn't show until that night. The staff made him go into the warehouse and find the rubber gloves himself. Which the manager said now cost two vials of poppy. The trucks will be going elsewhere next month.
 
@@ -1936,9 +1936,11 @@ The Dogwood-and-Mahonia seal leered over the Chair.
 
 All were solemn except for a typewriter's clacks.
 
-*This committee is being held on the traditional, ancestral, and unceded...*
+*This committee respectfully acknowledges that our meeting today is taking place on occupied...*
 
 Maia did the square breathing thing, that Lewis taught her. She shut her eyes and focused on the breathing, and nothing but.
+
+*...for their enduring care of our soil and sea.*
 
 *Doctor Tsien, please come with me.* A clerk asked.
 
@@ -2868,7 +2870,7 @@ She had the watch.
 
 ## Mulberry
 
-Something was wrong with washer #17 in the university laundromat on the corner of Agronomy Road and Campus Parkway. The unit was on the end of the first row in, on the right, next to the machines with the German badges. Alex took off the bent-sheet control panel on its front and looked at the wiring. The original warning labels had faded to a translucence, and there was some text in Korean under that. On the back of the university's panel was a label, with the name of the student who rewired the machine and the professor who signed off on it.
+Something was wrong with washer #17 in the university laundromat on the corner of Prospect Drive and Campus Parkway. The unit was on the end of the first row in, on the right, next to the machines with the German badges. Alex took off the bent-sheet control panel on its front and looked at the wiring. The original warning labels had faded to a translucence, and there was some text in Korean under that. On the back of the university's panel was a label, with the name of the student who rewired the machine and the professor who signed off on it.
 
 The loads in the other machines were pure white.
 
