@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-08
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,821
+word_count: 26,776
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -104,6 +104,8 @@ The old house had finally been sold, and the silver took two people to bring to 
 ---
 
 ## Continuity Test
+
+[TODO: Lower tech level in line 1]
 
 Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were printed instead of bought, because Fixer was reliable with bringing in liquor and spotty with chips and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects. Fridays were paydays, when he would put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on those, even though he definitely wasn't that age anymore.
 
@@ -3474,7 +3476,7 @@ Another boil, and then Ada did her own injection in her room.
 
 ## Skywave
 
-yeah the kid's parents should be groundskeeper instead of astronomers, I think. So we can do a class thing when they burn to death in the wildfire and the kids is taken into House Swartz. Also with how they were the ones tuck on the observatory and maia gets to go home.
+
 
 ---
 
