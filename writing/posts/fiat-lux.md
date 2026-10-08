@@ -3460,7 +3460,7 @@ She drew the plunger about halfway down, and let the fluid flow down the interio
 
 She had already injected on this shoulder yesterday, so she had to swap sides. The blanket was cold when it landed back on Klara's shoulder.
 
-*Sorry.* Ada held a browned-glass bottle with one hand and rubbed the cold moist rag on Klara's shoulder with the other.
+*sorry.* Ada held a browned-glass bottle with one hand and rubbed the cold moist rag on Klara's shoulder with the other.
 
 It called for a smooth stroke down, to get the medicine in.
 
