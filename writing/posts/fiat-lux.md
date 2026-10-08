@@ -11,7 +11,7 @@ summary: At the beginning, a restaurant advertised that they used locally grown 
 
 ## Ante Finem Mundi
 
-Coelia 'Collie' Swartz (please, just Collie is fine) looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display with a number that began with a two. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
+Coelia 'Collie' Swartz (please, just Collie is fine) looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display with a number that began with a six. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
 
 The break room had an AC unit installed by someone's butch rendezvous a week before the summer term began. The school would have liked to complain about unregulated appliances, if the school had so much as bothered to inspect. Collie buttoned up the cardigan Nona knitted. Her laptop had a tab open about how to get soy sauce out of wool and another about the university housing portal. The portal showed a label that said `waitlisted` without any further information.
 
@@ -999,7 +999,7 @@ The professor covered the microphone, and told Oyá to issue evacuation orders f
 
 *You have a pin on the broken segment?*
 
-*Yes I do. Clark Street and Erickson Street.*
+*Yes I do. Robert Street and Sixsmith Street.*
 
 *That will be all. I will hand you back to South Station.*
 
