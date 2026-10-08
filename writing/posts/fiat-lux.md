@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-08
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,776
+word_count: 26,777
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3456,7 +3456,7 @@ Ada tied her hair up in the upstairs bathroom.
 
 The medicine was in the fridge in Klara's room, where there was a small wooden compartment just for it, next to the spirits and wines. They were low on mead.
 
-She broke the ampule, the contents within could be traded for five vials of poppy.
+She broke the ampule, the contents of which could be traded for five vials of poppy.
 
 She drew the plunger about halfway down, and let the fluid flow down the interior walls. The needle was narrow, and it took a while. She lifted the blanket off one shoulder, keeping the rest of Klara warm.
 
