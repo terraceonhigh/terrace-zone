@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,840
+word_count: 27,882
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3545,6 +3545,10 @@ There were two panes of glass between the back seat and the front.
 
 *Look at the content of their character, Fleming.*
 
+*You don't want that.*
+
+*Then I suppose we can judge a man by his clothes.* She looked at his feet. *Brogues?*
+
 *Wisdom,* he told the window, *was always less than convincing from that mouth of yours.* The sun was going down over the water. *A lovely blue, though.*
 
 A cylinder knocked under the hood.
@@ -3557,11 +3561,11 @@ Collie had a fistful of ultramarine before she knew it. She opened the hand one 
 
 *You stood in that line behind me, Lord Emeritus, with a ration card in your breast pocket.* Four held. *I had the courage to change the things I could. I trust you have the wisdom for the rest.*
 
-The flask came out. The tea sloshed. Outside, two riders kept pace, one at each headlamp.
+The flask came out. The tea sloshed. Outside, two riders kept pace, one at each headlamp. Fleming scanned the horizon beyond.
 
 *You, you did not see what I saw in the Balkans, Coelia. I know how the women came through. They came through with nothing.* He capped the flask. *You came through in silk. Spared even the inconvenience they suffered after.*
 
-*Wool. We wear what we make. And, should you be right, I wasn't doing a whole lot of seeing eye to eye.* Collie tried to chuckle.
+*Wool. We wear what we make. Taking your claim as truth and disregarding any questions of veracity, I wasn't doing a whole lot of seeing eye to eye.* Collie tried to chuckle.
 
 *And you make families.* He turned from the window then. *A stolen bastard. The Tsien boy. Whoever is on your first floor this month. Does it help? Arranging them?*
 
@@ -3577,11 +3581,11 @@ The wheels found the gravel in front of the Terrarium. The doorman put on his gl
 
 Collie double-checked her eyeliner. Clean.
 
-*Both broken, then.* Quieter: *Don't call her that.*
+*both broken, then.* Quieter: *Don't call maddy that.*
 
 He watched her a moment longer than he needed to, then laid the cane across his knees.
 
-*Tempered, Coelia. The word is tempered.*
+*Tempered, Coelia. The word is tempered.* Fleming adjusted his collar. *Broken we reserve for absent friends.*
 
 The door opened. They were smiling before it did.
 
