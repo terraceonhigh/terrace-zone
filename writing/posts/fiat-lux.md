@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,943
+word_count: 27,945
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3608,19 +3608,19 @@ The tea sloshed in his flask, two horses trotted abreast, riding point.
 
 *Should you be right, I wasn't doing a whole lot of seeing eye to eye.* Collie tried to chuckle.
 
-*Your kind was plenty in the Balkans, just you found a silk dress afterwards. Though fate would have it that you are uniquely capable against loose ends.*
+*Your kind was plenty in the Balkans, just you found a silk dress afterwards. Though they would have envied your... constitution.*
 
 *Wool, Fleming. We have to wear what we make.*
 
-*Whore.*
+*Still, must you play house with living people?*
 
 *Drunkard.*
 
-*Cuckoo.*
+*Whore.*
 
 The motorcade stopped in front of the Terrarium, and the doorman disembarked.
 
-*both broken, then.* Collie made sure that her eyeliner wouldn't be smudged. *please don't call maddy that.*
+*both broken, then.* Collie made sure that her eyeliner wouldn't be smudged. *please don't call maddy a bastard.*
 
 Fleming's eyes relaxed.
 
