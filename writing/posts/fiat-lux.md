@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,901
+word_count: 28,214
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3600,7 +3600,7 @@ The Terrarium always had the best seconds. They stood at a corner before the din
 
 He got the message in his ear, to bring the principals in.
 
-On the opposite end, four men rolled in. He was briefed, a table for eighteen, booked for four, the one with the ponytail was Bréal, the willowy one was Vavasseur, and two guards to match—
+On the opposite end, four men rolled in. He was briefed, a room for eighteen, booked for four, the one with the ponytail was Bréal, the willowy one was Vavasseur, and two guards to match—
 
 —was it just him, or was Honey Boy one of the guards?
 
@@ -3609,6 +3609,46 @@ Isn't he an electrician? What is he doing here?
 Well, no matter. Madam Swartz's chair still needed pulling out, and they still needed to retreat to flank the doors. He saw the menu, figured they're getting salmon soup tonight, with the good radish and the rendered bones.
 
 ---
+
+Inside the Terrarium, no two hanging lamps were the same cut crystal, and no two clashed. A jukebox was covered with a wooden shelf, and alumni from the music department made live music.
+
+Old cathode-ray tubes danced in psychedelic fluorescence. A gold-green lockstep made to fit the lights and rebuke the stars.
+
+No leaves rustled.
+
+Collie did not let herself notice that Lewis was in a suit, and playing bodyguard for Epsilon.
+
+*Bréal, it has been a while.* Fleming shook Bréal's hand; she held him up by his left. She based her posture on the other women she had seen on Fleming's arm. *And you must be Vavasseur?*
+
+*Yes, Lord Fleming.* A glance. *I look forward to the dinner.*
+
+*I take it Bréal doesn't let you see the sun that much?*
+
+They laughed.
+
+*Please, just Fleming, we can leave the titles for the paper.*
+
+*I suppose you have met Lady Swartz?*
+
+Vavasseur glanced at her.
+
+*Yes, she has been a wonderful patron and friend to us both.*
+
+Bréal did not need to be told that Collie wouldn't let go of Fleming, and kissed her left hand instead. Fleming made the doorman turn back, so he could pull Collie's chair for her.
+
+*Do they still do the goat cheese salad?* Bréal pictured the night's menu and asked anyway.
+
+*The chefs got tired of making it, I heard.* Fleming said. *what was it that we are having for salad today?*
+
+*Caprese, m'lord.* Collie deferred. *it was Vavasseur's idea.*
+
+*The moment they said they pick the tomatoes in front of us, I knew we had to.*
+
+The men laughed, full-throatedly. Vavasseur's laugh had an airy component, and Collie figured she should cover her mouth and giggle.
+
+*Glad to hear we can at least agree on sparing no expense.* Fleming said.
+
+*Good food, great wine, and beautiful women make for good business, my father always said that.*
 
 ---
 
