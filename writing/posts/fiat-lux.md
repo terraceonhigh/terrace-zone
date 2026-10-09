@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,873
+word_count: 27,942
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1184,6 +1184,8 @@ Maddy didn't.
 
 It didn't, the syringes were properly disinfected and stored, and it drew excellently that day.
 
+Alice didn't even notice the difference.
+
 *We, found some poppy. She just went to sleep.* And the undertaker came half an hour after that.
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
@@ -1202,7 +1204,9 @@ Collie squeezed the bottle too hard. There was a plume of steam.
 
 *Who was she to you, mom?*
 
-*She was the bookworm, if you'll believe me. The one who gave me her textbooks with the year-old notes and the one who got winded from chasing the bus.*
+*She, was the bookworm, if you'll believe me. The one who gave me her textbooks with the year-old notes and the one who got winded from chasing the bus.*
+
+And the one who had no rules growing up, a mistake grandpa and grandma did not make twice.
 
 *And they couldn't find a better vial for her.*
 
@@ -1218,7 +1222,7 @@ They were quiet for a while.
 
 *You must be hungry, when was the last time you ate? Come help me with breakfast.*
 
-*I ate a late lunch, with the doctor, when the rush died down in the hospital.*
+*I ate a late lunch, with Doctor Franklin, when the rush died down in the hospital.*
 
 *Then you are having two eggs with your breakfast. Come on, what do you want to eat?*
 
@@ -1236,9 +1240,9 @@ They put potatoes in the boiling water. Maddy was cutting the mushrooms and Coll
 
 *What did she tell you? Before she died?*
 
-*She told me to stay healthy, to bury her next to our dad.*
+*She,* Collie struggled to form the sentence, *told me to stay healthy, to bury her next to our dad.*
 
-Collie unhooked the frying pan, the one with the Swartz name on the handle.
+Collie unhooked the frying pan, the one with the Swartz name on the handle. She flipped it over, and then back again. Her mind was elsewhere.
 
 *She also told me to take care of you, Medea.*
 
@@ -1253,6 +1257,8 @@ The mushrooms were thinly sliced, and they would go into the butter before the e
 Collie rinsed her hands, even though they were clean.
 
 *Your mother saw what was coming, and she wanted you to be strong, very strong.*
+
+And Collie too.
 
 The mushroom dissolved its flavour into the oil.
 
@@ -1314,7 +1320,7 @@ Collie's fingertips were warm. She did another two dabs on Maddy's cheeks.
 
 Maddy looked into the mirror, a different woman looked back.
 
-*She always liked that upward flick.* Collie said.
+*She always liked that upward flick.* Collie said, spinning the brush in her hand.
 
 Collie put hers on, while Maddy packed her lunch and notebooks and braided and tied her hair up.
 
@@ -3598,11 +3604,11 @@ Collie scrunched a fistful of her dress, pried her hand open, and smoothed the f
 
 The tea sloshed in his flask, two horses trotted abreast, riding point.
 
-*You, you, did not see what I saw.* Fleming said in serenity, while his eyes scanned the horizon. *...and all for your sister's bastard.*
+*You, you, did not see what I saw.* Fleming said in serenity, while his eyes scanned the horizon. *...and all for a stolen bastard. A doll would have sufficed.*
 
 *Should you be right, I wasn't doing a whole lot of seeing eye to eye.* Collie tried to chuckle.
 
-*Your kind was plenty in the Balkans, just you found a silk dress afterwards.*
+*Your kind was plenty in the Balkans, just you found a silk dress afterwards. Though fate would have it that you are uniquely capable against loose ends.*
 
 *Wool, Fleming. We have to wear what we make.*
 
