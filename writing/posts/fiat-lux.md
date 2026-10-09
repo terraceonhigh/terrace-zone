@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,879
+word_count: 27,880
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3496,7 +3496,7 @@ Left, right. He picked a hair off Lewis's lip and flicked it away. No obvious cu
 
 *Nobody tells me anything...*
 
-*Get in, ride shotgun, I can't have you throwing up.*
+*Get in, ride shotgun. It's the hose if you throw up.*
 
 He conked out till the perimeter. The sun was still up, and they put the searchlight on the truck anyway. It sobered the last bit of him up.
 
