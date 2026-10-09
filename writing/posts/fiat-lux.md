@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,875
+word_count: 27,879
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3532,7 +3532,7 @@ A look left, a look right, pull a hair off his lip. No obvious cuts or bruises. 
 
 *Something got pushed up, I'm backing up Bréal, and he wants you on goon duty.*
 
-*Nobody ever tells me anything..*
+*Nobody ever tells me anything...*
 
 *Get in, ride shotgun, I can't have you throwing up.*
 
@@ -3560,7 +3560,7 @@ A chuckle, *attaboy.*
 
 ---
 
-Fleming ate a light lunch, it would be rude to not eat during the dinner.
+Fleming ate a light lunch; it would be rude to not eat during the dinner.
 
 Ada insisted on tying his tie, which was a green, white, and blue tartan. She filled his flask with a tea that she had steeped, strained, and then reduced in a frying pan.
 
@@ -3576,7 +3576,7 @@ A servant told them that Madam Swartz was outside, with the motorcade.
 
 The scarf Lady Swartz was issued was the same tartan, which clashed with her mulberry dress. She had written to Fleming two weeks before about the issue, and was seen in the back seat in an ultramarine dress. She gave the seamstress a sketch of a Minoan Snake Goddess for reference, with a less open bodice and a neckline just as plunged.
 
-There was a pin of a bee on her lapel, and it was the only element that clashed.
+There was a pin of a bee at her shoulder, and it was the only element that clashed.
 
 The limo was based on a pattern that made it to the World's Fair a century before, simplified and with leather used where rubber needn't be. A doorman closed the limo's door behind him.
 
@@ -3612,13 +3612,13 @@ The tea sloshed in his flask, two horses trotted abreast, riding point.
 
 *Drunkard.*
 
-The motorcade stopped in front of the Terrarium, the doorman disembarked.
+The motorcade stopped in front of the Terrarium, and the doorman disembarked.
 
 *both broken, then.* Collie made sure that her eyeliner wouldn't be smudged. *please don't call maddy that.*
 
 Fleming's eyes relaxed.
 
-*Tempered, Coelia. Tempered.*
+*Tempered, Coelia. The word is tempered.*
 
 They smiled at the doorman.
 
@@ -3634,7 +3634,7 @@ He got the message in his ear, to bring the principals in.
 
 On the opposite end, four men rolled in. He was briefed, a table for eighteen, booked for four, the one with the ponytail was Bréal, the willowy one was Vavasseur, and two guards to match—
 
-—was it just him, or was Honey Boy one of the guards.
+—was it just him, or was Honey Boy one of the guards?
 
 Isn't he an electrician? What is he doing here?
 
