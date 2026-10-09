@@ -3564,7 +3564,7 @@ Collie's hand grabbed a fistful of ultramarine. She fought the hand open one fin
 
 The tea sloshed in his flask. Outside, two riders kept pace, one at each headlamp. Fleming scanned the horizon beyond.
 
-*You, you did not see what I saw in the Balkans, Coelia. I know how the women came through. They came through with nothing.* He focused on the road. *You came through in silk. Spared even the inconvenience they suffered after.*
+*You, you did not see what I saw in the Balkans, Coelia. I know how the women came through. They came through with nothing.* An exhale through the nose. *You came through in silk. Spared even the inconvenience they suffered after.*
 
 *Wool. We wear what we make. No matter. In your... fantasies, I wasn't doing a whole lot of seeing eye to eye anyways.* Collie tried to chuckle.
 
