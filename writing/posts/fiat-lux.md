@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,909
+word_count: 27,839
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3402,99 +3402,67 @@ It was an okay day.
 
 ## Splendor
 
-It was some time in the afternoon, and some birds were chirping. Outside the window, wind did not penetrate the glass roof to rustle the leaves of a cherry tree. Ada signed for the delivery downstairs, and she had a helper or two actually carry it up the stairs.
+It was some time in the afternoon. Birds were going at it outside, and the cherry tree did not move, because no wind came through the glass roof. Ada signed for the delivery at the door and let two of the helpers carry it up.
 
-She had it from the stairwell, on a small hand-cart. It rang, resonant and bell-like, when cart and can landed in the room.
+She had it from the stairwell, on a hand-cart. It rang, resonant and bell-like, when cart and can landed in the room.
 
-*You won't believe what I saw today,* Ada said. *Papa made me cut the ribbon on the Terrarium's new front.*
+*You won't believe what I did today,* Ada said. *Papa made me cut the ribbon on the Terrarium's new front.*
 
-A fridge compressor kicked in.
+The fridge compressor kicked in.
 
-*...and every time someone said hi to us, the first thing he said was, 'oh did you see my baby there on the pedestal.'* Ada twisted a valve shut.
+*And every time somebody said hello, the first thing out of his mouth was, oh did you see my baby up there on the pedestal.* Ada twisted a valve shut. *It's a pediment. The carvers insisted.*
 
-*and it's a pediment, not a pedestal,* Ada pressed a button on a monitor. The crude was pumped out of Arabia, pelletized in a wetter place, and formed into a button sixteen hours away from where the machine was made.
+She pressed a button on the monitor. Its plastic had been pumped out of the ground in Arabia, pelletized somewhere wetter, and injection-molded sixteen hours from wherever the machine was built. She plugged the hose into the new can, stamped `Iota Iron Works`, pressed the button again, and the machine stopped complaining.
 
-*...the carvers seemed to have an opinion on which is which.*
+Klara's cheek was warm.
 
-She plugged the hose into the new can, the one stamped `Iota Iron Works`, pressed the button again, and the machine stopped complaining.
+*Lunch was good, though. I wish you'd been there.* A drop of saline went down the IV. Ada lifted the chair two inches off the floor before she moved it, and set it by the bed. *A butcher cut the lamb right there in the garden, and one of the professors burned the bones and the fat. Papa got us the loin.*
 
-Ada touched Klara's cheek, she was warm.
+Klara's hair wanted washing.
 
-*But, the lunch was good, though. Wish you could eat it with me.*
-
-A drop of some solution dripped down an IV. Ada lifted a chair two inches off the ground and set it down next to the bed.
-
-*A butcher cut us some lamb right there in the garden, and a professor burned the bones and fat.*
-
-*Papa got us the loin. It smelled so nice.*
-
-*Mama, when you're better, we'll go there, okay?*
-
-Klara's hair should be washed soon.
-
-*They made me look so pretty for the statue,* Ada said. *They put me in a hat from the museum, said it crossed an icy river to get there. The long jacket was a bit funky, though.*
+*They made me so pretty for the statue. They put me in a hat from the museum. They said it crossed an icy river once.* She smoothed the blanket. *The long jacket smelled funky, though.*
 
 Ada failed to mention that they did not give her a shirt.
 
-*The Chief of the dam told me the turbine I was holding was the same kind they used up the river, and papa let the Chief's little boy kiss my hand.*
+*The Chief of the dam told me the turbine I was holding is the same kind they use up the river. Papa let his little boy kiss my hand,* a pause, *and he also said the Chief is a good man.*
 
-*Papa told me the Chief is a good man.*
+*The girl from Aldermere was there too. The one who did my hair between sittings. They let her keep her glasses on, mama, and they had chains. She put the sweetgrass in herself.* Her people had given her a jade ring for the ride to Arbutus. *There was a whole row about whether to carve her hair up or down. She braided mine with your handkerchief, and I made sure they carved that in.* Ada picked a speck of lint off the blanket. *They made her urn pour out salmon, mine just gave water.*
 
-*And, the girl from Aldermere was there too. The one who braided my hair when we were not modelling.*
-
-*They let her keep her glasses on for the modelling, and, she had the prettiest chains on her glasses.* Ada brushed a speck of dust off her mother's blanket. *She told me she put the sweetgrass into the chains herself.*
-
-Her family gave her a jade ring to wear before she rode into Arbutus.
-
-*There was a big fight, I heard, to have her hair up or down when they carved her. But, she braided my hair with the handkerchief, and I made sure the carvers put that in.*
-
-*And, they made her urn pour out salmon, mine just gave water.*
-
-The clock struck five, and then the clock tower's bell did not enter the room.
+The clock struck five. The tower bell, across the campus, did not come into the room.
 
 *I'll be back in a moment, okay?*
 
-The syringe and needles were boiled before they were put away, but, Ada insisted on boiling them again before using them. In the scullery, the helpers dipped their heads as she walked past. They were having a stew, something red with carrots, with bits of lamb sinew simmered soft.
+The syringe and needles had been boiled before they were put away. Ada boiled them again. In the scullery the helpers dipped their heads as she passed; they were eating something red, with carrots, and lamb sinew cooked soft. Upstairs she tied her hair back.
 
-Ada tied her hair up in the upstairs bathroom.
+The medicine lived in the fridge, in its own wooden box, next to the spirits. They were low on mead. She broke the ampule. What was in it would trade for five vials of poppy.
 
-The medicine was in the fridge in Klara's room, where there was a small wooden compartment just for it, next to the spirits and wines. They were low on mead.
+She drew it slowly, and the needle went slower. She folded the blanket off the left shoulder, the same as yesterday. She undid her mistake, and kept the rest of her mother covered. The swab was cold.
 
-She broke the ampule, the contents of which could be traded for five vials of poppy.
+*sorry.*
 
-She drew the plunger about halfway down, and let the fluid flow down the interior walls. The needle was narrow, and it took a while. She lifted the blanket off one shoulder, keeping the rest of Klara warm.
-
-She had already injected on this shoulder yesterday, so she had to swap sides. The blanket was cold when it landed back on Klara's shoulder.
-
-*sorry.* Ada held a browned-glass bottle with one hand and rubbed the cold moist rag on Klara's shoulder with the other.
-
-It called for a smooth stroke down, to get the medicine in.
-
-Clean-up involved saline, and more alcohol.
+One smooth push. Saline, alcohol, the cap.
 
 *Get well soon, mama.*
 
-Another boil, and then Ada did her own injection in her room.
+Another boil, and then Ada took the syringe to her own room.
 
 ---
 
-The fire outside had died down, and a hand sprawled itself across Lewis's pecs. There was something heavy pressing against his ribs, and the roof seemed to spin.
+The fire outside smouldered, then stopped, and a hand lay across Lewis's (reportedly well-defined) pecs. Something heavy sat on his ribs. The roof spun at the pace of a wind-blown dandelion.
 
-She had something that was grown in Aldermere. He, too, had something grown in Aldermere.
+She had something grown in Aldermere. He'd had something grown in Aldermere too.
 
-The walkie-talkie on his jacket crackled, and then a voice came in:
+The walkie-talkie on his jacket crackled.
 
 *lewiswheretheFUCKareyou.*
 
-Diana fell off his chest and onto the floor, then he crawled to the coat hook.
-
-The woman groaned.
+Diana rolled off him and onto the floor. He went to the coat hook on his knees.
 
 *isweartogodifyoudon'tpickup.*
 
-*Uh, yeah, Lewis here. What's good, V?*
+*Yeah. Lewis. What's good, V.*
 
-*Bossman rang, want us back by sundown. Come back to town NOW.*
+*Bossman rang. Trucks back by sundown. Come back to town. NOW.*
 
 Oh, oops, hehe.
 
@@ -3502,67 +3470,60 @@ Oh, oops, hehe.
 
 Diana growled at the radio.
 
-Vavasseur did not seem convinced. A radio-compressed sigh, then *Look, be for real with me. Do I need to pick you up at the shack?*
+Vavasseur did not seem convinced. A radio-compressed sigh, then *Look, be for real with me. Do I need to come get you at the shack?*
 
-*how, did you know, and, no. I can make it promise.*
+*how did you, no. I'll make it. promise.*
 
-*Bréal's gonna kill me.* Vavasseur exhaled. *Make that thirty minutes, and not one more.*
+*Bréal's gonna kill me.* Static. *Thirty. Not a minute more.*
 
-*Kiss goodbyeee...* Diana was weak in the knees, and crawled to a Lewis putting his gear back on.
+*Kiss goodbyeee,* Diana said from the floor, weak in the knees, and crawled to him while he did up his kit.
 
 Her lips tasted like mead, ash, and victory.
 
-*Okay, gotta go, babe. See you next week.* Lewis's free hand grabbed something, for the road.
+*Gotta go, babe. Next week.* His free hand grabbed something for the road.
 
-His belt buckle jingled on the way back down the trail. At least he carried less than on the way up.
+His buckle jingled half the way down the trail. He was carrying less than he had carried up. His notebook remembered for him that Diana's mother liked Maddy's candles, and that he'd left her two.
 
-His notebook remembered for him that Diana's mom really likes Maddy's candles.
+Vavasseur caught him by the chin at the trucks.
 
-Vavasseur grabbed him by the chin when he got back.
-
-*Hrrm?*
-
-A look left, a look right, pull a hair off his lip. No obvious cuts or bruises. *Looking handsome.*
+Left, right. He picked a hair off Lewis's lip and flicked it away. No obvious cuts or bruises. *Looking handsome.*
 
 *Hrrm??*
 
 *Something got pushed up, I'm backing up Bréal, and he wants you on goon duty.*
 
-*Nobody ever tells me anything...*
+*Nobody tells me anything...*
 
 *Get in, ride shotgun, I can't have you throwing up.*
 
-He conked out until they reached the campus perimeter. The sun was still up, but they still pointed a searchlight at the truck.
+He conked out till the perimeter. The sun was still up, and they put the searchlight on the truck anyway. It sobered the last bit of him up.
 
-A woman who did not speak English measured his shoulders and height when he got back to the frat house. The tux she handed him was a bit loose at the waist.
+At the house a woman who did not speak English measured his shoulders with her hands and handed him a tux that was loose in the waist. He knew how to tie the tie, though. Auntie Collie had seen to that.
 
-He knew how to tie a tie, though, Auntie Collie made sure of that.
+Bréal's suit fit him like a fitted suit, which it was. He walked them down to the gun locker.
 
-Bréal's suit seemed to fit perfect, and he was the one to bring them to the gun locker.
+*You know a shoulder rig?*
 
-*Know how to put on a shoulder rig?*
-
-*Of course, boss.*
+*Yes, boss.*
 
 *Semi or wheelgun?*
 
 *Um.*
 
-*Don't worry, kid. It's staying in, probably. We just need it in the room.*
+*Relax, kid. It stays in, probably. We just need it in the room.*
 
-*I always wanted to try the .44 magnum.*
-
-A chuckle, *attaboy.*
+*...I'm feeling lucky.*
+A chuckle, and he handed him the .44. *Attaboy.*
 
 ---
 
 Fleming ate a light lunch; it would be rude to not eat during the dinner.
 
-Ada insisted on tying his tie, which was a green, white, and blue tartan. She filled his flask with a tea that she had steeped, strained, and then reduced in a frying pan.
+Ada did his tie herself: green, white and blue, the tartan they had all been issued. She filled his flask with tea she had steeped, strained, and boiled down in a frying pan until it was nearly black.
 
-A servant told them that Madam Swartz was outside, with the motorcade.
+A servant came to say that Madam Swartz was outside, with the motorcade.
 
-*Until I am back, don't open the door for anyone but the Dean.*
+*Until I'm home, you open the door for no one but the Dean.*
 
 *mmm*
 
@@ -3570,55 +3531,57 @@ A servant told them that Madam Swartz was outside, with the motorcade.
 
 *Um, yes, papa.*
 
-The scarf Lady Swartz was issued was the same tartan, which clashed with her mulberry dress. She had written to Fleming two weeks before about the issue, and was seen in the back seat in an ultramarine dress. She gave the seamstress a sketch of a Minoan Snake Goddess for reference, with a less open bodice and a neckline just as plunged.
+---
 
-There was a pin of a bee at her shoulder, and it was the only element that clashed.
+Lady Swartz had been issued the same scarf, and it fought her mulberry dress. She had written to Fleming about it two weeks ago, and she arrived in ultramarine: a seamstress's copy of the Minoan goddess with a snake in each fist, the bodice closed, the neckline left exactly where it was. A small bee was pinned at her shoulder. It was the only thing that clashed.
 
-The limo was based on a pattern that made it to the World's Fair a century before, simplified and with leather used where rubber needn't be. A doorman closed the limo's door behind him.
+The limo had been drawn from a pattern shown at a World's Fair a century before. Engineering had taken the chrome off it, and leather was used in place of rubber. The doorman shut them in and got in front. The interior was hemp.
 
-*Time's a'changing.* Fleming leered at the dress.
+There were two panes of glass between the back seat and the front.
+
+*Time's a'changing.* He was not looking at her face.
 
 *Look at the content of their character, Fleming.*
 
-There were two panes of glass between the backseat and the front.
+*Wisdom,* he told the window, *was always less than convincing from that mouth of yours.* The sun was going down over the water. *A lovely blue, though.*
 
-*Wisdom comes out less than convincing when from that orifice of yours.* Fleming looked out at the setting sun. *What a lovely blue dress.*
+A cylinder knocked under the hood.
 
-A cylinder knocked.
+*...Some things are in our power.*
 
-*...Some things are in our power.* Collie replied.
+*Remind me. The old Director of Food Services. What was his name?*
 
-*How is the old Director of Food Services, what's his name?*
+Collie had a fistful of ultramarine before she knew it. She opened the hand one finger at a time and smoothed the wool flat. Four in. Four held. Four out. No mark.
 
-Collie scrunched a fistful of her dress, pried her hand open, and smoothed the fabric. There was no visible damage.
+*You stood in that line behind me, Lord Emeritus, with a ration card in your breast pocket.* Four held. *I had the courage to change the things I could. I trust you have the wisdom for the rest.*
 
-*You were in that line with me, Lord Emeritus.* Collie did box breathing through her nose. *I had the courage to change the things I could. I trust you, now, have the wisdom to know the difference.*
+The flask came out. The tea sloshed. Outside, two riders kept pace, one at each headlamp.
 
-The tea sloshed in his flask, two horses trotted abreast, riding point.
+*You, you did not see what I saw in the Balkans, Coelia. I know how the women came through. They came through with nothing.* He capped the flask. *You came through in silk. Spared even the inconvenience they suffered after.*
 
-*You, you, did not see what I saw.* Fleming said in serenity, while his eyes scanned the horizon. *...and all for a stolen bastard. A doll would have sufficed.*
+*Wool. We wear what we make. And, should you be right, I wasn't doing a whole lot of seeing eye to eye.* Collie tried to chuckle.
 
-*Should you be right, I wasn't doing a whole lot of seeing eye to eye.* Collie tried to chuckle.
+*And you make families.* He turned from the window then. *A stolen bastard. The Tsien boy. Whoever is on your first floor this month. Does it help? Arranging them?*
 
-*Your kind was plenty in the Balkans, just you found a silk dress afterwards. Though they would have envied your... constitution.*
+Collie dug into her clutch for nothing in particular, *it helps them eat.*
 
-*Wool, Fleming. We have to wear what we make.*
-
-*Still, must you play house with living people?*
+*It helps you sleep. The bastard would have done as well as a doll. A doll would have survived, you.* Fleming wagged a finger at her, in a circle.
 
 *Drunkard.*
 
 *Whore.*
 
-The motorcade stopped in front of the Terrarium. The doorman put on his gloves.
+The wheels found the gravel in front of the Terrarium. The doorman put on his gloves.
 
-*both broken, then.* Collie made sure that her eyeliner wouldn't be smudged. *please don't call maddy a bastard.*
+Collie double-checked her eyeliner. Clean.
 
-Fleming's eyes relaxed.
+*Both broken, then.* Quieter: *Don't call her that.*
+
+He watched her a moment longer than he needed to, then laid the cane across his knees.
 
 *Tempered, Coelia. The word is tempered.*
 
-They smiled at the doorman.
+The door opened. They were smiling before it did.
 
 ---
 
