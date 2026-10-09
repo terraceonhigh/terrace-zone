@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-08
+date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 26,801
+word_count: 27,553
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3440,9 +3440,9 @@ Klara's hair should be washed soon.
 
 Ada failed to mention that they did not give her a shirt.
 
-*The Chief of the dam told me the turbine I was holding was the same kind they used up the river, And papa let the Chief's boy kiss my hand.*
+*The Chief of the dam told me the turbine I was holding was the same kind they used up the river, and papa let the Chief's little boy kiss my hand.*
 
-*Papa told me the boy had two orphaned cousins, so it was a good match.*
+*Papa told me the Chief is a good man.*
 
 *And, the girl from Aldermere was there too. The one who braided my hair when we were not modelling.*
 
@@ -3479,6 +3479,142 @@ Clean-up involved saline, and more alcohol.
 *Get well soon, mama.*
 
 Another boil, and then Ada did her own injection in her room.
+
+---
+
+The fire outside had died down, and a hand sprawled itself across Lewis's pecs.
+
+There was something heavy pressing against his ribs, and the roof seemed to spin.
+
+The walkie-talkie on his jacket crackled, and then a voice came in:
+
+*lewiswheretheFUCKareyou.*
+
+Diana fell off his chest and onto the floor, then he crawled to the coat hook.
+
+The woman groaned.
+
+*isweartogodifyoudon'tpickup.*
+
+*Uh, yeah, Lewis here. What's good, V?*
+
+*Bossman rang, want us back by sundown. Come back to town NOW.*
+
+Oh, oops, hehe.
+
+*Uhhhhhh, be there in twenty.*
+
+Diana growled at the radio.
+
+Vavasseur did not seem convinced. A radio-compressed sigh, then *Do I need to pick you up at the shack?*
+
+*how, did you know, and, no. I can make it promise.*
+
+*Bréal's gonna kill me.* Vavasseur exhaled. *Make that thirty minutes, and not one more.*
+
+*Kiss goodbyeee...* Diana crawled to a Lewis putting his gear back on.
+
+Her lips tasted like ash and victory.
+
+*Okay, gotta go, babe. See you next week.* Lewis's free hand grabbed something, for the road.
+
+His belt buckle jingled on the way back down the trail. At least he carried less than on the way up.
+
+His notebook remembered for him that Diana's mom really likes Maddy's candles.
+
+Vavasseur grabbed him by the chin when he got back.
+
+*Hrrm?*
+
+A look left, a look right, no obvious cuts or bruises. *Looking handsome.*
+
+*Hrrm??*
+
+*Something got pushed up, I'm backing up Bréal, and he wants you on goon duty.*
+
+*Nobody ever tells me anything..*
+
+*Get in, ride shotgun, I can't have you throwing up.*
+
+He conked out until they reached the campus perimeter. The sun was still up, but they still pointed a searchlight at the truck.
+
+A woman who did not speak english measured his shoulders and height when he got back to the frat house. The tux she handed him was a bit loose at the waist.
+
+He knew how to tie a tie, though, Auntie Collie made sure of that.
+
+Bréal's suit seemed to fit perfect, and he was the one to bring them to the gun locker.
+
+*Know how to put on a shoulder rig?*
+
+*Of course, boss.*
+
+*Semi or wheelgun?*
+
+*Um.*
+
+*Don't worry, kid. It's staying in, probably. We just need it in the room.*
+
+*I always wanted to try the .44 magnum.*
+
+A chuckle, *attaboy.*
+
+---
+
+Fleming ate a light lunch, it would be rude to not eat during the dinner.
+
+Ada insisted on tying his tie, which was a green, white, and blue tartan. She filled his flask with a tea that she had steeped, strained, and then reduced in a frying pan.
+
+A servant told them that Madam Swartz was outside, with the motorcade.
+
+*Until I am back, don't open the door for anyone but the Dean.*
+
+*mmm*
+
+*Ada.*
+
+*Um, yes, papa.*
+
+The scarf Lady Swartz was issued was the same tartan, which clashed with her mulberry dress. She had written to Fleming two weeks before about the issue, and was seen in the back seat in an ultramarine dress. She gave the seamstress a sketch of a Minoan Snake Goddess for reference, with a less open bodice and a neckline just as plunged.
+
+The limo was based on a pattern that made it to the World Expo a century before, simplified and with leather used where rubber needn't be. A doorman closed the sedan's door behind him.
+
+*Time's a'changing.* Fleming leered.
+
+*Look at the content of their character, Fleming.*
+
+There were two panes of glass between the backseat and the front.
+
+*Wisdom comes out less than convincing when from that orifice of yours.* Fleming looked out at the setting sun. *What a lovely blue dress.*
+
+A cylinder knocked.
+
+*...Some things are in our power.*
+
+*How is the old Director of Food Services, what's his name?*
+
+*You were in that line with me, Lord Emeritus. I have the courage to change the things I can, I trust you, now, have the wisdom to know the difference.*
+
+The tea sloshed in his flask, two horses trotted abreast, riding point.
+
+*You did not see what I saw.* Fleming said in serenity.
+
+*Should you be right, I wasn't doing a whole lot of seeing eye to eye.*
+
+*Your kind was plenty in the Balkans, just you found a silk dress after the rags.*
+
+*Wool, Fleming. We have to wear what we make.*
+
+*Whore.*
+
+*Drunkard.*
+
+The motorcade stopped in front of the Terrarium, the doorman disembarked.
+
+*Both broken, then.* Collie made sure that her eyeliner won't be smudged.
+
+*Tempered, Coelia. Tempered*
+
+They smiled at the doorman.
 
 ---
 
