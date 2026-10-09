@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,553
+word_count: 27,556
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3576,9 +3576,9 @@ A servant told them that Madam Swartz was outside, with the motorcade.
 
 The scarf Lady Swartz was issued was the same tartan, which clashed with her mulberry dress. She had written to Fleming two weeks before about the issue, and was seen in the back seat in an ultramarine dress. She gave the seamstress a sketch of a Minoan Snake Goddess for reference, with a less open bodice and a neckline just as plunged.
 
-The limo was based on a pattern that made it to the World Expo a century before, simplified and with leather used where rubber needn't be. A doorman closed the sedan's door behind him.
+The limo was based on a pattern that made it to the World Expo a century before, simplified and with leather used where rubber needn't be. A doorman closed the limo's door behind him.
 
-*Time's a'changing.* Fleming leered.
+*Time's a'changing.* Fleming leered at the dress.
 
 *Look at the content of their character, Fleming.*
 
@@ -3610,9 +3610,9 @@ The tea sloshed in his flask, two horses trotted abreast, riding point.
 
 The motorcade stopped in front of the Terrarium, the doorman disembarked.
 
-*Both broken, then.* Collie made sure that her eyeliner won't be smudged.
+*Both broken, then.* Collie made sure that her eyeliner wouldn't be smudged.
 
-*Tempered, Coelia. Tempered*
+*Tempered, Coelia. Tempered.*
 
 They smiled at the doorman.
 
