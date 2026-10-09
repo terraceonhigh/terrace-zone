@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,880
+word_count: 27,901
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3402,7 +3402,7 @@ It was an okay day.
 
 ## Splendor
 
-It was some time in the afternoon. Birds were going at it outside, and the cherry tree did not move, because no wind came through the glass roof. Ada signed for the delivery at the door and let two of the helpers carry it up.
+It was some time in the afternoon. Birds were chirping outside, and the cherry tree did not move, because no wind came through the glass roof. Ada signed for the delivery at the door and let two of the helpers carry it up.
 
 She had it from the stairwell, on a hand-cart. It rang, resonant and bell-like, when cart and can landed in the room.
 
@@ -3412,7 +3412,7 @@ The fridge compressor kicked in.
 
 *And every time somebody said hello, the first thing out of his mouth was, oh did you see my baby up there on the pedestal.* Ada twisted a valve shut. *It's a pediment. The carvers insisted.*
 
-She pressed a button on the monitor. Its plastic had been pumped out of the ground in Arabia, pelletized somewhere wetter, and injection-molded sixteen hours from wherever the machine was built. She plugged the hose into the new can, stamped `Iota Iron Works`, pressed the button again, and the machine stopped complaining.
+She pressed a button on the monitor. Its plastic had been pumped out of the ground in Arabia, pelletized somewhere wetter, and injection-molded sixteen hours from wherever the machine was built. She plugged the hose into the new can, the one that said `Iota Iron Works`, pressed the button again, and the machine stopped complaining.
 
 Klara's cheek was warm.
 
@@ -3420,13 +3420,13 @@ Klara's cheek was warm.
 
 Klara's hair wanted washing.
 
-*They made me so pretty for the statue. They put me in a hat from the museum. They said it crossed an icy river once.* She smoothed the blanket. *The long jacket smelled funky, though.*
+*They made me so pretty for the statue. They put me in a hat from the museum, said it crossed an icy river once.* She smoothed the blanket. *The long jacket smelled funky, though.*
 
 Ada failed to mention that they did not give her a shirt.
 
 *The Chief of the dam told me the turbine I was holding is the same kind they use up the river. Papa let his little boy kiss my hand,* a pause, *and he also said the Chief is a good man.*
 
-*The girl from Aldermere was there too. The one who did my hair between sittings. They let her keep her glasses on, mama, and her glasses had chains, and she put the sweetgrass in them herself.* Her people had given her a jade ring for the ride to Arbutus. *There was a whole row about whether to carve her hair up or down. She braided mine with your handkerchief, and I made sure they carved that in.* Ada picked a speck of lint off the blanket. *They made her urn pour out salmon, mine just gave water.*
+*The girl from Aldermere was there too, the one who did my hair between sittings. They let her keep her glasses on, mama, and her glasses had chains, she told me she put the sweetgrass in them herself.* Her people had given her a jade ring for the ride to Arbutus. *There was a whole row about whether to carve her hair up or down. She did mine with your handkerchief, and I made sure they carved that in.* Ada picked a speck of lint off the blanket. *They made her urn pour out salmon, mine just gave water.*
 
 The clock struck five. The tower bell, across the campus, did not come into the room.
 
@@ -3436,7 +3436,7 @@ The syringe and needles had been boiled before they were put away. Ada boiled th
 
 The medicine lived in the fridge, in its own wooden box, next to the spirits. They were low on mead. She broke the ampule. What was in it would trade for five vials of poppy.
 
-She drew it slowly, and the needle went slower. She folded the blanket off the left shoulder, the same as yesterday. She undid her mistake, and kept the rest of her mother covered. The swab was cold.
+She drew it slowly, and the needle went slower. She folded the blanket off the left shoulder, the same as yesterday. She realised, undid her mistake, and kept the rest of her mother covered. The swab was cold.
 
 *sorry.*
 
@@ -3448,7 +3448,7 @@ Another boil, and then Ada did her own injection in her room.
 
 ---
 
-The fire outside smouldered, then stopped, and a hand lay across Lewis's (reportedly well-defined) pecs. Something heavy sat on his ribs. The roof spun at the pace of a wind-blown dandelion.
+The fire outside smouldered, then stopped, and a hand lay across Lewis's (reportedly well-defined) pecs. Something heavy sat on his ribs. The roof spun at the pace of wind-blown dandelion.
 
 She had something grown in Aldermere. He'd had something grown in Aldermere too.
 
@@ -3474,7 +3474,7 @@ Vavasseur did not seem convinced. A radio-compressed sigh, then *Look, be for re
 
 *how did you, no. I'll make it. promise.*
 
-*Bréal's gonna kill me.* Static. *Thirty. Not a minute more.*
+*Bréal's gonna kill me.* Static. *Make that thirty minutes, and not one more.*
 
 *Kiss goodbyeee,* Diana said from the floor, weak in the knees, and crawled to him while he did up his kit.
 
@@ -3482,7 +3482,7 @@ Her lips tasted like mead, ash, and victory.
 
 *Gotta go, babe. Next week.* His free hand grabbed something for the road.
 
-His buckle jingled half the way down the trail. He was carrying less than he had carried up. His notebook remembered for him that Diana's mother liked Maddy's candles, and that he'd left her two.
+His buckle jingled half the way down the trail. He was carrying less than he had brought up. His notebook remembered for him that Diana's mother liked Maddy's candles, and the pep in his step told him that he'd left her two.
 
 Vavasseur caught him by the chin at the trucks.
 
@@ -3500,9 +3500,9 @@ Left, right. He picked a hair off Lewis's lip and flicked it away. No obvious cu
 
 He conked out till the perimeter. The sun was still up, and they put the searchlight on the truck anyway. It sobered the last bit of him up.
 
-At the house a woman who did not speak English measured his shoulders with her hands and handed him a tux that was loose in the waist. He knew how to tie the tie, though. Auntie Collie had seen to that.
+At the house a woman who did not speak English measured his shoulders with her eyes and handed him a tux that was loose in the waist. He knew how to tie the tie, though. Auntie Collie had seen to that.
 
-Bréal's suit fit him like a fitted suit, which it was. He walked them down to the gun locker.
+Bréal's suit fit him like a fitted suit, which it was, showoff. He walked them down to the gun locker.
 
 *You know a shoulder rig?*
 
@@ -3515,7 +3515,8 @@ Bréal's suit fit him like a fitted suit, which it was. He walked them down to t
 *Relax, kid. It stays in, probably. We just need it in the room.*
 
 *...I'm feeling lucky.*
-A chuckle, and he handed him the .44. *Attaboy.*
+
+*Good choice.* He handed him the .44. *Punk.*
 
 ---
 
@@ -3547,7 +3548,7 @@ There were two panes of glass between the back seat and the front.
 
 *You don't want that.*
 
-*Then I suppose we can judge a man by his clothes.* She looked at his feet. *Brogues?*
+*Then I suppose we can judge a man by his shoes.* She looked at his feet. *Brogues?*
 
 *Wisdom,* he told the window, *was always less than convincing from that mouth of yours.* The sun was going down over the water. *A lovely blue, though.*
 
@@ -3561,13 +3562,13 @@ Collie's hand grabbed a fistful of ultramarine. She fought the hand open one fin
 
 *You stood in that line behind me, Lord Emeritus, with a ration card in your breast pocket.* Four held. *I had the courage to change the things I could. I trust you have the wisdom for the rest.*
 
-The flask came out. The tea sloshed. Outside, two riders kept pace, one at each headlamp. Fleming scanned the horizon beyond.
+The tea sloshed in his flask. Outside, two riders kept pace, one at each headlamp. Fleming scanned the horizon beyond.
 
-*You, you did not see what I saw in the Balkans, Coelia. I know how the women came through. They came through with nothing.* He capped the flask. *You came through in silk. Spared even the inconvenience they suffered after.*
+*You, you did not see what I saw in the Balkans, Coelia. I know how the women came through. They came through with nothing.* He focused on the road. *You came through in silk. Spared even the inconvenience they suffered after.*
 
 *Wool. We wear what we make. No matter. In your... fantasies, I wasn't doing a whole lot of seeing eye to eye anyways.* Collie tried to chuckle.
 
-*And you make families.* He turned from the window then. *A stolen bastard. The Tsien boy. Whoever is on your first floor this month. Does it help? Arranging them?*
+*I would hardly imagine such things for a girl who still plays house.* He turned from the window then. *A stolen bastard. The Tsien boy. Whoever is on your first floor this month. Does it help? Arranging them?*
 
 Collie dug into her clutch for nothing in particular, *it helps them eat.*
 
@@ -3581,7 +3582,7 @@ The wheels found the gravel in front of the Terrarium. The doorman put on his gl
 
 Collie double-checked her eyeliner. Clean.
 
-*both broken, then.* Quieter: *Don't call maddy that.*
+*both broken, then.* Quieter: *don't call maddy that.*
 
 He watched her a moment longer than he needed to, then laid the cane across his knees.
 
