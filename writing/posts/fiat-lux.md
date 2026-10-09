@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,839
+word_count: 27,840
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3485,6 +3485,8 @@ Her lips tasted like mead, ash, and victory.
 His buckle jingled half the way down the trail. He was carrying less than he had carried up. His notebook remembered for him that Diana's mother liked Maddy's candles, and that he'd left her two.
 
 Vavasseur caught him by the chin at the trucks.
+
+*Hrrm?*
 
 Left, right. He picked a hair off Lewis's lip and flicked it away. No obvious cuts or bruises. *Looking handsome.*
 
