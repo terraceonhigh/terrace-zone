@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,947
+word_count: 27,909
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2110,19 +2110,19 @@ It stopped smelling like magic smoke around the fifth time he ran current throug
 
 *A-ha!* It was a simple joy, and Maia would always be impressed.
 
-...Oh, right, the observatory thing. They really need to get a third bicycle so she can come home when she is working the campus telescope.
+...Oh, right, the observatory thing. The campus telescope was not that far away, they really need to get Maia a bicycle.
 
-Didn't he tell Lewis to find one? Maybe he didn't. He'll tell him next time. Or maybe he'll buy one if Lewis didn't come back with one.
+Didn't he tell Lewis to find one? Maybe he didn't. He'll tell him next time. Or maybe he'll buy one if Lewis, too, forgot.
 
 He had a drink of water to wash down the bismuth taste in the solder.
 
 Through the wall, two voices began to be audible.
 
-*I am not asking...anything more than a date.* Collie sounded stern.
+*not asking...a date.* Collie sounded stern.
 
 *...real mom won't...*
 
-*she doesn't have to be here... she... golden child... irresponsible.*
+*doesn't have to be here... she... golden child... irresponsible.*
 
 *you... no right... she...*
 
@@ -2144,9 +2144,7 @@ He puffed up his cheeks, and exhaled.
 
 ---
 
-Collie was preparing dinner now, and he spent the last twenty minutes soldering and desoldering a joint.
-
-The wick was soaked through. He turned the gear off and left his workstation.
+Collie was preparing dinner now, and he spent the last twenty minutes soldering and desoldering the same joint. The wick was soaked through. He turned the gear off and left his workstation.
 
 A few gentle knocks, *Maddy, can I come in?*
 
@@ -2170,11 +2168,9 @@ He delivered the working till back to the client, and the cup was empty when he 
 
 He went downstairs again, to go to the baker. They had garlic bread, everybody likes garlic bread, right?
 
-And a jar of applesauce, from his own allowance. Maia made him do the accounting for them both and he was honest about it.
+And a jar of applesauce, from his own allowance. Maia made him do the accounting for them both and he was honest about it. He did the arithmetic, and made a promise to himself to ask for more, when Maia is back next week.
 
-He did the arithmetic, and made a promise to himself to ask for more, when Maia is back next week.
-
-He carried the food upstairs in his toolbox, the top compartment. The tools in it were almost all already on the table for fixing the till before he emptied the rest.
+He carried the food upstairs in his toolbox. The top compartment had a stray pencil and a wrench.
 
 *Collie...?* Collie was sewing a patch onto something.
 
@@ -2186,9 +2182,9 @@ She threaded the needle back through the last loop.
 
 *Sure, whatever suits her.*
 
-The food was not set on the floor, of course. It was placed with the applesauce under the garlic bread to avoid toolbox grease, and set where Maddy just had to open the door a crack to grab it and the water.
+The toolbox was open, with the garlic bread stacked on the jar of applesauce. It sat where Maddy just had to open the door a crack to grab it and the water.
 
-Alex had not unloaded the bottom part of the toolbox. It scratched the floor for the whole minute when Maddy dragged it in.
+The heavy pliers were in the bottom compartment of the toolbox, which Alex forgot to empty. The box scratched the floor for a whole minute when Maddy dragged it in.
 
 ---
 
@@ -2196,15 +2192,13 @@ The gate in front of the door meant that one could hear someone unlocking someth
 
 Nadia.
 
-The house was quiet, Collie was cooking dinner proper now. Alex was working on another thing to fix. How does one even open on this?
+The house was quiet, Collie was cooking dinner proper now. Alex was working on some junk to fix. How does one even open this?
 
 *Nadia.*
 
 *Hey.* She hung her straw hat next to the door.
 
 Too late, Nadia went to the other living room. He heard a knock on the kitchen door.
-
-He couldn't fix this junk at the dinner table. He just needed half an hour more.
 
 *...difficult...Lewis's room.*
 
@@ -2216,7 +2210,7 @@ He couldn't fix this junk at the dinner table. He just needed half an hour more.
 
 *clean...help.*
 
-Alex gave up on fixing the junk tonight, to intercept Nadia coming out of the bathroom.
+Alex left a mess on the table, to intercept Nadia coming out of the bathroom.
 
 *Hey.* god, what was he doing.
 
@@ -2256,13 +2250,13 @@ Nona helped herself to some extra pickled beets.
 
 ---
 
-The two women did dishes after dinner, they had Alex folding laundry and Nadia do her assignments. The top bunk was empty, and unmade.
+Collie and Nona did dishes after dinner, they had Alex folding laundry and Nadia do her assignments. In her room, the top bunk was empty, and unmade.
 
-Someone knocked on her door.
+Someone knocked on Nadia's door.
 
 *Enter.*
 
-*Nadia, can you help me with this?* A stack of shirts said in Alex's voice.
+*Nadia, can you help me with this?* Alex said from behind a mountain of folded shirts.
 
 *Whoa, geez, okay, I got the top. I got the top.*
 
@@ -2320,7 +2314,7 @@ It was a Polaroid, tinted blue, that depicted two people eating fried chicken at
 
 *yes miss.*
 
-Collie was asleep now, in her room, way before when she was used to sleeping. He fetched a new glass of water.
+Collie was asleep now, in her room, way before when she was used to sleeping. Alex fetched a new glass of water.
 
 Three knocks.
 
@@ -2406,7 +2400,7 @@ He smothered the candle with his fingertips.
 
 When he brought it home, the phone was in a plain cardboard box, surrounded by a nest of straw. He wired in a phone for every floor from ground till fourth, not that Lewis wasn't made to do the long wire runs for the price of a pasty a day.
 
-It was made by an outfit that grew out of the Electronics Club, and was compatible with the University cables.
+It was made by an outfit that grew out of the Electronics Club, and was compatible with the Arbutus standard.
 
 He picked up the phone at two past seven in the morning, when the operators were back at work.
 
@@ -2446,17 +2440,17 @@ okay. Wait, Vavasseur.
 
 *Why don't we let her be a doctor for a while, and then we will see.*
 
-*She's book-smart, like her mom.* Collie looked at the floor, *she'll end up with some buffoon.*
+*She's book-smart, like her mom.* Collie looked at his shoes, *she'll end up with some buffoon.*
 
-*My Lewis is around,* most of the time *he knows how to chase a boy away.*
+*My Lewis is around,* most of the time, *he knows how to chase a boy away.*
 
-*You seem vested in this.*
+*You appear vested in this, why.*
 
 *Lewis's grandma never finished her degree.*
 
 Collie tsk'd.
 
-*Fine, we'll see when she graduates.* She muttered, *I have grad students to deal with, make sure she doesn't die.*
+*Fine, we'll see when she graduates.* She muttered, *I have grad students to deal with, don't burn the house down.*
 
 Small victories.
 
@@ -2472,19 +2466,19 @@ Huh? But... Oh, yeah, it's probably him. *One sec!*
 
 She closed the sample bin, and left the trowel and gloves on the ground. She patted her palms on the front of her jeans as she walked to the office.
 
-Ada left the handset lying on the Secretary's Desk, and vacated the room for a measure of privacy. Nadia picked up the phone, *Alex, what's up?*
+Ada left the handset lying on the Secretary's Desk, and, for the price of a quick hug, vacated the room for a measure of privacy. Nadia picked up the phone, *Alex, what's up?*
 
-*Hey, Nadia. So, you mentioned the department wanting you on a trip next week?*
+*Heyyyy, Nadia. So, you mentioned the department wanting you on a trip next week?*
 
 *Uh huh, cut to the chase.*
 
-*So, I was wondering, I was thinking about—*
+*So, I was wondering, since you're gone for a few—*
 
 *Point being?*
 
 *Okay, uh, can you bring Maddy along.*
 
-She guessed as much, and sighed, away from the microphone.
+She guessed as much, and sighed, away from the microphone. *Please,* Alex added.
 
 *Collie isn't the forgetful type.*
 
@@ -2499,8 +2493,6 @@ Nadia reached into her pocket, felt the relief pattern on the ID card in her wal
 *Thank you, thank you.*
 
 *You owe me and mom one, and no passing the buck to Lewis.*
-
-*Awww, but I thought Nona loved that sewing machine.*
 
 ---
 
