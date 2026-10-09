@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,556
+word_count: 27,603
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3576,7 +3576,7 @@ A servant told them that Madam Swartz was outside, with the motorcade.
 
 The scarf Lady Swartz was issued was the same tartan, which clashed with her mulberry dress. She had written to Fleming two weeks before about the issue, and was seen in the back seat in an ultramarine dress. She gave the seamstress a sketch of a Minoan Snake Goddess for reference, with a less open bodice and a neckline just as plunged.
 
-The limo was based on a pattern that made it to the World Expo a century before, simplified and with leather used where rubber needn't be. A doorman closed the limo's door behind him.
+The limo was based on a pattern that made it to the World's Fair a century before, simplified and with leather used where rubber needn't be. A doorman closed the limo's door behind him.
 
 *Time's a'changing.* Fleming leered at the dress.
 
@@ -3588,19 +3588,21 @@ There were two panes of glass between the backseat and the front.
 
 A cylinder knocked.
 
-*...Some things are in our power.*
+*...Some things are in our power.* Collie replied.
 
 *How is the old Director of Food Services, what's his name?*
 
-*You were in that line with me, Lord Emeritus. I have the courage to change the things I can, I trust you, now, have the wisdom to know the difference.*
+Collie scrunched a fistful of her dress, pried her hand open, and smoothed the fabric. There was no visible damage.
+
+*You were in that line with me, Lord Emeritus.* Collie did box breathing through her nose. *I had the courage to change the things I could. I trust you, now, have the wisdom to know the difference.*
 
 The tea sloshed in his flask, two horses trotted abreast, riding point.
 
-*You did not see what I saw.* Fleming said in serenity.
+*You, you, did not see what I saw.* Fleming said in serenity, while his eyes scanned the horizon. *...and all for your sister's bastard.*
 
-*Should you be right, I wasn't doing a whole lot of seeing eye to eye.*
+*Should you be right, I wasn't doing a whole lot of seeing eye to eye.* Collie tried to chuckle.
 
-*Your kind was plenty in the Balkans, just you found a silk dress after the rags.*
+*Your kind was plenty in the Balkans, just you found a silk dress afterwards.*
 
 *Wool, Fleming. We have to wear what we make.*
 
@@ -3611,6 +3613,8 @@ The tea sloshed in his flask, two horses trotted abreast, riding point.
 The motorcade stopped in front of the Terrarium, the doorman disembarked.
 
 *Both broken, then.* Collie made sure that her eyeliner wouldn't be smudged.
+
+Fleming's eyes relaxed.
 
 *Tempered, Coelia. Tempered.*
 
