@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,942
+word_count: 27,943
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3615,6 +3615,8 @@ The tea sloshed in his flask, two horses trotted abreast, riding point.
 *Whore.*
 
 *Drunkard.*
+
+*Cuckoo.*
 
 The motorcade stopped in front of the Terrarium, and the doorman disembarked.
 
