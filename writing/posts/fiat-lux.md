@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,882
+word_count: 27,885
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3426,7 +3426,7 @@ Ada failed to mention that they did not give her a shirt.
 
 *The Chief of the dam told me the turbine I was holding is the same kind they use up the river. Papa let his little boy kiss my hand,* a pause, *and he also said the Chief is a good man.*
 
-*The girl from Aldermere was there too. The one who did my hair between sittings. They let her keep her glasses on, mama, and they had chains. She put the sweetgrass in herself.* Her people had given her a jade ring for the ride to Arbutus. *There was a whole row about whether to carve her hair up or down. She braided mine with your handkerchief, and I made sure they carved that in.* Ada picked a speck of lint off the blanket. *They made her urn pour out salmon, mine just gave water.*
+*The girl from Aldermere was there too. The one who did my hair between sittings. They let her keep her glasses on, mama, and her glasses had chains, and she put the sweetgrass in them herself.* Her people had given her a jade ring for the ride to Arbutus. *There was a whole row about whether to carve her hair up or down. She braided mine with your handkerchief, and I made sure they carved that in.* Ada picked a speck of lint off the blanket. *They made her urn pour out salmon, mine just gave water.*
 
 The clock struck five. The tower bell, across the campus, did not come into the room.
 
@@ -3444,7 +3444,7 @@ One smooth push. Saline, alcohol, the cap.
 
 *Get well soon, mama.*
 
-Another boil, and then Ada took the syringe to her own room.
+Another boil, and then Ada did her own injection in her room.
 
 ---
 
