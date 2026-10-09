@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 27,603
+word_count: 27,852
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3482,9 +3482,9 @@ Another boil, and then Ada did her own injection in her room.
 
 ---
 
-The fire outside had died down, and a hand sprawled itself across Lewis's pecs.
+The fire outside had died down, and a hand sprawled itself across Lewis's pecs. There was something heavy pressing against his ribs, and the roof seemed to spin.
 
-There was something heavy pressing against his ribs, and the roof seemed to spin.
+She had something that was grown in Aldermere. He, too, had something grown in Aldermere.
 
 The walkie-talkie on his jacket crackled, and then a voice came in:
 
@@ -3506,15 +3506,15 @@ Oh, oops, hehe.
 
 Diana growled at the radio.
 
-Vavasseur did not seem convinced. A radio-compressed sigh, then *Do I need to pick you up at the shack?*
+Vavasseur did not seem convinced. A radio-compressed sigh, then *Look, be for real with me. Do I need to pick you up at the shack?*
 
 *how, did you know, and, no. I can make it promise.*
 
 *Bréal's gonna kill me.* Vavasseur exhaled. *Make that thirty minutes, and not one more.*
 
-*Kiss goodbyeee...* Diana crawled to a Lewis putting his gear back on.
+*Kiss goodbyeee...* Diana was weak in the knees, and crawled to a Lewis putting his gear back on.
 
-Her lips tasted like ash and victory.
+Her lips tasted like mead, ash, and victory.
 
 *Okay, gotta go, babe. See you next week.* Lewis's free hand grabbed something, for the road.
 
@@ -3526,7 +3526,7 @@ Vavasseur grabbed him by the chin when he got back.
 
 *Hrrm?*
 
-A look left, a look right, no obvious cuts or bruises. *Looking handsome.*
+A look left, a look right, pull a hair off his lip. No obvious cuts or bruises. *Looking handsome.*
 
 *Hrrm??*
 
@@ -3538,7 +3538,7 @@ A look left, a look right, no obvious cuts or bruises. *Looking handsome.*
 
 He conked out until they reached the campus perimeter. The sun was still up, but they still pointed a searchlight at the truck.
 
-A woman who did not speak english measured his shoulders and height when he got back to the frat house. The tux she handed him was a bit loose at the waist.
+A woman who did not speak English measured his shoulders and height when he got back to the frat house. The tux she handed him was a bit loose at the waist.
 
 He knew how to tie a tie, though, Auntie Collie made sure of that.
 
@@ -3619,6 +3619,26 @@ Fleming's eyes relaxed.
 *Tempered, Coelia. Tempered.*
 
 They smiled at the doorman.
+
+---
+
+The doorman followed the two principals in, and he did not note that Madam Swartz was wrapped around Lord Fleming's left arm, and that another guard was holding his cane for him.
+
+It was good to be in Campus Security, and better to be in Principal Protection. Because after the faculty and guests were done there was good food in the downstairs.
+
+The Terrarium always had the best seconds. They stood at a corner before the dining hall. There was a light spot on the wall that once held a plaque, which once upon a time remembered such-and-such donor and his generous donation making the conservatory possible.
+
+He got the message in his ear, to bring the principals in.
+
+On the opposite end, four men rolled in. He was briefed, a table for eighteen, booked for four, the one with the ponytail was Bréal, the willowy one was Vavasseur, and two guards to match—
+
+—was it just him, or was Honey Boy one of the guards.
+
+Isn't he an electrician? What is he doing here?
+
+Well, no matter. Madam Swartz's chair still needed pulling out, and they still needed to retreat to flank the doors. He saw the menu, figured they're getting salmon soup tonight, with the good radish and the rendered bones.
+
+---
 
 ---
 
