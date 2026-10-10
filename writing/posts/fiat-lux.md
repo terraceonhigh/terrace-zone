@@ -3760,7 +3760,7 @@ Alice, why aren't you here? One more hand, you wouldn't even notice the differen
 
 ---
 
-He saw his peer excuse herself, above-peer in some domains, actually.
+Fleming saw his peer excuse herself, above-peer in some domains, actually.
 
 Before that, he had counted to himself how many days he had left to live.
 
@@ -3786,7 +3786,7 @@ In the meantime, he should enjoy what time was left to the fullest.
 
 They had sea urchin after, on white rice, a short-grain cultivar they had just made barely viable in the country. The white vinegar was the same base as balsamic, but flatter, less complex, and more readable in the now.
 
-By the looks of it, he should have brought a better brother than Lewis.
+By the looks of it, Bréal should have brought a better brother than Lewis.
 
 Collie was neutralized, at least until after short-term memories expired. The old man was on une last hurrah; it seemed he had misjudged the situation.
 
