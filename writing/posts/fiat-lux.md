@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 28,947
+word_count: 29,029
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3731,6 +3731,22 @@ Bréal chuckled, and said *A miracle, this one. One day he'll run the place.*
 *First and foremost, I am glad to see that Epsilon's ask for full citizenship of all brothers was beyond question. What we do ask for, is, for the chartered Epsilon to hold its house by its own right in perpetuity, instead of the five hundred years the draft settled on.*
 
 It was a mouthful. Vavasseur had another swig.
+
+---
+
+It would be so easy, they aren't even looking at their drinks. She had it in her sleeve, half a minute and they would be dead.
+
+Maddy was a good girl.
+
+And Vavasseur would make a good lieutenant.
+
+Only, she would get arrested by both sides.
+
+Why does he keep kissing her?
+
+It was some fish or other, she could not taste.
+
+She laughed, said he was being rowdier than usual, and excused herself to the bathroom to fix her makeup.
 
 *(To be continued.)*
 
