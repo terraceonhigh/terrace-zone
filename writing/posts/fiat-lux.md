@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,360
+word_count: 30,364
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3720,9 +3720,9 @@ A tiny sliver of ginger to cleanse the palate. They had yellow ones instead of r
 
 The wasabi tasted different from the horseradish he remembered from his youth. The fish was less briny, but somehow tasted more of the sea than imitation crab.
 
-*Lady Swartz would make a lovely mother for Ada.* Vavasseur offered a toast.
+*Is Ada taking to her new mother well?* Vavasseur asked, over his glass.
 
-*Well, we'll see about that.* Fleming chuckled. Two glasses clanged, and he held Collie at the shoulder. As agreed.
+*Splendidly,* said Fleming. *We'll see,* said Collie, at the same moment. Two glasses clanged, and he held Collie at the shoulder. As agreed.
 
 *Almost wished you were our sons, you two. The way you brought flowing water back to Arbutus was nothing less than miraculous,* Collie said.
 
