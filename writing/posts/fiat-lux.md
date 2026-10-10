@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,342
+word_count: 30,360
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3724,11 +3724,11 @@ The wasabi tasted different from the horseradish he remembered from his youth. T
 
 *Well, we'll see about that.* Fleming chuckled. Two glasses clanged, and he held Collie at the shoulder. As agreed.
 
-There was no cucumber, so there was no crunch.
-
 *Almost wished you were our sons, you two. The way you brought flowing water back to Arbutus was nothing less than miraculous,* Collie said.
 
 He wanted to say he was flattered, but Maddy was not here in his arms, and talk is cheap.
+
+He said he was flattered, and did not turn his head to read Lewis's face. There was no cucumber in the nigiri, so there was no crunch.
 
 *Now, I hate to be the stuffy one, but shall we discuss the terms?* Vavasseur had priced this line yesterday.
 
