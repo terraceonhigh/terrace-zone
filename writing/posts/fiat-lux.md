@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 29,084
+word_count: 29,985
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3732,7 +3732,7 @@ Bréal chuckled, and said *A miracle, this one. One day he'll run the place.*
 
 It was a mouthful. Vavasseur had another swig.
 
----
+***
 
 It would be so easy, they aren't even looking at their drinks. She had it in her sleeve, half a minute and they would be dead.
 
@@ -3757,6 +3757,108 @@ She swore he looked Lewis in the eyes.
 Don't shoot, kid. Not right now.
 
 Alice, why aren't you here? One more hand, you wouldn't even notice the difference.
+
+---
+
+He saw his peer excuse herself, above-peer in some domains, actually.
+
+Before that, he counted to himself how many days he had left to live.
+
+Before that, he had counted how many days he had to live if he pushed this student too far
+
+The sums came out an attractive number.
+
+It was all for the greater good. They won't so easily tear down a pedestal, they won't easily take the building away, they won't easily leave them for dead. 
+
+They needed a new machine for Klara, and, they needed the land to tax. Ada needed a place to live and grow old. She never did anything wrong, she.
+
+The young man seated against him laughed at something. His eunuch syncopates. Hadn't he been here before?
+
+Or, did they not see what Collie did to get her doctorate.
+
+Well, sensors always were unreliable.
+
+In the worst case. the servants will know what to do, the garden is enough for her to live. He just needed to make it until the ink dries.
+
+In the meantime, he should enjoy what time is left to the fullest.
+
+---
+
+They had sea urchin after, on white rice, a short-grain cultivar they had just made barely viable in the country. The white vinegar was the same base as balsamic, but flatter, less complex, and more readable in the now.
+
+By the looks of it, he should have brought a better brother than Lewis.
+
+Collie is neutralized, at least until after short-term memories expire. The old man was on une last hurrah, it seems he had misjudged the situation.
+
+He is eating, like how Nero ate grape. She ate like how mother ate the communion wafer.
+
+This is bad alpha, yes. But its better show.
+
+They just needed to make sure they stayed away from Maddy's ward when she is in hospital. It was a shame, she is lined up to replace Franklin.
+
+Right, is his blonde safe at home? And how many months is she? Ah, damned! Could Lewis have seen?
+
+..and barely any French in Arbutus.
+
+No, No, he had to focus on the night.
+
+He took a drink.
+
+*By the Virgin Mary*, he whispered inside his head. *This swill make me think I should have stayed with father on the yacht, and I hate my father.*
+
+A long white cloud drifted somewhere beyond the horizon. It was, in fact, aimless; and lost to mist by the third course.
+
+But, he was the different one, the one that knew wealth is power, and with great power comes great responsibility.
+
+He twirled his butter knife, and his eyes focused to nowhere in particular. Maybe they read the smile as evil?
+
+The crown would have been heavier on him than it ever was.
+
+---
+
+The paper came. In black and white.
+
+*...*
+
+...And in black and white. there was an evacuation order. He could hardly read the alphabet they put it in. His daughter told him they wanted them all to go away. The town notary said the same.
+
+They couldn't tell, and they wouldn't.
+
+They had four days, which was longer than most.
+
+The house went first, because it had a scenic view and the population always needed more living-room. And then was the car, they wouldn't have needed it anyways. The boat went last, and he had tried to be an ass about all of it.
+
+She was a part of his flesh, he had told his daughter. The man did not parse, and offered instead a wad of cash for her, here, now. It was a good deal.
+
+They put the money in the bank, and the ones who put up the order on the paper, in black and white, took what was in the bank too.
+
+It was the first time he lost sight of the ocean, and then the first time he lost sight of a river.
+
+There were snow-peaked mountains, and then desert fields, they told them to build their own prison.
+
+They made do, they made food that reminded them of home, they celebrated when there were things to celebrate, and then in the years they had plenty they even got to sell the surplus.
+
+It got a pair of boots for every working man.
+
+They didn't let them touch water ten years after that. He ended up spending fifteen running a sushi restaurant in the east end of the town, where his son was born and told of his late sister.
+
+Regarding his choice on what to put on the menu: They couldn't tell, and why would they? A roll is a roll.
+
+He never stepped on a boat after she went.
+
+His son did not want to carry on the restaurant, growing up, his father brought him to bow at people about the restaurant every month. It came to him that his father took on great humiliation to get the restaurant going.
+
+*They were better now, Dad. You don't have to bow to them any more. Retire, I got you.*
+
+His never did stop.
+
+Now, the man who was taken from the shore and who returned had a great-grandchild who was the best chef in Arbutus, serving the best of Arbutus. The one keeping an art alive so far from home.
+
+It was more than what he could ever have imagined.
+
+As for the four guests: they could tell, most likely. But why would they?
+
+***
 
 *(To be continued.)*
 
