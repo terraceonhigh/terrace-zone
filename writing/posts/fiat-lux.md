@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 28,809
+word_count: 28,947
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3650,7 +3650,7 @@ The men laughed, full-throatedly. Vavasseur's laugh had an airy component, and C
 
 Collie signaled for the mead.
 
-*Good food, great wine, and beautiful women make for good business, my father always said that.*
+*Good food, great wine, and beautiful women make for good business, my father always said that.* Bréal was too eager.
 
 *Now, boys, we do have a Lady in our company. Settle down, settle down.*
 
@@ -3719,6 +3719,20 @@ A tiny sliver of ginger to cleanse the palate. They had yellow ones instead of r
 The wasabi tasted different from the horseradish he remembered from his youth. The fish was less briny, but somehow tasted more of the sea than imitation crab.
 
 There was no cucumber, so there was no crunch.
+
+*Now, I hate to be the stuffy one, but shall we discuss the terms?* Vavasseur had priced this line yesterday.
+
+Bréal chuckled, and said *A miracle, this one. One day he'll run the place.*
+
+*I was under the impression my collie had it all worked out.* Fleming straightened himself. *But I suppose that is why we are here.*
+
+*Arf.* Collie threw up a little in her mouth. Fleming squeezed harder against her ribs.
+
+*First and foremost, I am glad to see that Epsilon's ask for full citizenship of all brothers was beyond question. What we do ask for, is, for the chartered Epsilon to hold its house by its own right in perpetuity, instead of the five hundred years the draft settled on.*
+
+It was a mouthful. Vavasseur had another swig.
+
+*(To be continued.)*
 
 ---
 
