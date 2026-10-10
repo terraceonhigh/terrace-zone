@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,199
+word_count: 30,249
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3794,7 +3794,7 @@ A long white cloud drifted somewhere beyond the horizon. It was, in fact, aimles
 
 But he was the different one, the one that knew wealth is power, and with great power comes great responsibility.
 
-He twirled his butter knife, and his eyes focused to nowhere in particular. Maybe they read the smile as evil?
+He twirled his butter knife, and his eyes focused to nowhere in particular. Maybe they read the smile as evil? Shame, he had thought the Englishwoman a better negotiator.
 
 The crown would have been heavier on him than it ever was.
 
@@ -3817,6 +3817,8 @@ He closed his eyes, even though they remained open. Fleming was not being the ni
 ...Auntie Collie's eyes were soft, softer than he knew they went.
 
 ---
+
+It began in Weirwick, though the man in this story calls it by another name, a more familiar one.
 
 The paper came. In black and white.
 
@@ -3869,6 +3871,10 @@ A child nicknamed Lily — or on an incomprehensible schedule, Coco — once sli
 But, what can you do about an Englishwoman?
 
 ***
+
+An excerpt from Chef Akiyama's Technical Guide to Arbutus Cuisine, as published:
+
+### Recipe for a Chawanmushi, as served in The Terrarium
 
 *(To be continued.)*
 
