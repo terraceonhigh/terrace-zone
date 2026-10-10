@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,064
+word_count: 30,203
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3678,9 +3678,9 @@ Bréal was going too fast, too rowdy. Vavasseur knew that much.
 
 But wasn't it their daughters who were fond of each other? He marked the datum for later exploration, if there was a later.
 
-Lewis isn't a good shot, and his aunt is here. He isn't here for his shot.
+Lewis wasn't a good shot, and his aunt was here. He wasn't here for his shot.
 
-Did he know about her and Fleming? What does her husband think?
+Did he know about her and Fleming? What did her husband think?
 
 Okay, okay, focus on the principals.
 
@@ -3734,17 +3734,17 @@ It was a mouthful. Vavasseur had another swig.
 
 ***
 
-It would be so easy, they aren't even looking at their drinks. She had it in her sleeve, half a minute and they would be dead.
+It would be so easy; they weren't even looking at their drinks. She had it in her sleeve. Half a minute, and they would be dead.
 
-Maddy was a good girl, and Vavasseur would make a good lieutenant. She won't even need them to go on that lunch.
+Maddy was a good girl, and Vavasseur would make a good lieutenant. She wouldn't even need them to go on that lunch.
 
 Only, she would get arrested by both sides.
 
-Why does he keep kissing her?
+Why did he keep kissing her?
 
 Did they mean for Lewis to see all of this?
 
-It was some fish or other, she could not taste.
+It was some fish or other; she could not taste it.
 
 She laughed, said he was being rowdier than usual, and excused herself to the bathroom to fix her makeup.
 
@@ -3762,25 +3762,25 @@ Alice, why aren't you here? One more hand, you wouldn't even notice the differen
 
 He saw his peer excuse herself, above-peer in some domains, actually.
 
-Before that, he counted to himself how many days he had left to live.
+Before that, he had counted to himself how many days he had left to live.
 
-Before that, he had counted how many days he had to live if he pushed this student too far
+Before that, he had counted how many days he had to live if he pushed this student too far.
 
 The sums came out an attractive number.
 
-It was all for the greater good. They won't so easily tear down a pedestal, they won't easily take the building away, they won't easily leave them for dead. 
+It was all for the greater good. They wouldn't so easily tear down a pedestal, they wouldn't easily take the building away, they wouldn't easily leave them for dead.
 
-They needed a new machine for Klara, and, they needed the land to tax. Ada needed a place to live and grow old. She never did anything wrong, she.
+They needed a new machine for Klara, and they needed the land to tax. Ada needed a place to live and grow old. She never did anything wrong, she—
 
-The young man seated against him laughed at something. His eunuch syncopates. Hadn't he been here before?
+The young man seated against him laughed at something. His eunuch syncopated. Hadn't he been here before?
 
-Or, did they not see what Collie did to get her doctorate.
+Or did they not see what Collie had done to get her doctorate?
 
 Well, sensors always were unreliable.
 
-In the worst case. the servants will know what to do, the garden is enough for her to live. He just needed to make it until the ink dries.
+In the worst case, the servants would know what to do, and the garden was enough for her to live on. He just needed to make it until the ink dried.
 
-In the meantime, he should enjoy what time is left to the fullest.
+In the meantime, he should enjoy what time was left to the fullest.
 
 ---
 
@@ -3788,17 +3788,17 @@ They had sea urchin after, on white rice, a short-grain cultivar they had just m
 
 By the looks of it, he should have brought a better brother than Lewis.
 
-Collie is neutralized, at least until after short-term memories expire. The old man was on une last hurrah, it seems he had misjudged the situation.
+Collie was neutralized, at least until after short-term memories expired. The old man was on une last hurrah; it seemed he had misjudged the situation.
 
-He is eating, like how Nero ate grape. She ate like how mother ate the communion wafer.
+He ate like how Nero ate grape. She ate like how mother ate the communion wafer.
 
 This is bad alpha, yes. But its better show.
 
-They just needed to make sure they stayed away from Maddy's ward when she is in hospital. It was a shame, she is lined up to replace Franklin.
+They just needed to make sure they stayed away from Maddy's ward when she was in hospital. It was a shame; she was lined up to replace Franklin.
 
-Right, is his blonde safe at home? And how many months is she? Ah, damned! Could Lewis have seen?
+Right, was his blonde safe at home? And how many months was she? Ah, damned! Could Lewis have seen?
 
-..and barely any French in Arbutus.
+...and barely any French in Arbutus.
 
 No, No, he had to focus on the night.
 
@@ -3808,7 +3808,7 @@ He took a drink.
 
 A long white cloud drifted somewhere beyond the horizon. It was, in fact, aimless; and lost to mist by the third course.
 
-But, he was the different one, the one that knew wealth is power, and with great power comes great responsibility.
+But he was the different one, the one that knew wealth is power, and with great power comes great responsibility.
 
 He twirled his butter knife, and his eyes focused to nowhere in particular. Maybe they read the smile as evil?
 
@@ -3820,13 +3820,13 @@ The paper came. In black and white.
 
 *...*
 
-...And in black and white. there was an evacuation order. He could hardly read the alphabet they put it in. His daughter told him they wanted them all to go away. The town notary said the same.
+...And in black and white, there was an evacuation order. He could hardly read the alphabet they put it in. His daughter told him they wanted them all to go away. The town notary said the same.
 
 They couldn't tell, and they wouldn't.
 
 They had four days, which was longer than most.
 
-The house went first, because it had a scenic view and the population always needed more living-room. And then was the car, they wouldn't have needed it anyways. The boat went last, and he had tried to be an ass about all of it.
+The house went first, because it had a scenic view and the population always needed more living-room. And then the car; they wouldn't have needed it anyways. The boat went last, and he had tried to be an ass about all of it.
 
 She was a part of his flesh, he had told his daughter. The man did not parse, and offered instead a wad of cash for her, here, now. It was a good deal.
 
@@ -3834,21 +3834,21 @@ They put the money in the bank, and the ones who put up the order on the paper, 
 
 It was the first time he lost sight of the ocean, and then the first time he lost sight of a river.
 
-There were snow-peaked mountains, and then desert fields, they told them to build their own prison.
+There were snow-peaked mountains, and then desert fields, where they told them to build their own prison.
 
 They made do, they made food that reminded them of home, they celebrated when there were things to celebrate, and then in the years they had plenty they even got to sell the surplus.
 
 It got a pair of boots for every working man.
 
-They didn't let them touch water ten years after that. He ended up spending fifteen running a sushi restaurant in the east end of the town, where his son was born and told of his late sister.
+They didn't let them touch water ten years after that. He ended up spending fifteen years running a sushi restaurant in the east end of the town, where his son was born and told of his late sister.
 
-Regarding his choice on what to put on the menu: They couldn't tell, and why would they? A roll is a roll.
+Regarding his choice on what to put on the menu: they couldn't tell, and why would they? A roll is a roll.
 
 He never stepped on a boat after she went.
 
-His son did not want to carry on the restaurant, growing up, his father brought him to bow at people about the restaurant every month. It came to him that his father took on great humiliation to get the restaurant going.
+His son did not want to carry on the restaurant. When he was growing up, his father brought him to bow at people about the restaurant every month. It came to him that his father took on great humiliation to get the restaurant going.
 
-*They were better now, Dad. You don't have to bow to them any more. Retire, I got you.*
+*They're better now, Dad. You don't have to bow to them any more. Retire, I got you.*
 
 His dad never did retire.
 
@@ -3862,7 +3862,21 @@ As for the four guests: they could tell, most likely. But why would they?
 
 A year after that last man was evacuated, a male Swartz purchased five of the same make and model, re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
 
-A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his son's yacht, before her side of the family became estranged. Shame, though. Alice would have made a cutthroat successor, they get it from their mother. 
+A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his son's yacht, before her side of the family became estranged. Shame, though. Alice would have made a cutthroat successor; they get it from their mother.
+
+---
+
+*Doctor Fleming seemed to have backed off a bit now,* Lewis noted to himself. His trainings in comportment and calm under fire had a multiplicative effect.
+
+He did not reach for the gun, even when that bastard Fleming had let his hand drift down Auntie Collie's waist.
+
+They had just finished some clause. Bréal gave up the workshop for something and shook Fleming's hand first, even though it was Auntie Collie who gave the compromise.
+
+*Why did bossman want me here?* he asked himself. Then, seeing Bréal with his tied-up hair, he trusted that there was a plan.
+
+He closed his eyes, even though they remained open. Fleming was not being the nice uncle with the beige suit. Something was wrong, and mo—
+
+...Auntie Collie was scared. She was never scared.
 
 ***
 
