@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 28,346
+word_count: 28,702
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3600,7 +3600,7 @@ The Terrarium always had the best seconds. They stood at a corner before the din
 
 He got the message in his ear, to bring the principals in.
 
-On the opposite end, four men rolled in. He was briefed, a room for eighteen, booked for four, the one with the ponytail was Bréal, the willowy one was Vavasseur, and two guards to match—
+On the opposite end, four men rolled in. He was briefed, a room for sixteen, booked for four, the one with the ponytail was Bréal, the willowy one was Vavasseur, and two guards to match—
 
 —was it just him, or was Honey Boy one of the guards?
 
@@ -3614,7 +3614,7 @@ Inside the Terrarium, no two hanging lamps were the same cut crystal, and no two
 
 Old cathode-ray tubes danced in psychedelic fluorescence. A gold-green lockstep made to fit the lights and rebuke the stars.
 
-No leaves rustled.
+The Sun set; the geodesic dome turned to an amber kaleidoscope. No leaves rustled.
 
 Collie did not let herself notice that Lewis was in a suit, and playing bodyguard for Epsilon.
 
@@ -3669,6 +3669,46 @@ The tomatoes were of an heirloom variety. The waitress was screened twice, once 
 Two fruits sliced thick were enough for four. Someone feasted with his eyes as the salads were assembled. The cheese was proudly brought in fresh from Aldermere just today.
 
 In the background, a trombone played a part meant for a synth.
+
+---
+
+The waitress's name was Peggy.
+
+Bréal was going too fast, too rowdy. Vavasseur knew that much. Fleming's arm had gone under the tablecloth, and Collie had not gone still.
+
+But wasn't it their daughters who were fond of each other? He marked the datum for later exploration, if there was a later.
+
+Lewis isn't a good shot, and his aunt is here. He isn't here for his shot.
+
+Did he know about her and Fleming? What does her husband think?
+
+Okay, okay, focus on the principals.
+
+A man clapped his hands together, and the world came back into focus.
+
+*Lords and Ladies, as planned, your second course is going to be omakase. I am your chef. Over the next half-hour or so, please enjoy my sushi creations one-by-one as I bring them out.*
+
+A breath.
+
+*Today's menu celebrates our Arbutus and her townships, with freshly grated wasabi from just under this dome, and a fermented mushroom dipping sauce for a uniquely local umami.*
+
+The chef said something more, and then went back to the kitchen. After the door swung closed, Fleming said that back then, *they never would dare to have his kind show his face at such a dinner.*
+
+Collie fanned her fingers, and Fleming seemed to remember his manners.
+
+Vavasseur mirrored Fleming's contempt, though less overtly; as well as less sincerely, he told himself.
+
+Halibut was the first fish, the chef said. *Cured in kelp, served atop brown rice, from our experimental paddy.*
+
+They wheeled in a bowl for each diner, with soap on the side. He had expected to coach Bréal on how to eat nigiri, but Bréal told him it was common sense.
+
+Grab with the hand, gently, dunk in soy—mushroom sauce, and place in one's mouth topping-side-down.
+
+A tiny sliver of ginger to cleanse the palate. They had yellow ones instead of red.
+
+The wasabi tasted different from the horseradish he remembered from his youth. The fish was less briny, but somehow tasted more of the sea than imitation crab.
+
+There was no cucumber, so there was no crunch.
 
 ---
 
