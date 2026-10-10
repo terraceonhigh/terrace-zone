@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,249
+word_count: 30,267
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3696,7 +3696,9 @@ The chef said something more, and then went back to the kitchen. After the door 
 
 Collie made a cat's claw and swung at the speed of wind-blown willow, and Fleming remembered what she had said about tangents this morning.
 
-Vavasseur threw him a curveball question about soybean cultivation; the answer was on page a hundred-and-sixty-eight of Fleming's thesis.
+Vavasseur threw him a curveball question about soybean cultivation; the answer was on page a hundred-and-sixty-eight of Fleming's thesis. It ran to one-hundred-and-ninety-two, from there until page two-five-five it was just citations.
+
+Vavasseur had read those too.
 
 Halibut was the first fish, the chef said. *Cured in kelp, served atop brown rice, from our experimental paddy.*
 
