@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 29,029
+word_count: 29,091
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3736,17 +3736,25 @@ It was a mouthful. Vavasseur had another swig.
 
 It would be so easy, they aren't even looking at their drinks. She had it in her sleeve, half a minute and they would be dead.
 
-Maddy was a good girl.
-
-And Vavasseur would make a good lieutenant.
+Maddy was a good girl, and Vavasseur would make a good lieutenant. She won't even need them to go on that lunch.
 
 Only, she would get arrested by both sides.
 
 Why does he keep kissing her?
 
+Did they mean for Lewis to see all of this?
+
 It was some fish or other, she could not taste.
 
 She laughed, said he was being rowdier than usual, and excused herself to the bathroom to fix her makeup.
+
+He dragged her back to the seat, said he wanted to kiss her one more time first.
+
+Fuck the colour clash, she should have worn the higher neckline.
+
+She swore he looked Lewis in the eyes.
+
+Don't shoot, kid. Not right now.
 
 *(To be continued.)*
 
