@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 29,091
+word_count: 29,084
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3674,7 +3674,7 @@ In the background, a trombone played a part meant for a synth.
 
 The waitress's name was Peggy.
 
-Bréal was going too fast, too rowdy. Vavasseur knew that much. Fleming's arm had gone under the tablecloth, and Collie had not gone still.
+Bréal was going too fast, too rowdy. Vavasseur knew that much.
 
 But wasn't it their daughters who were fond of each other? He marked the datum for later exploration, if there was a later.
 
@@ -3706,7 +3706,7 @@ Grab with the hand, gently, dunk in soy—mushroom sauce, and place in one's mou
 
 Fleming was about to eat, but Collie grabbed the nigiri off his plate, rose, and insisted on feeding him. Fleming had his hands to his side, as if facing the rapture.
 
-His close hand aided her in sitting down, and then lingered for a moment.
+*Cripple,* she thought while saying *Ahhhh.*
 
 *Isn't she just a doll?* Fleming breathed. *She had this dress made just for tonight.*
 
@@ -3755,6 +3755,8 @@ Fuck the colour clash, she should have worn the higher neckline.
 She swore he looked Lewis in the eyes.
 
 Don't shoot, kid. Not right now.
+
+Alice, why aren't you here? One more hand, you wouldn't even notice the difference.
 
 *(To be continued.)*
 
