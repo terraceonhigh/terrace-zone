@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,261
+word_count: 30,271
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3880,7 +3880,9 @@ As for the four guests: they could tell, most likely. But why would they?
 
 A year after that last man was evacuated, a male Swartz — one Collie never met except at his funeral — purchased five of the same make and model, re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
 
-A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his son's yacht, before her side of the family became estranged. Shame, though. Alice would have made a cutthroat successor; they get it from their mother.
+A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his son's yacht, before her side of the family became estranged. Shame, though. Her sister Alice would have made a cutthroat successor; they get it from their mother.
+
+But, what can you do about an Englishwoman?
 
 ***
 
