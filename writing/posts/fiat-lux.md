@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,215
+word_count: 30,261
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3786,7 +3786,9 @@ In the meantime, he should enjoy what time was left to the fullest.
 
 They had sea urchin after, on white rice, a short-grain cultivar they had just made barely viable in the country. The white vinegar was the same base as balsamic, but flatter, less complex, and more readable in the now.
 
-By the looks of it, Bréal should have brought a better brother than Lewis.
+Bréal saw that his lieutenant tried to suppress amazement. He wanted to tell him it was okay, that not everybody was given the privilege at first, but the ones who got it themselves most deserve it. 
+
+By the looks of it, he should have brought a better brother than Lewis.
 
 Collie was neutralized, at least until after short-term memories expired. The old man was on une last hurrah; it seemed he had misjudged the situation.
 
@@ -3876,7 +3878,7 @@ As for the four guests: they could tell, most likely. But why would they?
 
 ---
 
-A year after that last man was evacuated, a male Swartz purchased five of the same make and model, re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
+A year after that last man was evacuated, a male Swartz — one Collie never met except at his funeral — purchased five of the same make and model, re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
 
 A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his son's yacht, before her side of the family became estranged. Shame, though. Alice would have made a cutthroat successor; they get it from their mother.
 
