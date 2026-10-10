@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,241
+word_count: 30,211
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3708,15 +3708,19 @@ Fleming was about to eat, but Collie grabbed the nigiri off his plate, rose, and
 
 *Cripple,* she thought while saying *Ahhhh.*
 
-*Isn't she just a doll?* Fleming breathed. *She had this dress made just for tonight.*
+*Isn't she just a doll?* Fleming breathed. *My collie had this dress made just for tonight.*
 
 *So lovely, you two.* Bréal lied. *When can we expect an announcement?*
 
-*Oh, you know we keep some things to ourselves.* Fleming's hand crept up, and drew Collie in for a kiss. Light enough to not smudge her lipstick. She wore a perfume that smelled of opium.
+*Oh, you know we keep some things to ourselves.* Collie held Fleming by the chin and leaned in for a kiss. He grasped the back of her head, light enough to not smudge her lipstick. Fleming learned she wore a perfume that smelled of opium.
 
 A tiny sliver of ginger to cleanse the palate. They had yellow ones instead of red.
 
 The wasabi tasted different from the horseradish he remembered from his youth. The fish was less briny, but somehow tasted more of the sea than imitation crab.
+
+*Lady Swartz would make a lovely mother for Ada.* Vavasseur offered a toast.
+
+*Well, we'll see about that.* Fleming chuckled. Two glasses clanged, and he held Collie at the shoulder. As agreed.
 
 There was no cucumber, so there was no crunch.
 
@@ -3724,7 +3728,7 @@ There was no cucumber, so there was no crunch.
 
 Bréal chuckled, and said *A miracle, this one. One day he'll run the place.*
 
-*I was under the impression my collie had it all worked out.* Fleming straightened himself. *But I suppose that is why we are here.*
+*I was under the impression my puppy had it all worked out.* Fleming straightened himself. *But I suppose we can't have the women do all the work.*
 
 *First and foremost, I am glad to see that Epsilon's ask for full citizenship of all brothers was beyond question. What we do ask for, is, for the chartered Epsilon to hold its house by its own right in perpetuity, instead of the five hundred years the draft settled on.*
 
@@ -3738,10 +3742,6 @@ Maddy was a good girl, and Vavasseur would make a good lieutenant. She wouldn't 
 
 Only, she would get arrested by both sides.
 
-Why did he kiss her?
-
-Did they mean for Lewis to see all of this?
-
 It was some fish or other; she could not taste it.
 
 She laughed, said he was being rowdier than usual, and excused herself to the bathroom to fix her makeup.
@@ -3751,29 +3751,20 @@ She swore he looked Lewis in the eyes.
 Don't shoot, kid. It's going great.
 
 Alice, why wasn't she here? She wouldn't even want to know his name.
+
 ---
 
-Fleming saw his peer excuse herself, above-peer in some domains, actually.
+Fleming saw his peer excuse herself, above-peer in some domains, actually. He saw his own reflections in the geodesic dome, and then a bit past that.
 
-Before that, he had counted to himself how many days he had left to live.
-
-Before that, he had counted how many days he had to live if he pushed this student too far.
-
-The sums came out an attractive number.
-
-It was all for the greater good. They wouldn't so easily tear down a pedestal, they wouldn't easily take the building away, they wouldn't easily leave them for dead.
+Was it too late to ask Collie for an encore?
 
 They needed a new machine for Klara, and they needed the land to tax. Ada needed a place to live and grow old. She never did anything wrong, she—
 
 The young man seated against him laughed at something. His eunuch syncopated. Hadn't he been here before?
 
-Or did they not see what Collie had done to get her doctorate?
+Or did they not see what Collie had done to get her doctorate? In the meantime, he took pride in his out-of-department pupil.
 
-Well, sensors always were unreliable.
-
-In the worst case, the servants would know what to do, and the garden was enough for her to live on. He just needed to make it until the ink dried.
-
-In the meantime, he should enjoy what time was left to the fullest.
+She was just as beautiful as the day before she won her defense.
 
 ---
 
@@ -3783,7 +3774,7 @@ Bréal saw that his lieutenant tried to suppress amazement. He wanted to tell hi
 
 By the looks of it, he should have brought a better brother than Lewis.
 
-Collie was neutralized, at least until after short-term memories expired. The old man was on une last hurrah; it seemed he had misjudged the situation.
+Collie was occupied. The old man was on une last hurrah; it seemed he had misjudged the situation.
 
 He ate like how Nero ate grape. She ate like how mother ate the communion wafer.
 
@@ -3813,17 +3804,19 @@ The crown would have been heavier on him than it ever was.
 
 *Doctor Fleming seemed to have backed off a bit now,* Lewis noted to himself. His trainings in comportment and calm under fire had a multiplicative effect.
 
-He did not reach for the gun, even when that bastard Fleming had let his hand drift down Auntie Collie's waist.
+He did not reach for the gun, even after he could have sworn he saw Fleming let his hand drift down Auntie Collie's waist.
 
 They had just finished some clause. Bréal gave up the workshop for something and shook Fleming's hand first, even though it was Auntie Collie who gave the compromise.
 
-*Why did bossman want me here?* he asked himself. Then, seeing Bréal with his tied-up hair, he trusted that there was a plan.
+Bréal seemed angry at himself, and didn't show it, to the front.
+
+*Why did bossman want me here?* Lewus thought. Then, seeing Bréal with his tied-up hair, he trusted that there was a plan.
 
 He told himself Bréal shook mom's hand much more vigorously than Fleming's.
 
 He closed his eyes, even though they remained open. Fleming was not being the nice uncle with the beige suit. Something was wrong, and Mo—
 
-...Auntie Collie was scared. She was never scared.
+...Auntie Collie's eyes were soft, softer than he knew they went.
 
 ---
 
