@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-09
+date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 28,214
+word_count: 28,346
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3648,7 +3648,27 @@ The men laughed, full-throatedly. Vavasseur's laugh had an airy component, and C
 
 *Glad to hear we can at least agree on sparing no expense.* Fleming said.
 
+Collie signaled for the mead.
+
 *Good food, great wine, and beautiful women make for good business, my father always said that.*
+
+*Now, boys, we do have a Lady in our company. Settle down, settle down.*
+
+*Right, hehe.* Bréal did settle.
+
+*Oh, pay it no mind, boys.* Collie said. The waitress set down wine glasses and began to pour. *A little something, from Chateau Swartz, to the future?*
+
+*To a bloody war.* Vavasseur probed. Silent: *or a sickly season.*
+
+*Better,* Fleming asserted, *to the Arbutus.*
+
+In unison: *To Arbutus.*
+
+The tomatoes were of an heirloom variety. The waitress was screened twice, once by Campus Security, then by Epsilon.
+
+Two fruits sliced thick were enough for four. Someone feasted with his eyes as the salads were assembled. The cheese was proudly brought in fresh from Aldermere just today.
+
+In the background, a trombone played a part meant for a synth.
 
 ---
 
