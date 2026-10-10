@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,271
+word_count: 30,241
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3676,7 +3676,7 @@ The waitress's name was Peggy.
 
 Bréal was going too fast, too rowdy. Vavasseur knew that much.
 
-But wasn't it their daughters who were fond of each other? He marked the datum for later exploration, if there was a later.
+Fleming and Swartz... wasn't it their daughters who were fond of each other? He marked the datum for later exploration, if there was a later.
 
 Lewis wasn't a good shot, and his aunt was here. He wasn't here for his shot.
 
@@ -3692,11 +3692,11 @@ A breath.
 
 *Today's menu celebrates our Arbutus and her townships, with freshly grated wasabi from just under this dome, and a fermented mushroom dipping sauce for a uniquely local umami.*
 
-The chef said something more, and then went back to the kitchen. After the door swung closed, Fleming said that back then, *they never would dare to have his kind show his face at such a dinner.*
+The chef said something more, and then went back to the kitchen. After the door swung closed, Fleming said something about how the crop he studied most did not end up growing here.
 
-Collie fanned her fingers, and Fleming seemed to remember his manners.
+Collie made a cat's claw and swung at the speed of wind-blown willow, and Fleming remembered what she had said about tangents this morning.
 
-Vavasseur mirrored Fleming's contempt, though less overtly; as well as less sincerely, he told himself.
+Vavasseur threw him a curveball question about soybean cultivation; the answer was on page a hundred-and-sixty-eight of Fleming's thesis.
 
 Halibut was the first fish, the chef said. *Cured in kelp, served atop brown rice, from our experimental paddy.*
 
@@ -3726,8 +3726,6 @@ Bréal chuckled, and said *A miracle, this one. One day he'll run the place.*
 
 *I was under the impression my collie had it all worked out.* Fleming straightened himself. *But I suppose that is why we are here.*
 
-*Arf.* Collie threw up a little in her mouth. Fleming squeezed harder against her ribs.
-
 *First and foremost, I am glad to see that Epsilon's ask for full citizenship of all brothers was beyond question. What we do ask for, is, for the chartered Epsilon to hold its house by its own right in perpetuity, instead of the five hundred years the draft settled on.*
 
 It was a mouthful. Vavasseur had another swig.
@@ -3736,11 +3734,11 @@ It was a mouthful. Vavasseur had another swig.
 
 It would be so easy; they weren't even looking at their drinks. She had it in her sleeve. Half a minute, and they would be dead.
 
-Maddy was a good girl, and Vavasseur would make a good lieutenant. She wouldn't even need them to go on that lunch.
+Maddy was a good girl, and Vavasseur would make a good lieutenant. She wouldn't even need her to agree to that lunch.
 
 Only, she would get arrested by both sides.
 
-Why did he keep kissing her?
+Why did he kiss her?
 
 Did they mean for Lewis to see all of this?
 
@@ -3748,16 +3746,11 @@ It was some fish or other; she could not taste it.
 
 She laughed, said he was being rowdier than usual, and excused herself to the bathroom to fix her makeup.
 
-He dragged her back to the seat, said he wanted to kiss her one more time first.
-
-Fuck the colour clash, she should have worn the higher neckline.
-
 She swore he looked Lewis in the eyes.
 
-Don't shoot, kid. Not right now.
+Don't shoot, kid. It's going great.
 
-Alice, why aren't you here? One more hand, you wouldn't even notice the difference.
-
+Alice, why wasn't she here? She wouldn't even want to know his name.
 ---
 
 Fleming saw his peer excuse herself, above-peer in some domains, actually.
