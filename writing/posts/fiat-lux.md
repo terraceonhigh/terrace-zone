@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,267
+word_count: 30,299
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3640,7 +3640,7 @@ Bréal did not need to be told that Collie wouldn't let go of Fleming, and kisse
 
 *The chefs got tired of making it, I heard.* Fleming said. *what was it that we are having for salad today?*
 
-*Caprese, m'lord.* Collie deferred. *it was Vavasseur's idea.*
+*Caprese, m'lord.* Collie deferred, as was the plan. *it was Vavasseur's idea.*
 
 *The moment they said they pick the tomatoes in front of us, I knew we had to.*
 
@@ -3738,6 +3738,8 @@ It was a mouthful. Vavasseur had another swig.
 
 ***
 
+The fact that she and Fleming had discussed this in writing, and then rehearsed in person, did not make it any less jarring.
+
 It would be so easy; they weren't even looking at their drinks. She had it in her sleeve. Half a minute, and they would be dead.
 
 Maddy was a good girl, and Vavasseur would make a good lieutenant. She wouldn't even need her to agree to that lunch.
@@ -3750,9 +3752,9 @@ She laughed, said he was being rowdier than usual, and excused herself to the ba
 
 She swore he looked Lewis in the eyes.
 
-Don't shoot, kid. It's going great.
+*Don't shoot, kid. It's going great,* she whispered as she walked past.
 
-Alice, why wasn't she here? She wouldn't even want to know his name.
+Alice wouldn't even have needed to put on a character for this.
 
 ---
 
