@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 29,985
+word_count: 30,064
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3850,13 +3850,19 @@ His son did not want to carry on the restaurant, growing up, his father brought 
 
 *They were better now, Dad. You don't have to bow to them any more. Retire, I got you.*
 
-His never did stop.
+His dad never did retire.
 
 Now, the man who was taken from the shore and who returned had a great-grandchild who was the best chef in Arbutus, serving the best of Arbutus. The one keeping an art alive so far from home.
 
 It was more than what he could ever have imagined.
 
 As for the four guests: they could tell, most likely. But why would they?
+
+---
+
+A year after that last man was evacuated, a male Swartz purchased five of the same make and model, re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
+
+A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his son's yacht, before her side of the family became estranged. Shame, though. Alice would have made a cutthroat successor, they get it from their mother. 
 
 ***
 
