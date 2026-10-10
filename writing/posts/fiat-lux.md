@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,211
+word_count: 30,199
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3758,13 +3758,11 @@ Fleming saw his peer excuse herself, above-peer in some domains, actually. He sa
 
 Was it too late to ask Collie for an encore?
 
-They needed a new machine for Klara, and they needed the land to tax. Ada needed a place to live and grow old. She never did anything wrong, she—
+She would collect the tax, she would have the discretion to nurse Ada. Ada never did anything wrong, she—
 
 The young man seated against him laughed at something. His eunuch syncopated. Hadn't he been here before?
 
-Or did they not see what Collie had done to get her doctorate? In the meantime, he took pride in his out-of-department pupil.
-
-She was just as beautiful as the day before she won her defense.
+Or did they not see what Collie had done to get her doctorate? The shy furrow in her brows was just as beautiful tonight as it was the day before she won her defense.
 
 ---
 
