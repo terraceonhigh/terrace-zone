@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-10
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 28,702
+word_count: 28,809
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3703,6 +3703,16 @@ Halibut was the first fish, the chef said. *Cured in kelp, served atop brown ric
 They wheeled in a bowl for each diner, with soap on the side. He had expected to coach Bréal on how to eat nigiri, but Bréal told him it was common sense.
 
 Grab with the hand, gently, dunk in soy—mushroom sauce, and place in one's mouth topping-side-down.
+
+Fleming was about to eat, but Collie grabbed the nigiri off his plate, rose, and insisted on feeding him. Fleming had his hands to his side, as if facing the rapture.
+
+His close hand aided her in sitting down, and then lingered for a moment.
+
+*Isn't she just a doll?* Fleming breathed. *She had this dress made just for tonight.*
+
+*So lovely, you two.* Bréal lied. *When can we expect an announcement?*
+
+*Oh, you know we keep some things to ourselves.* Fleming's hand crept up, and drew Collie in for a kiss. Light enough to not smudge her lipstick. She wore a perfume that smelled of opium.
 
 A tiny sliver of ginger to cleanse the palate. They had yellow ones instead of red.
 
