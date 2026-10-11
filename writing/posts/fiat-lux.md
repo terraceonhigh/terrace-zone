@@ -873,6 +873,12 @@ Rosa wiped down the blood pressure cuff, first with a splash of water, and then 
 
 ---
 
+## Untitled Breal
+
+
+
+---
+
 ## Isolation
 
 The coffee pot was once complained about, the way it turned water acrid and then made the cup noodle gross. Even now, that bitter threatened to pollute the acidic notes of the rose hips and blackberry by whoever plucked today's blend. Though, a gentle overthrowing of this herbal vinegar would not be entirely undesirable.
@@ -3395,12 +3401,6 @@ It was an okay day.
 ---
 
 ## Ruts
-
-
-
----
-
-## Untitled Breal
 
 
 
