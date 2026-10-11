@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,767
+word_count: 31,097
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3556,7 +3556,7 @@ There were two panes of glass between the back seat and the front.
 
 *Then I suppose we can judge a man by his shoes.* She looked at his feet. *Brogues?*
 
-*Wisdom,* he told the window, *was always less than convincing from that mouth of yours.* The sun was going down over the water. *A lovely blue, though.*
+*And the same stillettos as ever. My Ada told me the cobblers prefer wider bases now. Steadier.* He put on his seatbelt. *Wisdom,* he told the window, *was always less than convincing from that mouth of yours.* The sun was going down over the water. *A lovely blue, though.*
 
 A cylinder knocked under the hood.
 
@@ -3945,6 +3945,62 @@ Lady Swartz put her napkin back on the table, folded neat, of course.
 Vavasseur rose, and offered her his hand.
 
 *Shall we, Madame?*
+
+---
+
+Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
+
+*Do you think he would, Vavasseur?* Collie said just barely out of the table's earshot.
+
+*If the past predicts the future.*
+
+*I see you were escorted by my son.*
+
+*He is a loyal man, yes. I have been told it is a shame that he looks more like his father, and Madame Maia.*
+
+*My nephew, then.*
+
+*No, son is good. My aunties called me the same.*
+
+*May I ask, why?*
+
+*We were just discussing surety.*
+
+Vavasseur picked a ripe tomato, and looked at it. It was plush, and soft, and it was grown here.
+
+*A graft,* Vavasseur mused, *I was told there is potatoes under this plant. They made it before the starving came.*
+
+*I was told your old country starved.*
+
+*I think they think the same of us.*
+
+*I hope the main course would help.*
+
+*Few things do, that is why we go to the towns.*
+
+*There was a bottle of spice at the back of my pantry, it promised to taste of home. Did you ever find your people?*
+
+*Once. On horseback.* Vavasseur imagined the white. *I am afraid I cannot tell you where.*
+
+*My Maia does her best, for her husband.*
+
+*Yours too, no?*
+
+*No.*
+
+*Then I was mistaken.* Vavasseur updated. *I look forward to the Lady Fleming.*
+
+*That title is spoken for already, I believe.*
+
+*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is. Is Maddy doing well under Franklin?* He brushed his thumb at the tomato's skin, it seemed to smell of peppermint.
+
+*Excellently, I have been told.*
+
+*I trust you know to verify.*
+
+*I see it in her eyes.*
+
+*Then it is time to let it play out. Deliver my best wishes.* Vavasseur set the tomato down, gently, down the path from the old plant.
 
 *(To be continued.)*
 
