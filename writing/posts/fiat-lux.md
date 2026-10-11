@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,325
+word_count: 30,767
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3892,7 +3892,59 @@ But, what can you do about an Englishwoman?
 
 An excerpt from Chef Akiyama's Technical Guide to Arbutus Cuisine, as published:
 
-### Recipe for a Chawanmushi, as served in The Terrarium
+### Chawanmushi, as served in The Terrarium
+
+---
+
+Peggy took the last of the plates, and informed them the stew would be ready in a moment. The utensils were moved aside for papers.
+
+*First Lieutenant.* Bréal muttered. *Remind me, how many ranks are there?*
+
+*You'll be an O-2, my dear.* Collie wiped the corner of her mouth. *...of four. same as Iota's.*
+
+*And no higher?*
+
+*It would have to mean re-negotiating with Iota, and Campus Security.* Fleming had a sip of the buckwheat tea. *Rest assured we left the best billet for last.*
+
+*I want to keep running the Aldermere route.* Bréal glanced at his second. *And I want Vavasseur as a peer, the draft currently has him as a citizen.*
+
+It was not part of their plan.
+
+*Well, then. I suppose we should ask the man himself.* Collie said softly, strike the iron while it's hot. *Vavasseur, what do you think?*
+
+*I... would be excellent, it would be excellent, yes.* Vavasseur collected himself, to be diplomatic. *But I suppose a move here should change something elsewhere on the draft?*
+
+*hmm, Bréal, I suppose the wine has made us all generous. What are you ready to offer?* Fleming asked.
+
+*I go as surety, instead of him. Lady Swartz will take my wife and children as wards of her own in case it became necessary.*
+
+Collie's eyes were driven soft, she helped Fleming with his pages, and pointed at a specific provision.
+
+*Item 9 stipulates that the weapons be stored as they were, in Epsilon, with a lock devised to require two key-holders to open, one of which shall go to M. Bréal, the other an officer as the Senate appoints and amends from time to time... And for a third officer to confirm the locks are in good shape monthly.*
+
+Collie caressed Fleming's hand.
+
+*We would like the weapons in our own armoury...*
+
+*Done.* Bréal spat.
+
+*Lord Fleming was just drawing a breath. Listen to the rest, my dear.* Collie said.
+
+*...and secured according to existing Campus Security protocol. One for the ranking officer—the captain, in this case—and one by a volunteering member of the public, as confirmed by the Board.*
+
+Vavasseur looked at his bossman, just for a split-second.
+
+Bréal had a swig of something. *Vavasseur, I remember you gave particular attention to where they grow the spice here? And that you wanted to show the Lady your own gastronomy.* 
+
+*I—* Vavasseur recalled no such thing. *...suppose I did.*
+
+Bréal signaled Peggy to bring another bottle. *I brought something from the breadbasket Lord Fleming would love to taste.*
+
+Lady Swartz put her napkin back on the table, folded neat, of course.
+
+Vavasseur rose, and offered her his hand.
+
+*Shall we, Madame?*
 
 *(To be continued.)*
 
