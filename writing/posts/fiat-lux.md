@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,167
+word_count: 31,169
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -4004,7 +4004,7 @@ Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin, it wa
 
 Fleming taught the same.
 
-*I see it in her eyes.*
+*I see it in her eyes.* Collie said.
 
 *Then it is time to let it play out.* Vavasseur set the tomato down, gently, down the path from the old plant. *Deliver my best wishes.*
 
