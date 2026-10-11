@@ -3726,12 +3726,6 @@ The wasabi tasted different from the horseradish he remembered from his youth. T
 
 Lady Swartz ate a piece of tuna.
 
-*Almost wished you were our sons, you two. The way you brought bread and water back to Arbutus was nothing less than miraculous,* Collie said.
-
-He wanted to say he was flattered, but Maddy was not here in his arms, and talk is cheap.
-
-He said he was flattered, and did not turn his head to read Lewis's face. There was no cucumber in the nigiri, so there was no crunch.
-
 Collie gave Fleming a piece of ginger, on the eleven-o'clock side of his plate.
 
 *Bréal, how about your own? Ada told me she found a ring on her last month.* Fleming caught the signal.
@@ -3739,6 +3733,12 @@ Collie gave Fleming a piece of ginger, on the eleven-o'clock side of his plate.
 Collie gasped in mock excitement. *Goodness! That so? Congratulations, Bréal.*
 
 Bréal looked at the tablecloth and chuckled. *We kept it quiet, she never was one for crowds, no.*
+
+*Almost wished you were our sons, you two. The way you brought bread and water back to Arbutus was nothing less than miraculous,* Collie said.
+
+He wanted to say he was flattered, but Maddy was not here in his arms, and talk is cheap.
+
+He said he was flattered, and did not turn his head to read Lewis's face. There was no cucumber in the nigiri, so there was no crunch.
 
 *Now, I hate to be the stuffy one, but shall we discuss the terms?* Vavasseur had priced this line yesterday.
 
