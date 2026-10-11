@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,381
+word_count: 30,313
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3650,19 +3650,13 @@ Bréal did not need to be told that Collie wouldn't let go of Fleming, and kisse
 
 *The moment they said they pick the tomatoes in front of us, I knew we had to.*
 
-The men laughed, full-throatedly. Vavasseur's laugh had an airy component, and Collie figured she should cover her mouth and giggle.
+The men laughed, full-throatedly. Vavasseur's laugh had a tracheal component, and Collie figured she should cover her mouth and giggle.
 
 *Glad to hear we can at least agree on sparing no expense.* Fleming said.
 
-Collie signaled for the mead.
+Collie signaled for the mead. The waitress set down wine glasses and began to pour.
 
-*Good food, great wine, and beautiful women make for good business, my father always said that.* Bréal was too eager.
-
-*Now, boys, we do have a Lady in our company. Settle down, settle down.*
-
-*Right, hehe.* Bréal did settle.
-
-*Oh, pay it no mind, boys.* Collie said. The waitress set down wine glasses and began to pour. *A little something, from Chateau Swartz, to the future?*
+*A little something, from Chateau Swartz, to the future?*
 
 *To a bloody war.* Vavasseur probed. Silent: *or a sickly season.*
 
@@ -3686,13 +3680,9 @@ Fleming and Swartz... wasn't it their daughters who were fond of each other? He 
 
 Lewis wasn't a good shot, and his aunt was here. He wasn't here for his shot.
 
-Did he know about her and Fleming? What did her husband think?
-
-Okay, okay, focus on the principals.
-
 A man clapped his hands together, and the world came back into focus.
 
-*Lords and Ladies, as planned, your second course is going to be omakase. I am your chef. Over the next half-hour or so, please enjoy my sushi creations one-by-one as I bring them out.*
+*Lords and Ladies, as planned, your second course is going to be omakase. I am your chef. Over the next half-hour or so, please enjoy my works one-by-one as I bring them out.*
 
 A breath.
 
@@ -3710,17 +3700,17 @@ Halibut was the first fish, the chef said. *Cured in kelp, served atop brown ric
 
 They wheeled in a bowl for each diner, with soap on the side. He had expected to coach Bréal on how to eat nigiri, but Bréal told him it was common sense.
 
-Grab with the hand, gently, dunk in soy—mushroom sauce, and place in one's mouth topping-side-down.
-
-Fleming was about to eat, but Collie grabbed the nigiri off his plate, rose, and insisted on feeding him. Fleming had his hands to his side, as if facing the rapture.
-
-*Cripple,* she thought while saying *Ahhhh.*
+Grab with the hand, gently, dunk in... garum, and place in one's mouth topping-side-down.
 
 *Isn't she just a doll?* Fleming breathed. *My collie had this dress made just for tonight.*
 
-*So lovely, you two.* Bréal lied. *When can we expect an announcement?*
+*So lovely, you two.* Bréal probed. *When can we expect an announcement?*
 
-*Oh, you know we keep some things to ourselves.* Collie held Fleming by the chin and leaned in for a kiss. He grasped the back of her head, light enough to not smudge her lipstick. Fleming learned she wore a perfume that smelled of opium.
+*Oh, you should know we keep some things to ourselves...* Fleming seemed comfortable.
+
+Collie held Fleming by the chin and leaned in for a kiss. He grasped the back of her head, light enough to not smudge her lipstick. Fleming learned she wore a perfume that smelled of opium.
+
+*...for dinner or otherwise.* Fleming said.
 
 A tiny sliver of ginger to cleanse the palate. They had yellow ones instead of red.
 
@@ -3728,25 +3718,37 @@ The wasabi tasted different from the horseradish he remembered from his youth. T
 
 *Is Ada taking to her new mother well?* Vavasseur asked, over his glass.
 
-*Splendidly,* said Fleming. *We'll see,* said Collie, at the same moment. Two glasses clanged, and he held Collie at the shoulder. As agreed.
+*Splendidly,* said Fleming. *We'll see,* said Collie, at the same moment. 
 
-Bréal raised an eyebrow, imperceptibly. *Does Cecilia know yet? Or is she still busy with Iota afield?*
+*Then, to the She-Wolf,* Bréal said. *And the man who would tame her.* Two glasses clanged, and Fleming held Collie at the shoulder. As agreed.
 
-*Almost wished you were our sons, you two. The way you brought flowing water back to Arbutus was nothing less than miraculous,* Collie said.
+*Does Cecilia know yet? Or is she still busy with Iota afield?* Vavasseur probed.
+
+Lady Swartz ate a piece of tuna.
+
+*Almost wished you were our sons, you two. The way you brought bread and water back to Arbutus was nothing less than miraculous,* Collie said.
 
 He wanted to say he was flattered, but Maddy was not here in his arms, and talk is cheap.
 
 He said he was flattered, and did not turn his head to read Lewis's face. There was no cucumber in the nigiri, so there was no crunch.
 
+Collie gave Fleming a piece of ginger, on the eleven-o'clock side of his plate.
+
+*Bréal, how about your own? Ada told me she found a ring on her last month.* Fleming answered the plate.
+
+Collie gasped in mock excitement. *Goodness! That so? Congratulations, Bréal.*
+
+Bréal looked at the tablecloth and chuckled. *We kept it quiet, she never was one for crowds, no.*
+
 *Now, I hate to be the stuffy one, but shall we discuss the terms?* Vavasseur had priced this line yesterday.
 
 Bréal chuckled, and said *A miracle, this one. One day he'll run the place.*
 
-*I was under the impression my puppy had it all worked out.* Fleming straightened himself. *But I suppose we can't have the women do all the work.*
+*I was under the impression my collie had it all worked out.* Fleming straightened himself. *But I suppose we needed an excuse for dinner.*
 
-*First and foremost, I am glad to see that Epsilon's ask for full citizenship of all brothers was beyond question. What we do ask for, is, for the chartered Epsilon to hold its house by its own right in perpetuity, instead of the five hundred years the draft settled on.*
+*On the first page, we would like to see an expansion on the definition of 'Brother'.*
 
-It was a mouthful. Vavasseur had another swig.
+His mouth was dry. Vavasseur had another swig.
 
 ***
 
@@ -3764,7 +3766,7 @@ She laughed, said he was being rowdier than usual, and excused herself to the ba
 
 She swore he looked Lewis in the eyes.
 
-*Don't shoot, kid. It's going great,* she whispered as she walked past.
+*It's going great, kid.* She whispered as she walked past.
 
 Alice wouldn't even have needed to put on a character for this.
 
@@ -3794,7 +3796,7 @@ He ate like how Nero ate grape. She ate like how mother ate the communion wafer.
 
 This is bad alpha, yes. But its better show.
 
-They just needed to make sure they stayed away from Maddy's ward when she was in hospital. It was a shame; she was lined up to replace Franklin.
+And to think the Swartz girl was lined up to replace Franklin.
 
 Right, was his blonde safe at home? And how many months was she? Ah, damned! Could Lewis have seen?
 
@@ -3820,11 +3822,11 @@ The crown would have been heavier on him than it ever was.
 
 He did not reach for the gun, even after he could have sworn he saw Fleming let his hand drift down Auntie Collie's waist.
 
-They had just finished some clause. Bréal gave up the workshop for something and shook Fleming's hand first, even though it was Auntie Collie who gave the compromise.
+They had just finished some clause. Bréal gave up the chapter house for something and shook Fleming's hand first, even though it was Auntie Collie who gave the compromise.
 
 Bréal seemed angry at himself, and didn't show it, to the front.
 
-*Why did bossman want me here?* Lewus thought. Then, seeing Bréal with his tied-up hair, he trusted that there was a plan.
+*Why did bossman want me here?* Lewis thought. Then, seeing Bréal with his tied-up hair, he trusted that there was a plan.
 
 He told himself Bréal shook mom's hand much more vigorously than Fleming's.
 
