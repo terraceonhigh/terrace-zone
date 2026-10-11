@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,181
+word_count: 31,189
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -961,6 +961,8 @@ Check time, the wall said 1104, contamination begins at around 1830.
 
 Bréal went downstairs to fill his water jug, and let it run for about ten seconds until it was clear. Must be the university patching the pipes again.
 
+The Epsilon house had running water, the others on this block had buckets and a schedule he did not himself manage.
+
 It was ice-cold, and tasted faintly of blood.
 
 He whittled his pencil, and considered how to convince the Rector not to look too close at the pledge records this semester. Then onto more pragmatic matters, if an extra circle on top of a "0 credits this term" read convincingly enough as an 8.
@@ -1068,7 +1070,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *Half the farm is brown, in the middle of the dry season, and, the agronomists said not to mind.* He pinched his nose bridge. *But all we are getting are pickles and biscuits from the country. Fifty blocks are on water trucks, and we are running low on gas. What brought you here, Madam Swartz?*
 
-*Well, first of all I am glad to hear that what needed to be saved was saved.*
+*Well, I am glad to hear that what needed to be saved was saved.*
 
 *Just, get to the point.*
 
@@ -1076,11 +1078,11 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *I don't believe that is up to regulation. And, why should I do this?*
 
-*Because, Bréal, I have some jam of my own, and Maddy already brought your woman a sample. At the Epsilon house.*
+*Because, Bréal, I have some jam of my own, and Maddy already brought your woman a sample. At your dorm.*
 
 *Is that a threat against my property?*
 
-*Oh, nothing of the sort, but I had asked the girls to make something for the boys out in the camp. I could see how weary they were just coming in. Sewing crop covers just isn't as labour intensive as laying pipes, you know?*
+*Oh, nothing of the sort, just something for our boys out in the camp. I saw your men breaking their backs for us just coming in.*
 
 *How do we explain this?*
 
@@ -2423,6 +2425,10 @@ They abolished on-hold music when they made the new network, so the last twenty 
 *...*
 
 *Yes, I meant Maddy.*
+
+*...*
+
+*I am the head of her household. T-S-I-E-N.*
 
 *...*
 
