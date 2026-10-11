@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,097
+word_count: 31,107
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2314,7 +2314,7 @@ Nadia grabbed a framed photo that sat next to her assignment.
 
 *there, bring this too.*
 
-It was a Polaroid, tinted blue, that depicted two people eating fried chicken at a local joint. The man made some funny face with one raised eyebrow, the woman posed a peace sign while holding a bottle of mango soda. She was blonde, with black roots showing above the braided pigtails.
+It was a Polaroid, tinted blue, that depicted two people eating fried chicken at a local joint. The man posed to smoke a fry with ketchup on its end, the woman posed a peace sign while holding a bottle of ginger ale. She was blonde, with black roots showing above the braided pigtails.
 
 *next time, start with the big thing.* Nadia advised.
 
@@ -3968,7 +3968,7 @@ Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
 Vavasseur picked a ripe tomato, and looked at it. It was plush, and soft, and it was grown here.
 
-*A graft,* Vavasseur mused, *I was told there is potatoes under this plant. They made it before the starving came.*
+*A graft,* Vavasseur mused, *I was told there is potatoes under this plant. They spliced the genes before the problems came.*
 
 *I was told your old country starved.*
 
@@ -3992,11 +3992,13 @@ Vavasseur picked a ripe tomato, and looked at it. It was plush, and soft, and it
 
 *That title is spoken for already, I believe.*
 
-*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is. Is Maddy doing well under Franklin?* He brushed his thumb at the tomato's skin, it seemed to smell of peppermint.
+*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is. Is Maddy doing well under Franklin?* He brushed his thumb at the tomato's skin, it was supple, and seemed to smell of peppermint.
 
 *Excellently, I have been told.*
 
 *I trust you know to verify.*
+
+Fleming taught the same.
 
 *I see it in her eyes.*
 
