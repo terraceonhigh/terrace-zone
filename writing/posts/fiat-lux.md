@@ -3718,7 +3718,7 @@ The wasabi tasted different from the horseradish he remembered from his youth. T
 
 *Is Ada taking to her new mother well?* Vavasseur asked, over his glass.
 
-*Splendidly,* said Fleming. *We'll see,* said Collie, at the same moment. 
+*Splendidly,* said Fleming. *We'll see,* said Collie, at the same moment.
 
 *Then, to the She-Wolf,* Bréal said. *And the man who would tame her.* Two glasses clanged, and Fleming held Collie at the shoulder. As agreed.
 
@@ -3734,7 +3734,7 @@ He said he was flattered, and did not turn his head to read Lewis's face. There 
 
 Collie gave Fleming a piece of ginger, on the eleven-o'clock side of his plate.
 
-*Bréal, how about your own? Ada told me she found a ring on her last month.* Fleming answered the plate.
+*Bréal, how about your own? Ada told me she found a ring on her last month.* Fleming caught the signal.
 
 Collie gasped in mock excitement. *Goodness! That so? Congratulations, Bréal.*
 
@@ -3766,7 +3766,7 @@ She laughed, said he was being rowdier than usual, and excused herself to the ba
 
 She swore he looked Lewis in the eyes.
 
-*It's going great, kid.* She whispered as she walked past.
+*It's going great, kid,* she whispered as she walked past.
 
 Alice wouldn't even have needed to put on a character for this.
 
