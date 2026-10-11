@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,108
+word_count: 31,115
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3970,11 +3970,11 @@ Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
 Vavasseur picked a ripe tomato, and looked at it. It was plush, and soft, and it was grown here.
 
-*A graft,* Vavasseur mused, *I was told there is potatoes under this plant. They spliced the genes before the problems came.*
+*A splice,* Vavasseur mused, *I was told there is potatoes under this plant, and belladonna on the leaves. One last genetic Hail Mary before the problems came.*
 
 *I was told your old country starved.*
 
-*I think they think the same of us.*
+*I am sure they think the same of us.*
 
 *I hope the main course would help.*
 
