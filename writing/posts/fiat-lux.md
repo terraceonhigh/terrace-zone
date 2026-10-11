@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,120
+word_count: 31,128
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3968,9 +3968,9 @@ Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
 *We were just discussing surety.*
 
-Vavasseur picked a ripe tomato, and looked at it. It was plush, and soft, and it was grown here.
+Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin, it was supple, it was grown here, and it was softer than the outside would have allowed.
 
-*A splice,* Vavasseur mused, *I was told they put potatoes under this plant, and belladonna on the leaves. One last magic trick before the old world ended.*
+*A splice,* Vavasseur mused, *I was told. They put potatoes under this plant, and belladonna on the leaves. One last Hail Mary to bring with to the dark.*
 
 *I was told your old country starved.*
 
@@ -3994,7 +3994,7 @@ Vavasseur picked a ripe tomato, and looked at it. It was plush, and soft, and it
 
 *That title is spoken for already, I believe.*
 
-*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is. Is Maddy doing well under Franklin?* He brushed his thumb at the tomato's skin, it was supple, and seemed to smell of peppermint.
+*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is. Is Maddy doing well under Franklin?* He put the tomato against his nose. It seemed to smell of peppermint.
 
 *Excellently, I have been told.*
 
