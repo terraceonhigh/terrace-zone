@@ -3986,7 +3986,7 @@ Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin, it wa
 
 *Once. On horseback.* Vavasseur imagined the white. *I am afraid I cannot tell you where.*
 
-*My Maia does her best, for her husband. Though it is not the same.*
+*My Maia does her best, for the father. Though it is not the same.*
 
 *Does he prefer your hearth?*
 
