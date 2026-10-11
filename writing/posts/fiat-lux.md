@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,115
+word_count: 31,120
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -265,7 +265,7 @@ One freshman relieved after two weeks under a tarp. Egghead's predecessor, huggi
 
 Someone in the cab said something about how sweet sage must burn if its smoke can lose him in a forest, *shut up*. Someone else chuckled, and they went past university perimeter with thirty kilos of copper.
 
-Maia made him swear that the mead went to the guards and the boys respectively, and he could honestly say yes. Maddy made her ointments with a bundle of herbs from another Epsilon boy. Madam Swartz did not say anything, but served the next breakfast with butter and huckleberry jam. The week after that, she brought cake batter to the bakery and layered it with the jam when she got it home. She told Lewis to bring a slice to Bréal.
+Maia made him swear that the mead went to the guards and the boys respectively, and he could honestly say yes. Maddy made her ointments with a bundle of herbs from another brother on the convoy. Madam Swartz did not say anything, but served the next breakfast with butter and huckleberry jam. The week after that, she brought cake batter to the bakery and layered it with the jam when she got it home. She told Maddy to bring a slice to Bréal and his lieutenant.
 
 He held his breath as he helped puff the sage smoke onto the apiary.
 
@@ -1322,7 +1322,7 @@ The brush was from a younger Collie's attempts at watercolour, the old house was
 
 *This one is blush, it is the same base, but with purified rust. Women began making these in Persia five thousand years ago.*
 
-Collie's fingertips were warm. She did another two dabs on Maddy's cheekbones, flushed, but not overwhelming.
+Collie's fingertips were warm. She did another two dabs on Maddy's cheekbones, supple, but not overwhelming.
 
 *There. Now you'll be the fanciest apprentice in the entire hospital. Don't touch your face if you can help it.*
 
@@ -3970,7 +3970,7 @@ Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
 Vavasseur picked a ripe tomato, and looked at it. It was plush, and soft, and it was grown here.
 
-*A splice,* Vavasseur mused, *I was told there is potatoes under this plant, and belladonna on the leaves. One last genetic Hail Mary before the problems came.*
+*A splice,* Vavasseur mused, *I was told they put potatoes under this plant, and belladonna on the leaves. One last magic trick before the old world ended.*
 
 *I was told your old country starved.*
 
@@ -4004,7 +4004,7 @@ Fleming taught the same.
 
 *I see it in her eyes.*
 
-*Then it is time to let it play out. Deliver my best wishes.* Vavasseur set the tomato down, gently, down the path from the old plant.
+*Then it is time to let it play out.* Vavasseur set the tomato down, gently, down the path from the old plant. *Deliver my best wishes.*
 
 *(To be continued.)*
 
