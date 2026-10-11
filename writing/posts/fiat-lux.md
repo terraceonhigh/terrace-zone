@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,107
+word_count: 31,108
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1234,9 +1234,9 @@ They were quiet for a while.
 
 Maddy considered the onions, and rejected them on the grounds of chemical crying leading to emotional crying. She then rejected the cheese, because the grease won't sit well by lunch. She looked at the sausage, and decided that Collie already had enough trouble for one morning.
 
-*Mushroom, the ones Nadia put on the counter Tuesday.*
+*The tomatoes, the ones Nona brought back from the Terrarium*
 
-*We can do that, with the garlic powder too.*
+*With the mushrooms, I insist.*
 
 *I can tell you are trying to cheer me up.*
 
@@ -1262,7 +1262,9 @@ The mushrooms were thinly sliced, and they would go into the butter before the e
 
 Collie rinsed her hands, even though they were clean.
 
-*Your mother saw what was coming, and she wanted you to be strong, very strong.*
+*You know we had to read the play, for school.*
+
+*I put it on the curriculum. Your mother saw what was coming, and she wanted you to be strong, very strong.*
 
 And Collie too.
 
@@ -1294,7 +1296,7 @@ Collie sprinkled some more salt on her eggs.
 
 *I am sorry, Maddy. I am sorry I never told you why.*
 
-She cut the egg into bite-sized pieces, and then carried on cutting. The yolk pooled like a thin moat around the potato.
+She cut the tomato into bite-sized pieces, and then carried on cutting. Its juices coated the mushrooms.
 
 *I can write it all back, now that things are better.*
 
@@ -1318,11 +1320,11 @@ There was a black paste and a rust-red one.
 
 The brush was from a younger Collie's attempts at watercolour, the old house was filled with oil paintings signed *A. Swartz*.
 
-*This one is blush, it is the same base, but with purified rust. Women began making these in Persia five thousand years ago. Purse your lips like you are about to kiss someone.*
+*This one is blush, it is the same base, but with purified rust. Women began making these in Persia five thousand years ago.*
 
-Collie's fingertips were warm. She did another two dabs on Maddy's cheeks.
+Collie's fingertips were warm. She did another two dabs on Maddy's cheekbones, flushed, but not overwhelming.
 
-*There. Now you'll be the fanciest apprentice in the entire hospital. Just don't touch your face if you can help it.*
+*There. Now you'll be the fanciest apprentice in the entire hospital. Don't touch your face if you can help it.*
 
 Maddy looked into the mirror, a different woman looked back.
 
