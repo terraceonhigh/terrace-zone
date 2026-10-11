@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,128
+word_count: 31,167
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1623,6 +1623,8 @@ Water spilled onto the shower's floor.
 Collie came home sometime in the afternoon, and made the boys wash their hands before handing them their potato samosas. They had bits of carrot and onion in them, and were spiced with dill and caraway.
 
 They took off their tools, and doused themselves in their clothes. Collie put her good dress back in the wardrobe and washed off her makeup before the sweat did it for her. Someone had ripped a knee off their jeans, and Nona was at the greenhouse so it was up to her to patch it.
+
+Vavasseur came, with a bottle of something under his arm. Collie made him pour for all four, before sending the boys back to work. He left with a jar of honey the same size as the bottle he brought.
 
 Two t-shirts that were not grey in the morning found themselves in the hamper. Alex found Lewis a stool for laying the top of the wall. Two arms complained about a trowel's journey up and down and a scoop of paste and back up again. Someone pulled out a length of string to measure for the doorway they needed to nail together tomorrow.
 
