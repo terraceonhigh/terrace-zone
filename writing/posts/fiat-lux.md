@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-11
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 30,313
+word_count: 30,325
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1011,9 +1011,9 @@ The professor covered the microphone, and told Oyá to issue evacuation orders f
 
 The truck rumbled down University Road at eighty an hour. Bréal spoke into the CB radio thus:
 
-*Friends, Brothers, Epsilons. Now hear this, the university's fate is in our hands. The city's water is dying, and if we don't dig up and turn those valves by sundown we get poisoned as well. That shovel in your hands is here today not just for you, but for what it means to wear this seal, for your mama huddled in our house, and that chick you are so fond of. Till Valhalla!*
+*Friends, Brothers, Epsilons. The University again needs us. Yesterday, it was foes who would crush us under their heels, but today! today we dig our university her pipes, or by sundown we hold our loves in death. Illness, is our enemy. The very soil they have made their fortress, and I know what we do to fortresses.* He lifted his finger off the radio's `TRANSMIT` button, and took a breath. *Feel that shovel in your hand, and know today we are deliverance.*
 
-From outside the rolled-down window: *Oorah!*
+From outside the rolled-down window: the rumbling of engines.
 
 Valve E-2 connected the municipal water mains to the university farm, and then entered the campus proper through the South Station. Oyá circled where it would be from what the team at Windsor Station described, in the red marker. Then, it was simply an issue of calling the agronomy and medicine departments with the utmost composure she could muster.
 
