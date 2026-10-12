@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,493
+word_count: 31,499
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3892,9 +3892,9 @@ As for the four guests: they could tell, most likely. But why would they?
 
 ---
 
-A year after that last man was evacuated, a male Swartz — one Collie never met except at his funeral — purchased five of the same make and model, re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
+A year after that last man was evacuated, a male Swartz — one Collie never met except at his funeral — purchased five of the same make and model, to be re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
 
-A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his son's yacht, before her side of the family became estranged. Shame, though. Her sister Alice would have made a cutthroat successor; they get it from their mother.
+A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his grandson's yacht, before her side of the family became estranged. Shame, though. Her sister Alice would have made a cutthroat successor; they get it from their mother.
 
 But, what can you do about an Englishwoman?
 
@@ -4046,11 +4046,13 @@ Vavasseur considered the dish fit for a last supper, and proposed it to Collie w
 
 *Dig in, bossman.* Vavasseur took a deep breath. *There is plenty for everyone.*
 
-It did not taste like grandmother's, nothing ever did. It tasted restaurant quality.
+It did not taste like grandmother's. It tasted restaurant quality.
 
 Vavasseur wondered if she was okay. He wanted her to worry about him, he didn't want her to worry about him.
 
 She would have told him the collar was wrong, even though it was right.
+
+Vavasseur scooped another ladleful for the boss.
 
 The stew was tender.
 
