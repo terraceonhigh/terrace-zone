@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,819
+word_count: 31,822
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3900,7 +3900,7 @@ But, what can you do about an Englishwoman?
 
 ***
 
-An excerpt from Chef Akiyama's Technical Guide to Arbutus Cuisine, as published:
+An excerpt from Chef Akiyama's Technical Guide to Arbutus Cuisine, as printed by Midnight Publishing:
 
 ### Chawanmushi, as served in The Terrarium
 
