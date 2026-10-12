@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,507
+word_count: 31,493
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3928,7 +3928,7 @@ It was not part of their plan.
 
 *I go as surety, instead of him. Lady Swartz will take my wife and children as wards of her own in case it became necessary.*
 
-Collie's eyes were driven soft, she helped Fleming with his pages, and pointed at a specific provision.
+*Darling,* she told Bréal, *we can't possibly have you rot away in a tower.* Collie helped Fleming with his pages, and pointed at a specific provision.
 
 *Item 9 stipulates that the weapons be stored as they were, in Epsilon, with a lock devised to require two key-holders to open, one of which shall go to M. Bréal, the other an officer as the Senate appoints and amends from time to time... And for a third officer to confirm the locks are in good shape monthly.*
 
@@ -3940,7 +3940,7 @@ Collie caressed Fleming's hand.
 
 *Lord Fleming was just drawing a breath. Listen to the rest, my dear.* Collie said.
 
-*...and secured according to existing Campus Security protocol. One for the ranking officer—the captain, in this case—and one by a volunteering member of the public, as confirmed by the Board.*
+*...and ownership transferred to Campus Security proper.*
 
 Vavasseur looked at his bossman, just for a split-second.
 
@@ -4040,7 +4040,7 @@ Peggy came in, just in time to continue the sentence.
 
 *For your main tonight, the Terrarium is proud to present oxtail in the Caribbean manner, served with a side of rice and beans. Lady Swartz generously provided authentic seasoning from her own stores.*
 
-Vavasseur considered it fit for a last supper, and posited the dish to Collie without using that word.
+Vavasseur considered the dish fit for a last supper, and proposed it to Collie without using that word.
 
 *Smells good, V.* Bréal said to no one in particular.
 
