@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,530
+word_count: 31,536
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -4040,7 +4040,7 @@ It was fifteen green dollars at the till, fifteen years ago. The menu was frozen
 
 Peggy came in, just in time to continue the sentence.
 
-*For your main tonight, the Terrarium is proud to present oxtail in the Caribbean manner, served with a side of rice and beans. Lady Swartz generously provided authentic seasoning from her own stores.*
+*For your main tonight, the Terrarium is proud to present oxtail in the Caribbean manner, with Scotch bonnet from this dome, served with a side of rice and beans. Lady Swartz generously provided authentic seasoning from her own stores.*
 
 Vavasseur considered the dish fit for a last supper, and proposed it to Collie without using that word.
 
