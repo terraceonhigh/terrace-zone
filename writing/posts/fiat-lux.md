@@ -3566,7 +3566,7 @@ There were two panes of glass between the back seat and the front.
 
 *Then I suppose we can judge a man by his shoes.* She looked at his feet. *Brogues?*
 
-*And the same stillettos as ever. My Ada told me the cobblers prefer wider bases now. Steadier.* He put on his seatbelt. *Wisdom,* he told the window, *was always less than convincing from that mouth of yours.* The sun was going down over the water. *A lovely blue, though.*
+*And the same stilettos as ever. My Ada told me the cobblers prefer wider bases now. Steadier.* He put on his seatbelt. *Wisdom,* he told the window, *was always less than convincing from that mouth of yours.* The sun was going down over the water. *A lovely blue, though.*
 
 A cylinder knocked under the hood.
 
@@ -3724,7 +3724,7 @@ Collie held Fleming by the chin and leaned in for a kiss. He grasped the back of
 
 A tiny sliver of ginger to cleanse the palate. They had yellow ones instead of red.
 
-The wasabi tasted different from the horseradish he remembered from his youth. The fish was less briny, but somehow tasted more of the sea than imitation crab.
+The wasabi tasted different from the horseradish Vavasseur remembered from his youth. The fish was less briny, but somehow tasted more of the sea than imitation crab.
 
 *Is Ada taking to her new mother well?* Vavasseur asked, over his glass.
 
@@ -3746,7 +3746,7 @@ Bréal looked at the tablecloth and chuckled. *We kept it quiet, she never was o
 
 *Almost wished you were our sons, you two. The way you brought bread and water back to Arbutus was nothing less than miraculous,* Collie said.
 
-He wanted to say he was flattered, but Maddy was not here in his arms, and talk is cheap.
+Vavasseur wanted to say he was flattered, but Maddy was not here in his arms, and talk is cheap.
 
 He said he was flattered, and did not turn his head to read Lewis's face. There was no cucumber in the nigiri, so there was no crunch.
 
