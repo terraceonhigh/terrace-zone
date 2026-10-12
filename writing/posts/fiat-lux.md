@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,504
+word_count: 31,530
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3516,7 +3516,7 @@ Left, right. He picked a hair off Lewis's lip and flicked it away. No obvious cu
 
 He conked out till the perimeter. The sun was still up, and they put the searchlight on the truck anyway. It sobered the last bit of him up.
 
-At the house a woman who did not speak English measured his shoulders with her eyes and handed him a tux that was loose in the waist. He knew how to tie the tie, though. Auntie Collie had seen to that.
+At the Epsilon house was a woman who spoke no English, and who wore earmuffs with a leaf up top like an apple. She measured his shoulders with her eyes and handed him a tux that was loose in the waist. He knew how to tie the tie, though. Auntie Collie had seen to that.
 
 Bréal's suit fit him like a fitted suit, which it was, showoff. He walked them down to the gun locker.
 
@@ -3533,6 +3533,8 @@ Bréal's suit fit him like a fitted suit, which it was, showoff. He walked them 
 *...I'm feeling lucky.*
 
 *Good choice.* He handed him the .44. *Punk.*
+
+The shoulder rig was adjustable, and the waist turned out just right.
 
 ---
 
