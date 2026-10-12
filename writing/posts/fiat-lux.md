@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,536
+word_count: 31,819
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3802,7 +3802,7 @@ Bréal saw that his lieutenant tried to suppress amazement. He wanted to tell hi
 
 By the looks of it, he should have brought a better brother than Lewis.
 
-Collie was occupied. The old man was on une last hurrah; it seemed he had misjudged the situation.
+Collie was occupied. The old man was on a last hurrah; it seemed he had misjudged the situation.
 
 He ate like how Nero ate grape. She ate like how mother ate the communion wafer.
 
@@ -3841,8 +3841,6 @@ Bréal seemed angry at himself, and didn't show it, to the front.
 *Why did bossman want me here?* Lewis thought. Then, seeing Bréal with his tied-up hair, he trusted that there was a plan.
 
 He told himself Bréal shook mom's hand much more vigorously than Fleming's.
-
-He closed his eyes, even though they remained open. Fleming was not being the nice uncle with the beige suit. Something was wrong, and Mo—
 
 ...Auntie Collie's eyes were soft, softer than he knew they went.
 
@@ -3962,7 +3960,7 @@ Vavasseur rose, and offered her his hand.
 
 Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
-*Do you think he would, Vavasseur?* Collie said underneath a glowing bulb.
+*Do you think he would, Vavasseur?* Collie said on the far side of the brass band.
 
 *If the past predicts the future.*
 
@@ -4058,7 +4056,29 @@ Vavasseur scooped another ladleful onto the boss's plate, without asking him fir
 
 The stew was tender.
 
-*(To be continued.)*
+*Bréal, such a shame your wife couldn't join us, leaving just one girl here all by her lonesome. Is she well?* Lady Swartz asked.
+
+*I have been telling her to rest, but you know how headstrong our women can be.*
+
+*Is she still pursuing admission? If she needs someone to countersign.* Collie offered, Fleming touched her hand and she did not react.
+
+*She has since grown wiser, I think. Since we are on the topic, how is Maddy? I hear she is going to the Christmas dance?* Bréal asked. Lady Swartz's eyes darted at Lewis. Vavasseur's own eyes tried to notify, but Bréal had tunnel vision on her.
+
+*...and Nadia too, but Lord Fleming had been telling them to focus on school.*
+
+Well Received, Bréal's eyes finally said.
+
+They had a peach strudel after that, Peggy said something about the new cannery back East that made it possible. The ice cream was made with oak, and smelled of vanilla. The extinction of the latter did not end up to be that serious a problem here.
+
+There was chocolate syrup for garnish, thin strands that landed on the ice cream set and turned dry.
+
+---
+
+They shook hands in front of the steps. Fleming and Bréal held the paper for all to see, Vavasseur and Swartz backing each respectively. A journalist from the old student paper lit a flash pan, and the four of them held their eyes open as the camera did its work. Two more flashes, and then a few moments for the sketch artists to catch up.
+
+Lewis went home an hour after Auntie Collie did, thirty minutes for the dinner, and thirty more because he walked back.
+
+He kept in the ice box what the chef let him bring home. It was good breakfast for Nadia, who ate it reading the front page story.
 
 ---
 
