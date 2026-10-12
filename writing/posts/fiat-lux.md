@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-11
+date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,189
+word_count: 31,507
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2502,9 +2502,9 @@ She guessed as much, and sighed, away from the microphone. *Please,* Alex added.
 
 Can he?
 
-Nadia reached into her pocket, felt the relief pattern on the ID card in her wallet. The one that said Swartz.
+Nadia reached into her pocket, felt the relief pattern on the ID card in her wallet. The one that said `SWARTZ`, and then, the one that said `TSIEN`.
 
-*Okay, I'll see what I can do.*
+*Fine, I'll see what I can do.*
 
 *Thank you, thank you.*
 
@@ -3922,7 +3922,7 @@ It was not part of their plan.
 
 *Well, then. I suppose we should ask the man himself.* Collie said softly, strike the iron while it's hot. *Vavasseur, what do you think?*
 
-*I... would be excellent, it would be excellent, yes.* Vavasseur collected himself, to be diplomatic. *But I suppose a move here should change something elsewhere on the draft?*
+*I... would be excellent, it would be excellent, yes.* Vavasseur collected himself, to be diplomatic. *But I know something will have to move to make room.*
 
 *hmm, Bréal, I suppose the wine has made us all generous. What are you ready to offer?* Fleming asked.
 
@@ -3960,7 +3960,7 @@ Vavasseur rose, and offered her his hand.
 
 Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
-*Do you think he would, Vavasseur?* Collie said just barely out of the table's earshot.
+*Do you think he would, Vavasseur?* Collie said underneath a glowing bulb.
 
 *If the past predicts the future.*
 
@@ -3972,13 +3972,13 @@ Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
 *No, son is good. My aunties called me the same.*
 
-*May I ask, why?*
+*May I ask why?*
 
 *We were just discussing surety.*
 
-Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin, it was supple, it was grown here, and it was softer than the outside would have allowed.
+Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin. It was supple, it was grown here, and it was softer than the outside would have allowed.
 
-*A splice,* Vavasseur mused, *I was told. They put potatoes under this plant, and belladonna on the leaves. One last Manhattan Project to bring with to the night.*
+*A splice,* Vavasseur mused, *I was told. They put potatoes under this plant, and belladonna on the leaves. One last Manhattan Project to bring with into the night.*
 
 *I was told your old country starved.*
 
@@ -3988,7 +3988,7 @@ Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin, it wa
 
 *Few things do, that is why we go to the towns.*
 
-*There was a bottle of spice at the back of my pantry, it promised to taste of home. Did you ever find your people?*
+*There was a bottle of spice at the back of my pantry, it promised to taste of your home. Did you ever find your people?*
 
 *Once. On horseback.* Vavasseur imagined the white. *I am afraid I cannot tell you where.*
 
@@ -4002,9 +4002,9 @@ Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin, it wa
 
 *That title is spoken for already, I believe.*
 
-*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is. Is Maddy doing well under Franklin?* He put the tomato against his nose. It seemed to smell of peppermint.
+*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is.* He put the tomato against his nose. It seemed to smell of peppermint. *Is Maddy doing well under Franklin?*
 
-*Excellently, I have been told.*
+*Excellent, I have been told.*
 
 *I trust you know to verify.*
 
@@ -4013,6 +4013,46 @@ Fleming taught the same.
 *I see it in her eyes.* Collie said.
 
 *Then it is time to let it play out.* Vavasseur set the tomato down, gently, down the path from the old plant. *Deliver my best wishes.*
+
+They took the garden path back.
+
+---
+
+*Vavasseur, congratulations.* Fleming said as they walked back. Bréal did not look up.
+
+There was a wet spot on the tablecloth, and the bottle had already been taken away.
+
+*For coming back just in time for the main?* Collie joked, and signaled to Peggy to bring it in.
+
+*Second Lieutenant Bréal has appointed the Monsieur to head Epsilon after the charter.*
+
+*Thank you.* Vavasseur said with his eyes. Bréal made the eyes for a Loud and Clear.
+
+*...and your peerage will come in due time. But before that, I was told my collie had something special arranged for the main? No wonder she was so excited.*
+
+*Yes.* Collie smiled. *I had found something in the family larder a younger Collie never opened, and I asked the chef to make some last-minute changes.*
+
+It was fifteen green dollars at the till, fifteen years ago. The menu was frozen a week before this.
+
+*I could only imagine how hard it must be to live so far away from family, and so I thought to...*
+
+Peggy came in, just in time to continue the sentence.
+
+*For your main tonight, the Terrarium is proud to present oxtail in the Caribbean manner, served with a side of rice and beans. Lady Swartz generously provided authentic seasoning from her own stores.*
+
+Vavasseur considered it fit for a last supper, and posited the dish to Collie without using that word.
+
+*Smells good, V.* Bréal said to no one in particular.
+
+*Dig in, bossman.* Vavasseur took a deep breath. *There is plenty for everyone.*
+
+It did not taste like grandmother's, nothing ever did. It tasted restaurant quality.
+
+Vavasseur wondered if she was okay. He wanted her to worry about him, he didn't want her to worry about him.
+
+She would have told him the collar was wrong, even though it was right.
+
+The stew was tender.
 
 *(To be continued.)*
 
