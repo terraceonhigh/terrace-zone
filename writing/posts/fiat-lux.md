@@ -3774,7 +3774,7 @@ It was some fish or other; she could not taste it.
 
 She laughed, said he was being rowdier than usual, and excused herself to the bathroom to fix her makeup.
 
-She swore he looked Lewis in the eyes.
+She swore Fleming looked Lewis in the eyes.
 
 *It's going great, kid,* she whispered as she walked past.
 
