@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-12
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,499
+word_count: 31,504
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -4052,7 +4052,7 @@ Vavasseur wondered if she was okay. He wanted her to worry about him, he didn't 
 
 She would have told him the collar was wrong, even though it was right.
 
-Vavasseur scooped another ladleful for the boss.
+Vavasseur scooped another ladleful onto the boss's plate, without asking him first.
 
 The stew was tender.
 
