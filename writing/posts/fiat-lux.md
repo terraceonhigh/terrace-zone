@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,078
+word_count: 32,099
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3744,7 +3744,7 @@ The wasabi tasted different from the horseradish Vavasseur remembered from his y
 
 Collie ate a piece of tuna.
 
-Collie gave Fleming a piece of ginger, on the eleven-o'clock side of his plate.
+She gave Fleming a piece of ginger, on the eleven-o'clock side of his plate.
 
 *Bréal, how about your own? Ada told me she found a ring on her last month.* Fleming caught the signal.
 
@@ -4146,7 +4146,7 @@ There was chocolate syrup for garnish, thin strands that landed on the ice cream
 
 They shook hands in front of the steps. Fleming and Bréal held the paper for all to see, Vavasseur and Lady Swartz backing each respectively. A journalist from the old student paper lit a flash pan, and the four of them held their eyes open as the camera did its work. Two more flashes, and then a few moments for the sketch artists to catch up.
 
-Lewis went home an hour after Auntie Collie did, thirty minutes for the dinner, and thirty more because he walked back.
+Lewis went home an hour and a half after Auntie Collie did, thirty minutes for the dinner, thirty minutes to return the .44 (he was, by all accounts, lucky; the gun, however, had hoped otherwise), and thirty more because he walked back.
 
 He kept in the ice box what the chef let him bring home. It was good breakfast for Nadia, who ate it reading the front page story.
 
