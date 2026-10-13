@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,511
+word_count: 32,557
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1194,9 +1194,11 @@ Maddy didn't.
 
 It didn't, the syringes were properly disinfected and stored, and it drew excellently that day.
 
-Alice didn't even notice the difference.
+Collie's smile provided the rest of the comfort.
 
-*We, found some poppy. She just went to sleep.* And the undertaker came half an hour after that.
+*We, found some poppy. She just went to sleep.*
+
+The undertaker kept to his hour, and knocked on the Swartz door thirty minutes after the needle left Alice.
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
@@ -1220,7 +1222,7 @@ And the one who had no rules growing up, a mistake grandpa and grandma did not m
 
 *And they couldn't find a better vial for her.*
 
-*They couldn't find a better vial for anyone in the city. Grandma and I did everything we could.*
+*They couldn't find a better vial for anyone in the city. Grandma—and I—did everything we could.*
 
 *That doesn't make it any better.*
 
@@ -1250,9 +1252,9 @@ They put potatoes in the boiling water. Maddy was cutting the mushrooms and Coll
 
 *What did she tell you? Before she died?*
 
-*She,* Collie struggled to form the sentence, *told me to stay healthy, to bury her next to our dad.*
+*She,* Collie struggled to synthesize the sentence, *told me to stay healthy, to bury her next to our dad.*
 
-Collie unhooked the frying pan, the one with the Swartz name on the handle. She flipped it over, and then back again. Her mind was elsewhere.
+Collie unhooked the frying pan, the one with the Swartz name on the handle. She flipped it over, and then back again. Her mind was busy with something else.
 
 *She also told me to take care of you, Medea.*
 
@@ -1264,13 +1266,15 @@ The mushrooms were thinly sliced, and they would go into the butter before the e
 
 *Medea was a princess in a kingdom called Colchis, a granddaughter of the Sun. She made magic and medicine. When people wronged her, she did not sob and mourn like the other princesses, well, not just. She used her magic, and made poison, to make them pay. She was strong, and she found a place with people she could trust, and lived happily ever after.*
 
-Collie rinsed her hands, even though they were clean.
+*Like you.*
+
+*Like us, my dear.*
+
+Collie washed her hands, even though they were perfectly clean.
 
 *You know we had to read the play, for school.*
 
 *I put it on the curriculum. Your mother saw what was coming, and she wanted you to be strong, very strong.*
-
-And Collie too.
 
 The mushroom dissolved its flavour into the oil.
 
@@ -1278,7 +1282,7 @@ The mushroom dissolved its flavour into the oil.
 
 Collie deglazed with a spoonful of water. The tap was slow.
 
-*What matters is that you are mine now.*
+*What matters is that you are mine.*
 
 Maddy held a shallow breath, for half a second. *I want to know.*
 
@@ -1314,7 +1318,9 @@ Collie did the dishes, and Maddy dried them with a towel before setting them bac
 
 *I have to do my makeup before I go, you go and get some sleep.*
 
-*I want to watch.*
+*I want to watch.* Maddy said with the smile that listed to one side, it was not yet a perfect seventeen degrees.
+
+Collie smiled back.
 
 ---
 
@@ -1332,7 +1338,7 @@ Collie's fingertips were warm. She did another two dabs on Maddy's cheekbones, s
 
 Maddy looked into the mirror, a different woman looked back.
 
-*She always liked that upward flick.* Collie said, spinning the brush in her hand.
+*I always liked that upward flick on her.* Collie said, spinning the brush in her hand.
 
 Collie put hers on, while Maddy packed her lunch and notebooks and braided and tied her hair up.
 
@@ -4052,9 +4058,9 @@ Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
 *May I ask why?*
 
-*We were just discussing surety.*
+*To represent the rest of us. We had to have one brother in the room who did not speak French.*
 
-*I understand that my Lewis is the only Epsilon in the room who does not speak French.*
+*I assume the other guard has his orders, then?*
 
 Vavasseur did not answer her. He picked a ripe tomato, and brushed his thumb at the tomato's skin. It was supple, it was grown here, and it was softer than the outside would have allowed.
 
