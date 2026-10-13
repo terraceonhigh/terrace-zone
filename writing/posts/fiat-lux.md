@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,103
+word_count: 32,463
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3452,7 +3452,11 @@ The clock struck five. The tower bell, across the campus, did not come into the 
 
 *I'll be back in a moment, okay?*
 
-The syringe and needles had been boiled before they were put away. Ada boiled them again. In the scullery the helpers dipped their heads as she passed; they were eating something red, with carrots, and lamb sinew cooked soft. Upstairs she tied her hair back.
+The syringe and needles had been boiled before they were put away. Ada boiled them again. In the scullery the helpers dipped their heads as she passed; they were eating something red, with carrots, and lamb sinew cooked soft.
+
+The helpers ate beneath a landscape painting. It was an amateur oil, which depicted a land where there were neither mountains nor ocean in sight. Ada had helped them put it up, until Papa made her step down from the stool before she broke a bone.
+
+Upstairs she tied her hair back.
 
 The medicine lived in the fridge, in its own wooden box, next to the spirits. They were low on mead. She broke the ampule. What was in it would trade for five vials of poppy.
 
@@ -3492,7 +3496,7 @@ Oh, oops, hehe.
 
 Diana growled at the radio.
 
-Vavasseur did not seem convinced. A radio-compressed sigh, then *Look, be for real with me. Do I need to come get you at the shack?*
+Vavasseur did not seem convinced. A bit-crushed sigh, then *Look, be for real with me. Do I need to come get you at the shack?*
 
 *how did you, no. I'll make it. promise.*
 
@@ -3674,7 +3678,7 @@ The men laughed, full-throatedly. Vavasseur's laugh had a tracheal component, an
 
 Collie signalled for the mead. The waitress set down wine glasses and began to pour.
 
-*A little something, from Chateau Swartz, to the future?*
+*A little something, from Château Swartz, to the future?*
 
 *To a bloody war.* Vavasseur probed. Silent: *or a sickly season.*
 
@@ -3768,7 +3772,7 @@ Bréal chuckled, and said *A miracle, this one. One day he'll run the place.*
 
 His mouth was dry. Vavasseur had another swig.
 
-***
+---
 
 The fact that she and Fleming had discussed this in writing, and then rehearsed in person, did not make it any less jarring.
 
@@ -3904,7 +3908,7 @@ A child nicknamed Lily — or on an incomprehensible schedule, Coco — once sli
 
 But, what can you do about an Englishwoman?
 
-***
+---
 
 An excerpt from Chef Akiyama's Technical Guide to Arbutus Cuisine, as printed by Midnight Publishing:
 
@@ -4141,6 +4145,37 @@ Well Received, Bréal's eyes finally said.
 They had a peach strudel after that, Peggy said something about the new cannery back East that made it possible. The ice cream was made with oak, and smelled of vanilla. The extinction of the latter—when the news came—was of least concern to Arbutus.
 
 There was chocolate syrup for garnish, thin strands that landed on the ice cream, set, and turned dry.
+
+---
+
+Someone had written the English title on top, in bold. The ink was iron gall. They played it after dessert.
+
+### Auld Lang Syne
+
+*थाट बिलावल, ताल कहरवा (मात्रा ८)*
+
+| स्थायी |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+|   |   |   |   | । |   |   |   | प̣ |
+| सा | ऽनि̣ | सा | ग | । | रे | ऽसा | रे | गरे |
+| × |   |   |   |   | ० |   |   |   |
+| सा | ऽसा | ग | प | । | ध | — | — | ध |
+| × |   |   |   |   | ० |   |   |   |
+| प | ऽग | ग | सा | । | रे | ऽसा | रे | गरे |
+| × |   |   |   |   | ० |   |   |   |
+| सा | ऽध̣ | ध̣ | प̣ | । | सा | — | — | ध |
+| × |   |   |   |   | ० |   |   |   |
+
+| अंतरा |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+| प | ऽग | ग | सा | । | रे | ऽसा | रे | ध |
+| × |   |   |   |   | ० |   |   |   |
+| प | ऽग | ग | प | । | ध | — | — | सा̇ |
+| × |   |   |   |   | ० |   |   |   |
+| प | ऽग | ग | सा | । | रे | ऽसा | रे | गरे |
+| × |   |   |   |   | ० |   |   |   |
+| सा | ऽध̣ | ध̣ | प̣ | । | सा | — | — |   |
+| × |   |   |   |   | ० |   |   |   |
 
 ---
 
