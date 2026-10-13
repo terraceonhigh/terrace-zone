@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,326
+word_count: 32,511
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -91,7 +91,9 @@ Outside the room, her thumb stroked the back of Nona's hand.
 
 *You're going to be okay, ma'am,* he said.
 
-*Nadia won't even notice.*
+*Nadia won't even notice.* Collie smiled at her friend.
+
+Someone heard wheezing in the clinic's washroom, knocked, and a raspy Collie said she was fine.
 
 ---
 
@@ -1066,7 +1068,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *Enter.*
 
-*Good to see you, Bréal, how is the project going?*
+*Good to see you, Bréal, how is the project going?* The powder on Collie's face had barely set.
 
 *Half the farm is brown, in the middle of the dry season, and, the agronomists said not to mind.* He pinched his nose bridge. *But all we are getting are pickles and biscuits from the country. Fifty blocks are on water trucks, and we are running low on gas. What brought you here, Madam Swartz?*
 
@@ -1086,7 +1088,7 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 *How do we explain this?*
 
-*Oh, you won't have to. Just... recommend the engineers to recompute the district triage with slightly different weightings. The sandwiches are just here to relieve our working boys, yes?*
+*Oh, you won't have to. Just... recommend the engineers to recompute the district triage with slightly different weightings. The sandwiches are just here to relieve our working boys, yes?* She coughed, and took to her smelling salts.
 
 *Okay, okay.*
 
@@ -1828,7 +1830,7 @@ Collie let that slide.
 
 *...but,* his mind raced for an excuse, *still I need to take measurements for the stuff and...*
 
-*You sure?*
+*You sure?* Collie had a smile, a wide one, with no teeth.
 
 *Very well, just one. I tell you, just one.*
 
@@ -1870,7 +1872,7 @@ The needles pinched her at the scalp.
 
 ---
 
-Alex and Lewis were waiting at the door. The plate carrier on Alex was not fully fitted.
+Alex and Lewis were waiting at the door, with the two grad students who were on the same shift as Maia. The plate carrier on Alex was not fully fitted.
 
 Lewis carried the shotgun, Alex held a borrowed revolver, with five rounds chambered and the hammer down on the empty one, the way Vavasseur loaded it.
 
@@ -1884,7 +1886,7 @@ The girls were sent away to work, after Maia told them the story across the dinn
 
 *Shall we, gentlemen?* Nona asked.
 
-Lewis blew into a bugle, which was attached to an olive drab strap. The two men flanked the three women as they walked.
+Lewis blew into a bugle, which was attached to an olive drab strap. The two men flanked the three women as they walked. The students tailed one man each.
 
 *Maia, now tell me what you won't be telling them.* Collie's voice came out half-muffled on the far side of the tassels.
 
@@ -1940,7 +1942,7 @@ They told Lewis the night after that. His face did not show signs of minding.
 
 ---
 
-Her entourage was outside the chamber now, Collie buttering up coworkers and Nona shaking hands with their entourages. The boys were told to put down their weapons or wait outside.
+Maia and Collie were outside the chamber now, Collie buttering up coworkers and Nona shaking hands with their entourages. The boys were told to put down their weapons or wait outside.
 
 They waited outside.
 
@@ -2034,6 +2036,8 @@ Another deep breath.
 
 *Do you not know?*
 
+One of her students stood up, the other dragged him back down.
+
 *The Chair requests that committee members reserve policy recommendations for testifiers competent in the field.*
 
 Okay, okay.
@@ -2066,7 +2070,7 @@ The room nodded in acknowledgement.
 
 *Is the observatory expecting a major disaster-response effort to be necessary?*
 
-A grad student from the department of natural sciences walked up, and whispered in her ear.
+One of her students walked up, and whispered in her ear.
 
 *No, at this time, we do not.*
 
@@ -2438,25 +2442,25 @@ He grabbed the toolbox, for getting breakfast. And then on second thought, he we
 
 Collie was at the foyer, blocking the door.
 
-*Where are you going.*
+*Where are you going?* She asked softly, with the pursed smile that listed to one side.
 
 *Oh, uhh, to grab a breakfast, heh.* He is, though, why is he so unconvincing? *Start of the day!* He did an arm-pumping motion. *...yeah?*
 
-*There are sandwiches on the dinner table, egg salad.* Collie did not mention that she whipped the mayonnaise herself. *Make sure that girl eats.*
+*There are sandwiches on the dinner table, egg salad.* Collie did not mention that she whipped the mayonnaise herself. *Make sure that girl eats, won't you?*
 
 okay. Wait, Vavasseur.
 
 *Collie.*
 
-*Yes, Alex.*
+*Yes, Alex?*
 
 *Maddy is a smart girl.*
 
-*She is.*
+*She very much is.*
 
 *Why don't we let her be a doctor for a while, and then we will see.*
 
-*She's book-smart, like her mom.* Collie looked at his shoes, *she'll end up with some buffoon.*
+*She's book-smart, like her mom.* Collie looked at his shoes, and fidgeted in perfect 4/4, *I worry she'll end up with some buffoon.*
 
 *My Lewis is around,* most of the time, *he knows how to chase a boy away.*
 
@@ -2464,11 +2468,11 @@ okay. Wait, Vavasseur.
 
 *Lewis's grandma never finished her degree.*
 
-Collie tsk'd.
+Collie *hmm*'d.
 
-*Fine, we'll see when she graduates.* She muttered, *I have grad students to deal with, don't burn the house down.*
+*Yeah, we'll see when she graduates.* She said, *I have grad students to manage, don't burn the house down, okay.*
 
-Small victories.
+Small victories, larger bowel movements.
 
 ---
 
@@ -3344,7 +3348,7 @@ He was still panting.
 
 *Or I can save you some money,* Bréal offered.
 
-*That would be the thrifty option, yes. But I can spare a loaf. Like I said, him, front.*
+*I am feeling generous today. Like I said, him, front.*
 
 *Whatever you say.*
 
@@ -3354,11 +3358,11 @@ Bréal set him down in the hallway the way one set down a duffel bag of sweaty l
 
 He wanted to crawl back to the room, to get his bag, he did not know the other workmen very well.
 
-Lady Swartz brought him a piece of bread—rye bread—and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl.
+Lady Swartz brought him a piece of bread—rye bread—and a cup of cold broth. The bread was just handed to him, and the broth was served in a stainless steel bowl. She smiled at him, with no teeth. The air exhaled from her nostrils blew a ripple into the cold soup.
 
-*Eat, and when you can stand, go back to the foreman.*
+*Eat, and when you can stand, go back to your foreman.*
 
-He nodded.
+He nodded. Lady Swartz tilted her head seventeen degrees to the side.
 
 The broth had hints of richness. There was bone, garlic, carrots, celery and celery seeds, caraway, fennel. Hints of sausage, though no actual chunks. A good handful of split peas were found at the bottom of the bowl.
 
@@ -3790,7 +3794,9 @@ She swore Fleming looked Lewis in the eyes.
 
 *It's going great, kid,* she whispered as she walked past.
 
-Alice wouldn't even have needed to put on a character for this.
+It was good that she was the only woman in attendance, there was no risk of anyone overhearing her... decompression in the powder room.
+
+At the washroom's door, her face was faintly purple under the powder from held breath. She looked at the door side-on and saw that it was thick enough.
 
 ---
 
@@ -3852,7 +3858,7 @@ Bréal seemed angry at himself, and didn't show it, to the front.
 
 He told himself Bréal shook mom's hand much more vigorously than Fleming's.
 
-...Auntie Collie's eyes were soft, softer than he knew they went.
+Lewis saw his mother’s—Auntie Collie's, he correct himself—face return to neutral, and did not know why.
 
 ---
 
@@ -4006,8 +4012,6 @@ It was not part of their plan.
 
 *Item 9 stipulates that the weapons be stored as they were, in Epsilon, with a lock devised to require two key-holders to open, one of which shall go to M. Bréal, the other an officer as the Senate appoints and amends from time to time... And for a third officer to confirm the locks are in good shape monthly.*
 
-Collie caressed Fleming's hand.
-
 *We would like the weapons in our own armoury...*
 
 *Done.* Bréal spat.
@@ -4050,7 +4054,9 @@ Paths in the Terrarium twirled and pooled, like the intestines inside an animal.
 
 *We were just discussing surety.*
 
-Vavasseur picked a ripe tomato. He brushed his thumb at the tomato's skin. It was supple, it was grown here, and it was softer than the outside would have allowed.
+*I understand that my Lewis is the only Epsilon in the room who does not speak French.*
+
+Vavasseur did not answer her. He picked a ripe tomato, and brushed his thumb at the tomato's skin. It was supple, it was grown here, and it was softer than the outside would have allowed.
 
 *A splice,* Vavasseur mused, *I was told. They put potatoes under this plant, and belladonna on the leaves. One last Manhattan Project to bring with into the night.*
 
