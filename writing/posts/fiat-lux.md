@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,099
+word_count: 32,102
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3596,7 +3596,7 @@ The tea sloshed in his flask. Outside, two riders kept pace, one at each headlam
 
 Collie dug into her clutch for nothing in particular, *it helps them eat.*
 
-*It helps you sleep. The bastard would have done as well as a doll. A doll would have survived, you.* Fleming wagged a finger at her, in a circle.
+*It helps you sleep. There never was a need for the bastard. A doll would have sufficed, a doll would have survived, you.* Fleming wagged a finger at her, in a circle.
 
 *Drunkard.*
 
