@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 31,822
+word_count: 32,070
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3903,6 +3903,70 @@ But, what can you do about an Englishwoman?
 An excerpt from Chef Akiyama's Technical Guide to Arbutus Cuisine, as printed by Midnight Publishing:
 
 ### Chawanmushi, as served in The Terrarium
+
+To serve four.
+
+#### Notes
+
+Use thin-walled ceramic cups with lids, metal is acceptable as a substitute.
+
+Steamer necessary.
+
+#### Ingredients
+
+1 blade dried bull kelp (do not wash)
+
+50 g dried sardines (see page 16)
+
+50 g halibut fillet (or other white fish)
+
+4 spot prawns dressed (see page 25)
+
+50 g brown mushrooms (as available)
+
+3 large eggs
+
+1 green onion or other garnish
+
+1 Tbsp vodka or other neutral spirit
+
+8 slices kamaboko (fish cakes) (see page 10)
+
+1/2 tsp honey
+
+1/2 tsp fish or mushroom garum (see page 65)
+
+Salt to taste
+
+#### Steps
+
+Rehydrate kelp overnight.
+
+Gut and behead sardines if necessary.
+
+Add sardines and simmer gently, remove kelp before bubbles surface. Simmer three more minutes, and strain liquor through cloth. Mix in honey and vodka, and let cool.
+
+Once cooled, add liquor to eggs in mixing bowl, at a ratio of 2.5 parts liquor to 1 part egg by weight.
+
+Add in garum and salt.
+
+Whisk gently, minimise bubbles.
+
+Strain mixture through fine sieve to remove bubbles.
+
+Slice halibut and kamaboko, thinly.
+
+Remove tails from prawns.
+
+Remove roots from mushrooms and cut into chunks or slices as necessary.
+
+Layer fillings into cups, top with kamaboko and green onions as garnish.
+
+Fill cups with egg mixture through another sieve.
+
+On lowest heat, put lidded cups into steamer. Keep at bare simmer with the steamer lid slightly open. Steam for twenty minutes or until skewer enters eggs and exits with clear liquid.
+
+Serve hot.
 
 ---
 
