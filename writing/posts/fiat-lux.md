@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,320
+word_count: 32,326
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3870,11 +3870,11 @@ They had four days, which was longer than most.
 
 The house went first, because it had a scenic view and the population always needed more living-room. And then the car; they wouldn't have needed it anyways. The boat went last, and he had tried to be an ass about all of it.
 
-She was a part of his flesh, he had told his daughter. The man did not parse, and offered instead a wad of cash for her, here, now. It was a good deal.
+She was a part of his flesh, he had told his daughter. The man in the tophat did not understand the language, and offered instead a wad of cash for the boat, here, now. It was a good deal.
 
 They put the money in the bank, and the ones who put up the order on the paper, in black and white, took what was in the bank too.
 
-It was the first time he lost sight of the ocean, and then the first time he lost sight of a river.
+It was the first time she lost sight of the ocean, and then the first time he lost sight of a river.
 
 There were snow-peaked mountains, and then desert fields, where they told them to build their own prison.
 
@@ -4179,7 +4179,7 @@ Someone had written the English title on top, in bold. The ink was iron gall. Th
 
 They shook hands in front of the steps. Fleming and Bréal held the paper for all to see, Vavasseur and Lady Swartz backing each respectively. A journalist from the old student paper lit a flash pan, and the four of them held their eyes open as the camera did its work. Two more flashes, and then a few moments for the sketch artists to catch up.
 
-Lewis went home an hour and a half after Auntie Collie did, thirty minutes for the dinner, thirty minutes to return the .44 (he was, by all accounts, lucky; the gun, however, had hoped otherwise), and thirty more because he walked back.
+Lewis went home an hour and a half after Auntie Collie did, thirty minutes for the dinner, thirty minutes to return the .44 (he was by all accounts lucky; the gun, however, had hoped otherwise), and thirty more because he walked back.
 
 He kept in the ice box what the chef let him bring home. It was good breakfast for Nadia, who ate it reading the front page story.
 
