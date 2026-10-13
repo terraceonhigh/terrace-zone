@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,081
+word_count: 32,078
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3442,7 +3442,11 @@ Ada failed to mention that they did not give her a shirt.
 
 *The Chief of the dam told me the turbine I was holding is the same kind they use up the river. Papa let his little boy kiss my hand,* a pause, *and he also said the Chief is a good man.*
 
-*The girl from Aldermere was there too, the one who did my hair between sittings. They let her keep her glasses on, mama, and her glasses had chains, she told me she put the sweetgrass in them herself.* Her people had given her a jade ring for the ride to Arbutus. *There was a whole row about whether to carve her hair up or down. She did mine with your handkerchief, and I made sure they carved that in.* Ada picked a speck of lint off the blanket. *They made her urn pour out salmon, mine just gave water.*
+*The girl from Aldermere was there too, the one who did my hair between sittings. They let her keep her glasses on, mama, and her glasses had chains, she told me she put the sweetgrass in them herself.*
+
+Her people had given her a jade ring for the ride to Arbutus.
+
+*There was a whole row about whether to carve her hair up or down. She did mine with your handkerchief, and I made sure they carved that in.* Ada picked a speck of lint off the blanket. *They made her urn pour out salmon, mine just gave water.*
 
 The clock struck five. The tower bell, across the campus, did not come into the room.
 
@@ -3738,7 +3742,7 @@ The wasabi tasted different from the horseradish Vavasseur remembered from his y
 
 *Does Cecilia know yet? Or is she still busy with Iota afield?* Vavasseur probed.
 
-Lady Swartz ate a piece of tuna.
+Collie ate a piece of tuna.
 
 Collie gave Fleming a piece of ginger, on the eleven-o'clock side of his plate.
 
@@ -4016,7 +4020,7 @@ Bréal had a swig of something. *Vavasseur, I remember you gave particular atten
 
 Bréal signalled Peggy to bring another bottle. *I brought something from the breadbasket Lord Fleming would love to taste.*
 
-Lady Swartz put her napkin back on the table, folded neat, of course.
+Collie put her napkin back on the table, folded neat, of course.
 
 Vavasseur rose, and offered her his hand.
 
@@ -4122,13 +4126,13 @@ Vavasseur scooped another ladleful onto the boss's plate, without asking him fir
 
 The stew was tender.
 
-*Bréal, such a shame your wife couldn't join us, leaving just one girl here all by her lonesome. Is she well?* Lady Swartz asked.
+*Bréal, such a shame your wife couldn't join us, leaving just one girl here all by her lonesome. Is she well?* Collie asked.
 
 *I have been telling her to rest, but you know how headstrong our women can be.*
 
 *Is she still pursuing admission? If she needs someone to countersign.* Collie offered, Fleming touched her hand and she did not react.
 
-*She has since grown wiser, I think. Since we are on the topic, how is Maddy? I hear she is going to the Christmas dance?* Bréal asked. Lady Swartz's eyes darted at Lewis. Vavasseur's own eyes tried to notify, but Bréal had tunnel vision on her.
+*She has since grown wiser, I think. Since we are on the topic, how is Maddy? I hear she is going to the Christmas dance?* Bréal asked. Collie's eyes darted at Lewis. Vavasseur's own eyes tried to notify, but Bréal had tunnel vision on her.
 
 *...and Nadia too, but Lord Fleming had been telling them to focus on school.*
 
@@ -4140,7 +4144,7 @@ There was chocolate syrup for garnish, thin strands that landed on the ice cream
 
 ---
 
-They shook hands in front of the steps. Fleming and Bréal held the paper for all to see, Vavasseur and Swartz backing each respectively. A journalist from the old student paper lit a flash pan, and the four of them held their eyes open as the camera did its work. Two more flashes, and then a few moments for the sketch artists to catch up.
+They shook hands in front of the steps. Fleming and Bréal held the paper for all to see, Vavasseur and Lady Swartz backing each respectively. A journalist from the old student paper lit a flash pan, and the four of them held their eyes open as the camera did its work. Two more flashes, and then a few moments for the sketch artists to catch up.
 
 Lewis went home an hour after Auntie Collie did, thirty minutes for the dinner, and thirty more because he walked back.
 
