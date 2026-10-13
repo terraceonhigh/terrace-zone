@@ -1240,7 +1240,7 @@ They were quiet for a while.
 
 Maddy considered the onions, and rejected them on the grounds of chemical crying leading to emotional crying. She then rejected the cheese, because the grease won't sit well by lunch. She looked at the sausage, and decided that Collie already had enough trouble for one morning.
 
-*The tomatoes, the ones Nona brought back from the Terrarium*
+*The tomatoes, the ones Nona brought back from the Terrarium.*
 
 *With the mushrooms, I insist.*
 
