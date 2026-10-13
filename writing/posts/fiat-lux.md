@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,070
+word_count: 32,081
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3428,7 +3428,7 @@ The fridge compressor kicked in.
 
 *And every time somebody said hello, the first thing out of his mouth was, oh did you see my baby up there on the pedestal.* Ada twisted a valve shut. *It's a pediment. The carvers insisted.*
 
-She pressed a button on the monitor. Its plastic had been pumped out of the ground in Arabia, pelletized somewhere wetter, and injection-molded sixteen hours from wherever the machine was built. She plugged the hose into the new can, the one that said `Iota Iron Works`, pressed the button again, and the machine stopped complaining.
+She pressed a button on the monitor. Its plastic had been pumped out of the ground in Arabia, pelletized somewhere wetter, and injection-moulded sixteen hours from wherever the machine was built. She plugged the hose into the new can, the one that said `Iota Iron Works`, pressed the button again, and the machine stopped complaining.
 
 Klara's cheek was warm.
 
@@ -3464,7 +3464,9 @@ Another boil, and then Ada did her own injection in her room.
 
 ---
 
-The fire outside smouldered, then stopped, and a hand lay across Lewis's (reportedly well-defined) pecs. Something heavy sat on his ribs. The roof spun at the pace of wind-blown dandelion.
+Some time had passed, Lewis was not sure if it was an hour or a week.
+
+The fire outside smouldered, then stopped, and a hand lay across his pecs. Something heavy sat on his ribs. The roof spun at the pace of wind-blown dandelion.
 
 She had something grown in Aldermere. He'd had something grown in Aldermere too.
 
@@ -3666,7 +3668,7 @@ The men laughed, full-throatedly. Vavasseur's laugh had a tracheal component, an
 
 *Glad to hear we can at least agree on sparing no expense.* Fleming said.
 
-Collie signaled for the mead. The waitress set down wine glasses and began to pour.
+Collie signalled for the mead. The waitress set down wine glasses and began to pour.
 
 *A little something, from Chateau Swartz, to the future?*
 
@@ -3710,7 +3712,7 @@ Vavasseur had read those too.
 
 Halibut was the first fish, the chef said. *Cured in kelp, served atop brown rice, from our experimental paddy.*
 
-They wheeled in a bowl for each diner, with soap on the side. He had expected to coach Bréal on how to eat nigiri, but Bréal told him it was common sense.
+They wheeled in a bowl for each diner, with soap on the side. Vavasseur had expected to coach Bréal on how to eat nigiri, but Bréal told him it was common sense.
 
 Grab with the hand, gently, dunk in... garum, and place in one's mouth topping-side-down.
 
@@ -3792,13 +3794,13 @@ She would collect the tax, she would have the discretion to nurse Ada. Ada never
 
 The young man seated against him laughed at something. His eunuch syncopated. Hadn't he been here before?
 
-Or did they not see what Collie had done to get her doctorate? The shy furrow in her brows was just as beautiful tonight as it was the day before she won her defense.
+Or did they not see what Collie had done to get her doctorate? The shy furrow in her brows was just as beautiful tonight as it was the day before she won her defence.
 
 ---
 
 They had sea urchin after, on white rice, a short-grain cultivar they had just made barely viable in the country. The white vinegar was the same base as balsamic, but flatter, less complex, and more readable in the now.
 
-Bréal saw that his lieutenant tried to suppress amazement. He wanted to tell him it was okay, that not everybody was given the privilege at first, but the ones who got it themselves most deserve it. 
+Bréal saw that his lieutenant tried to suppress amazement. He wanted to tell him it was okay, that not everybody was given the privilege at first, but the ones who got it themselves most deserve it.
 
 By the looks of it, he should have brought a better brother than Lewis.
 
@@ -3806,7 +3808,7 @@ Collie was occupied. The old man was on a last hurrah; it seemed he had misjudge
 
 He ate like how Nero ate grape. She ate like how mother ate the communion wafer.
 
-This is bad alpha, yes. But its better show.
+This is bad alpha, yes. But is better show.
 
 And to think the Swartz girl was lined up to replace Franklin.
 
@@ -3974,7 +3976,7 @@ Peggy took the last of the plates, and informed them the stew would be ready in 
 
 *First Lieutenant.* Bréal muttered. *Remind me, how many ranks are there?*
 
-*You'll be an O-2, my dear.* Collie wiped the corner of her mouth. *...of four. same as Iota's.*
+*You'll be an O-2, my dear.* Collie wiped the corner of her mouth. *...of four. Same as Iota's.*
 
 *And no higher?*
 
@@ -4008,11 +4010,11 @@ Collie caressed Fleming's hand.
 
 Vavasseur looked at his bossman, just for a split-second.
 
-Bréal had a swig of something. *Vavasseur, I remember you gave particular attention to where they grow the spice here? And that you wanted to show the Lady your own gastronomy.* 
+Bréal had a swig of something. *Vavasseur, I remember you gave particular attention to where they grow the spice here? And that you wanted to show the Lady your own gastronomy.*
 
 *I—* Vavasseur recalled no such thing. *...suppose I did.*
 
-Bréal signaled Peggy to bring another bottle. *I brought something from the breadbasket Lord Fleming would love to taste.*
+Bréal signalled Peggy to bring another bottle. *I brought something from the breadbasket Lord Fleming would love to taste.*
 
 Lady Swartz put her napkin back on the table, folded neat, of course.
 
@@ -4086,7 +4088,7 @@ They took the garden path back.
 
 There was a wet spot on the tablecloth, and the bottle had already been taken away.
 
-*For coming back just in time for the main?* Collie joked, and signaled to Peggy to bring it in.
+*For coming back just in time for the main?* Collie joked, and signalled to Peggy to bring it in.
 
 *Second Lieutenant Bréal has appointed the Monsieur to head Epsilon after the charter.*
 
@@ -4132,9 +4134,9 @@ The stew was tender.
 
 Well Received, Bréal's eyes finally said.
 
-They had a peach strudel after that, Peggy said something about the new cannery back East that made it possible. The ice cream was made with oak, and smelled of vanilla. The extinction of the latter did not end up to be that serious a problem here.
+They had a peach strudel after that, Peggy said something about the new cannery back East that made it possible. The ice cream was made with oak, and smelled of vanilla. The extinction of the latter—when the news came—was of least concern to Arbutus.
 
-There was chocolate syrup for garnish, thin strands that landed on the ice cream set and turned dry.
+There was chocolate syrup for garnish, thin strands that landed on the ice cream, set, and turned dry.
 
 ---
 
