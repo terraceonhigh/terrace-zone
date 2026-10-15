@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-15
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,815
+word_count: 32,934
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -891,11 +891,31 @@ He folded his phone, and asked the bartender for a *Vieux Carré.* She took a se
 
 *It says Mercredi on your watch.*
 
-He checked, it was complaining about an elevated heart rate, and it was not Monday.
+He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
 
 *What is the word you use for chocolate-filled bread.* He humoured her.
 
 *That only gives me more reason to teach, non?*
+
+He did not respond to her, and instead told the bartender to make whatever the lady wants.
+
+*uhh..., un.. a, Cabernet, pla—please?* she said in English.
+
+*Seems like we both need some teaching,* he put on a brave face, and smirked. *Bréal is my name. Welcome, Madamemoiselle, I think.*
+
+*We don't use that word back home anymore...*
+
+*—oh, shoot, sorry—*
+
+*...but I like it, you may.*
+
+The bartender pretended to not overhear as he brought their drinks.
+
+Bréal closed the first two buttons on his shirt back up. *Very well, Madame.* He raised his glass to toast.
+
+She pulled back her glass. *Madamemoiselle, I just told you.*
+
+*Whatever you say,* a chuckle, *madamemoiselle.* And then the glasses clinked.
 
 ---
 
