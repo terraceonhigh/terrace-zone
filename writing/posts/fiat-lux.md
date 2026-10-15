@@ -1,6 +1,6 @@
 ---
 title: Fiat Lux
-date: 2026-10-13
+date: 2026-10-15
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
 word_count: 32,573
@@ -875,7 +875,7 @@ Rosa wiped down the blood pressure cuff, first with a splash of water, and then 
 
 ---
 
-## Untitled Breal
+## Madame
 
 
 
