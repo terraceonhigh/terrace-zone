@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-15
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,934
+word_count: 33,135
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -889,6 +889,8 @@ He folded his phone, and asked the bartender for a *Vieux Carré.* She took a se
 
 *Quoi?*
 
+She undid one of her earbuds.
+
 *It says Mercredi on your watch.*
 
 He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
@@ -913,9 +915,23 @@ The bartender pretended to not overhear as he brought their drinks.
 
 Bréal closed the first two buttons on his shirt back up. *Very well, Madame.* He raised his glass to toast.
 
-She pulled back her glass. *Madamemoiselle, I just told you.*
+She pulled back her glass. *Madamemoiselle. I just told you.*
 
 *Whatever you say,* a chuckle, *madamemoiselle.* And then the glasses clinked.
+
+The date after that, they went to a restaurant that required an elevator. The patio was closed on account of the wind, and there was a pot of dried flowers at every table.
+
+She asked the waiter to take the flowers away, Bréal asked for champagne.
+
+The waiter brought sparkling wine instead.
+
+She had sablefish, and he had chicken tarragon. Dessert was lava cake, with strawberry gelato on top. Back on the ground, they had another round of sorbet after that.
+
+He drove her to the airport, in a car that did not announce itself, when the dig site on another continent opened. She said she would bring back souvenirs. The truck that drove her to the dig site had its windshield swapped out in the middle of the tour, because the wiper pushed the sand and the sand ground down the glass to a dreamy haze.
+
+They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
+
+After she came back, she brought them to a place that pretended to be a dumpling shop out front.
 
 ---
 
