@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-15
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 32,573
+word_count: 32,815
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -877,7 +877,25 @@ Rosa wiped down the blood pressure cuff, first with a splash of water, and then 
 
 ## Madame
 
+The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to dorm. *[french goodbye]*.
 
+There was a greenscreen set of a man-made creek, it gurgled alongside an art piece with a video element of the artists talking. Someone made a rug entirely out of old printer cables, and hematite was the beadwork.
+
+She retired to the gallery bar after she ran out of film. There was one bartender and one other client. The latter was in his shirtsleeves, and was scrolling on his phone — up, down, and then up again. The document he was looking at did not require his signature, only his receipt.
+
+He folded his phone, and asked the bartender for a *Vieux Carré.* She took a seat next to him at the empty bar.
+
+*You know you can pronounce it better*, she said in French.
+
+*Quoi?*
+
+*It says Mercredi on your watch.*
+
+He checked, it was complaining about an elevated heart rate, and it was not Monday.
+
+*What is the word you use for chocolate-filled bread.* He humoured her.
+
+*That only gives me more reason to teach, non?*
 
 ---
 
