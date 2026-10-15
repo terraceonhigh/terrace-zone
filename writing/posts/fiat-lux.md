@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-15
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 33,135
+word_count: 33,145
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -931,7 +931,7 @@ He drove her to the airport, in a car that did not announce itself, when the dig
 
 They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
 
-After she came back, she brought them to a place that pretended to be a dumpling shop out front.
+After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green.
 
 ---
 
