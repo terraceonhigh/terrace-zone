@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 34,420
+word_count: 34,555
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -993,13 +993,13 @@ The University issued them the goggles, but the KN95s Vavasseur bought himself b
 
 She was brushing a piece of sandstone with a horsehair brush. He was in the same pit, doing likewise.
 
-*Do you think... we get named?* Vavasseur asked.
+«Do you think we will get named?» Vavasseur asked.
 
-*hmm...no, I think*
+«hmm...no, I think»
 
-*Professor... fat.*
+«Professor... fat.»
 
-*Like vase, ha?*
+«Like vase, ha?»
 
 He found something, and wanted her photograph it.
 
@@ -1083,13 +1083,31 @@ He found the car to buy on a website dressed for the last millennium. It was pic
 
 The real woman was patching an elbow while humming a tune. He told her where they were going that weekend.
 
+The seller insisted on cash, and the bank still brought him to the back rather than let him queue. She felt proud of herself, for not letting him piss away what remained of his portfolio. The banker handed him something to sign, and Bréal kept the envelope the banker gave him in his inside pocket.
+
+The pen was gold-plated at the nib, this she allowed him to keep.
+
 The rental place ran out of the car they had booked, so they had to drive it themselves. And because humans were driving, there was an extra insurance premium. And because Bréal was under twenty-five, there was another charge. It came out double the initial estimate, and the PIN pad scratched the metal on his credit card.
 
 There was a bilingual expletive when he drove it off the lot.
 
 ---
 
-He was juggling texting the truck's owner and an inane mobile game on the ferry, and she had gone to the onboard restaurant to grab lunch for the both of them.
+He was juggling texting the truck's owner and an inane mobile game on the ferry, and she wanted to go to the onboard restaurant to grab lunch for the both of them.
+
+«You sure you can handle it?» He said to the screen.
+
+«mmm,  i can just point.»
+
+«You sure you don't want me to go with you?» He said with the phone face-down
+
+«i have to practice.» she put on her earbuds.
+
+«I want the soup, and bread. Come back if you can't handle it.» The phone buzzed.
+
+She went upstairs
+
+The line was long, she
 
 ---
 
