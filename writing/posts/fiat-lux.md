@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 34,555
+word_count: 35,144
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -949,7 +949,7 @@ The date after that, she made him drive her to a chicken place, where the tables
 
 «take your time, ma chère.»
 
-It was locked, and the sign on it said `No Public`... *Non Publique*... «pas de ... publiques». The line under that said `cashier`. Someone flushed.
+It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de ... publiques* The line under that said `cashier`. Someone flushed.
 
 She went to the till. A few teenagers were chattering and laughing about their amusements.
 
@@ -1083,7 +1083,7 @@ He found the car to buy on a website dressed for the last millennium. It was pic
 
 The real woman was patching an elbow while humming a tune. He told her where they were going that weekend.
 
-The seller insisted on cash, and the bank still brought him to the back rather than let him queue. She felt proud of herself, for not letting him piss away what remained of his portfolio. The banker handed him something to sign, and Bréal kept the envelope the banker gave him in his inside pocket.
+The seller insisted on cash, and the bank still brought him to the back rather than let him queue. She felt proud of herself, for reining in what remained of his portfolio. The banker handed him something to sign, and Bréal kept the envelope the banker gave him in his inside pocket.
 
 The pen was gold-plated at the nib, this she allowed him to keep.
 
@@ -1105,9 +1105,55 @@ He was juggling texting the truck's owner and an inane mobile game on the ferry,
 
 «I want the soup, and bread. Come back if you can't handle it.» The phone buzzed.
 
-She went upstairs
+She went upstairs to the passenger area
 
-The line was long, she
+The line was long, and she saw that the soup was labeled `salmon` ...*saumon*, he would like it. She wants... the salad.
+
+It took a few tries, but the staff was more than as patient as the line behind her allowed. She used her own debit card to pay. The soup came in a plastic bowl shaped to be an oversized ramekin, and the salad was grab-and-go from the cold shelf, which was a blessing.
+
+She set the tray at the dashboard, and they ate until the captain said something on the PA.
+
+«what is it?» she said with darting eyes, no one was panicking, so it was probably okay.
+
+«There are orcas, want to look?»
+
+The captain cut the engine off after that, and he handed her a pair of binoculars. There were orcas, a grandmother leading the pack and two males flanking. A juvenile was playing, and her mother followed.
+
+It was the same pair of binoculars his father gave him, when he was old enough to do the ropes on the family yacht.
+
+One valley of driving later, she declared that she was hungry again. He drove past a café chain and parked in front of a grocery store. They grabbed a tuna sandwich, and at the till he grabbed a pamphlet selling a points card. The cashier unfolded the pamphlet and unstuck the card that was taped inside at the factory.
+
+The card had a bar code on its back, and *beeped* under the same scanner as the one tall can of kombucha did. She asked the cashier for two packets of ketchup.
+
+He threw out an old business card or two, to make room for the points card. In the car, they grabbed a wedge of sandwich each, said *bon appetit*, and ate.
+
+In the backseat, Bréal into a polo and beige slacks.
+
+They got to where the seller had agreed before dark. The seller was tanned up to the elbow, and had a beard as white as melting slush. He had a deer gun on his person, which he had the decency to set down before walking up to the two.
+
+Bréal looked under the hood, and then under the carriage. By the guide he had followed, was nothing alarming. The seller rode shotgun when Bréal did the test drive the guide prescribed.
+
+Bréal handed him the envelope, the seller counted the bills inside one by one. The exact amount as they had agreed on. Unbeknownst to the seller, the one who made Bréal haggle was the woman.
+
+*Might be too big for your girlfriend.* He said.
+
+*You tell me. She insisted.*
+
+The seller shrugged, and gave them the keys.
+
+*Might not make it to the ferry.*
+
+*We figured we'll sleep in the truck.*
+
+*Bless your hearts,* the seller grabbed his gun and hat and walked back to his barn.
+
+She drove the truck in front, and he followed in the rental. The pedals were a little too deep in the footwell for her. They returned the rental at the local branch, which added another pile of fees.
+
+They laid the seats to as flat as they went, saw that it wasn't enough. They went to a big-box store, and got an inflatable mattress sized for the canopy as well as a USB charger that plugs into the car
+
+They cracked the windows open, and held each other for warmth overnight.
+
+In the morning, they shared the truck's one charger between his phone and her laptop, to do his essay and to write feedback for her students.
 
 ---
 
