@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 33,637
+word_count: 33,847
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -919,6 +919,8 @@ She pulled back her glass. «madamemoiselle. i just told you.» She pressed down
 
 «Then it shall be,» a chuckle, «madamemoiselle.» And then the glasses clinked, with hers firmly planted, and his doing the swing.
 
+---
+
 The date after that, they went to a restaurant that required an elevator. The patio was closed on account of the wind, and there was a pot of dried flowers at every table.
 
 She asked the waiter to take the flowers away, *s'il vous plaît*. Bréal asked for champagne.
@@ -927,9 +929,13 @@ The waiter brought sparkling wine instead.
 
 She had sablefish, and he had chicken tarragon. Dessert was lava cake, with vanilla gelato on top. Back on the ground, they had sorbet at a more colourful establishment. The cherry syrup tasted of chemistry and saccharine.
 
+---
+
 He drove her to the airport, in a car that did not announce itself, when the dig site on another continent opened. She said she would bring back souvenirs. The truck that drove her to the dig site had its windshield swapped out in the middle of the tour, because the wiper pushed the sand and the sand ground down the glass to a dreamy haze.
 
 They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
+
+---
 
 After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she finished the rest of her Sazerac in one gulp. «What's wrong?» he said. She put his hand on her cheek, and held it there, where she was warm. She smelled of lavender as he pulled her in.
 
@@ -961,17 +967,47 @@ They stopped for gas on the way back to the university, and he filled with Regul
 
 There was a lightbulb on his desk, and the lamp glowed red. He didn't have anything to drink, neither did she. He made sure the blanket covered both of them.
 
+Her earbuds glowed green as they were charged, and she turned its LED away from the bed.
+
 She smelled of lavender, and the wool of her sweater tickled him.
 
 His fingers landed on her as if he was terrified. She took each in hand and guided them up to her ears.
 
-«are you sure?»
+«are you sure?» He whispered.
 
 «...»
 
 She made his fingers pinch the orange foam, and he pulled the earplugs out at the speed of a melting glacier.
 
 They were set down next to the lightbulb.
+
+Before she went home for Christmas, he gave her a piece of jade from a crystal store. «For the family.» She flew right back to the dig site after New Year's Day, and did not come back until May.
+
+---
+
+The sandstorm shut the road back to town. The professors were digging in the site with them too.
+
+The University issued them the goggles, but the KN95s Heinrich bought himself before getting on the plane. The professors paid him back after. It was better under the digging tent, where they did not have to wear the PPE.
+
+She was brushing a piece of sandstone with a horsehair brush. He was in the same pit, doing likewise.
+
+*Do you think... we get named?* Heinrich asked.
+
+*hmm...no, I think*
+
+*Professor... fat.*
+
+*Like vase, ha?*
+
+He found something, and wanted her photograph it.
+
+She packed her film camera in the inner section of her backpack, and had wrapped it in two layers of Ziploc bags.
+
+The film rolls went to the professor, who locked it in a trunk until they were mailed back to campus.
+
+---
+
+They were watching the Godfather
 
 ---
 
