@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 34,212
+word_count: 34,318
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1049,7 +1049,7 @@ He wanted to bring them to the neighbouring restaurant, she steered him toward t
 
 «the mechanics told us, less parts in old ones.»
 
-«but where to find them? even the used ones you saw had touchscreens.»
+«but where to find them? even the used ones we saw had touchscreens.»
 
 «online, and, we buy outright.»
 
@@ -1070,6 +1070,16 @@ Bréal remembered the protest that got him disowned.
 «We do.»
 
 He held her hand back.
+
+---
+
+She was learning to sew at the desk. He was on his phone, browsing.
+
+He found the car to buy on a website dressed for the last millenium. It was pick-up only, a ferry and two valleys over yonder. He texted his concierge for a car, and it could only schedule for him to pick up at a car rental.
+
+*A human one could have driven it to me*, he thought to himself. Then his mental image of her told him off for irresponsible spending.
+
+The real woman was patching an elbow while humming a tune. He told her where they were going that weekend.
 
 ---
 
