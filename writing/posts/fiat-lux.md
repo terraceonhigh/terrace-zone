@@ -885,17 +885,17 @@ She retired to the gallery bar after she ran out of film. There was one bartende
 
 He folded his phone, and asked the bartender for a *Vieux Carré.* She took the second stool to his right.
 
-*the é...*, she said in French.
+«the é...», she said in French.
 
-*Quoi?* He saw that she had earbuds in.
+«Quoi?» He saw that she had earbuds in.
 
-*your watch. mercredi.*
+«your watch. mercredi.»
 
 He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
 
-*What is the word you use for chocolate-filled bread.* he said in French, and pulled the stool closer to him.
+«What is the word you use for chocolate-filled bread.» he said in French, and pulled the stool closer to him.
 
-*...*
+«...»
 
 He pushed the stool back in, and told the bartender to make whatever the lady wants.
 
@@ -903,21 +903,21 @@ He pushed the stool back in, and told the bartender to make whatever the lady wa
 
 Bréal steadied himself for holding conversation in French.
 
-*Seems like we both need some schooling,* he said in the diction the language school taught him. *Bréal is my name. Welcome, Madamemoiselle, I think.*
+«Seems like we both need some schooling,» he said in the diction the language school taught him. «Bréal is my name. Welcome, Madamemoiselle, I think.»
 
-*don't use it back home...*
+«don't use it back home...»
 
-*—oh, merde, sorry—*
+«—oh, merde, sorry—»
 
-*...but I like.*
+«...but I like.»
 
 The bartender pretended to not overhear as he brought their drinks.
 
-Bréal closed the first two buttons on his shirt back up. *Very well, Madame.* He raised his glass to toast.
+Bréal closed the first two buttons on his shirt back up. «Very well, Madame.» He raised his glass to toast.
 
-She pulled back her glass. *madamemoiselle. i just told you.* She pressed down on the base of the wine glass.
+She pulled back her glass. «madamemoiselle. i just told you.» She pressed down on the base of the wine glass.
 
-*Then it shall be,* a chuckle, *madamemoiselle.* And then the glasses clinked, with hers firmly planted, and his doing the swing.
+«Then it shall be,» a chuckle, «madamemoiselle.» And then the glasses clinked, with hers firmly planted, and his doing the swing.
 
 The date after that, they went to a restaurant that required an elevator. The patio was closed on account of the wind, and there was a pot of dried flowers at every table.
 
@@ -931,7 +931,7 @@ He drove her to the airport, in a car that did not announce itself, when the dig
 
 They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
 
-After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she finished the rest of her Sazerac in one gulp. *What's wrong?* he said. She put his hand on her cheek, and held it there, where she was warm. She smelled of lavender as he pulled her in.
+After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she finished the rest of her Sazerac in one gulp. «What's wrong?» he said. She put his hand on her cheek, and held it there, where she was warm. She smelled of lavender as he pulled her in.
 
 She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and calling a rideshare.
 
@@ -939,9 +939,9 @@ She dropped him off at the Epsilon house, where a TV was glowing from some game 
 
 The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
 
-*excuse me, bathroom.* she said. A piece of chicken skin was *crunch*ed behind her.
+«excuse me, bathroom.» she said. A piece of chicken skin was *crunch*ed behind her.
 
-*take your time, mon cher.*
+«take your time, ma chère.»
 
 It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de something publiques*. The line under that said `cashier`. Someone flushed.
 
