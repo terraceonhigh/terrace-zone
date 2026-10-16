@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 33,540
+word_count: 33,637
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -935,7 +935,7 @@ After she came back, she brought them to a place that pretended to be a dumpling
 
 She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and calling a rideshare.
 
-She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *barre* and nothing else. Then she walked back to her own dorm.
+She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own dorm.
 
 The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
 
@@ -943,7 +943,7 @@ The date after that, she made him drive her to a chicken place, where the tables
 
 «take your time, ma chère.»
 
-It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de something publiques*. The line under that said `cashier`. Someone flushed.
+It was locked, and the sign on it said `No Public`... *Non Publique*... «pas de ... publiques». The line under that said `cashier`. Someone flushed.
 
 She went to the till. A few teenagers were chattering and laughing about their amusements.
 
@@ -958,6 +958,20 @@ She had foam spares, the good ones from the store brand. It was quiet again. She
 She gave him the crunchy foods to eat, and had herself a fruit cup and the rest of the ketchup rice. Bréal spoke slower after that, a bit louder too, and only while she was looking.
 
 They stopped for gas on the way back to the university, and he filled with Regular. The radio was tuned to a dead channel at the lowest volume.
+
+There was a lightbulb on his desk, and the lamp glowed red. He didn't have anything to drink, neither did she. He made sure the blanket covered both of them.
+
+She smelled of lavender, and the wool of her sweater tickled him.
+
+His fingers landed on her as if he was terrified. She took each in hand and guided them up to her ears.
+
+«are you sure?»
+
+«...»
+
+She made his fingers pinch the orange foam, and he pulled the earplugs out at the speed of a melting glacier.
+
+They were set down next to the lightbulb.
 
 ---
 
