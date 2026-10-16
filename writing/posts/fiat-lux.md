@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,144
+word_count: 35,145
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -939,17 +939,17 @@ They had her and the other students nail down extra anchors for the tents. She g
 
 After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she finished the rest of her Sazerac in one gulp. «What's wrong?» he said. She put his hand on her cheek, and held it there, where she was warm. She smelled of lavender as he pulled her in.
 
-She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and calling a rideshare.
+She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and call a rideshare.
 
 She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own dorm.
 
 The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
 
-«excuse me, bathroom.» she said. A piece of chicken skin was *crunch*ed behind her.
+«excuse me, bathroom,» she said. A piece of chicken skin was *crunch*ed behind her.
 
 «take your time, ma chère.»
 
-It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de ... publiques* The line under that said `cashier`. Someone flushed.
+It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de ... publiques*. The line under that said `cashier`. Someone flushed.
 
 She went to the till. A few teenagers were chattering and laughing about their amusements.
 
@@ -967,13 +967,13 @@ They stopped for gas on the way back to the university, and he filled with Regul
 
 There was a lightbulb on his desk, and the lamp glowed red. He didn't have anything to drink, neither did she. He made sure the blanket covered both of them.
 
-Her earbuds glowed green as they were charged, and she turned its LED away from the bed.
+Her earbuds glowed green as they were charged, and she turned their LED away from the bed.
 
 She smelled of lavender, and the wool of her sweater tickled him.
 
 His fingers landed on her as if he was terrified. She took each in hand and guided them up to her ears.
 
-«are you sure?» He whispered.
+«are you sure?» he whispered.
 
 «...»
 
@@ -1001,11 +1001,11 @@ She was brushing a piece of sandstone with a horsehair brush. He was in the same
 
 «Like vase, ha?»
 
-He found something, and wanted her photograph it.
+He found something, and wanted her to photograph it.
 
 She packed her film camera in the inner section of her backpack, and had wrapped it in two layers of Ziploc bags.
 
-The film rolls went to the professor, who locked it in a trunk until they were mailed back to campus.
+The film rolls went to the professor, who locked them in a trunk until they were mailed back to campus.
 
 ---
 
@@ -1023,9 +1023,9 @@ He did a round of replacement analysis a few weeks after that, his car had indee
 
 She wore loose linen with a beige cardigan up top. He wore a merino navy quarter-zip. His usual smartwatch was swapped out for a mechanical timepiece. Sunglasses were standard-issue.
 
-*For me, and my woman.* He said to the salesman who had grey pants on.
+*For me, and my woman.* he said to the salesman who had grey pants on.
 
-The salesman was talking too fast, using too many weird words, she could not follow. The number on the sticker however, was perfectly legible.
+The salesman was talking too fast, using too many weird words, she could not follow. The number on the sticker, however, was perfectly legible.
 
 The man in the grey hiking pants went away to get them coffees, she had wanted to say she wanted a mocha.
 
@@ -1035,13 +1035,13 @@ The man in the grey hiking pants went away to get them coffees, she had wanted t
 
 *non.*
 
-«let's just look, then.» he said.
+«let's just look, then,» he said.
 
 They drank their coffees after that, and did not leave for another half-hour.
 
 He wanted to bring them to the neighbouring restaurant, she steered him toward the bakery two blocks down. She looked at the croissants and ordered the chocolate muffins instead.
 
-«we buy used.» she decreed.
+«we buy used,» she decreed.
 
 «Why?»
 
@@ -1095,17 +1095,17 @@ There was a bilingual expletive when he drove it off the lot.
 
 He was juggling texting the truck's owner and an inane mobile game on the ferry, and she wanted to go to the onboard restaurant to grab lunch for the both of them.
 
-«You sure you can handle it?» He said to the screen.
+«You sure you can handle it?» he said to the screen.
 
-«mmm,  i can just point.»
+«mmm, i can just point.»
 
-«You sure you don't want me to go with you?» He said with the phone face-down
+«You sure you don't want me to go with you?» he said with the phone face-down.
 
-«i have to practice.» she put on her earbuds.
+«i have to practice.» She put on her earbuds.
 
 «I want the soup, and bread. Come back if you can't handle it.» The phone buzzed.
 
-She went upstairs to the passenger area
+She went upstairs to the passenger area.
 
 The line was long, and she saw that the soup was labeled `salmon` ...*saumon*, he would like it. She wants... the salad.
 
@@ -1125,7 +1125,7 @@ One valley of driving later, she declared that she was hungry again. He drove pa
 
 The card had a bar code on its back, and *beeped* under the same scanner as the one tall can of kombucha did. She asked the cashier for two packets of ketchup.
 
-He threw out an old business card or two, to make room for the points card. In the car, they grabbed a wedge of sandwich each, said *bon appetit*, and ate.
+He threw out an old business card or two, to make room for the points card. In the car, they grabbed a wedge of sandwich each, said *bon appétit*, and ate.
 
 In the backseat, Bréal into a polo and beige slacks.
 
@@ -1135,7 +1135,7 @@ Bréal looked under the hood, and then under the carriage. By the guide he had f
 
 Bréal handed him the envelope, the seller counted the bills inside one by one. The exact amount as they had agreed on. Unbeknownst to the seller, the one who made Bréal haggle was the woman.
 
-*Might be too big for your girlfriend.* He said.
+*Might be too big for your girlfriend.* he said.
 
 *You tell me. She insisted.*
 
@@ -1145,11 +1145,11 @@ The seller shrugged, and gave them the keys.
 
 *We figured we'll sleep in the truck.*
 
-*Bless your hearts,* the seller grabbed his gun and hat and walked back to his barn.
+*Bless your hearts.* The seller grabbed his gun and hat and walked back to his barn.
 
 She drove the truck in front, and he followed in the rental. The pedals were a little too deep in the footwell for her. They returned the rental at the local branch, which added another pile of fees.
 
-They laid the seats to as flat as they went, saw that it wasn't enough. They went to a big-box store, and got an inflatable mattress sized for the canopy as well as a USB charger that plugs into the car
+They laid the seats to as flat as they went, saw that it wasn't enough. They went to a big-box store, and got an inflatable mattress sized for the canopy as well as a USB charger that plugs into the car.
 
 They cracked the windows open, and held each other for warmth overnight.
 
