@@ -1017,7 +1017,9 @@ The next time Bréal was in her dorm room, he saw a cast iron pan hanging on the
 
 «is reliable, durable.»
 
-He nodded. When they wanted to go to the chicken place that night, his car puttered out at the turn of the key. He did a round of replacement analysis a few weeks after that, his car had indeed reached the end of its economic life. On a day when she was not busy—which was rare—he brought her to a dealership.
+He nodded. When they wanted to go to the chicken place that night, his car puttered out at the turn of the key.
+
+He did a round of replacement analysis a few weeks after that, his car had indeed reached the end of its economic life. On a day when she was not busy—which was rare—he brought her to a dealership.
 
 She wore loose linen with a beige cardigan up top. He wore a merino navy quarter-zip. His usual smartwatch was swapped out for a mechanical timepiece. Sunglasses were standard-issue.
 
