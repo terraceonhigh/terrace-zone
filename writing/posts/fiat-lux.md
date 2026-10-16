@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 34,319
+word_count: 34,420
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -989,11 +989,11 @@ In late January, though. A package of knits, wines, and books arrived at the Eps
 
 The sandstorm shut the road back to town. The professors were digging in the site with them too.
 
-The University issued them the goggles, but the KN95s Heinrich bought himself before getting on the plane. The professors paid him back after. It was better under the digging tent, where they did not have to wear the PPE.
+The University issued them the goggles, but the KN95s Vavasseur bought himself before getting on the plane. The professors paid him back after. It was better under the digging tent, where they did not have to wear the PPE.
 
 She was brushing a piece of sandstone with a horsehair brush. He was in the same pit, doing likewise.
 
-*Do you think... we get named?* Heinrich asked.
+*Do you think... we get named?* Vavasseur asked.
 
 *hmm...no, I think*
 
@@ -1055,7 +1055,7 @@ He wanted to bring them to the neighbouring restaurant, she steered him toward t
 
 «...»
 
-«and i tell heinrich to teach you fixing. good skill.»
+«and i tell vavasseur to teach you fixing. good skill.»
 
 «you think father was right...»
 
@@ -1075,11 +1075,19 @@ He held her hand back.
 
 She was learning to sew at the desk. He was on his phone, browsing.
 
-He found the car to buy on a website dressed for the last millenium. It was pick-up only, a ferry and two valleys over yonder. He texted his robot concierge for a car, and it could only schedule for him to pick up at a car rental.
+He found the car to buy on a website dressed for the last millennium. It was pick-up only, a ferry and two valleys over yonder. He texted his robot concierge for a car, and it could only schedule for him to pick up at a car rental.
 
 *Father's old human concierge could have driven it to me*, he thought to himself. Then his mental image of her scolded him for irresponsible spending.
 
 The real woman was patching an elbow while humming a tune. He told her where they were going that weekend.
+
+The rental place ran out of the car they had booked, so they had to drive it themselves. And because humans were driving, there was an extra insurance premium. And because Bréal was under twenty-five, there was another charge. It came out double the initial estimate, and the PIN pad scratched the metal on his credit card.
+
+There was a bilingual expletive when he drove it off the lot.
+
+---
+
+He was juggling texting the truck's owner and an inane mobile game on the ferry, and she had gone to the onboard restaurant to grab lunch for the both of them.
 
 ---
 
