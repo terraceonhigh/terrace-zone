@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-15
+date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 33,145
+word_count: 33,421
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -883,41 +883,39 @@ There was a greenscreen set of a man-made creek, it gurgled alongside an art pie
 
 She retired to the gallery bar after she ran out of film. There was one bartender and one other client. The latter was in his shirtsleeves, and was scrolling on his phone — up, down, and then up again. The document he was looking at did not require his signature, only his receipt.
 
-He folded his phone, and asked the bartender for a *Vieux Carré.* She took a seat next to him at the empty bar.
+He folded his phone, and asked the bartender for a *Vieux Carré.* She took the second stool to his right.
 
-*You know you can pronounce it better*, she said in French.
+*the é...*, she said in French.
 
-*Quoi?*
+*Quoi?* He saw that she had earbuds in.
 
-She undid one of her earbuds.
-
-*It says Mercredi on your watch.*
+*your watch. mercredi.*
 
 He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
 
-*What is the word you use for chocolate-filled bread.* He humoured her.
+*What is the word you use for chocolate-filled bread.* He pulled the stool closer to him.
 
-*That only gives me more reason to teach, non?*
+*...*
 
-He did not respond to her, and instead told the bartender to make whatever the lady wants.
+He pushed the stool back in, and told the bartender to make whatever the lady wants.
 
-*uhh..., un.. a, Cabernet, pla—please?* she said in English.
+*uhh..., un.. a, cabernet, pla—please?* she said in English.
 
-*Seems like we both need some teaching,* he put on a brave face, and smirked. *Bréal is my name. Welcome, Madamemoiselle, I think.*
+*Seems like we both need some schooling,* he put on a brave face, and smirked. *Bréal is my name. Welcome, Madamemoiselle, I think.*
 
-*We don't use that word back home anymore...*
+*don't use it back home...*
 
 *—oh, shoot, sorry—*
 
-*...but I like it, you may.*
+*...but I like.*
 
 The bartender pretended to not overhear as he brought their drinks.
 
 Bréal closed the first two buttons on his shirt back up. *Very well, Madame.* He raised his glass to toast.
 
-She pulled back her glass. *Madamemoiselle. I just told you.*
+She pulled back her glass. *madamemoiselle. i just told you.* She pressed down on the base of the wine glass.
 
-*Whatever you say,* a chuckle, *madamemoiselle.* And then the glasses clinked.
+*Then it shall be,* a chuckle, *madamemoiselle.* And then the glasses clinked, with hers firmly planted, and his doing the swing.
 
 The date after that, they went to a restaurant that required an elevator. The patio was closed on account of the wind, and there was a pot of dried flowers at every table.
 
@@ -925,13 +923,37 @@ She asked the waiter to take the flowers away, Bréal asked for champagne.
 
 The waiter brought sparkling wine instead.
 
-She had sablefish, and he had chicken tarragon. Dessert was lava cake, with strawberry gelato on top. Back on the ground, they had another round of sorbet after that.
+She had sablefish, and he had chicken tarragon. Dessert was lava cake, with vanilla gelato on top. Back on the ground, they had sorbet at a more colourful establishment. The cherry syrup tasted of chemistry and saccharine.
 
 He drove her to the airport, in a car that did not announce itself, when the dig site on another continent opened. She said she would bring back souvenirs. The truck that drove her to the dig site had its windshield swapped out in the middle of the tour, because the wiper pushed the sand and the sand ground down the glass to a dreamy haze.
 
 They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
 
-After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green.
+After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she put his hand on her cheek. She smelled of lavender as he pulled her in.
+
+She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and calling a rideshare.
+
+She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. Then she walked back to her own dorm.
+
+The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
+
+*excuse me, bathroom.* she said. A piece of chicken skin was *crunch*ed behind her.
+
+*take your time, doll.*
+
+It was locked, and the sign on it said `No Public...` and the line under that said `cashier`. Someone flushed.
+
+She went to the till. A few teenagers were chattering and laughing about their amusements.
+
+*uhh, toilet?* the deep fryer fizzed.
+
+The cashier looked at her, and pressed a button. She jogged to the bathroom.
+
+Inside a stall, she took out her earbuds and put them in their case.
+
+She had foam spares, the good ones from the store brand. It was quiet again.
+
+She gave him the crunchy foods to eat after that, and had herself a fruit cup and the rest of the ketchup rice.
 
 ---
 
