@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 34,054
+word_count: 34,212
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1017,13 +1017,15 @@ The next time Bréal was in her dorm room, he saw a cast iron pan hanging on the
 
 «is reliable, durable.»
 
-He nodded. When they wanted to go to the chicken place that night, his car puttered out at the turn of the key. He did a round of replacement analysis a few weeks after that, his car had indeed reached the end of its economic life. On a day when she was not busy—which was rare—he put her in a cab to go to a dealership together.
+He nodded. When they wanted to go to the chicken place that night, his car puttered out at the turn of the key. He did a round of replacement analysis a few weeks after that, his car had indeed reached the end of its economic life. On a day when she was not busy—which was rare—he brought her to a dealership.
+
+She wore loose linen with a beige cardigan up top. He wore a merino navy quarter-zip. His usual smartwatch was swapped out for a mechanical timepiece. Sunglasses were standard-issue.
 
 *For me, and my woman.* He said to the salesman who had grey pants on.
 
 The salesman was talking too fast, using too many weird words, she could not follow. The number on the sticker however, was perfectly legible.
 
-The man in the grey pants went away to get them coffees, she had wanted to say she wanted a mocha.
+The man in the grey hiking pants went away to get them coffees, she had wanted to say she wanted a mocha.
 
 *non,* she whispered.
 
@@ -1034,6 +1036,40 @@ The man in the grey pants went away to get them coffees, she had wanted to say s
 «let's just look, then.» he said.
 
 They drank their coffees after that, and did not leave for another half-hour.
+
+He wanted to bring them to the neighbouring restaurant, she steered him toward the bakery two blocks down. She looked at the croissants and ordered the chocolate muffins instead.
+
+«we buy used.» she decreed.
+
+«Why?»
+
+«in the desert, the new ones broke. the townsfolk fixed the old ones.»
+
+«but the parts are older.»
+
+«the mechanics told us, less parts in old ones.»
+
+«but where to find them? even the used ones you saw had touchscreens.»
+
+«online, and, we buy outright.»
+
+«...»
+
+«and i tell heinrich to teach you fixing. good skill.»
+
+«you think father was right...»
+
+«we prepare, and we don't run like him.»
+
+She set down her muffin's wrapper, and held his hand.
+
+«you stand and fight, no?»
+
+Bréal remembered the protest that got him disowned.
+
+«We do.»
+
+He held her hand back.
 
 ---
 
