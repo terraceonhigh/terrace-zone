@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 33,847
+word_count: 34,054
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -983,6 +983,8 @@ They were set down next to the lightbulb.
 
 Before she went home for Christmas, he gave her a piece of jade from a crystal store. «For the family.» She flew right back to the dig site after New Year's Day, and did not come back until May.
 
+In late January, though. A package of knits, wines, and books arrived at the Epsilon house, for a M. Bréal.
+
 ---
 
 The sandstorm shut the road back to town. The professors were digging in the site with them too.
@@ -1007,7 +1009,31 @@ The film rolls went to the professor, who locked it in a trunk until they were m
 
 ---
 
-They were watching the Godfather
+They did not dig this semester, and the professors put her on TA'ing and analyzing the artifacts.
+
+The next time Bréal was in her dorm room, he saw a cast iron pan hanging on the coat hook.
+
+«Why?»
+
+«is reliable, durable.»
+
+He nodded. When they wanted to go to the chicken place that night, his car puttered out at the turn of the key. He did a round of replacement analysis a few weeks after that, his car had indeed reached the end of its economic life. On a day when she was not busy—which was rare—he put her in a cab to go to a dealership together.
+
+*For me, and my woman.* He said to the salesman who had grey pants on.
+
+The salesman was talking too fast, using too many weird words, she could not follow. The number on the sticker however, was perfectly legible.
+
+The man in the grey pants went away to get them coffees, she had wanted to say she wanted a mocha.
+
+*non,* she whispered.
+
+*non?*
+
+*non.*
+
+«let's just look, then.» he said.
+
+They drank their coffees after that, and did not leave for another half-hour.
 
 ---
 
