@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 33,421
+word_count: 33,443
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -929,7 +929,7 @@ He drove her to the airport, in a car that did not announce itself, when the dig
 
 They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
 
-After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she put his hand on her cheek. She smelled of lavender as he pulled her in.
+After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she finished the rest of her Sazerac in one gulp. *What's wrong?* he said. She put his hand on her cheek, and held it there, where she was warm. She smelled of lavender as he pulled her in.
 
 She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and calling a rideshare.
 
