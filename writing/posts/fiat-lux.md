@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-16
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 33,496
+word_count: 33,540
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -877,7 +877,7 @@ Rosa wiped down the blood pressure cuff, first with a splash of water, and then 
 
 ## Madame
 
-The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to dorm. *[french goodbye]*.
+The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to dorm.
 
 There was a greenscreen set of a man-made creek, it gurgled alongside an art piece with a video element of the artists talking. Someone made a rug entirely out of old printer cables, and hematite was the beadwork.
 
@@ -893,19 +893,21 @@ He folded his phone, and asked the bartender for a *Vieux Carré.* She took the 
 
 He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
 
-*What is the word you use for chocolate-filled bread.* He pulled the stool closer to him.
+*What is the word you use for chocolate-filled bread.* he said in French, and pulled the stool closer to him.
 
 *...*
 
 He pushed the stool back in, and told the bartender to make whatever the lady wants.
 
-*uhh..., un.. a, cabernet, pla—please?* she said in English.
+*uhh..., un.. a, cabernet, pla—please?* she switched to English for the bartender, who got *cabernet*.
 
-*Seems like we both need some schooling,* he put on a brave face, and smirked. *Bréal is my name. Welcome, Madamemoiselle, I think.*
+Bréal steadied himself for holding conversation in French.
+
+*Seems like we both need some schooling,* he said in the diction the language school taught him. *Bréal is my name. Welcome, Madamemoiselle, I think.*
 
 *don't use it back home...*
 
-*—oh, shoot, sorry—*
+*—oh, merde, sorry—*
 
 *...but I like.*
 
@@ -919,7 +921,7 @@ She pulled back her glass. *madamemoiselle. i just told you.* She pressed down o
 
 The date after that, they went to a restaurant that required an elevator. The patio was closed on account of the wind, and there was a pot of dried flowers at every table.
 
-She asked the waiter to take the flowers away, Bréal asked for champagne.
+She asked the waiter to take the flowers away, *s'il vous plaît*. Bréal asked for champagne.
 
 The waiter brought sparkling wine instead.
 
@@ -933,19 +935,19 @@ After she came back, she brought them to a place that pretended to be a dumpling
 
 She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and calling a rideshare.
 
-She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. Then she walked back to her own dorm.
+She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *barre* and nothing else. Then she walked back to her own dorm.
 
 The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
 
 *excuse me, bathroom.* she said. A piece of chicken skin was *crunch*ed behind her.
 
-*take your time, doll.*
+*take your time, mon cher.*
 
-It was locked, and the sign on it said `No Public...` and the line under that said `cashier`. Someone flushed.
+It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de something publiques*. The line under that said `cashier`. Someone flushed.
 
 She went to the till. A few teenagers were chattering and laughing about their amusements.
 
-*uhh, toilet?* the deep fryer fizzed.
+*uhh, toilette?* she tried in English as the deep fryer fizzed.
 
 The cashier looked at her, and pressed a button. She jogged to the bathroom.
 
