@@ -1,6 +1,6 @@
 ---
 title: Fiat Lux
-date: 2026-10-16
+date: 2026-10-17
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
 word_count: 35,145
@@ -1109,7 +1109,7 @@ She went upstairs to the passenger area.
 
 The line was long, and she saw that the soup was labeled `salmon` ...*saumon*, he would like it. She wants... the salad.
 
-It took a few tries, but the staff was more than as patient as the line behind her allowed. She used her own debit card to pay. The soup came in a plastic bowl shaped to be an oversized ramekin, and the salad was grab-and-go from the cold shelf, which was a blessing.
+It took a few tries, but the staff was as patient as the line behind her allowed. She used her own debit card to pay. The soup came in a plastic bowl shaped to be an oversized ramekin, and the salad was grab-and-go from the cold shelf, which was a blessing.
 
 She set the tray at the dashboard, and they ate until the captain said something on the PA.
 
@@ -1127,11 +1127,11 @@ The card had a bar code on its back, and *beeped* under the same scanner as the 
 
 He threw out an old business card or two, to make room for the points card. In the car, they grabbed a wedge of sandwich each, said *bon appétit*, and ate.
 
-In the backseat, Bréal into a polo and beige slacks.
+In the backseat, Bréal changed into a polo and beige slacks.
 
 They got to where the seller had agreed before dark. The seller was tanned up to the elbow, and had a beard as white as melting slush. He had a deer gun on his person, which he had the decency to set down before walking up to the two.
 
-Bréal looked under the hood, and then under the carriage. By the guide he had followed, was nothing alarming. The seller rode shotgun when Bréal did the test drive the guide prescribed.
+Bréal looked under the hood, and then under the carriage. By the guide he had followed, there was nothing alarming. The seller rode shotgun when Bréal did the test drive the guide prescribed.
 
 Bréal handed him the envelope, the seller counted the bills inside one by one. The exact amount as they had agreed on. Unbeknownst to the seller, the one who made Bréal haggle was the woman.
 
