@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-17
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,272
+word_count: 35,284
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2666,7 +2666,7 @@ She sipped from her mug. She did not say anything. He panicked.
 
 *Okay, that's okay. That's an okay thing to not want.*
 
-*He tricks, like mom.* Her eyes did not leave the floor, *I hate that.*
+*Mom didn't even ask me.* Her eyes did not leave the floor, *I hate that.*
 
 Alex did not know how to answer. *mhmm,* he improvised.
 
@@ -2674,11 +2674,11 @@ Alex did not know how to answer. *mhmm,* he improvised.
 
 Alex did not answer. He drank from his mug.
 
-*and, real mom won't have done this, I know she won't.*
+*and, real mom won't have done this, I know she won't.* She looked up, at him.
 
 *she sounds like she was a good mom.* Alex said, *do you have someone already? Is that why you don't want the date with the Vavasseur fellow?*
 
-Maddy cradled her mug.
+Maddy lowered her eyes back down, and cradled her mug.
 
 *Actually, I was stupid to ask that.*
 
