@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-17
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,282
+word_count: 35,288
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -101,7 +101,7 @@ Maia and her husband came to Collie's door for Christmas and did not leave until
 
 Collie washed her good dress by hand a month before the semester started.
 
-The old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the laminated cards that Maia and Collie wrote in longhand and signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
+The old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the ration cards that the university printed and Collio signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
 
 ---
 
@@ -2788,7 +2788,9 @@ She guessed as much, and sighed, away from the microphone. *Please,* Alex added.
 
 Can he?
 
-Nadia reached into her pocket, felt the relief pattern on the ID card in her wallet. The one that said `SWARTZ`, and then, the one that said `TSIEN`.
+Nadia reached into her pocket, felt the relief pattern on the ration card in her wallet. The one that said `SWARTZ`, and then, the one that said `TSIEN`.
+
+It was hard metal, warmed by her touch.
 
 *Fine, I'll see what I can do.*
 
@@ -3304,7 +3306,7 @@ The big radio needed the engine running, and the engine was noisy, so Lewis wire
 
 ## Notions
 
-The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the ID card stamped with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
+The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the ration card stamped with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
 
 A few children played skipping rope outside, before the innkeeper told them to get going and head home for dinner. The children put their tire-made sandals back on and walked home.
 
