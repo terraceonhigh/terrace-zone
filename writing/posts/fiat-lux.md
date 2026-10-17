@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-17
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,284
+word_count: 35,286
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2680,7 +2680,7 @@ Alex did not answer. He drank from his mug.
 
 Maddy lowered her eyes back down, and cradled her mug.
 
-*Actually, I was stupid to ask that.*
+*Actually, I was stupid to ask that.* He admitted.
 
 They were quiet for a while, Maddy set down the mug and held Hopper instead.
 
