@@ -3908,7 +3908,7 @@ The wheels found the gravel in front of the Terrarium. The doorman put on his gl
 
 Collie double-checked her eyeliner. Clean.
 
-*both broken, then.* Quieter: *don't call maddy that.*
+*both broken, then.* Quieter: *maddy's not a bastard.*
 
 He watched her a moment longer than he needed to, then laid the cane across his knees.
 
