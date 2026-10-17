@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-17
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,288
+word_count: 35,272
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -4482,8 +4482,6 @@ They shook hands in front of the steps. Fleming and Bréal held the paper for al
 Lewis went home an hour and a half after Auntie Collie did, thirty minutes for the dinner, thirty minutes to return the .44 (he was by all accounts lucky; the gun, however, had hoped otherwise), and thirty more because he walked back.
 
 He kept in the ice box what the chef let him bring home. It was good breakfast for Nadia, who ate it reading the front page story.
-
-A month after that, a firing pin struck a .44 cartridge, and nothing hit the bullseye.
 
 ---
 
