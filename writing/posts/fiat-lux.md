@@ -3886,9 +3886,7 @@ The tea sloshed in his flask. Outside, two riders kept pace, one at each headlam
 
 Collie dug into her clutch for nothing in particular, *it helps them eat.*
 
-*It helps you sleep. There never was an urgent need for the bastard. A doll would have sufficed, a doll would have survived, you.* Fleming wagged a finger at her, in a circle.
-
-*Did you ever tell Nadia what her three mothers were besides roommates? Or are the children still wondering why they have different last names?*
+*It helps you sleep. There never was an urgent need for the bastard. A doll would have sufficed, a doll would have survived, you.* Fleming wagged a finger at her, in a circle. *Did you ever tell Nadia what her three mothers were besides roommates? Or are the children still wondering why they have different last names?*
 
 *It is no more necessary for their lives than it would be for the newspaper to know of the stable you keep in Aldermere just for Ada.*
 
