@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-17
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,286
+word_count: 35,287
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -2752,7 +2752,7 @@ okay. Wait, Vavasseur.
 
 Collie *hmm*'d.
 
-*Yeah, we'll see when she graduates.* She said, *I have grad students to manage, don't burn the house down, okay.*
+*Yeah, we'll come back to this later.* She said, *I have grad students to manage, don't burn the house down, okay?*
 
 Small victories, larger bowel movements.
 
