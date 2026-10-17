@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-17
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,145
+word_count: 35,282
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -3887,6 +3887,18 @@ The tea sloshed in his flask. Outside, two riders kept pace, one at each headlam
 Collie dug into her clutch for nothing in particular, *it helps them eat.*
 
 *It helps you sleep. There never was an urgent need for the bastard. A doll would have sufficed, a doll would have survived, you.* Fleming wagged a finger at her, in a circle.
+
+*Did you ever tell Nadia what her three mothers were besides roommates? Or are the children still wondering why they have different last names?*
+
+*It is no more necessary for their lives than it would be for the newspaper to know of the stable you keep in Aldermere just for Ada.*
+
+A moment.
+
+*I taught you to hide your tracks better, Coelia. I kept my suit starched, waiting for the Dean to bless you and the older Tsien. How lucky you did not have a funeral to arrange when the trucks came back.*
+
+*I suppose I was not your best student.* a smirk that did not show, *Did Cecilia ever write home? Or has Iota been told to keep her busy?*
+
+*You were my best student. That, I hazard, is partly to blame for our present Circumstances.*
 
 *Drunkard.*
 
