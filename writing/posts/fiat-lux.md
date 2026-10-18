@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-18
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,481
+word_count: 35,630
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -897,7 +897,9 @@ He checked, it was complaining about an elevated heart rate, and it was no longe
 
 «...»
 
-He pushed the stool back in, and told the bartender to make whatever the lady wants.
+He pushed the stool back in.
+
+*Bartender! Get the lady whatever she wants.*
 
 *uhh..., un.. a, cabernet, pla—please?* she switched to English for the bartender, who got *cabernet*.
 
@@ -1037,7 +1039,7 @@ The man in the grey hiking pants went away to get them coffees, she had wanted t
 
 «let's just look, then,» he said.
 
-They drank their coffees after that, and did not leave for another half-hour.
+They drank their coffees after that, and test drove a few before deciding to mull on it a bit more, as Bréal said.
 
 He wanted to bring them to the neighbouring restaurant, she steered him toward the bakery two blocks down. She looked at the croissants and ordered the chocolate muffins instead.
 
@@ -1129,23 +1131,29 @@ He threw out an old business card or two, to make room for the points card. In t
 
 In the backseat, Bréal changed into a polo and beige slacks.
 
-They got to where the seller had agreed before dark. The seller was tanned up to the elbow, and had a beard as white as melting slush. He had a deer gun on his person, which he had the decency to set down before walking up to the two.
+They got to where the seller had agreed before dark. The seller was tanned up to the elbow, and had a beard as white as melting slush. He had a deer gun on his person.
+
+*You here about the truck?*
+
+*Yessir,* he checked the gun, can't tell if its loaded. *Let's make it quick for both of us. Future mother-in-law would have my head if I don't bring her back on the last ferry.*
+
+The seller left his gun leanign on a tree.
 
 Bréal looked under the hood, and then under the carriage. By the guide he had followed, there was nothing alarming. The seller rode shotgun when Bréal did the test drive the guide prescribed.
 
-Bréal handed him the envelope, the seller counted the bills inside one by one. The exact amount as they had agreed on. Unbeknownst to the seller, the one who made Bréal haggle was the woman.
+Bréal handed him the envelope, the seller counted the bills inside one by one. The exact amount as they had agreed on. The seller just about figured it was the woman who made him haggle.
 
 *Might be too big for your girlfriend.* he said.
 
-*You tell me. She insisted.*
+*She won't have any other.*
 
 The seller shrugged, and gave them the keys.
 
-*Might not make it to the ferry.*
+*Might not make it to the ferry.* The seller said.
 
-*We figured we'll sleep in the truck.*
+*I figured we'll sleep in the truck if that came to be.*
 
-*Bless your hearts.* The seller grabbed his gun and hat and walked back to his barn.
+*I'll tell my Martha to pray for you.* The seller grabbed his gun and hat and walked back to his barn.
 
 She drove the truck in front, and he followed in the rental. The pedals were a little too deep in the footwell for her. They returned the rental at the local branch, which added another pile of fees.
 
@@ -1167,11 +1175,17 @@ She had Bréal come over from the Epsilon house. The TV was showing a variety sh
 
 She was trying not to cry, it was hard. He was bringing her to the sink.
 
-«It's okay, doll. It's okay.»
+«It's okay, ma chère. It's okay.»
 
 The water ran for another few minutes, and he finished making the rest of dinner.
 
 The smell of rosemary did not leave until New Year's, and she sent him back to the Epsilon house with two chicken salad sandwiches. The stuffing she kept for herself.
+
+In the spring, Vavasseur sent Bréal for blinker fluid. She was assigned to do her research, her professor came back from the dig site with another few crates. The university cut the funding for next year's excursion. She combed through and classified the artifacts they had.
+
+Bréal said to her that the student insurance would cover glasses, and so she got a pair. Round ones, with metal frames. It could take heat and bend back into shape, not like the plastic ones.
+
+She learned to polish them with a rag instead of the skin
 
 The Christmas after that, another sum came into her account, and along with it an instruction to buy gold, and that they were coming.
 
