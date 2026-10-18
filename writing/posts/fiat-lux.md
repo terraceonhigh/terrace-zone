@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-17
+date: 2026-10-18
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,287
+word_count: 35,339
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1154,6 +1154,12 @@ They laid the seats to as flat as they went, saw that it wasn't enough. They wen
 They cracked the windows open, and held each other for warmth overnight.
 
 In the morning, they shared the truck's one charger between his phone and her laptop, to do his essay and to write feedback for her students.
+
+---
+
+At Christmas, her family sent them another package, and a sum in her account. They said planes were too expensive now, so just enjoy Christmas on campus.
+
+The Christmas after that, another sum came into her account, and along with it an instruction to buy gold, and that they were coming.
 
 ---
 
