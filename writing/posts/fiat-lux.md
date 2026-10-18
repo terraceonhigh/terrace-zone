@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-18
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,630
+word_count: 36,276
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1165,7 +1165,7 @@ In the morning, they shared the truck's one charger between his phone and her la
 
 ---
 
-In November, her family sent them another package, and a sum in her account. They said planes were too expensive now, so just enjoy Christmas on campus.
+In November, her family sent them another package, and a sum in her account. They said planes were too expensive now, so just enjoy Christmas on campus. Their Christmas gift to her was a treadle sewing machine, she texted them that they shouldn't have.
 
 She had Bréal come over from the Epsilon house. The TV was showing a variety show, and he was nursing a cup of hot cocoa. A turkey would have been too big for just the two of them, so it was a chicken in her cast-iron pan that went into the oven. The handle burned her close to the elbow when she took the bird out.
 
@@ -1185,9 +1185,37 @@ In the spring, Vavasseur sent Bréal for blinker fluid. She was assigned to do h
 
 Bréal said to her that the student insurance would cover glasses, and so she got a pair. Round ones, with metal frames. It could take heat and bend back into shape, not like the plastic ones.
 
-She learned to polish them with a rag instead of the skin
+She learned to polish them with a rag instead of the microfibre cloth. Bréal turned a piece of cedar and attached hinges to make a case for the glasses. She said it was beautiful.
 
-The Christmas after that, another sum came into her account, and along with it an instruction to buy gold, and that they were coming.
+---
+
+The fall after that, another sum came into her account, along with it an instruction to buy gold, and that they were coming. Her landlord had sold the house, and a policeman found an interpreter to very nicely tell her she had two weeks to leave the room.
+
+The trees must have been in the way. She found a corner of her block that still had cell signal, and called Bréal, crying.
+
+He brought with him Vavasseur and a few brothers that weekend, after he had his last midterm. The bed in Bréal's room was a twin, he and another brother took the legs off and brought the bedframe out.
+
+That night, they slept on a bare mattress, surrounded by cardboard boxes and plastic totes. On Sunday, Bréal drove to pick up a full-sized bedframe and mattress. Fumigating the mattress took another day, but by Tuesday he had the bed ready. He learned that day that machining a key was rather easy.
+
+She found old fitted mattress covers at the university's free store, and took out the elastic to sew in drawstrings.
+
+The Archeology department cut all non-essential staff before December, and she held onto Bréal for warmth. The texts she sent home never got a read receipt, and the news coverage did not look good.
+
+After her panic subsided, he tucked her into bed and went downstairs, something made of glass was broken, and there were shouts. The news were banned from the common room TV after that.
+
+The food in Epsilon got gradually better—the year or two after that—because several brother's grandmothers had moved in. A woman offered to do daycare, and a small office was made in the common room. Vavasseur came to live in the house too, and he was the one who solved the problem of who-parked-where, because they were running out of parking spots.
+
+She learned to can in the common kitchen from the grandmothers, the Carpathian way. She kept herself busy by sewing for people in exchange for flour. She always needed more patches.
+
+~~[STORYBOARD: Christmases mark the years from here, one per year, counted from the gallery autumn: one is the jade, two the package and the sum, three "buy gold". Each Christmas carries the year's change in one image. Lewis's ages are approximate (planning/chapters/madame.md).]~~
+
+~~[STORYBOARD: She convinces him to divest the capital account from the market into physical durables: a treadle sewing machine, good shears, needles, bolts of wool, a cast-iron pan, a kettle. And an old clunker truck, found online, cash only; he learns to wrench on it. The pedals sit a bit too far in for her.]~~
+
+~~[STORYBOARD: The early collapse. She is an archaeology student from far away. She used to fly home twice a year, then once, then they drove, then they told her to stay put. Marooned, with little or no English, she moves into his dorm room, against Residence rules that nobody much enforces (see *ante finem mundi*).]~~
+
+~~[STORYBOARD: The constitutional sequence, in this order. (1) Learning to can, she burns herself; the campus clinic turns her away, neither student nor staff, and he patches her up himself.~~ (2) She has him translate a black-and-white poster on the corkboard: residents may stay in their rooms as their home; spouses and dependants are registered under the head of room. (3) The first time a Residence Advisor questions her, he calls her his wife, off the cuff. (4) That winter her ration card does not carry her maiden name. She is Madame Bréal, the name she steered herself into.]
+
+~~[STORYBOARD: In the same queue as her ration card: Alex Tsien signs as head of the Swartz household, the women and children below him by relation, and the relations are wrong. The scene as a document, if wanted.]~~
 
 ---
 
