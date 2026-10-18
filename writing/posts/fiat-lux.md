@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-18
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 36,276
+word_count: 35,987
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -877,7 +877,7 @@ Rosa wiped down the blood pressure cuff, first with a splash of water, and then 
 
 ## Madame
 
-The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to dorm.
+The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to her room.
 
 There was a greenscreen set of a man-made creek, it gurgled alongside an art piece with a video element of the artists talking. Someone made a rug entirely out of old printer cables, and hematite was the beadwork.
 
@@ -943,7 +943,7 @@ After she came back, she brought them to a place that pretended to be a dumpling
 
 She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and call a rideshare.
 
-She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own dorm.
+She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own room.
 
 The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
 
@@ -1013,7 +1013,7 @@ The film rolls went to the professor, who locked them in a trunk until they were
 
 They did not dig this semester, and the professors put her on TA'ing and analyzing the artifacts.
 
-The next time Bréal was in her dorm room, he saw a cast iron pan hanging on the coat hook.
+The next time Bréal was in her room, he saw a cast iron pan hanging on the coat hook.
 
 «Why?»
 
@@ -1135,9 +1135,9 @@ They got to where the seller had agreed before dark. The seller was tanned up to
 
 *You here about the truck?*
 
-*Yessir,* he checked the gun, can't tell if its loaded. *Let's make it quick for both of us. Future mother-in-law would have my head if I don't bring her back on the last ferry.*
+*Yessir,* he checked the gun, can't tell if it's loaded. *Let's make it quick for both of us. Future mother-in-law would have my head if I don't bring her back on the last ferry.*
 
-The seller left his gun leanign on a tree.
+The seller left his gun leaning on a tree.
 
 Bréal looked under the hood, and then under the carriage. By the guide he had followed, there was nothing alarming. The seller rode shotgun when Bréal did the test drive the guide prescribed.
 
@@ -1149,9 +1149,9 @@ Bréal handed him the envelope, the seller counted the bills inside one by one. 
 
 The seller shrugged, and gave them the keys.
 
-*Might not make it to the ferry.* The seller said.
+*Might not make it to the ferry.* the seller said.
 
-*I figured we'll sleep in the truck if that came to be.*
+*I figured we'd sleep in the truck if that came to be.*
 
 *I'll tell my Martha to pray for you.* The seller grabbed his gun and hat and walked back to his barn.
 
@@ -1199,23 +1199,13 @@ That night, they slept on a bare mattress, surrounded by cardboard boxes and pla
 
 She found old fitted mattress covers at the university's free store, and took out the elastic to sew in drawstrings.
 
-The Archeology department cut all non-essential staff before December, and she held onto Bréal for warmth. The texts she sent home never got a read receipt, and the news coverage did not look good.
+The Archaeology department cut all non-essential staff before December, and she held onto Bréal for warmth. The texts she sent home never got a read receipt, and the news coverage did not look good.
 
-After her panic subsided, he tucked her into bed and went downstairs, something made of glass was broken, and there were shouts. The news were banned from the common room TV after that.
+After her panic subsided, he tucked her into bed and went downstairs, something made of glass was broken, and there were shouts. The news was banned from the common room TV after that.
 
-The food in Epsilon got gradually better—the year or two after that—because several brother's grandmothers had moved in. A woman offered to do daycare, and a small office was made in the common room. Vavasseur came to live in the house too, and he was the one who solved the problem of who-parked-where, because they were running out of parking spots.
+The food in Epsilon got gradually better—the year or two after that—because several brothers' grandmothers had moved in. A woman offered to do daycare, and a small office was made in the common room. Vavasseur came to live in the house too, and he was the one who solved the problem of who-parked-where, because they were running out of parking spots.
 
 She learned to can in the common kitchen from the grandmothers, the Carpathian way. She kept herself busy by sewing for people in exchange for flour. She always needed more patches.
-
-~~[STORYBOARD: Christmases mark the years from here, one per year, counted from the gallery autumn: one is the jade, two the package and the sum, three "buy gold". Each Christmas carries the year's change in one image. Lewis's ages are approximate (planning/chapters/madame.md).]~~
-
-~~[STORYBOARD: She convinces him to divest the capital account from the market into physical durables: a treadle sewing machine, good shears, needles, bolts of wool, a cast-iron pan, a kettle. And an old clunker truck, found online, cash only; he learns to wrench on it. The pedals sit a bit too far in for her.]~~
-
-~~[STORYBOARD: The early collapse. She is an archaeology student from far away. She used to fly home twice a year, then once, then they drove, then they told her to stay put. Marooned, with little or no English, she moves into his dorm room, against Residence rules that nobody much enforces (see *ante finem mundi*).]~~
-
-~~[STORYBOARD: The constitutional sequence, in this order. (1) Learning to can, she burns herself; the campus clinic turns her away, neither student nor staff, and he patches her up himself.~~ (2) She has him translate a black-and-white poster on the corkboard: residents may stay in their rooms as their home; spouses and dependants are registered under the head of room. (3) The first time a Residence Advisor questions her, he calls her his wife, off the cuff. (4) That winter her ration card does not carry her maiden name. She is Madame Bréal, the name she steered herself into.]
-
-~~[STORYBOARD: In the same queue as her ration card: Alex Tsien signs as head of the Swartz household, the women and children below him by relation, and the relations are wrong. The scene as a document, if wanted.]~~
 
 ---
 
@@ -2742,7 +2732,7 @@ Alex did not answer. He drank from his mug.
 
 Maddy lowered her eyes back down, and cradled her mug.
 
-*Actually, I was stupid to ask that.* He admitted.
+*Actually, I was stupid to ask that.* he admitted.
 
 They were quiet for a while, Maddy set down the mug and held Hopper instead.
 
@@ -3958,7 +3948,7 @@ A moment.
 
 *I taught you to hide your tracks better, Coelia. I kept my suit starched, waiting for the Dean to bless you and the older Tsien. How lucky you did not have a funeral to arrange when the trucks came back.*
 
-*I suppose I was not your best student.* a smirk that did not show, *Did Cecilia ever write home? Or has Iota been told to keep her busy?*
+*I suppose I was not your best student.* A smirk that did not show. *Did Cecilia ever write home? Or has Iota been told to keep her busy?*
 
 *You were my best student. That, I hazard, is partly to blame for our present Circumstances.*
 
