@@ -3,7 +3,7 @@ title: Fiat Lux
 date: 2026-10-18
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,339
+word_count: 35,481
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -903,7 +903,7 @@ He pushed the stool back in, and told the bartender to make whatever the lady wa
 
 Bréal steadied himself for holding conversation in French.
 
-«Seems like we both need some schooling,» he said in the diction the language school taught him. «Bréal is my name. Welcome, Madamemoiselle, I think.»
+«Seems like we both need some schooling,» he said in the diction the language school taught him. «Bréal is my name. Welcome, Mademoiselle, I think.»
 
 «don't use it back home...»
 
@@ -915,9 +915,9 @@ The bartender pretended to not overhear as he brought their drinks.
 
 Bréal closed the first two buttons on his shirt back up. «Very well, Madame.» He raised his glass to toast.
 
-She pulled back her glass. «madamemoiselle. i just told you.» She pressed down on the base of the wine glass.
+She pulled back her glass. «mademoiselle. i just told you.» She pressed down on the base of the wine glass.
 
-«Then it shall be,» a chuckle, «madamemoiselle.» And then the glasses clinked, with hers firmly planted, and his doing the swing.
+«Then it shall be,» a chuckle, «mademoiselle.» And then the glasses clinked, with hers firmly planted, and his doing the swing.
 
 ---
 
@@ -1157,7 +1157,21 @@ In the morning, they shared the truck's one charger between his phone and her la
 
 ---
 
-At Christmas, her family sent them another package, and a sum in her account. They said planes were too expensive now, so just enjoy Christmas on campus.
+In November, her family sent them another package, and a sum in her account. They said planes were too expensive now, so just enjoy Christmas on campus.
+
+She had Bréal come over from the Epsilon house. The TV was showing a variety show, and he was nursing a cup of hot cocoa. A turkey would have been too big for just the two of them, so it was a chicken in her cast-iron pan that went into the oven. The handle burned her close to the elbow when she took the bird out.
+
+«Fuck!»
+
+«What is i—shoot, okay, okay. it's just a little.»
+
+She was trying not to cry, it was hard. He was bringing her to the sink.
+
+«It's okay, doll. It's okay.»
+
+The water ran for another few minutes, and he finished making the rest of dinner.
+
+The smell of rosemary did not leave until New Year's, and she sent him back to the Epsilon house with two chicken salad sandwiches. The stuffing she kept for herself.
 
 The Christmas after that, another sum came into her account, and along with it an instruction to buy gold, and that they were coming.
 
