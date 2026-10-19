@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-18
+date: 2026-10-19
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 35,987
+word_count: 37,353
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -101,7 +101,327 @@ Maia and her husband came to Collie's door for Christmas and did not leave until
 
 Collie washed her good dress by hand a month before the semester started.
 
-The old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the ration cards that the university printed and Collio signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
+Maia's old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the ration cards that the university printed and the three women signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
+
+---
+
+## Madame
+
+The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to her room.
+
+There was a greenscreen set of a man-made creek, it gurgled alongside an art piece with a video element of the artists talking. Someone made a rug entirely out of old printer cables, and hematite was the beadwork.
+
+She retired to the gallery bar after she ran out of film. There was one bartender and one other client. The latter was in his shirtsleeves, and was scrolling on his phone — up, down, and then up again. The document he was looking at did not require his signature, only his receipt.
+
+She thought he had a nice suit, and saw the cufflinks on his wrists. He was drinking something that was not in the cocktail canon.
+
+The math she did agreed with where her heart went.
+
+He folded his phone, and asked the bartender for a *Vieux Carré.* She took the second stool to his right.
+
+«the é...», she said in French.
+
+«Quoi?» He saw that she had earbuds in.
+
+«your watch. mercredi.»
+
+He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
+
+«What is the word you use for chocolate-filled bread.» he said in French, and pulled the stool closer to him.
+
+«...»
+
+He pushed the stool back in.
+
+*Bartender! Get the lady whatever she wants.*
+
+*uhh..., un.. a, cabernet, pla—please?* she switched to English for the bartender, who got *cabernet*.
+
+Bréal steadied himself for holding conversation in French.
+
+«Seems like we both need some schooling,» he said in the diction the language school taught him. «Bréal is my name. Welcome, Mademoiselle, I think.»
+
+«don't use it back home...»
+
+«—oh, merde, sorry—»
+
+«...but I like.»
+
+The bartender pretended to not overhear as he brought their drinks.
+
+Bréal closed the first two buttons on his shirt back up. «Very well, Madame.» He raised his glass to toast.
+
+She pulled back her glass. «mademoiselle. i just told you.» She pressed down on the base of the wine glass.
+
+«Then it shall be,» a chuckle, «mademoiselle.» And then the glasses clinked, with hers firmly planted, and his doing the swing.
+
+---
+
+The date after that, they went to a restaurant that required an elevator. The patio was closed on account of the wind, and there was a pot of dried flowers at every table.
+
+She asked the waiter to take the flowers away, *s'il vous plaît*. Bréal asked for champagne.
+
+The waiter brought sparkling wine instead.
+
+She had sablefish, and he had chicken tarragon. Dessert was lava cake, with vanilla gelato on top. Back on the ground, they had sorbet at a more colourful establishment. The cherry syrup tasted of chemistry and saccharine.
+
+---
+
+He drove her to the airport, in a car that did not announce itself, when the dig site on another continent opened. She said she would bring back souvenirs. The truck that drove her to the dig site had its windshield swapped out in the middle of the tour, because the wiper pushed the sand and the sand ground down the glass to a dreamy haze.
+
+They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
+
+---
+
+After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she finished the rest of her Sazerac in one gulp. «What's wrong?» he said. She put his hand on her cheek, and held it there, where she was warm. She smelled of lavender as he pulled her in.
+
+She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and call a rideshare.
+
+She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own room.
+
+The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
+
+«excuse me, bathroom,» she said. A piece of chicken skin was *crunch*ed behind her.
+
+«take your time, ma chère.»
+
+It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de ... publiques*. The line under that said `cashier`. Someone flushed.
+
+She went to the till. A few teenagers were chattering and laughing about their amusements.
+
+*uhh, toilette?* she tried in English as the deep fryer fizzed.
+
+The cashier looked at her, and pressed a button. She jogged to the bathroom.
+
+Inside a stall, she took out her earbuds and put them in their case.
+
+She had foam spares, the good ones from the store brand. It was quiet again. She let her ponytail down, so that the hair covered her ears.
+
+She gave him the crunchy foods to eat, and had herself a fruit cup and the rest of the ketchup rice. Bréal spoke slower after that, a bit louder too, and only while she was looking.
+
+They stopped for gas on the way back to the university, and he filled with Regular. The radio was tuned to a dead channel at the lowest volume.
+
+There was a lightbulb on his desk, and the lamp glowed red. He didn't have anything to drink, neither did she. He made sure the blanket covered both of them.
+
+Her earbuds glowed green as they were charged, and she turned their LED away from the bed.
+
+She smelled of lavender, and the wool of her sweater tickled him.
+
+His fingers landed on her as if he was terrified. She took each in hand and guided them up to her ears.
+
+«are you sure?» he whispered.
+
+«...»
+
+She made his fingers pinch the orange foam, and he pulled the earplugs out at the speed of a melting glacier.
+
+They were set down next to the lightbulb.
+
+Before she went home for Christmas, he gave her a piece of jade from a crystal store. «For the family.» She flew right back to the dig site after New Year's Day, and did not come back until May.
+
+In late January, though. A package of knits, wines, and books arrived at the Epsilon house, for a M. Bréal.
+
+---
+
+The sandstorm shut the road back to town. The professors were digging in the site with them too.
+
+The University issued them the goggles, but the KN95s Vavasseur bought himself before getting on the plane. The professors paid him back after. It was better under the digging tent, where they did not have to wear the PPE.
+
+She was brushing a piece of sandstone with a horsehair brush. He was in the same pit, doing likewise.
+
+«Do you think we will get named?» Vavasseur asked.
+
+«Professor... fat glutton, eat credit.»
+
+«Like vase, ha?»
+
+He found something, and wanted her to photograph it.
+
+She packed her film camera in the inner section of her backpack, and had wrapped it in two layers of Ziploc bags.
+
+The film rolls went to the professor, who locked them in a trunk until they were mailed back to campus.
+
+---
+
+They did not dig this semester, and the professors put her on TA'ing and analyzing the artifacts.
+
+The next time Bréal was in her room, he saw a cast iron pan hanging on the coat hook.
+
+«Why?»
+
+«is reliable, durable.»
+
+He nodded. When they wanted to go to the chicken place that night, his car puttered out at the turn of the key.
+
+He did a round of replacement analysis a few weeks after that, his car had indeed reached the end of its economic life. On a day when she was not busy—which was rare—he brought her to a dealership.
+
+She wore loose linen with a beige cardigan up top. He wore a merino navy quarter-zip. His usual smartwatch was swapped out for a mechanical timepiece. Sunglasses were standard-issue.
+
+*For me, and my woman.* he said to the salesman who had grey pants on.
+
+The salesman was talking too fast, using too many weird words, she could not follow. The number on the sticker, however, was perfectly legible.
+
+The man in the grey hiking pants went away to get them coffees, she had wanted to say she wanted a mocha.
+
+His shoes did not match his belt, and his shoes were brown, She had read one night on how Bréal's strata would consider it an insult.
+
+*non,* she whispered into his ear.
+
+*non?*
+
+*non.*
+
+«let's just look, then,» he said.
+
+They drank their coffees after that, and test drove a few before deciding to mull on it a bit more, as Bréal said.
+
+He wanted to bring them to the neighbouring restaurant, she steered him toward the bakery two blocks down. She looked at the croissants and ordered the chocolate muffins instead.
+
+«we buy used,» she decreed without hope of challenge.
+
+«Why?»
+
+«in the desert, the new ones broke. the townsfolk fixed the old ones.»
+
+«but the parts are older.»
+
+«the mechanics told us, less parts in old ones.»
+
+«but where to find them? even the used ones we saw had touchscreens.»
+
+«online, and, we buy outright.»
+
+«...»
+
+«and i tell vavasseur to teach you fixing. good skill.»
+
+«you think father was right...»
+
+«we prepare, and we don't run like him.»
+
+She set down her muffin's wrapper, and held his hand.
+
+«you stand and fight, no?»
+
+Bréal remembered the protest that got him disowned.
+
+«We do.»
+
+He held her hand back.
+
+---
+
+She was learning to sew at the desk. He was on his phone, browsing.
+
+He found the car to buy on a website dressed for the last millennium. It was pick-up only, a ferry and two valleys over yonder. He texted his robot concierge for a car, and it could only schedule for him to pick up at a car rental.
+
+*Father's old human concierge could have driven it to me*, he thought to himself. Then his mental image of her scolded him for irresponsible spending.
+
+The real woman was patching an elbow while humming a tune. He told her where they were going that weekend.
+
+The seller insisted on cash, and the bank still brought him to the back rather than let him queue. She felt proud of herself, for reining in what remained of his portfolio. The banker handed him something to sign, and Bréal kept the envelope the banker gave him in his inside pocket.
+
+The pen was gold-plated at the nib, this she allowed him to keep.
+
+The rental place ran out of the car they had booked, so they had to drive it themselves. And because humans were driving, there was an extra insurance premium. And because Bréal was under twenty-five, there was another charge. It came out double the initial estimate, and the PIN pad scratched the metal on his credit card.
+
+There was a bilingual expletive when he drove it off the lot.
+
+---
+
+He was juggling texting the truck's owner and an inane mobile game on the ferry, and she wanted to go to the onboard restaurant to grab lunch for the both of them.
+
+«You sure you can handle it?» he said to the screen.
+
+«mmm, i can just point.»
+
+«You sure you don't want me to go with you?» he said with the phone face-down.
+
+«i have to practice.» She put on her earbuds.
+
+«I want the soup, and bread. Come back if you can't handle it.» The phone buzzed.
+
+She went upstairs to the passenger area.
+
+The line was long, and she saw that the soup was labeled `salmon` ...*saumon*, he would like it. She wants... the salad.
+
+It took a few tries, but the staff was as patient as the line behind her allowed. She used her own debit card to pay. The soup came in a plastic bowl shaped to be an oversized ramekin, and the salad was grab-and-go from the cold shelf, which was a blessing.
+
+She set the tray at the dashboard, and they ate until the captain said something on the PA.
+
+«what is it?» she said with darting eyes, no one was panicking, so it was probably okay.
+
+«There are orcas, want to look?»
+
+The captain cut the engine off after that, and he handed her a pair of binoculars. There were orcas, a grandmother leading the pack and two males flanking. A juvenile was playing, and her mother followed.
+
+It was the same pair of binoculars his father gave him, when he was old enough to do the ropes on the family yacht.
+
+One valley of driving later, she declared that she was hungry again. He drove past a café chain and parked in front of a grocery store. They grabbed a tuna sandwich, and at the till he grabbed a pamphlet selling a points card. The cashier unfolded the pamphlet and unstuck the card that was taped inside at the factory.
+
+The card had a bar code on its back, and *beeped* under the same scanner as the one tall can of kombucha did. She asked the cashier for two packets of ketchup.
+
+He threw out an old business card or two, to make room for the points card. In the car, they grabbed a wedge of sandwich each, said *bon appétit*, and ate.
+
+In the backseat, Bréal changed into a polo and beige slacks.
+
+They got to where the seller had agreed before dark. The seller was tanned up to the elbow, and had a beard as white as melting slush. He had a deer gun on his person.
+
+*You here about the truck?*
+
+*Yessir,* he checked the gun, can't tell if it's loaded. *Let's make it quick for both of us. Future mother-in-law would have my head if I don't bring her back on the last ferry.*
+
+The seller left his gun leaning on a tree.
+
+Bréal looked under the hood, and then under the carriage. By the guide he had followed, there was nothing alarming. The seller rode shotgun when Bréal did the test drive the guide prescribed.
+
+Bréal handed him the envelope, the seller counted the bills inside one by one. The exact amount as they had agreed on. The seller just about figured it was the woman who made him haggle.
+
+*Might be too big for your girlfriend.* he said.
+
+*She won't have any other. Damn near twisted my arm off.*
+
+The seller shrugged, and gave them the keys.
+
+*Might not make it to the ferry.* the seller said.
+
+*I figured we'd sleep in the truck if that came to be.*
+
+*I'll tell my Martha to pray for you.* The seller grabbed his gun and hat and walked back to his barn.
+
+She drove the truck in front, and he followed in the rental. The pedals were a little too deep in the footwell for her. They returned the rental at the local branch, which added another pile of fees.
+
+They laid the seats to as flat as they went, saw that it wasn't enough. They went to a big-box store, and got an inflatable mattress sized for the canopy as well as a USB charger that plugs into the car.
+
+They cracked the windows open, and held each other for warmth overnight.
+
+In the morning, they shared the truck's one charger between his phone and her laptop, to do his essay and to write feedback for her students.
+
+---
+
+In November, her family sent them another package, and a sum in her account. They said planes were too expensive now, so just enjoy Christmas on campus. Their Christmas gift to her was a treadle sewing machine, she texted them that they shouldn't have.
+
+She had Bréal come over from the Epsilon house. The TV was showing a variety show, and he was nursing a cup of hot cocoa. A turkey would have been too big for just the two of them, so it was a chicken in her cast-iron pan that went into the oven. The handle burned her close to the elbow when she took the bird out.
+
+«Fuck!»
+
+«What is i—shoot, okay, okay. it's just a little.»
+
+She was trying not to cry, it was hard. He was bringing her to the sink.
+
+«It's okay, ma chère. It's okay.»
+
+The rumble in his chest assured her of his robustness, which she was happy about.
+
+The water ran for another few minutes, and he finished making the rest of dinner.
+
+The smell of rosemary did not leave until New Year's, and she sent him back to the Epsilon house with two chicken salad sandwiches. The stuffing she kept for herself.
+
+In the spring, Vavasseur sent Bréal for blinker fluid. She was assigned to do her research, her professor came back from the dig site with another few crates. The university cut the funding for next year's excursion. She combed through and classified the artifacts they had.
+
+Bréal said to her that the student insurance would cover glasses, and so she got a pair. Round ones, with metal frames. It could take heat and bend back into shape, not like the plastic ones.
+
+She learned to polish them with a rag instead of the microfibre cloth. Bréal turned a piece of cedar and attached hinges to make a case for the glasses. She said it was beautiful, and saw that they indeed were.
 
 ---
 
@@ -593,6 +913,12 @@ She hung the sausage on the coat rack at the front of the clinic, and slept on t
 
 ---
 
+## Notifiable
+
+
+
+---
+
 ## Off Label Part I
 
 Rosa spent the morning on horseback, the ranch had put her on a mare to help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her before noon, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
@@ -869,329 +1195,11 @@ Rosa wiped down the blood pressure cuff, first with a splash of water, and then 
 
 ---
 
-## Notifiable
+## Madame Ii
 
+The fall after that, another sum came into her account, along with it an instruction to buy gold, and that they were coming. *Your landlord had sold the house,* a synthesized voice was readind what the policeman typed out. *You have two weeks to leave the room.*
 
-
----
-
-## Madame
-
-The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to her room.
-
-There was a greenscreen set of a man-made creek, it gurgled alongside an art piece with a video element of the artists talking. Someone made a rug entirely out of old printer cables, and hematite was the beadwork.
-
-She retired to the gallery bar after she ran out of film. There was one bartender and one other client. The latter was in his shirtsleeves, and was scrolling on his phone — up, down, and then up again. The document he was looking at did not require his signature, only his receipt.
-
-He folded his phone, and asked the bartender for a *Vieux Carré.* She took the second stool to his right.
-
-«the é...», she said in French.
-
-«Quoi?» He saw that she had earbuds in.
-
-«your watch. mercredi.»
-
-He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
-
-«What is the word you use for chocolate-filled bread.» he said in French, and pulled the stool closer to him.
-
-«...»
-
-He pushed the stool back in.
-
-*Bartender! Get the lady whatever she wants.*
-
-*uhh..., un.. a, cabernet, pla—please?* she switched to English for the bartender, who got *cabernet*.
-
-Bréal steadied himself for holding conversation in French.
-
-«Seems like we both need some schooling,» he said in the diction the language school taught him. «Bréal is my name. Welcome, Mademoiselle, I think.»
-
-«don't use it back home...»
-
-«—oh, merde, sorry—»
-
-«...but I like.»
-
-The bartender pretended to not overhear as he brought their drinks.
-
-Bréal closed the first two buttons on his shirt back up. «Very well, Madame.» He raised his glass to toast.
-
-She pulled back her glass. «mademoiselle. i just told you.» She pressed down on the base of the wine glass.
-
-«Then it shall be,» a chuckle, «mademoiselle.» And then the glasses clinked, with hers firmly planted, and his doing the swing.
-
----
-
-The date after that, they went to a restaurant that required an elevator. The patio was closed on account of the wind, and there was a pot of dried flowers at every table.
-
-She asked the waiter to take the flowers away, *s'il vous plaît*. Bréal asked for champagne.
-
-The waiter brought sparkling wine instead.
-
-She had sablefish, and he had chicken tarragon. Dessert was lava cake, with vanilla gelato on top. Back on the ground, they had sorbet at a more colourful establishment. The cherry syrup tasted of chemistry and saccharine.
-
----
-
-He drove her to the airport, in a car that did not announce itself, when the dig site on another continent opened. She said she would bring back souvenirs. The truck that drove her to the dig site had its windshield swapped out in the middle of the tour, because the wiper pushed the sand and the sand ground down the glass to a dreamy haze.
-
-They had her and the other students nail down extra anchors for the tents. She got used to breathing through a headscarf and with goggles pressing on her nose.
-
----
-
-After she came back, she brought them to a place that pretended to be a dumpling shop out front. The lamps inside were red, and the spirits were green. You were supposed to speak only at a whisper there. Before he could discreetly tell the bartender to cut her off, she finished the rest of her Sazerac in one gulp. «What's wrong?» he said. She put his hand on her cheek, and held it there, where she was warm. She smelled of lavender as he pulled her in.
-
-She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and call a rideshare.
-
-She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own room.
-
-The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
-
-«excuse me, bathroom,» she said. A piece of chicken skin was *crunch*ed behind her.
-
-«take your time, ma chère.»
-
-It was locked, and the sign on it said `No Public`... *Non Publique*... *pas de ... publiques*. The line under that said `cashier`. Someone flushed.
-
-She went to the till. A few teenagers were chattering and laughing about their amusements.
-
-*uhh, toilette?* she tried in English as the deep fryer fizzed.
-
-The cashier looked at her, and pressed a button. She jogged to the bathroom.
-
-Inside a stall, she took out her earbuds and put them in their case.
-
-She had foam spares, the good ones from the store brand. It was quiet again. She let her ponytail down, so that the hair covered her ears.
-
-She gave him the crunchy foods to eat, and had herself a fruit cup and the rest of the ketchup rice. Bréal spoke slower after that, a bit louder too, and only while she was looking.
-
-They stopped for gas on the way back to the university, and he filled with Regular. The radio was tuned to a dead channel at the lowest volume.
-
-There was a lightbulb on his desk, and the lamp glowed red. He didn't have anything to drink, neither did she. He made sure the blanket covered both of them.
-
-Her earbuds glowed green as they were charged, and she turned their LED away from the bed.
-
-She smelled of lavender, and the wool of her sweater tickled him.
-
-His fingers landed on her as if he was terrified. She took each in hand and guided them up to her ears.
-
-«are you sure?» he whispered.
-
-«...»
-
-She made his fingers pinch the orange foam, and he pulled the earplugs out at the speed of a melting glacier.
-
-They were set down next to the lightbulb.
-
-Before she went home for Christmas, he gave her a piece of jade from a crystal store. «For the family.» She flew right back to the dig site after New Year's Day, and did not come back until May.
-
-In late January, though. A package of knits, wines, and books arrived at the Epsilon house, for a M. Bréal.
-
----
-
-The sandstorm shut the road back to town. The professors were digging in the site with them too.
-
-The University issued them the goggles, but the KN95s Vavasseur bought himself before getting on the plane. The professors paid him back after. It was better under the digging tent, where they did not have to wear the PPE.
-
-She was brushing a piece of sandstone with a horsehair brush. He was in the same pit, doing likewise.
-
-«Do you think we will get named?» Vavasseur asked.
-
-«hmm...no, I think»
-
-«Professor... fat.»
-
-«Like vase, ha?»
-
-He found something, and wanted her to photograph it.
-
-She packed her film camera in the inner section of her backpack, and had wrapped it in two layers of Ziploc bags.
-
-The film rolls went to the professor, who locked them in a trunk until they were mailed back to campus.
-
----
-
-They did not dig this semester, and the professors put her on TA'ing and analyzing the artifacts.
-
-The next time Bréal was in her room, he saw a cast iron pan hanging on the coat hook.
-
-«Why?»
-
-«is reliable, durable.»
-
-He nodded. When they wanted to go to the chicken place that night, his car puttered out at the turn of the key.
-
-He did a round of replacement analysis a few weeks after that, his car had indeed reached the end of its economic life. On a day when she was not busy—which was rare—he brought her to a dealership.
-
-She wore loose linen with a beige cardigan up top. He wore a merino navy quarter-zip. His usual smartwatch was swapped out for a mechanical timepiece. Sunglasses were standard-issue.
-
-*For me, and my woman.* he said to the salesman who had grey pants on.
-
-The salesman was talking too fast, using too many weird words, she could not follow. The number on the sticker, however, was perfectly legible.
-
-The man in the grey hiking pants went away to get them coffees, she had wanted to say she wanted a mocha.
-
-*non,* she whispered.
-
-*non?*
-
-*non.*
-
-«let's just look, then,» he said.
-
-They drank their coffees after that, and test drove a few before deciding to mull on it a bit more, as Bréal said.
-
-He wanted to bring them to the neighbouring restaurant, she steered him toward the bakery two blocks down. She looked at the croissants and ordered the chocolate muffins instead.
-
-«we buy used,» she decreed.
-
-«Why?»
-
-«in the desert, the new ones broke. the townsfolk fixed the old ones.»
-
-«but the parts are older.»
-
-«the mechanics told us, less parts in old ones.»
-
-«but where to find them? even the used ones we saw had touchscreens.»
-
-«online, and, we buy outright.»
-
-«...»
-
-«and i tell vavasseur to teach you fixing. good skill.»
-
-«you think father was right...»
-
-«we prepare, and we don't run like him.»
-
-She set down her muffin's wrapper, and held his hand.
-
-«you stand and fight, no?»
-
-Bréal remembered the protest that got him disowned.
-
-«We do.»
-
-He held her hand back.
-
----
-
-She was learning to sew at the desk. He was on his phone, browsing.
-
-He found the car to buy on a website dressed for the last millennium. It was pick-up only, a ferry and two valleys over yonder. He texted his robot concierge for a car, and it could only schedule for him to pick up at a car rental.
-
-*Father's old human concierge could have driven it to me*, he thought to himself. Then his mental image of her scolded him for irresponsible spending.
-
-The real woman was patching an elbow while humming a tune. He told her where they were going that weekend.
-
-The seller insisted on cash, and the bank still brought him to the back rather than let him queue. She felt proud of herself, for reining in what remained of his portfolio. The banker handed him something to sign, and Bréal kept the envelope the banker gave him in his inside pocket.
-
-The pen was gold-plated at the nib, this she allowed him to keep.
-
-The rental place ran out of the car they had booked, so they had to drive it themselves. And because humans were driving, there was an extra insurance premium. And because Bréal was under twenty-five, there was another charge. It came out double the initial estimate, and the PIN pad scratched the metal on his credit card.
-
-There was a bilingual expletive when he drove it off the lot.
-
----
-
-He was juggling texting the truck's owner and an inane mobile game on the ferry, and she wanted to go to the onboard restaurant to grab lunch for the both of them.
-
-«You sure you can handle it?» he said to the screen.
-
-«mmm, i can just point.»
-
-«You sure you don't want me to go with you?» he said with the phone face-down.
-
-«i have to practice.» She put on her earbuds.
-
-«I want the soup, and bread. Come back if you can't handle it.» The phone buzzed.
-
-She went upstairs to the passenger area.
-
-The line was long, and she saw that the soup was labeled `salmon` ...*saumon*, he would like it. She wants... the salad.
-
-It took a few tries, but the staff was as patient as the line behind her allowed. She used her own debit card to pay. The soup came in a plastic bowl shaped to be an oversized ramekin, and the salad was grab-and-go from the cold shelf, which was a blessing.
-
-She set the tray at the dashboard, and they ate until the captain said something on the PA.
-
-«what is it?» she said with darting eyes, no one was panicking, so it was probably okay.
-
-«There are orcas, want to look?»
-
-The captain cut the engine off after that, and he handed her a pair of binoculars. There were orcas, a grandmother leading the pack and two males flanking. A juvenile was playing, and her mother followed.
-
-It was the same pair of binoculars his father gave him, when he was old enough to do the ropes on the family yacht.
-
-One valley of driving later, she declared that she was hungry again. He drove past a café chain and parked in front of a grocery store. They grabbed a tuna sandwich, and at the till he grabbed a pamphlet selling a points card. The cashier unfolded the pamphlet and unstuck the card that was taped inside at the factory.
-
-The card had a bar code on its back, and *beeped* under the same scanner as the one tall can of kombucha did. She asked the cashier for two packets of ketchup.
-
-He threw out an old business card or two, to make room for the points card. In the car, they grabbed a wedge of sandwich each, said *bon appétit*, and ate.
-
-In the backseat, Bréal changed into a polo and beige slacks.
-
-They got to where the seller had agreed before dark. The seller was tanned up to the elbow, and had a beard as white as melting slush. He had a deer gun on his person.
-
-*You here about the truck?*
-
-*Yessir,* he checked the gun, can't tell if it's loaded. *Let's make it quick for both of us. Future mother-in-law would have my head if I don't bring her back on the last ferry.*
-
-The seller left his gun leaning on a tree.
-
-Bréal looked under the hood, and then under the carriage. By the guide he had followed, there was nothing alarming. The seller rode shotgun when Bréal did the test drive the guide prescribed.
-
-Bréal handed him the envelope, the seller counted the bills inside one by one. The exact amount as they had agreed on. The seller just about figured it was the woman who made him haggle.
-
-*Might be too big for your girlfriend.* he said.
-
-*She won't have any other.*
-
-The seller shrugged, and gave them the keys.
-
-*Might not make it to the ferry.* the seller said.
-
-*I figured we'd sleep in the truck if that came to be.*
-
-*I'll tell my Martha to pray for you.* The seller grabbed his gun and hat and walked back to his barn.
-
-She drove the truck in front, and he followed in the rental. The pedals were a little too deep in the footwell for her. They returned the rental at the local branch, which added another pile of fees.
-
-They laid the seats to as flat as they went, saw that it wasn't enough. They went to a big-box store, and got an inflatable mattress sized for the canopy as well as a USB charger that plugs into the car.
-
-They cracked the windows open, and held each other for warmth overnight.
-
-In the morning, they shared the truck's one charger between his phone and her laptop, to do his essay and to write feedback for her students.
-
----
-
-In November, her family sent them another package, and a sum in her account. They said planes were too expensive now, so just enjoy Christmas on campus. Their Christmas gift to her was a treadle sewing machine, she texted them that they shouldn't have.
-
-She had Bréal come over from the Epsilon house. The TV was showing a variety show, and he was nursing a cup of hot cocoa. A turkey would have been too big for just the two of them, so it was a chicken in her cast-iron pan that went into the oven. The handle burned her close to the elbow when she took the bird out.
-
-«Fuck!»
-
-«What is i—shoot, okay, okay. it's just a little.»
-
-She was trying not to cry, it was hard. He was bringing her to the sink.
-
-«It's okay, ma chère. It's okay.»
-
-The water ran for another few minutes, and he finished making the rest of dinner.
-
-The smell of rosemary did not leave until New Year's, and she sent him back to the Epsilon house with two chicken salad sandwiches. The stuffing she kept for herself.
-
-In the spring, Vavasseur sent Bréal for blinker fluid. She was assigned to do her research, her professor came back from the dig site with another few crates. The university cut the funding for next year's excursion. She combed through and classified the artifacts they had.
-
-Bréal said to her that the student insurance would cover glasses, and so she got a pair. Round ones, with metal frames. It could take heat and bend back into shape, not like the plastic ones.
-
-She learned to polish them with a rag instead of the microfibre cloth. Bréal turned a piece of cedar and attached hinges to make a case for the glasses. She said it was beautiful.
-
----
-
-The fall after that, another sum came into her account, along with it an instruction to buy gold, and that they were coming. Her landlord had sold the house, and a policeman found an interpreter to very nicely tell her she had two weeks to leave the room.
-
-The trees must have been in the way. She found a corner of her block that still had cell signal, and called Bréal, crying.
+The trees must have been in the way. She found a corner of her block that still had cell signal, and called Bréal, crying. Her heart began to race midway through the call.
 
 He brought with him Vavasseur and a few brothers that weekend, after he had his last midterm. The bed in Bréal's room was a twin, he and another brother took the legs off and brought the bedframe out.
 
@@ -1201,11 +1209,145 @@ She found old fitted mattress covers at the university's free store, and took ou
 
 The Archaeology department cut all non-essential staff before December, and she held onto Bréal for warmth. The texts she sent home never got a read receipt, and the news coverage did not look good.
 
-After her panic subsided, he tucked her into bed and went downstairs, something made of glass was broken, and there were shouts. The news was banned from the common room TV after that.
+Bréal tucked her into bed and went downstairs, something made of glass was broken, and there were shouts. She stayed up to listen to the shouts until there was no more. The news was banned from the common room TV after that.
 
-The food in Epsilon got gradually better—the year or two after that—because several brothers' grandmothers had moved in. A woman offered to do daycare, and a small office was made in the common room. Vavasseur came to live in the house too, and he was the one who solved the problem of who-parked-where, because they were running out of parking spots.
+The grocery chains shuttered, one by one. The church started to come by after that. Bréal was the one to haul the flour. The sacks were stamped three times, once by the mill, once by the wholesaler, and once by the church. The cross was large, and on the other side from where the mill stamped.
+
+The tax bill went to her old address, and there was no one who minded when she did not pay.
+
+The food in Epsilon got better, gradually—the year or two after that—because several brothers' grandmothers had moved in. A woman offered to do daycare, and a small office was made in the common room. Vavasseur came to live in the house too, and he was the one who solved the problem of who-parked-where, because they were running out of parking spots.
 
 She learned to can in the common kitchen from the grandmothers, the Carpathian way. She kept herself busy by sewing for people in exchange for flour. She always needed more patches.
+
+Somewhere downstairs, an old baker who moved in arm-wrestled a brother who never did leg day.
+
+---
+
+The wholesaler's stamp on the flour was not there one day, the Food Services department took it's place. After that, the cross went away from the back, and it was just the names of the mill, and the university.
+
+It went from white flour to brown, and the year after that, it needed more kneading. They started handing out dried beans too.
+
+Bréal was the one who stood in line, because it was too noisy there. He vas always extra hungry after getting the sacks home.
+
+The Epsilon house grew an earthen oven when electricity dropped. Eventually the notice board told everyone that their block would have power in the afternoon.
+
+Everyone kept gathering firewood, and the microwave was put into the house attic.
+
+The oven in the range, though, came to have hot stones on the bottom and things to keep warm on top.
+
+The sacks came every week. On the first of every month, the dining hall began to hand out vegetable oil and salt. There was powdered milk too, but you had to prove you were a mother to get it.
+
+For a season, the flour was stamped with the flag of another country. And then it went back to the two names.
+
+It was still the churchgoers who handed the sacks out.
+
+---
+
+There were guards from Campus Security at the tail of the flour truck, the megaphone said they now want to see student or staff ID before handing out sacks, and that one with card can fetch for two at most. That night, the guards were strung up on the streetlights gone dark, and all manner of things were flung.
+
+She did not ask why it took so long for him to get home, it was dangerous outside. Could have been a million things.
+
+Bréal covered her ears for her, even though she had the dead earbuds in.
+
+There was something new on the noticeboard after things went quiet, it was in black and white.
+
+«what does it say?» she asked.
+
+«Says that dependants may remain on campus, and that I have to bring you to register when the trucks come.»
+
+«do i have to be in the queue?»
+
+«I'll make it work.»
+
+Bréal found a pair of red earmuffs at the flea market, and she tied a little knot on top with green yarn in an idle moment.
+
+She put on her white linen and flour-soaked beige cardigan. He put on his old suit, as clean as river water could make it. 
+
+«You look lovely.» He said before they set off to registration.
+
+---
+
+She walked holding his arm, which was assurance and security in the queue. They moved the registration to inside the old gymnasium, and the end of the line was two blocks from that.
+
+They did not bring enough water, there was someone in a blue vest who wheeled a cart. The glasses were re-used with a rinse in-between. It was hydrating.
+
+In the gymnasium, a woman cried at the front of the queue. She was on her knees, in sneakers, and held a crying infant in her arms. She begged, saying something. It was too loud, and too contorted by sorrow, and too muffled by the earmuffs to be understood. The clerk did not stamp something, and seemed pained himself. She got flour and lentils, but no milk powder. Eventually, a guards gently removed her from the desks, another carried her ration for her.
+
+They were in front now, she held on a bit tighter.
+
+*Name?* The clerk said. He had matted hair, and bags under his eyes.
+
+*Bréal*, he presented his student ID.
+
+The clerk said something, too fast.
+
+Bréal said something softer, and moved his hand to her shoulder.
+
+The clerk had them stand in front of a camera, one at a time.
+
+The clerk typed something into his computer, printed something, and stamped it. There were two cards, and a line on each for him to sign his name. She waited for him to be done with his fountain pen.
+
+It was gold, and she did not let the people behind them see that it was gold.
+
+The clerk laminated the cards, they collected their ration at the station behind the clerk. 
+
+---
+
+At home, she looked at the cards closer.
+
+«He got my first name wrong.» She said.
+
+«Mine too.»
+
+«And, they put down my last name as Breal, not even with the accent.»
+
+«Englishmen.» He scoffed.
+
+«Why does it say I am your wife?»
+
+«It was the slot they had.»
+
+She thought for a moment.
+
+«There is a line on yours, says the University can ...use you.»
+
+The same line on hers had been stamped over, by the clerk, after Bréal pointed at her earmuffs. 
+
+«They only mean for work, like the churchgoers already do.» He kissed her on the forehead.
+
+She thought some more on the other side of that skull, and decided to lean into it.
+
+---
+
+There was another poster on the noticeboard, and in the biggest type it said `POLAR VORTEX`, which did not need translation. There was a boy who started coughing, a brother who was a medical student said it was an infection. She heard that they turned him away from the clinic.
+
+They kept him in a room, and there was a schedule to care for him.
+
+*you... boil wrong.* she said to the one who was responsible for cleaning the boy's bedding.
+
+*Huh?* the man said.
+
+*the ...manual, says big boil.*
+
+*We are low on firewood.*
+
+*is dangerous, if we do not.*
+
+*We're just going to run out, then what?*
+
+*...*
+
+*...yeah.*
+
+*you boil, i find wood.*
+
+She did the boil too, after that. Feelings came back to her fingers about ten minutes into poking the bedding.
+
+---
+
+## Skywave
+
+
 
 ---
 
@@ -1688,6 +1830,12 @@ Collie held out the two compacts and the brush.
 
 ---
 
+## Madame Iii
+
+
+
+---
+
 ## Hyperbolic
 
 The Emeritus' property was something done in concrete and stone, in the brutalist style that was in vogue after the Second World War (unlike the red brick construction of the Swartz property that was popular before that). The windows were no longer glazed, but rather covered with wooden shutters that did not seem to be painted, or at least painted yet. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
@@ -1919,6 +2067,42 @@ It clicked down, sharp. *Here you go, madam.*
 Collie opened her leather wallet, and gave him a ten and a five. On the Obverse were three reproduced signatures, one by the University President, one by the Dean of Economics, and one by the Director of Food Services. The centered seal had a Dogwood flower wrapped in a Mahonia wreath.  
 
 She went to the market after, to distract herself.
+
+---
+
+## Fitting
+
+---
+
+Out of ideas, she headed for the balcony.
+
+---
+
+*And that, kids,* Alex said from the top of the pole. *is how you prove this type of transformer is cold without an early retirement.*
+
+Lewis and the other students craned their necks to see him.
+
+*Daaaaad.*
+
+The students looked at the new voice, and Lewis thought of touching a live wire.
+
+*Hmm, what is it, Nadia?*
+
+*Do you know if Auntie Maia can sew?*
+
+*Oh, your old grandma always complained that she couldn't. See, I brought her home once when the planes still flew...*
+
+There has to be an exposed wire somewhere Lewis can bite down on.
+
+One of his classmates asked about the grid on the other side of the planet.
+
+*...and that's why five phases beat three.* Alex holstered his orange pliers. *Sorry I wasn't much help, Nadia. Maybe Collie will have an idea.*
+
+No, she won't.
+
+*Lewis, you're up! Don't be thinking there's special treatment.* Alex slid down the pole
+
+*I never knew he did.* Nadia said before turning away from the window.
 
 ---
 
@@ -2572,7 +2756,7 @@ Alex left a mess on the table, to intercept Nadia coming out of the bathroom.
 
 ok.
 
-Dinner was something with potatoes simmered in a little milk, and stockfish, rehydrated, partly by boiling in that mixture.
+Dinner was something with potatoes simmered in a little milk, and stockfish, rehydrated, partly by being mashed into the mixture.
 
 The table had room for eight, the dinner was enough for four-and-a-half, and there were three at the table set for four.
 
@@ -2648,7 +2832,7 @@ And the horns were harmless.
 
 *Hmm?*
 
-*she, collie, seemed she brought up a... 'real mom'? as well.*
+*she, maddy, seemed she brought up a... 'real mom'? as well.*
 
 *oh.*
 
@@ -2676,7 +2860,7 @@ The door opened.
 
 *His name,* Maddy said, face buried in the sheep, *is Hopper.*
 
-*Don't forget your water too.*
+*Don't forget your water either.*
 
 *I want to pee.*
 
@@ -2804,13 +2988,13 @@ okay. Wait, Vavasseur.
 
 Collie *hmm*'d.
 
-*Yeah, we'll come back to this later.* She said, *I have grad students to manage, don't burn the house down, okay?*
+*Yeah, we'll come back to this later.* she said, *I have grad students to manage, don't burn the house down, okay?*
 
-Small victories, larger bowel movements.
+Small victories.
 
 ---
 
-Ada hollered, full-throated, from the greenhouse office: *Nadia~! A call for you.*
+Ada was at the door ofhthe greenhouse office, and hollered from just behind her incisors: *Nadia~! A call for you.*
 
 *From whom?*
 
@@ -3756,6 +3940,12 @@ It was an okay day.
 
 ---
 
+## Madame Iv
+
+
+
+---
+
 ## Splendor
 
 It was some time in the afternoon. Birds were chirping outside, and the cherry tree did not move, because no wind came through the glass roof. Ada signed for the delivery at the door and let two of the helpers carry it up.
@@ -4488,7 +4678,7 @@ The stew was tender.
 
 *Is she still pursuing admission? If she needs someone to countersign.* Collie offered, Fleming touched her hand and she did not react.
 
-*She has since grown wiser, I think. Since we are on the topic, how is Maddy? I hear she is going to the Christmas dance?* Bréal asked. Collie's eyes darted at Lewis. Vavasseur's own eyes tried to notify, but Bréal had tunnel vision on her.
+*I shall arrange for an introduction if she gets back in. She would want company in the museum.* Bréal's tongue was slightly numb. *Since we are on the topic, how is Maddy? I hear she is going to the Christmas dance?* Bréal asked. Collie's eyes darted at Lewis. Vavasseur's own eyes tried to notify, but Bréal had tunnel vision on her.
 
 *...and Nadia too, but Lord Fleming had been telling them to focus on school.*
 
@@ -4534,12 +4724,6 @@ They shook hands in front of the steps. Fleming and Bréal held the paper for al
 Lewis went home an hour and a half after Auntie Collie did, thirty minutes for the dinner, thirty minutes to return the .44 (he was by all accounts lucky; the gun, however, had hoped otherwise), and thirty more because he walked back.
 
 He kept in the ice box what the chef let him bring home. It was good breakfast for Nadia, who ate it reading the front page story.
-
----
-
-## Skywave
-
-
 
 ---
 
