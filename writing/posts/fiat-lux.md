@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-19
+date: 2026-10-21
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 37,353
+word_count: 37,148
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -11,7 +11,7 @@ summary: At the beginning, a restaurant advertised that they used locally grown 
 
 ## Ante Finem Mundi
 
-Coelia 'Collie' Swartz (please, just Collie is fine) looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display that said six-something a gallon. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
+Collie looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display that said six-something a gallon. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
 
 The break room had an AC unit installed by someone's butch rendezvous a week before the summer term began. The school would have liked to complain about unregulated appliances, if the school had so much as bothered to inspect. Collie buttoned up the cardigan Nona knitted. Her laptop had a tab open about how to get soy sauce out of wool and another about the university housing portal. The portal showed a label that said `waitlisted` without any further information.
 
@@ -1127,71 +1127,9 @@ On the way back to the clinic, she ripped a blank page from her planner, sprinkl
 
 ---
 
-There was a figure, sat on the porch of the clinic. The mare took a few more steps, and the figure resolved to the Schoolteacher. Rosa took off the pannier, and let a man lead her mare to the stable. The Schoolteacher's face resolved into a name.
+There was a figure, sat on the porch of the clinic. The mare took a few more steps, and the figure resolved to the Schoolteacher. Rosa took off the pannier, and let a man lead her mare to the stable. The figure's face resolved into a name.
 
-*Carmen.*
-
-*The kids call me Ms Warner these days. And I see that you've gotten your degree, VP...*
-
-*—Rosa, and no, not Doctor Rosa, not before the practicum is over.*
-
-*There's the girl that got us real bell peppers in the dining hall.* Carmen's old friend smelled of mint.
-
-*I still haven't figured out where to get vitamin C out here... how can I help today, Carmen?*
-
-*I am pregnant.*
-
-*Come in, I'll start a kettle.*
-
-*You're too kind.*
-
----
-
-*How many weeks, by your reckoning?*
-
-*Well, must've been a convoy in the summer. Say July.*
-
-Second trimester, then.
-
-*When was your last period?*
-
-Rosa pulled out a notepad, and the cap came off her fountain pen.
-
-*I am sworn to privacy, if that assures.*
-
-*Well, it hasn't been consistent for a long while, so I don't really remember.*
-
-Neither was hers.
-
-*Thank you for trusting me with that. How did you find out?*
-
-*Oh, I had been sick for a while, the little bugger kicked me last week and that was when I figured.*
-
-Nineteen weeks.
-
-*How have you been?*
-
-Rosa scribbled something, then the pen slacked in her hand and she looked Carmen in the eyes.
-
-*Is the father in the picture?*
-
-*Yes, came on the same convoy as you on Monday. He works in the carpenters' shop now.*
-
-Good.
-
-*Morning sickness? I want to hear more about that.*
-
-*Oh, it doesn't get in the way of the day.*
-
-Rosa wrote and underlined something. A whistle went off.
-
-*Let's take your blood pressure. While I get the equipment, Carmen, would you mind putting the tea in the pot? Both are in the glass case.*
-
-*Which tea?*
-
-*Whichever you like, Cars.*
-
-Rosa wiped down the blood pressure cuff, first with a splash of water, and then something from the flask. Carmen chose something with a purplish hue. The listening horn was stored on a shelf that required stepping on a chair to reach.
+*Rusina.*
 
 ---
 
@@ -1339,9 +1277,29 @@ They kept him in a room, and there was a schedule to care for him.
 
 *...yeah.*
 
-*you boil, i find wood.*
+*you boil, i find wood.* and that was that.
 
 She did the boil too, after that. Feelings came back to her fingers about ten minutes into poking the bedding.
+
+After the sun went down, she took Bréal's jacket from the chair to its hook, and felt that it was damper at the shoulders than it should be, for a man who worked inside that day.
+
+She snuggled herself against him on the bed. He was always so warm, and such a messy sleeper, they should have gotten a bigger mattress.
+
+«You scared me.» he said to her hair.
+
+«why?»
+
+«i was told you went outside. it's not safe out there.»
+
+«we needed firewood.»
+
+«promise me you won't leave the house.» he held on tighter. «without someone with you.»
+
+«i had to, or we would would get sick.»
+
+«i know, i know.»
+
+They fell asleep before she could promise, or not.
 
 ---
 
@@ -2664,7 +2622,7 @@ Through the wall, two voices began to be audible.
 
 *I can't do this right now.*
 
-Maddy's sole was bony, and still managed to *thump* the floorboards the way boots do.
+Maddy's soles were bony, and still managed to *thump* the floorboards the way boots do.
 
 *Hey Maddy, what's wrong?*
 
