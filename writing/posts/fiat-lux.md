@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-21
+date: 2026-10-26
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 37,148
+word_count: 37,188
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -479,7 +479,7 @@ The rest could wait, for tonight, they just had to sit around the town fire and 
 
 The schoolteacher hugged her beau, the carpenter who rode the truck behind Lewis and Egghead. By the book, she still had five more months with this class before she would come back to the university.
 
-The fire seemed to be the only thing in the world, a gyrating ember presence that compounded the sloshing mead. Lewis passed the bottle toward the carpenter, and the schoolteacher in his lap grabbed it instead. A chorus sang *Ayy* when she decanted from the bottle into his open mouth.
+The fire seemed to be the axis on which the world spun, and the mead made the world spin faster. Lewis passed the bottle toward the carpenter, and the schoolteacher in his lap grabbed it instead. A chorus sang *Ayy* when she decanted from the bottle into his open mouth.
 
 Lewis fell back-first into the truck bed, and did not feel the falling stop even after he snugged himself in his sleeping bag.
 
@@ -1161,11 +1161,11 @@ Somewhere downstairs, an old baker who moved in arm-wrestled a brother who never
 
 ---
 
-The wholesaler's stamp on the flour was not there one day, the Food Services department took it's place. After that, the cross went away from the back, and it was just the names of the mill, and the university.
+The wholesaler's stamp on the flour was not there one day, the Food Services department took its place. After that, the cross went away from the back, and it was just the names of the mill, and the university.
 
 It went from white flour to brown, and the year after that, it needed more kneading. They started handing out dried beans too.
 
-Bréal was the one who stood in line, because it was too noisy there. He vas always extra hungry after getting the sacks home.
+Bréal was the one who stood in line, because it was too noisy there. He was always extra hungry after getting the sacks home.
 
 The Epsilon house grew an earthen oven when electricity dropped. Eventually the notice board told everyone that their block would have power in the afternoon.
 
@@ -1199,9 +1199,9 @@ There was something new on the noticeboard after things went quiet, it was in bl
 
 Bréal found a pair of red earmuffs at the flea market, and she tied a little knot on top with green yarn in an idle moment.
 
-She put on her white linen and flour-soaked beige cardigan. He put on his old suit, as clean as river water could make it. 
+She put on her white linen and flour-soaked beige cardigan. He put on his old suit, as clean as river water could make it.
 
-«You look lovely.» He said before they set off to registration.
+«You look lovely,» he said before they set off to registration.
 
 ---
 
@@ -1227,13 +1227,13 @@ The clerk typed something into his computer, printed something, and stamped it. 
 
 It was gold, and she did not let the people behind them see that it was gold.
 
-The clerk laminated the cards, they collected their ration at the station behind the clerk. 
+The clerk laminated the cards, they collected their ration at the station behind the clerk.
 
 ---
 
 At home, she looked at the cards closer.
 
-«He got my first name wrong.» She said.
+«He got my first name wrong,» she said.
 
 «Mine too.»
 
@@ -1249,7 +1249,7 @@ She thought for a moment.
 
 «There is a line on yours, says the University can ...use you.»
 
-The same line on hers had been stamped over, by the clerk, after Bréal pointed at her earmuffs. 
+The same line on hers had been stamped over, by the clerk, after Bréal pointed at her earmuffs.
 
 «They only mean for work, like the churchgoers already do.» He kissed her on the forehead.
 
@@ -1257,11 +1257,11 @@ She thought some more on the other side of that skull, and decided to lean into 
 
 ---
 
-There was another poster on the noticeboard, and in the biggest type it said `POLAR VORTEX`, which did not need translation. There was a boy who started coughing, a brother who was a medical student said it was an infection. She heard that they turned him away from the clinic.
+There was another poster on the noticeboard, and in the biggest type it said `POLAR VORTEX`, which did not need translation. Vavasseur started coughing, a brother who was a medical student said it was an infection. She heard that they turned him away from the clinic.
 
 They kept him in a room, and there was a schedule to care for him.
 
-*you... boil wrong.* she said to the one who was responsible for cleaning the boy's bedding.
+*you... boil wrong.* she said to the one who was responsible for cleaning the bedding.
 
 *Huh?* the man said.
 
@@ -1277,15 +1277,15 @@ They kept him in a room, and there was a schedule to care for him.
 
 *...yeah.*
 
-*you boil, i find wood.* and that was that.
+*you boil, i find wood.* And that was that.
 
-She did the boil too, after that. Feelings came back to her fingers about ten minutes into poking the bedding.
+She did the boil too, after that. Feeling came back to her fingers about ten minutes into poking the bedding.
 
 After the sun went down, she took Bréal's jacket from the chair to its hook, and felt that it was damper at the shoulders than it should be, for a man who worked inside that day.
 
 She snuggled herself against him on the bed. He was always so warm, and such a messy sleeper, they should have gotten a bigger mattress.
 
-«You scared me.» he said to her hair.
+«You scared me,» he said to her hair.
 
 «why?»
 
@@ -1293,13 +1293,72 @@ She snuggled herself against him on the bed. He was always so warm, and such a m
 
 «we needed firewood.»
 
-«promise me you won't leave the house.» he held on tighter. «without someone with you.»
+«promise me you won't leave the house.» He held on tighter. «without someone with you.»
 
-«i had to, or we would would get sick.»
+«i had to, or we would get sick.»
 
 «i know, i know.»
 
 They fell asleep before she could promise, or not.
+
+---
+
+The doctor who was a brother saw Vavasseur again, and knew what he needed to take. He prescribed it by his word, outside Vavasseur's room, with the door closed.
+
+In the morning, Bréal, the doctor, and the brother who boiled the bedsheets set off on Bréal's truck. They went back with the ration first, and then said they had some other business to do.
+
+«Don't wait up.»
+
+She went outside, in her own coat. The noticeboard said there was something happening next to the old free store.
+
+She went back to the Epsilon house, and grabbed her earmuffs.
+
+---
+
+### MUTUAL AID
+**FIRST AID CLASSES**
+**REPAIR CLASSES**
+**FOOD PRESERVATION**
+**EMERGENCY FUNDS**
+
+HOT FOOD AT NOON EVERY DAY
+BASEMENT OF THE STUDENT UNION BUILDING
+
+MIDNIGHT STUDENTS SOCIETY ARBUTUS
+
+---
+
+It was dark, but they had battery-powered lamps, some that were a bright white, others that leaned more amber. One was at the desk, and some scattered across plastic crates. People were huddled around a floor-table. Some had cushions, others sat on their jackets.
+
+It was a cold that was attenuated by way of body heat and an HVAC gone silent.
+
+*...'allo?* she probed.
+
+*Hi, hey, welcome. You here for the sewing circle?* The woman who answered was younger than her.
+
+*...yes?*
+
+*Come, we are learning how to sashiko today. Don't believe I caught your name?*
+
+*bréal, madame bréal,* she mumbled it once, then again, because someone dropped a pin.
+
+*And my name is Cecilia, it is so good to see you.*
+
+They made room for her at the table.
+
+---
+
+The circle was the same time the day after that, and they kept patching the same holes. She had told the Epsilons it would be until late, and to not wait. From two handkerchiefs and a foot of twine, she made a satchel and loaded it with her day's flour.
+
+She had brought a t-shirt that was chewed through by moths, and closed the holes before they headed outside to start a fire. She added her flour to the liquid they boiled. Cecilia had an onion, and there was more flour and oatmeal. A tiniest pinch of salt for the pot, which never made it past a bare simmer.
+
+Cecilia was at the ladle, and she made sure the youngest ate first. A girl called Nadia spilled some because the stainless steel bowl was hot. She caught it from Nadia's hands, and set it down without saying a thing.
+
+*Mercy,* the girl said with the wrong stress.
+
+The children cleaned the bowls with their tongues, and then they were rinsed in snow. She worked on someone's piece that had a lining, and then she worked on someone else's. She let the hand that did not catch the bowl hold the needle.
+
+By the time they were packing up for the first aid class after, Cecilia held her hand and asked her to come back often. «S'il vous plaît,» she said, in an accent that was better than Bréal's.
 
 ---
 
@@ -1630,7 +1689,7 @@ The undertaker kept to his hour, and knocked on the Swartz door thirty minutes a
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
-*She loved you, she loved you so much.*
+*We loved you, we loved you so much.*
 
 *And she is gone, mom. It doesn't change that.*
 
@@ -1680,43 +1739,39 @@ They put potatoes in the boiling water. Maddy was cutting the mushrooms and Coll
 
 *What did she tell you? Before she died?*
 
-*She,* Collie struggled to synthesize the sentence, *told me to stay healthy, to bury her next to our dad.*
+*She,* Collie struggled to synthesize the sentence, *she didn't make a lot of sense around the end.*
 
 Collie unhooked the frying pan, the one with the Swartz name on the handle. She flipped it over, and then back again. Her mind was busy with something else.
 
-*She also told me to take care of you, Medea.*
+*She told me to take care of you, Medea.*
 
-*Why did you use that name?*
+*Why did you give me that name?*
 
-*Because we picked it, together, when she was carrying you. And because I never got to telling you what it meant.*
+*Because we picked it, together, remember?*
 
 The mushrooms were thinly sliced, and they would go into the butter before the egg.
 
-*Medea was a princess in a kingdom called Colchis, a granddaughter of the Sun. She made magic and medicine. When people wronged her, she did not sob and mourn like the other princesses, well, not just. She used her magic, and made poison, to make them pay. She was strong, and she found a place with people she could trust, and lived happily ever after.*
+*You taught the play to us, in the common room.*
 
-*Like you.*
+*I hope I was a good schoolteacher.*
+
+*That Medea did things, like you.*
 
 *Like us, my dear.*
 
-Collie washed her hands, even though they were perfectly clean.
-
-*You know we had to read the play, for school.*
-
-*I put it on the curriculum. Your mother saw what was coming, and she wanted you to be strong, very strong.*
-
-The mushroom dissolved its flavour into the oil.
+Collie washed her hands, even though they were perfectly clean. The mushroom dissolved its flavour into the butter. Maddy recalled the old ID card, that said *Madeline ...something*. It was in a shoebox, Maddy thought, that had to be somewhere in the apartment.
 
 *What were their names?*
 
 Collie deglazed with a spoonful of water. The tap was slow.
 
-*What matters is that you are mine.*
+*You are my daughter, dear.*
 
 Maddy held a shallow breath, for half a second. *I want to know.*
 
-*You have a photo of them both framed on your desk.*
+*You have a photo of them both framed, on your desk.*
 
-*I want to hear it. And I want to hear it from you.*
+*You never mention their names.*
 
 Collie moved the mushrooms to one side of the pan, and did not look at her thirdborn child.
 
@@ -1726,9 +1781,9 @@ Collie moved the mushrooms to one side of the pan, and did not look at her third
 
 Maddy set down a cloth where Collie then set down the pan. She gave Collie the nice bowl of potatoes she smoothed with the spoon, instead of the one she mashed in. Her bowl had the potato up to the edge on the left side and dug out on the right.
 
-*She, she told me to protect you, and, changing you to a Swartz was the only way, to make sure that the university knew you were mine.*
+*She, she told me to protect you, and, giving you the Swartz name was the only way, to make sure that the ration men knew you were mine.*
 
-Collie sprinkled some more salt on her eggs.
+Collie sprinkled some more salt on her eggs, and tried not to think of the woman who did not get powdered milk.
 
 *I am sorry, Maddy. I am sorry I never told you why.*
 
@@ -1740,7 +1795,7 @@ Maddy glanced at her aunt, skewered two mushroom slices on her fork, and stabbed
 
 *Don't worry about that, mom.*
 
-The mushroom was a bit undercooked.
+The tomato was raw.
 
 Collie did the dishes, and Maddy dried them with a towel before setting them back in the cupboards.
 
@@ -2022,9 +2077,9 @@ It clicked down, sharp. *Here you go, madam.*
 
 *Fifteen dollars.*
 
-Collie opened her leather wallet, and gave him a ten and a five. On the Obverse were three reproduced signatures, one by the University President, one by the Dean of Economics, and one by the Director of Food Services. The centered seal had a Dogwood flower wrapped in a Mahonia wreath.  
+Collie opened her leather wallet, and gave him a ten and a five. On the Obverse were three reproduced signatures, one by the University President, one by the Dean of Economics, and one by the Director of Food Services. The centered seal had a Dogwood flower wrapped in a Mahonia wreath.
 
-She went to the market after, to distract herself.
+Collie did not look at the bills that closely. She went to the market after, to distract herself.
 
 ---
 
@@ -2032,33 +2087,31 @@ She went to the market after, to distract herself.
 
 ---
 
-Out of ideas, she headed for the balcony.
+Out of ideas, she headed for the window.
 
 ---
 
-*And that, kids,* Alex said from the top of the pole. *is how you prove this type of transformer is cold without an early retirement.*
+*And that, kids,* Alex said from the top of the pole. *is how you don't touch the cancer juice.*
 
 Lewis and the other students craned their necks to see him.
 
-*Daaaaad.*
+A window swug open, and a girl's voice said *Daaaaad.*
 
-The students looked at the new voice, and Lewis thought of touching a live wire.
+The students looked at the new voice, and Lewis thought of licking a live wire.
 
 *Hmm, what is it, Nadia?*
 
 *Do you know if Auntie Maia can sew?*
 
-*Oh, your old grandma always complained that she couldn't. See, I brought her home once when the planes still flew...*
+*Oh, your old grandma always complained that she couldn't. See, I brought her home for New Year's when the planes still flew...*
 
-There has to be an exposed wire somewhere Lewis can bite down on.
+One of Lewis' classmates asked about the grid on the other side of the planet, Nadia stood by the window.
 
-One of his classmates asked about the grid on the other side of the planet.
-
-*...and that's why five phases beat three.* Alex holstered his orange pliers. *Sorry I wasn't much help, Nadia. Maybe Collie will have an idea.*
+*...and that's why we should have gone with way higher voltage when plugging into the dam.* Alex holstered his orange pliers. *Sorry I wasn't much help, Nadia. Maybe Collie will have an idea.*
 
 No, she won't.
 
-*Lewis, you're up! Don't be thinking there's special treatment.* Alex slid down the pole
+*Lewis, you're up! Don't be thinking you get special treatment.* Alex lofted down the pole with swan-like elegance.
 
 *I never knew he did.* Nadia said before turning away from the window.
 
@@ -2952,7 +3005,7 @@ Small victories.
 
 ---
 
-Ada was at the door ofhthe greenhouse office, and hollered from just behind her incisors: *Nadia~! A call for you.*
+Ada was at the door of the greenhouse office, and hollered from just behind her incisors: *Nadia~! A call for you.*
 
 *From whom?*
 
@@ -2982,7 +3035,7 @@ She guessed as much, and sighed, away from the microphone. *Please,* Alex added.
 
 Can he?
 
-Nadia reached into her pocket, felt the relief pattern on the ration card in her wallet. The one that said `SWARTZ`, and then, the one that said `TSIEN`.
+Nadia reached into her pocket, felt the relief pattern on the ration card in her wallet. The one that had `SWARTZ` stamped in on one side, and `TSIEN` on another.
 
 It was hard metal, warmed by her touch.
 
@@ -3392,7 +3445,7 @@ He washed the lead with vinegar on something that was once a tablecloth, rinsed 
 
 It took two extension cords to wire it back to the shop. On making a connection, the machine wanted to fill itself with water, and then began to jiggle in the way that it was supposed to.
 
-Alex wrote in his name and fix on the inside of the bent-sheet panel, and wheeled it back in. The next job wouldn't be for half an hour, and he mulled about what to do. Then, he remembered what the women said about jerrycans, and ceased mulling.
+Alex wrote in his name and fix on the inside of the bent-sheet panel, and wheeled it back in. The next job wouldn't be for half an hour, and he mulled about Maddy. Then, he remembered what the women said about jerrycans, and, set aside mulling the way one sets down bone china.
 
 ---
 
@@ -3488,7 +3541,7 @@ The big radio needed the engine running, and the engine was noisy, so Lewis wire
 
 *Huh? Over.*
 
-*hang on let me just... Truck 02, message is as follows: Lewis, hope trip is well, need grocery, find butcher to get liver or blood sausage, Love, Nona. Message concludes, over.*
+*hang on let me just... Truck 02, message is as follows: Lewis, hope trip is well, need grocery, get liver or blood sausage, hush, is surprise, Love, Nona. Message concludes, over.*
 
 *Thank you, University Station. Over.*
 
@@ -4088,9 +4141,9 @@ The tea sloshed in his flask. Outside, two riders kept pace, one at each headlam
 
 Collie dug into her clutch for nothing in particular, *it helps them eat.*
 
-*It helps you sleep. There never was an urgent need for the bastard. A doll would have sufficed, a doll would have survived, you.* Fleming wagged a finger at her, in a circle. *Did you ever tell Nadia what her three mothers were besides roommates? Or are the children still wondering why they have different last names?*
+*It helps you sleep. There never was an urgent need for the bastard. A doll would have sufficed, a doll would have survived, you.* Fleming wagged a finger at her, in a circle. *Did you ever tell Nadia why she has her mother's name? Or is she still too busy swapping between Swartz and Tsien as one does with jackets?*
 
-*It is no more necessary for their lives than it would be for the newspaper to know of the stable you keep in Aldermere just for Ada.*
+*It is no more necessary for her life than it would be for the newspaper to know of the stable you keep in Aldermere just for Ada.*
 
 A moment.
 
@@ -4272,40 +4325,6 @@ His mouth was dry. Vavasseur had another swig.
 
 ---
 
-The fact that she and Fleming had discussed this in writing, and then rehearsed in person, did not make it any less jarring.
-
-It would be so easy; they weren't even looking at their drinks. She had it in her sleeve. Half a minute, and they would be dead.
-
-Maddy was a good girl, and Vavasseur would make a good lieutenant. She wouldn't even need her to agree to that lunch.
-
-Only, she would get arrested by both sides.
-
-It was some fish or other; she could not taste it.
-
-She laughed, said he was being rowdier than usual, and excused herself to the bathroom to fix her makeup.
-
-She swore Fleming looked Lewis in the eyes.
-
-*It's going great, kid,* she whispered as she walked past.
-
-It was good that she was the only woman in attendance, there was no risk of anyone overhearing her... decompression in the powder room.
-
-At the washroom's door, her face was faintly purple under the powder from held breath. She looked at the door side-on and saw that it was thick enough.
-
----
-
-Fleming saw his peer excuse herself, above-peer in some domains, actually. He saw his own reflections in the geodesic dome, and then a bit past that.
-
-Was it too late to ask Collie for an encore?
-
-She would collect the tax, she would have the discretion to nurse Ada. Ada never did anything wrong, she—
-
-The young man seated against him laughed at something. His eunuch syncopated. Hadn't he been here before?
-
-Or did they not see what Collie had done to get her doctorate? The shy furrow in her brows was just as beautiful tonight as it was the day before she won her defence.
-
----
-
 They had sea urchin after, on white rice, a short-grain cultivar they had just made barely viable in the country. The white vinegar was the same base as balsamic, but flatter, less complex, and more readable in the now.
 
 Bréal saw that his lieutenant tried to suppress amazement. He wanted to tell him it was okay, that not everybody was given the privilege at first, but the ones who got it themselves most deserve it.
@@ -4326,33 +4345,19 @@ Right, was his blonde safe at home? And how many months was she? Ah, damned! Cou
 
 No, No, he had to focus on the night.
 
-He took a drink.
+He took a drink. He should have priced that Fleming would move the meeting up, now the horses did not bring back the wine in time.
 
-*By the Virgin Mary*, he whispered inside his head. *This swill make me think I should have stayed with father on the yacht, and I hate my father.*
+He swirled the liquid in his mouth, and thought of the vineyards there instead of the shacks behind them.
 
-A long white cloud drifted somewhere beyond the horizon. It was, in fact, aimless; and lost to mist by the third course.
+*By the Virgin Mary*, he whispered inside his head. *This swill make me think I should have stayed with father on the yacht.*
+
+A long white cloud drifted aimlessly somewhere beyond the horizon.
 
 But he was the different one, the one that knew wealth is power, and with great power comes great responsibility.
 
 He twirled his butter knife, and his eyes focused to nowhere in particular. Maybe they read the smile as evil? Shame, he had thought the Englishwoman a better negotiator.
 
 The crown would have been heavier on him than it ever was.
-
----
-
-*Doctor Fleming seemed to have backed off a bit now,* Lewis noted to himself. His trainings in comportment and calm under fire had a multiplicative effect.
-
-He did not reach for the gun, even after he could have sworn he saw Fleming let his hand drift down Auntie Collie's waist.
-
-They had just finished some clause. Bréal gave up the chapter house for something and shook Fleming's hand first, even though it was Auntie Collie who gave the compromise.
-
-Bréal seemed angry at himself, and didn't show it, to the front.
-
-*Why did bossman want me here?* Lewis thought. Then, seeing Bréal with his tied-up hair, he trusted that there was a plan.
-
-He told himself Bréal shook mom's hand much more vigorously than Fleming's.
-
-Lewis saw his mother’s—Auntie Collie's, he correct himself—face return to neutral, and did not know why.
 
 ---
 
@@ -4390,7 +4395,7 @@ He never stepped on a boat after she went.
 
 His son did not want to carry on the restaurant. When he was growing up, his father brought him to bow at people about the restaurant every month. It came to him that his father took on great humiliation to get the restaurant going.
 
-*They're better now, Dad. You don't have to bow to them any more. Retire, I got you.*
+*We're better now, Dad,* he said. *You don't have to bow to them any more. Retire, I got you.*
 
 His dad never did retire.
 
@@ -4404,7 +4409,7 @@ As for the four guests: they could tell, most likely. But why would they?
 
 A year after that last man was evacuated, a male Swartz — one Collie never met except at his funeral — purchased five of the same make and model, to be re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
 
-A child nicknamed Lily — or on an incomprehensible schedule, Coco — once slipped on the floor of his grandson's yacht, before her side of the family became estranged. Shame, though. Her sister Alice would have made a cutthroat successor; they get it from their mother.
+A child nicknamed Lily once slipped on the floor of his grandson's yacht, before her side of the family became estranged. Shame, though. Her sister Alice would have made a cutthroat successor; they get it from their mother.
 
 But, what can you do about an Englishwoman?
 
@@ -4490,7 +4495,7 @@ Peggy took the last of the plates, and informed them the stew would be ready in 
 
 *It would have to mean re-negotiating with Iota, and Campus Security.* Fleming had a sip of the buckwheat tea. *Rest assured we left the best billet for last.*
 
-*I want to keep running the Aldermere route.* Bréal glanced at his second. *And I want Vavasseur as a peer, the draft currently has him as a citizen.*
+*On the general commerce license for Epsilon. I want us to get fast-tracked for the additional licenses.* Bréal glanced at his second. *And I want Vavasseur as a shareholder.*
 
 It was not part of their plan.
 
@@ -4500,9 +4505,7 @@ It was not part of their plan.
 
 *hmm, Bréal, I suppose the wine has made us all generous. What are you ready to offer?* Fleming asked.
 
-*I go as surety, instead of him. Lady Swartz will take my wife and children as wards of her own in case it became necessary.*
-
-*Darling,* she told Bréal, *we can't possibly have you rot away in a tower.* Collie helped Fleming with his pages, and pointed at a specific provision.
+Collie helped Fleming with his pages, and pointed at a specific provision.
 
 *Item 9 stipulates that the weapons be stored as they were, in Epsilon, with a lock devised to require two key-holders to open, one of which shall go to M. Bréal, the other an officer as the Senate appoints and amends from time to time... And for a third officer to confirm the locks are in good shape monthly.*
 
@@ -4564,7 +4567,7 @@ Vavasseur did not answer her. He picked a ripe tomato, and brushed his thumb at 
 
 *There was a bottle of spice at the back of my pantry, it promised to taste of your home. Did you ever find your people?*
 
-*Once. On horseback.* Vavasseur imagined the white. *I am afraid I cannot tell you where.*
+*Once. On horseback.* Vavasseur imagined the green bottles still racing to Arbutus. *I am afraid I cannot tell you where.*
 
 *My Maia does her best, for the father. Though it is not the same.*
 
@@ -4572,11 +4575,13 @@ Vavasseur did not answer her. He picked a ripe tomato, and brushed his thumb at 
 
 *He eats only at hers.*
 
-*Then I was mistaken.* Vavasseur updated. *I look forward to the Lady Fleming.*
+*Then I was mistaken.* Vavasseur updated. *I look forward to the Lady Fleming.* Vavasseur flattered.
 
 *That title is spoken for already, I believe.*
 
-*By whom? Madame Ada?* Vavasseur remembered his honour. *I suppose it is.* He put the tomato against his nose. It seemed to smell of peppermint. *Is Maddy doing well under Franklin?*
+*By whom? Madame Ada?* Vavasseur read her face. *I suppose it is.* He put the tomato against his nose. So she is not Ada's new mother after all.
+
+The tomato seemed to smell of peppermint. *Is Maddy doing well under Franklin?* Vavasseur asked.
 
 *Excellent, I have been told.*
 
@@ -4586,7 +4591,7 @@ Fleming taught the same.
 
 *I see it in her eyes.* Collie said.
 
-*Then it is time to let it play out.* Vavasseur set the tomato down, gently, down the path from the old plant. *Deliver my best wishes.*
+*Then it is time to let it play out.* Vavasseur set the tomato down, gently, down the path from the old plant. It was no longer rational to hold. *Deliver my best wishes.*
 
 They took the garden path back.
 
@@ -4602,7 +4607,7 @@ There was a wet spot on the tablecloth, and the bottle had already been taken aw
 
 *Thank you.* Vavasseur said with his eyes. Bréal made the eyes for a Loud and Clear.
 
-*...and your peerage will come in due time. But before that, I was told my collie had something special arranged for the main? No wonder she was so excited.*
+*...and your shares will come in due time. But before that, I was told my collie had something special arranged for the main? No wonder she was so excited.*
 
 *Yes.* Collie smiled. *I had found something in the family larder a younger Collie never opened, and I asked the chef to make some last-minute changes.*
 
@@ -4630,7 +4635,7 @@ Vavasseur scooped another ladleful onto the boss's plate, without asking him fir
 
 The stew was tender.
 
-*Bréal, such a shame your wife couldn't join us, leaving just one girl here all by her lonesome. Is she well?* Collie asked.
+*Bréal, such a shame your wife couldn't join us, leaving just one girl here all by her lonesome. Is she well?* Collie asked with Peggy in sight.
 
 *I have been telling her to rest, but you know how headstrong our women can be.*
 
