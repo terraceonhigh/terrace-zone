@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-10-26
+date: 2026-11-02
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 37,188
+word_count: 37,233
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -1359,6 +1359,12 @@ Cecilia was at the ladle, and she made sure the youngest ate first. A girl calle
 The children cleaned the bowls with their tongues, and then they were rinsed in snow. She worked on someone's piece that had a lining, and then she worked on someone else's. She let the hand that did not catch the bowl hold the needle.
 
 By the time they were packing up for the first aid class after, Cecilia held her hand and asked her to come back often. «S'il vous plaît,» she said, in an accent that was better than Bréal's.
+
+---
+
+There were two more sessions before Bréal came back.
+
+He had golden teeth in him, three on the top and five on the jaw, which also was crooked. The brother who was a medical student gave Vavasseur the medicine. Vavasseur got better after that.
 
 ---
 
