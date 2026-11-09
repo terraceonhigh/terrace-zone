@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-11-02
+date: 2026-11-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 37,233
+word_count: 40,147
 summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
 ---
 
@@ -101,7 +101,7 @@ Maia and her husband came to Collie's door for Christmas and did not leave until
 
 Collie washed her good dress by hand a month before the semester started.
 
-Maia's old house had finally been sold, and the silver took two people to bring to the third floor. They taught the children the importance of carrying the ration cards that the university printed and the three women signed. The two for Nona and Nadia were delivered over three pots of tea, while the children played with the console in the living room.
+Maia's old house had finally been sold, and the silver took two people to bring to the third floor, while the children played with the console in the living room.
 
 ---
 
@@ -121,9 +121,9 @@ He folded his phone, and asked the bartender for a *Vieux Carré.* She took the 
 
 «the é...», she said in French.
 
-«Quoi?» He saw that she had earbuds in.
+*Quoi?* He saw that she had earbuds in.
 
-«your watch. mercredi.»
+«your watch,» she said, *Mercredi.*
 
 He checked, it was complaining about an elevated heart rate, and it was no longer Monday.
 
@@ -177,7 +177,7 @@ After she came back, she brought them to a place that pretended to be a dumpling
 
 She had mocktails after that, and outside the second bar of the night he told her about getting disowned just about in that art gallery. She did nothing except hold his hand and call a rideshare.
 
-She dropped him off at the Epsilon house, where a TV was glowing from some game that had a flashing-lights warning. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own room.
+She dropped him off at the Epsilon house, where a TV was glowing from some show that had a flashing-lights warning for the impact frames. The brothers asked *where...wrong,* in Anglais, she said *bar* and nothing else. Then she walked back to her own room.
 
 The date after that, she made him drive her to a chicken place, where the tables were greasy and white rice came with fried chicken. She was making him eat a spoonful of ketchup on rice when the earbuds whispered *battery low.*
 
@@ -331,7 +331,7 @@ There was a bilingual expletive when he drove it off the lot.
 
 He was juggling texting the truck's owner and an inane mobile game on the ferry, and she wanted to go to the onboard restaurant to grab lunch for the both of them.
 
-«You sure you can handle it?» he said to the screen.
+«You sure you can handle it?» he said to the screen, where a girl with too-big eyes pumped her fist.
 
 «mmm, i can just point.»
 
@@ -1135,7 +1135,7 @@ There was a figure, sat on the porch of the clinic. The mare took a few more ste
 
 ## Madame Ii
 
-The fall after that, another sum came into her account, along with it an instruction to buy gold, and that they were coming. *Your landlord had sold the house,* a synthesized voice was readind what the policeman typed out. *You have two weeks to leave the room.*
+The fall after that, another sum came into her account, along with it an instruction to buy gold, and that they were coming. *Your landlord had sold the house,* a synthesized voice was reading what the policeman typed out. *You have two weeks to leave the room.*
 
 The trees must have been in the way. She found a corner of her block that still had cell signal, and called Bréal, crying. Her heart began to race midway through the call.
 
@@ -1209,7 +1209,7 @@ She walked holding his arm, which was assurance and security in the queue. They 
 
 They did not bring enough water, there was someone in a blue vest who wheeled a cart. The glasses were re-used with a rinse in-between. It was hydrating.
 
-In the gymnasium, a woman cried at the front of the queue. She was on her knees, in sneakers, and held a crying infant in her arms. She begged, saying something. It was too loud, and too contorted by sorrow, and too muffled by the earmuffs to be understood. The clerk did not stamp something, and seemed pained himself. She got flour and lentils, but no milk powder. Eventually, a guards gently removed her from the desks, another carried her ration for her.
+In the gymnasium, a woman cried at the front of the queue. She was on her knees, in sneakers, and held a crying infant in her arms. She begged, saying something. It was too loud, and too contorted by sorrow, and too muffled by the earmuffs to be understood. The clerk did not stamp something, and seemed pained himself. She got flour and lentils, but no milk powder. Eventually, a guard gently removed her from the desks, another carried her ration for her.
 
 They were in front now, she held on a bit tighter.
 
@@ -1364,7 +1364,53 @@ By the time they were packing up for the first aid class after, Cecilia held her
 
 There were two more sessions before Bréal came back.
 
-He had golden teeth in him, three on the top and five on the jaw, which also was crooked. The brother who was a medical student gave Vavasseur the medicine. Vavasseur got better after that.
+He had golden teeth in him, three on the top and five on the jaw, which itself was crooked. The brother who was a medical student gave Vavasseur the medicine. Vavasseur got better after that.
+
+In the market, she saw that someone had broken into a department store, and trucked back a case of winter boots. The man accepted payment in flour and canned goods.
+
+She traded her jar of hazelnut spread for the thick woolen socks that man was also selling. It netted her two pairs.
+
+For the rest of the day, she cleaned the mess she made digging the hazelnut spread out from the mail parcel. Afterward, Bréal's shelf:
+
+---
+
+« binoculars: one »
+
+« sextant: one »
+
+« copy of La Guerre des mondes »
+
+« calculator: one (note: wider than it is tall) »
+
+« books in English: four »
+
+« plastic figurine: one (note: girl is too skimpy, do not let guests see) »
+
+« cont. note: her eyes are the same colour as her hair: pink. An extra pair of animal ears. »
+
+« l'Armagnac-Ténarèze: one »
+
+---
+
+The snow became too thick, and the market stopped. Then the boiler refused to come on. Bréal went out with a few brothers, to take down the neighbouring homes. The 2×4s were already dried, so it was a no-brainer.
+
+She told him that she loved him, before letting him leave her arms.
+
+«Just around the block, I promise.»
+
+She gave him her down jacket to wear. Lunch was biscuit, with water. 
+
+The boys came back in the afternoon, and brought with them the bones of a house, and wooden pieces of furniture.
+
+There was a piano too, they burned that one last.
+
+With the fire, she cooked the lentils from the ration, and then the tomatoes, canned ones, with the label still on. And thickened it with the brown flour.
+
+That was soup. She covered the fire, and brought the pot inside, where the soup would be warm for longer.
+
+«Thank you,» Vavasseur said while receiving his ladleful.
+
+«hush,» she scraped the walls for her share, «there is plenty for everyone.»
 
 ---
 
@@ -1599,6 +1645,80 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 ---
 
+## Pulp I
+
+The sky had waves in them, like polyurathane bags in the wind. She looked through her binoculars, nothing approaching the settlement.
+
+She rode down from the hill on her old '125, collected her scouting wage, and ate at the market tent. Algae-jelly and roasted grasshopper biscuits.
+
+"Shooter, where are you headed for the afternoon?"
+
+"Don't know you."
+
+"Meager."
+
+"Atlanta."
+
+A dap.
+
+"Good to meet, Some loads need hauling to gastown. Need someone for the flank."
+
+The cargo was loaded in Meager's sidecar: letters, pairs of boots, nuts and bolts, and a sealed case of drill bits.
+
+They set off just before noon, Atlanta rode the ridge and Meager rode the road. Was about sundown they made it outside gastown, only that the old guard tower was collapsed, seem something had pulled it out the ground and just let it fall.
+
+Was a hole in the fence too, and craters and arrows enough to make any raider sorry. Wasn't all sunshine in the town neither.
+
+"What's the matter with the mess?" Meager asked, unloading the cargo.
+
+"You'd better ask the King," the merchant said. "He's looking for guns like your sort to do a job."
+
+One had to take off their helmet before meeting the King, Atlanta held hers by the strap, on account of the bush hat she had tied to the top of hers.
+
+"You the guns my deputy set up?"
+
+"Yes, your Accountancy," was the way you answered.
+
+"New raiders came through, not like nothing we've seen around."
+
+"Saw the mess they made of your town."
+
+"Had snouts and tusks, like wild hogs. Their chief was ten feet tall and they just ran through the fence. They took my girl when I was fighting, wasn't even there for her."
+
+"We're gonna rate fifty chits a day." Meager got to the point, shot higher than Atlanta would have asked.
+
+"Done." 
+
+"Each." Atlanta chased.
+
+"Anything. If you two bring her back, you can have her hand, I just need her safe."
+
+"You were saying about the Hogs, which way did they leave?"
+
+"East, in the mountains. Same way the pass is getting dangerous to cross."
+
+They got two hundred chits in advance. Enough to get their guns polished and enough gas for a month. Rented a shipping container with wooden floor and a double bunk. Meager woke early and spent the time before dawn plinking with his levergun. Dead center at 500 yards.
+
+The sky didn't mind though, southern lights danced on in the desert.
+
+Atlanta put a few rounds in too, only she preferred buckshot.
+
+"That ain't helpful when you're on a ridge."
+
+"It ain't for the ridge."
+
+The suppressors were the dear part. Atlanta kept her duckbill choke in her back pocket in any case
+
+They set off just after day broke, bit slower than the run, as not to kick up so much dust.
+
+Old maps of the part had an oasis a day out, at the pace they were going, it was more like a day anb a half.
+
+They rode the night as well, the lights lit the way. Nights weren't so dark now, not after the bombs fell god knows how long ago.
+
+In the valley proper, they popped a tent in some crevice and slept the day. Water was good, just harder on the engine to carry than they had counted. Was unusual for them to come out this far.
+
+---
+
 ## Boil Water
 
 Maddy woke up some time in the night, before the sun rose up. She was in the top bunk, and Nadia was on the bottom. Some birds were outside, cawing. Lamplight shone through the bottom of the bedroom door. The LED lamp that Collie had in the office growing up, next to the little statue of Venus that always made her laugh.
@@ -1691,7 +1811,7 @@ Collie's smile provided the rest of the comfort.
 
 *We, found some poppy. She just went to sleep.*
 
-The undertaker kept to his hour, and knocked on the Swartz door thirty minutes after the needle left Alice.
+The undertaker kept to his hour, and knocked on the Swartz door thirty minutes after the needle left Rae.
 
 Maddy nursed her cup. Collie put the iron down, poured more of the tea, and went back and worked on the chest.
 
@@ -1781,7 +1901,7 @@ Maddy held a shallow breath, for half a second. *I want to know.*
 
 Collie moved the mushrooms to one side of the pan, and did not look at her thirdborn child.
 
-*Alice, her name was Alice Swartz and she was my sister. I was there when you were born and I was there with you when we buried her. Take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter. *Your father, Richards, he, God.*
+*Aurelia, her name was Aurelia Swartz and she was my sister. I was there when you were born and I was there with you when we buried her. Take out and mash the potatoes.* She set down the spatula, and grabbed the bowl of whisked eggs. Maddy took the pot off the stove and took out the potatoes. She was generous with the ramekin of butter. *Your father, Richards, he, God.*
 
 *That is all, thank you.*
 
@@ -2101,7 +2221,7 @@ Out of ideas, she headed for the window.
 
 Lewis and the other students craned their necks to see him.
 
-A window swug open, and a girl's voice said *Daaaaad.*
+A window swung open, and a girl's voice said *Daaaaad.*
 
 The students looked at the new voice, and Lewis thought of licking a live wire.
 
@@ -2271,15 +2391,11 @@ Lewis picked the lock on another apartment on the fifth floor. The shelves they 
 
 Collie's room was on the west side of the apartment, and the afternoon would remind her of her duties outside of it. One of the women was working a hand crank to bring a basket of groceries up.
 
-Someone knocked on her door. She closed a binder.
+Someone coughed, the way one forces a cough. That amounted to announcing himself. The cough knocked on her door. She reached for her scissors, stopped herself, and closed a binder.
 
-*Enter.*
+*Enter,* she said, composed.
 
-*Doctor Swartz?* A head peeked in.
-
-*By Jove, Alex! How long have we eaten from the same loaf, just Collie is fine.*
-
-*...can never be too polite.*
+*Collie?* A head peeked in.
 
 *Walk the rest of yourself in, sit, tea?*
 
@@ -2723,7 +2839,9 @@ And a jar of applesauce, from his own allowance. Maia made him do the accounting
 
 He carried the food upstairs in his toolbox. The top compartment had a stray pencil and a wrench.
 
-*Collie...?* Collie was sewing a patch onto something.
+The deadbolt on Collie's door was where he had installed it, and it was unlocked, with the door slightly ajar.
+
+*Collie...?* Alex peeked in, without coughing first. Collie jumped in her chair.
 
 *Just Col—yes?* She said while attempting to pick a stitch. The needle was not cooperative.
 
@@ -2787,9 +2905,9 @@ Nona came home when they were just about to dig in.
 
 Nona helped herself to some extra pickled beets.
 
-*So, how is the new job?* Collie asked.
+*So, how is running the bees?* Collie asked.
 
-*They gave me two assistants, I said I only needed one. They didn't let me send him away.*
+*They gave me two assistants, I said I only needed one. They didn't let me send him away, said the bill had hired him.*
 
 *Whoa...* Nadia exclaimed.
 
@@ -3001,6 +3119,8 @@ okay. Wait, Vavasseur.
 
 *You appear vested in this, why.*
 
+His thought was so occupied with what to say that he neglected to measure how long it took to find those words.
+
 *Lewis's grandma never finished her degree.*
 
 Collie *hmm*'d.
@@ -3057,59 +3177,59 @@ It was hard metal, warmed by her touch.
 
 A secretary was leaning on a workbench and staring at Bréal, when the latter saw the newly spun part blue on its surface.
 
-*Sup, Vavasseur?*
+«Sup, Vavasseur?»
 
-*New requisition letter from Agronomy, needs your rubber-stamp.*
+«New requisition letter from Agronomy, needs your rubber-stamp.»
 
-*And what might that be?*
+«And what might that be?»
 
-*They want three trucks, with drivers, for something called phytoremediation, something about grass.*
+«They want three trucks, with drivers, for something called phytoremediation, something about grass.»
 
-*They're farmers, it is always about grass.*
+«They're farmers, it is always about grass.»
 
-*Here's your pen, bossman. Pages one and four will want your signature, and all pages will want initials. But, before you sign, just want to let you know that a kid specifically asked for Lewis driving her.*
+«Here's your pen, bossman. Pages one and four will want your signature, and all pages will want initials. But, before you sign, just want to let you know that a kid specifically asked for Lewis driving her.»
 
-*We a valet company now?* Bréal looked closer. *Wait, that just me or does that say Medea Swartz on the third slot there. The one for Planting Assistant.*
+«We a valet company now?» Bréal looked closer. «Wait, that just me or does that say Medea Swartz on the third slot there. The one for Planting Assistant.»
 
-*That do be the case. That's Lewis, Nadia, and Medea for truck 02.*
+«That do be the case. That's Lewis, Nadia, and Medea for truck 02.»
 
-*Huh.*
+«Huh.»
 
-*That's why I said the But, boss.*
+«That's why I said the But, boss.»
 
-*What the hell they sending out the princesses for?*
+«What the hell they sending out the princesses for?»
 
-*Something about grass, I figure.*
+«Something about grass, I figure.»
 
-*You did get signatures for everybody?*
+«You did get signatures for everybody?»
 
-*Yessir.*
+«Yessir.»
 
-*And where is the AO?*
+«And where is the AO?»
 
-*Three-day circuit inside University country, radio check-ins every eight hours.*
+«Three-day circuit inside University country, radio check-ins every eight hours.»
 
-*Okay, that I can sign off on.* Bréal put it down in cursive. *And get truck 02 some extra firewood and uhh... whatever else you got lying around. We got pemmican?*
+«Okay, that I can sign off on.» Bréal put it down in cursive. «And get truck 02 some extra firewood and uhh... whatever else you got lying around. We got pemmican?»
 
-*We got pemmican.* Vavasseur jotted something down.
+«We got pemmican.» Vavasseur jotted something down.
 
-Bréal grabbed a towel, the part was no longer blue. *Now, V, stand aside if you don't want to risk a nasty blister.* The whatchamacallit cooled further on the now-complete tray, next to its brethren.
+Bréal grabbed a towel, the part was no longer blue. «Now, V, stand aside if you don't want to risk a nasty blister.» The whatchamacallit cooled further on the now-complete tray, next to its brethren.
 
-*Boss, permission to speak freely?*
+«Boss, permission to speak freely?»
 
-*Spit.*
+«Spit.»
 
-*Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. And the girls capable bachelorettes.*
+«Why you seem so pressed about them? Lewis is cool, if anything bit soft for a brother. And the girls capable bachelorettes.»
 
-*Well,* the bossman took off his safety glasses. *You ever seen them all together? Like, lined up, side by side. Or, like, heard Lewis talk about his moms and dad, singular?*
+«Well,» the bossman took off his safety glasses. «You ever seen them all together? Like, lined up, side by side. Or, like, heard Lewis talk about his moms and dad, singular?»
 
-*They do look very different, yes.*
+«They do look very different, yes.»
 
-*The dad, he had me brick up a good chunk of the ground floor at his building.*
+«The dad, he had me brick up a good chunk of the ground floor at his building.»
 
-*But it is the Madam that frequents us. What I do know of Mr Swartz is that he is an electrician working for the university.*
+«But it is the Madam that frequents us. What I do know of Mr Swartz is that he is an electrician working for the university.»
 
-*And I used to be in a private school,* Bréal nailed the lid for the parts. *Get them the pemmican.*
+«And I used to be in a private school,» Bréal nailed the lid for the parts. «Get them the pemmican.»
 
 ---
 
@@ -3557,11 +3677,383 @@ The big radio needed the engine running, and the engine was noisy, so Lewis wire
 
 ---
 
+## Untitled Collie
+
+The world did not yet end. The pharmacist was busy with something behind the shelves. Rae grabbed a granola bar and scanned it herself. A bottle of hair bleach too.
+
+The pharmacist came back.
+
+*I am sorry, but we're out of Luer-lock syringes. Would you mind press-fit ones?*
+
+*No, I mean, yes. The other ones are fine,* Rae said.
+
+The pharmacist put the syringes in her bag, and scanned the granola bar again.
+
+*Have a good rest of your day.*
+
+*You too.*
+
+Rae spent her afternoon in the office, reading through the concept arts from the department, and drew a few more according to the style guide.
+
+```
+
+Rae Swartz: alright, the new concepts are done, have a look. [4 images attached]
+
+Boss: number two, and make the hero bot more giddy about getting a headlock
+
+```
+
+The kaiju was still only described as fighting like a lion. The robot on the other hand had to have dreads. The prop department said they just greebled a surplus rifle, with two lasers.
+
+The commute home was rush hour, and there was road work, there always was road work. Something about building an extension to the metro.
+
+The tree canopy was lush, and Rae parallel parked.
+
+*I'm home.*
+
+*Hey,* Richards said. *Maddy's already asleep.*
+
+*How was your day?* Rae closed the door behind her. Just the one lock on the handle.
+
+*They want me to do the Sinodyne on-site, the Blue Nile one.*
+
+*How long?*
+
+*Four days, from this Saturday.*
+
+*I'll tell my boss.*
+
+*I told the daycare, you don't have to leave early.*
+
+*Hug?*
+
+Hug.
+
+*Now come on. Let's get some food in my baby boo,* Richards said.
+
+Richards got something that just needed popping into the oven, which was preheated. The TV was the sort that could be controlled by voice.
+
+*Computer, put 'Robot Jocks' on.*
+
+*No, '28 Hours Later', the remake,* Rae said while grabbing forks.
+
+*Too scary...*
+
+*Production mangled my monster in 'Robot Jocks'.*
+
+*Then you can complain about it.*
+
+She did, the whole time.
+
+She fell asleep on the couch, she always did. Her phone beeped, then his. He did her injection, started the dishwasher, and carried her to bed.
+
+In the morning, he was gone to work before Maddy woke her up by jumping on the bed. Breakfast was high-fibre cereal with oat milk. She dropped off Maddy, and did not need to tell Richards, because the watch on Maddy tracked her via GPS.
+
+At work, her phone buzzed.
+
+```
+
+John Richardsecretary: Mrs Richards, your husband is being sent home to pack for the trip.
+✓✓
+
+```
+
+```
+
+Rae Swartz: boss, im working from home afternoon.
+
+Boss: sure let me know when the fight scene is done.
+
+Boss: your husband?
+
+Rae Swartz: yeah he just used to me being there at airport.
+
+Boss: you tell him fly safe.
+
+```
+
+She was back home drawing on her tablet at the dinner table. Richards was behind her, brushing bleach onto her hair.
+
+*Can you drive me to the airport tonight?*
+
+*Sure.* She was sketching in the robot's biceps, the monster design finally came through.
+
+*Did Maddy say she wants anything?*
+
+*Said she wants a sheep.*
+
+A chuckle.
+
+*I'll see if I can find one.*
+
+*Then we'll at least get kicked out by strata. I want a fridge magnet, and whatever you find that is interesting.*
+
+*Anything for my Rapunzel.*
+
+*Oh my fair Rumpelstiltskin.*
+
+He tugged on her hair, lightly.
+
+*Hey!*
+
+---
+
+### packing list
+
+[*] vaccinated?
+[*] 4 shirts
+[*] dress pants
+[*] work pants 
+[*] tie
+[*] laptop
+[*] charger
+[*] malaria pills
+[*] greenbacks
+[*] meds
+
+*And bring a sweater.*
+
+*Darling, it's a rainforest.*
+
+*You never know. The merino undershirt.*
+
+*Yes ma'am.*
+
+[*] undershirt
+
+---
+
+They picked up Maddy first, before going to the airport. She wanted uppies from dad. A moustache was pulled.
+
+An ice-cream cone, for each of his girls, before he went to check in.
+
+*Fly safe, okay?*
+
+A kiss, then Maddy wanted one too. She tasted of chocolate.
+
+*I'll text when I land.*
+
+---
+
+He did, and then once before he slept and once after he woke up. Rae sent him photos of Maddy. He sent a photo of the dam and assured that the site was safe, to not worry.
+
+Maddy asked if there were lions and elephants there, and Richards laughed and said maybe, if the other side wants to go on a hunt.
+
+He reassured Maddy that they won't be shooting the elephants or lions, just maybe some birds if they even went.
+
+*pinky promise?* Maddy asked by video chat.
+
+*yes, pinky promise.* Richards put his raised pinky in view of the camera.
+
+```
+
+Boss: Rae, look at this. [1 link attached]
+
+```
+
+```
+
+Rae Swartz: oh my god are you okay???
+
+hubby: what's wrong?
+
+Rae Swartz: [1 link attached]
+
+hubby: yeah, yeah, it's okay. we're safe. its two provinces over.
+
+Rae Swartz: oh god please come back
+
+hubby: it's okay, it's okay, we build this dam so this place would be safe.
+
+hubby: don't tell maddy, i don't want her worrying
+
+hubby: i got the souvenier she wanted.
+
+hubby: rae you okay?
+
+hubby: deep breaths, baby boo, deep breaths.
+
+hubby: love you
+
+```
+
+She asked for a day off for Monday and Tuesday, to which the boss reacted with a full heart. It was approval enough. They had gone with putting a ruff on the monster, said the neon lines on the trim makes it more alien, and more visible in the dark. 
+
+Her phone buzzed that night, after dinner. She jolted from her shallow sleep and grabbed to read it.
+
+It was injection time, and the medicine was cold from the fridge. She slept holding Maddy instead of putting her in her room.
+
+*What's wrong, mommy?*
+
+*Nothing, Maddy. nothing at all. just worried about your dad.*
+
+*You miss him. I miss him too.*
+
+*Yeah, I do.*
+
+---
+
+### Aurelia Richards-Swartz's Mac and Cheese
+
+For slow mornings, with veggies for Maddy.
+
+Ingredients: 
+
+hot dogs, a couple
+
+zucchini, enough
+
+1 can beans
+
+a box of mac and cheese
+
+paprika or chili powder
+
+1 apple
+
+Method:
+
+dice zucchini into quarter-inch cubes, salt and let rest
+
+boil macaroni in a pot
+
+slice hot dogs, and put into pan with just a drizzle of oil, it will fry in its own grease.
+
+rest hot dogs on paper towels, to suck away the fat. keep the grease that is in the pan
+
+squeeze zucchini cubes, fry in the same pan,
+
+canned beans, open and drain and rinse again.
+
+drain macaroni when done.
+
+phone beeps, read it.
+
+```
+
+John Richardsecretary: Mrs Richards, please be notified that due to the security situation on site, Mr Richards is being evacuated to the embassy. The company is doing everything to ensure his safety.
+
+Rae Swartz: [typing...]
+
+Rae Swartz: [typing...]
+
+Rae Swartz: [typing...]
+
+```
+
+add in cheese powder and spices (just a pinch, Maddy can't have that much) and everything
+
+stir in everything until even and hot
+
+after Maddy is done eating, slice apples for her dessert
+
+tell her daddy will be home a bit late
+
+---
+
+Richards called that afternoon, said he was safe, said the embassy row had soldiers guarding it. That the fighting is worse but it is just like home on embassy row. That they're arranging for helicopters now.
+
+He asked to see Maddy, and told her that there was just some trouble, but that he will be home soon, promise.
+
+That night, after putting Maddy to sleep, Rae was downstairs.
+
+*Computer, dial for Collie.*
+
+*Dialing...*
+
+*Hey,* the voice on the other end said.
+
+*Oh god, Collie, Richards, he—*
+
+*Shit, is he okay?*
+
+*Ye—yeah, he's okay, at the embassy.*
+
+*You doing okay yourself?*
+
+*It's just, I can't sleep. I'm scared.*
+
+*Okay, deep breaths.*
+
+*no, like, I saw on the news, and they're fighting, I saw them using drones with them bombs on them and—*
+
+*Rae, listen to me. turn off that TV.*
+
+*What if they, they always want to hurt the foreigners, what if, just, I am worried.*
+
+*mhmm.*
+
+*It was supposed to be quick.*
+
+*you had anything to eat today?*
+
+*uh, um, not since breakfast.*
+
+*Alright, I am ordering some food to your place. I will be at your door in thirty. Screens off and try and draw something. You remember the Sator square?*
+
+A sniffle.
+
+*No, don't, Maddy's already asleep and she is starting to get worried too and—*
+
+*That was not a request. I already ordered the cab. Go draw something or close your eyes. You did your injection?*
+
+*yeah.*
+
+*Good, I will be there soon.*
+
+---
+
+Mrs Klara from the daycare
+
+Aunt Collie let Maddy sit in the wagon, grandma and grandpa were walking in front of them. Hopper was being strong too. Maddy stood up after a bit, and walked next to Aunt Collie. There were hairs wrapped around the axle, and the wheels were still spinning under the wagon.
+
+There was a half-built metro station along the highway, and winches that weren't put there by the old crew. Two trucks, one had the hood popped and a rag hanging by. Porta-potties too, and six men with guns. A boy a bit older than Lewis, in a beanie for the local soccer team. He was very nice.
+
+They asked grandma to give them their papers, and then something else from her wallet too. The boy asked about grandma's ID, said it was expired, and said that she must have stolen the card.
+
+Grandpa walked to the front and talked with the boy. Grandpa raised his voice, and then the boy shouted too, even though his voice hadn't dropped. The boy turned a bit to the right, and held out his left hand with the palm toward grandpa. The other men held their guns.
+
+Aunt Collie stood in front of Maddy, and gripped too hard on her wrist. It hurt.
+
+Grandma was at grandpa's side, they were arguing about something. The boy's dad walked up. Grandma was scared, yelling something to grandpa. Maddy was scared too, but Aunt Collie was in the way and she could not see what was happening.
+
+There was a hiss, and then grandpa screamed and broke his voice and grandma screamed. Aunt Collie ducked and hugged Maddy. Aunt Collie was shaking too. It was all very scary.
+
+The dad zip-tied grandpa's hands together, and led grandma away from him. She was crying so loud.
+
+Maddy tried to scream, but Aunt Collie buried it in her shoulder.
+
+*shh, it's okay, mommy's here, shh, shh.*
+
+*Ma'am, stand up*, the boy asked Aunt Collie. But her knees were shaking and she was holding onto Maddy too tight.
+
+*Ma'am!* He said, again, louder. He put a hand on her shoulder. She shouted, something. It was hard to hear because it was so loud and next to Maddy's ear.
+
+Maddy's right ear rang, and the dad hollered something, softly. The boy let them be. Grandpa lay on the ground, another man was pressing down on his chest, and counting. They put zip-ties on grandma too.
+
+*It's going to be okay, it's going to be okay, baby.* Aunt Collie stroked Maddy's hair, with her fingernails.
+
+Another man dug through their wagon. It took a few minutes. The dad came up to them without the big gun and knelt seven steps out. He set down grandma's wallet on the road.
+
+*Sorry about the search, but you two can go now.*
+
+Aunt Collie stood up, carried Maddy with one arm, collected the wallet, and walked slowly and unevenly to the wagon. She dipped to grab the handle, and walked past the metro station. She did not look back.
+
+The wagon was a mess. Hopper was still in there, some other things weren't. He was getting stained by a bottle of leaking soap. Aunt Collie did not talk for the rest of the walk, until she had to show her ID to the campus guards.
+
+*Baby, we're home now, okay? We're home. Let's get you a wash, huh?* Aunt Collie said.
+
+*Hopper is dirty too.*
+
+*Okay. Let's wash Hopper too.*
+
+---
+
 ## Notions
 
 The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the ration card stamped with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
 
-A few children played skipping rope outside, before the innkeeper told them to get going and head home for dinner. The children put their tire-made sandals back on and walked home.
+A few children played skipping rope outside, before the innkeeper told them to get going and head home for dinner. The children put their tire sandals back on and walked home.
 
 Nadia had to walk out midway, to sign some papers for this town's seeds. Maddy speared and stole a slice of hard-boiled egg from Nadia's pie when she was busy. Nobody would say they noticed.
 
@@ -3945,6 +4437,12 @@ It was an okay day.
 
 ---
 
+## Pulp Ii
+
+
+
+---
+
 ## Untitled Diana
 
 
@@ -4014,8 +4512,6 @@ She drew it slowly, and the needle went slower. She folded the blanket off the l
 One smooth push. Saline, alcohol, the cap.
 
 *Get well soon, mama.*
-
-Another boil, and then Ada did her own injection in her room.
 
 ---
 
@@ -4237,7 +4733,7 @@ Collie signalled for the mead. The waitress set down wine glasses and began to p
 
 *A little something, from Château Swartz, to the future?*
 
-*To a bloody war.* Vavasseur probed. Silent: *or a sickly season.*
+*To the crazy ones,* Vavasseur probed. Silent: *the world-changers.*
 
 *Better,* Fleming asserted, *to the Arbutus.*
 
@@ -4415,7 +4911,7 @@ As for the four guests: they could tell, most likely. But why would they?
 
 A year after that last man was evacuated, a male Swartz — one Collie never met except at his funeral — purchased five of the same make and model, to be re-rigged for crabs up the coast. He greatly preferred the equator for himself, though.
 
-A child nicknamed Lily once slipped on the floor of his grandson's yacht, before her side of the family became estranged. Shame, though. Her sister Alice would have made a cutthroat successor; they get it from their mother.
+A child nicknamed Rae once slipped on the floor of his grandson's yacht, before her side of the family became estranged. Shame, though. Her sister would have made a cutthroat successor; they get it from their mother.
 
 But, what can you do about an Englishwoman?
 
@@ -4693,12 +5189,6 @@ They shook hands in front of the steps. Fleming and Bréal held the paper for al
 Lewis went home an hour and a half after Auntie Collie did, thirty minutes for the dinner, thirty minutes to return the .44 (he was by all accounts lucky; the gun, however, had hoped otherwise), and thirty more because he walked back.
 
 He kept in the ice box what the chef let him bring home. It was good breakfast for Nadia, who ate it reading the front page story.
-
----
-
-## Pulp
-
-
 
 ---
 
