@@ -2,6 +2,7 @@
 title: Bibliogenesis
 date: 2026-05-26
 ao3_url: https://archiveofourown.org/works/85560506
+tile: tall
 fandom: Original Work
 word_count: 2,159
 summary: A wooden doll tends to an atelier. A curator's apprentice carves trinkets for children. A story about a chest, a ring, and what gets left inside.

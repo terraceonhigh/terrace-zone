@@ -1,6 +1,7 @@
 ---
 title: Siren
 date: 2026-11-13
+pin: 1
 fandom: Original Work
 word_count: 1,240
 summary: Siobhan wears her coat to every class.
