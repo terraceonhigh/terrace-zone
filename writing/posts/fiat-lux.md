@@ -4,7 +4,7 @@ date: 2026-11-09
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
 word_count: 40,147
-summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
+summary: When the world ended she learned to keep everyone alive; when it began again, she could not stop.
 ---
 
 > This is the canary version of *Fiat Lux*. It changes more often and may contain rougher prose than the relatively stable version on AO3.
