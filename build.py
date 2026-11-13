@@ -84,7 +84,37 @@ def build_epub(md_path, meta, body_md, slug):
     return out
 
 
-def build_post(md_path, template_html):
+def load_credits():
+    """images/covers/CREDITS.md lines `- `slug`: credit text. <url>` -> {slug: (html, url)}"""
+    out = {}
+    path = COVER_DIR / "CREDITS.md"
+    if not path.exists():
+        return out
+    for line in path.read_text(encoding="utf-8").splitlines():
+        m = re.match(r"^- `([^`]+)`: (.*?)\s*<(https?://[^>]+)>\s*$", line)
+        if m:
+            text = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", m.group(2).strip())
+            out[m.group(1)] = (text, m.group(3))
+    return out
+
+
+def add_cover(html, slug, meta, credits):
+    """Put the story's painting behind its title (a .post-hero), credit below."""
+    src = cover_for({"cover": meta.get("cover", ""), "slug": slug})
+    if not src:
+        return html
+    credit = ""
+    if slug in credits:
+        text, url = credits[slug]
+        credit = (f'<p class="cover-credit">{text} '
+                  f'<a href="{url}" target="_blank" rel="noopener">Source</a></p>')
+    fig = f'<figure class="post-cover"><img src="{src}" alt="" decoding="async"></figure>'
+    return re.sub(r'(<header class="post-header">.*?</header>)',
+                  lambda m: f'<div class="post-hero">{fig}{m.group(1)}</div>{credit}',
+                  html, count=1, flags=re.S)
+
+
+def build_post(md_path, template_html, credits=None):
     raw = md_path.read_text(encoding="utf-8")
     meta, body_md = parse_front_matter(raw)
 
@@ -117,6 +147,7 @@ def build_post(md_path, template_html):
             .replace("{{DOWNLOAD_BLOCK}}", dl_block)
             .replace("{{SUMMARY_BLOCK}}", sum_block)
             .replace("{{BODY}}", body_html))
+    html = add_cover(html, slug, meta, credits or {})
 
     out_path = OUT_DIR / f"{slug}.html"
     out_path.write_text(html, encoding="utf-8")
@@ -195,9 +226,10 @@ def main():
     # skip files starting with _ (drafts / examples)
     md_files = [f for f in md_files if not f.stem.startswith("_")]
 
+    credits = load_credits()
     posts = []
     for md in md_files:
-        post = build_post(md, template_html)
+        post = build_post(md, template_html, credits)
         posts.append(post)
         print(f"  built: writing/{post['slug']}.html  ({post['title']})")
 

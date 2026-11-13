@@ -367,6 +367,41 @@ section { margin-bottom: 4.5rem; }
 
 /* ── Post body ── */
 .post-header { margin-bottom: 2.5rem; }
+/* the story's painting with the title set on it (D). The image keeps a fixed
+   minimum height (no jump when the reader restores your place) and the box
+   grows with the header, so a long summary never spills off the painting. */
+.post-hero {
+  display: grid; margin: 0 0 0.6rem;
+  border-radius: calc(var(--card-radius) - 6px); overflow: hidden;
+  background: #1a1410; isolation: isolate;
+}
+.post-hero > * { grid-area: 1 / 1; }
+.post-cover { margin: 0; position: relative; min-height: min(70vh, 560px); }
+.post-cover img {
+  position: absolute; inset: 0; display: block; width: 100%; height: 100%;
+  object-fit: cover; object-position: center 30%;
+}
+.post-cover::after {
+  content: ""; position: absolute; inset: 0; z-index: 1;
+  background: linear-gradient(to top, rgba(14,9,6,.92) 0%, rgba(14,9,6,.6) 30%, rgba(14,9,6,0) 62%);
+}
+.post-hero .post-header {
+  align-self: end; position: relative; z-index: 1;
+  margin: 0; padding: 4rem 1.5rem 1.4rem;
+  color: #f4ebe1; text-shadow: 0 1px 12px rgba(0,0,0,.45);
+}
+.post-hero .post-header h1 { color: #fbf5ee; }
+.post-hero .post-meta, .post-hero .post-meta a { color: rgba(244,235,225,.78); }
+.post-hero .post-meta a:hover { color: #fff; }
+.post-hero .post-summary { color: rgba(244,235,225,.9); }
+.cover-credit {
+  margin: 0 0 2.25rem; font-family: var(--font-ui); font-size: 0.7rem; line-height: 1.45; color: var(--faint);
+}
+.cover-credit a { color: var(--faint); text-decoration: underline; text-underline-offset: 2px; }
+@media (max-width: 520px) {
+  .post-cover { min-height: min(72vh, 520px); }
+  .post-hero .post-header { padding: 3rem 1.1rem 1.1rem; }
+}
 .post-header h1 {
   font-family: var(--font-body);
   font-size: 2rem;
@@ -593,9 +628,11 @@ html.rd-single .post-body .chapter > hr:last-child { display: none; }
   body::before { display: none !important; }
   .wrap { max-width: none !important; margin: 0 !important; padding: 0 !important;
           border: 0 !important; box-shadow: none !important; border-radius: 0 !important; overflow: visible !important; }
-  nav, .back-link, footer, .reader-bar, .rd-foot, .rd-toast, .post-meta { display: none !important; }
+  nav, .back-link, footer, .post-cover, .cover-credit, .reader-bar, .rd-foot, .rd-toast, .post-meta { display: none !important; }
   .chapter[hidden], .chapter-preface[hidden] { display: block !important; }
-  .post-header { text-align: center; padding: 30mm 0 0; margin: 0; border: 0; break-after: page; }
+  .post-hero { display: block; background: none; }
+  .post-header, .post-hero .post-header { text-align: center; padding: 30mm 0 0; margin: 0; border: 0; break-after: page; color: #000; text-shadow: none; }
+  .post-hero .post-header h1, .post-hero .post-summary { color: #000; }
   .post-header h1 { font-size: 26pt; }
   .post-summary { font-size: 10pt; max-width: 80%; margin: 8mm auto 0; }
   .print-colophon { display: block !important; margin-top: 40mm; font-family: var(--font-ui); font-size: 8pt; color: #555; }

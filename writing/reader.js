@@ -169,7 +169,9 @@
   bar.appendChild(toc);
   bar.appendChild(aa);
   bar.appendChild(dlMenu);
-  header.parentNode.insertBefore(bar, header.nextSibling);
+  // after the title block: the hero (painting + title) and its credit, if any
+  var anchor = document.querySelector(".cover-credit") || header.closest(".post-hero") || header;
+  anchor.parentNode.insertBefore(bar, anchor.nextSibling);
 
   /* end-of-chapter navigation */
   var foot = el("nav", { "class": "rd-foot", "aria-label": "Chapters" });
