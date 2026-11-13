@@ -34,23 +34,31 @@ def parse_front_matter(text):
     return meta, body
 
 
+def has_chapters(md_text):
+    """Chapters are `#` headings (one per manuscript file). The post title is
+    the page's <h1>, so they render one level down, as <h2>, and a chapter's
+    own `##` (a recipe, a list) becomes <h3>."""
+    return re.search(r"^# ", md_text, flags=re.M) is not None
+
+
 def md_to_html(md_text):
     """Run pandoc to convert Markdown to an HTML fragment."""
+    shift = ["--shift-heading-level-by=1"] if has_chapters(md_text) else []
     result = subprocess.run(
-        ["pandoc", "--from=markdown", "--to=html"],
+        ["pandoc", "--from=markdown", "--to=html"] + shift,
         input=md_text, capture_output=True, text=True, check=True
     )
     return result.stdout
 
 
 def build_epub(md_path, meta, body_md, slug):
-    """Write writing/downloads/<slug>.epub, one EPUB chapter per `##` heading.
+    """Write writing/downloads/<slug>.epub, one EPUB chapter per `#` heading.
 
     The identifier and SOURCE_DATE_EPOCH are pinned so an unchanged post
     rebuilds to the same bytes (no churn in git)."""
     DL_DIR.mkdir(exist_ok=True)
     out = DL_DIR / f"{slug}.epub"
-    args = ["pandoc", "--from=markdown", "--to=epub3", "--split-level=2",
+    args = ["pandoc", "--from=markdown", "--to=epub3", "--split-level=1",
             "--metadata", f"title={meta.get('title', slug)}",
             "--metadata", f"author={AUTHOR}",
             "--metadata", "lang=en",
@@ -60,8 +68,8 @@ def build_epub(md_path, meta, body_md, slug):
         args += ["--metadata", f"date={meta['date']}"]
     if meta.get("summary"):
         args += ["--metadata", f"description={meta['summary']}"]
-    if len(re.findall(r"^## ", body_md, flags=re.M)) >= 2:
-        args += ["--toc", "--toc-depth=2"]
+    if len(re.findall(r"^# ", body_md, flags=re.M)) >= 2:
+        args += ["--toc", "--toc-depth=1"]
     cover = next((COVER_DIR / f"{slug}.{e}" for e in ("jpg", "jpeg", "png", "webp")
                   if (COVER_DIR / f"{slug}.{e}").exists()), None)
     if cover:

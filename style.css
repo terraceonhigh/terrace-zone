@@ -387,7 +387,17 @@ section { margin-bottom: 4.5rem; }
 }
 .post-body p { margin-bottom: 1.25rem; }
 .post-body p:last-child { margin-bottom: 0; }
+/* h2 = a chapter (a `#` in the post's Markdown); h3/h4 = headings inside it
+   (recipes, lists), styled as the text always had them */
 .post-body h2 {
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-wrap: balance;
+  margin: 3rem 0 1.5rem;
+}
+.post-body h3 {
   font-family: var(--font-ui);
   font-size: 0.78rem;
   font-weight: 600;
@@ -396,7 +406,7 @@ section { margin-bottom: 4.5rem; }
   color: var(--faint);
   margin: 2.5rem 0 1rem;
 }
-.post-body h3 {
+.post-body h4 {
   font-family: var(--font-ui);
   font-size: 0.9rem;
   font-weight: 600;

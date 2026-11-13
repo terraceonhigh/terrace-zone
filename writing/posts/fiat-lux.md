@@ -9,7 +9,7 @@ summary: At the beginning, a restaurant advertised that they used locally grown 
 
 > This is the canary version of *Fiat Lux*. It changes more often and may contain rougher prose than the relatively stable version on AO3.
 
-## Ante Finem Mundi
+# Ante Finem Mundi
 
 Collie looked out the bus window, wistful and hungover, as the streets went by. She was only stirred by an ad about a one-dollar coffee as a promotional price, and a gas station display that said six-something a gallon. Grabbing the railing in the least demeaning way she could imagine, she alighted from the bus and beat herself up over being convinced to have one of Maia's mocktails for dinner, the cause of her present unease. She bought a $25 poke bowl for lunch, to celebrate the fact that she did not kill an undergraduate in the morning for the crime of not reading the Mohsin Hamid assigned to him. The miso soup was extra.
 
@@ -105,7 +105,7 @@ Maia's old house had finally been sold, and the silver took two people to bring 
 
 ---
 
-## Madame
+# Madame
 
 The art gallery was downtown, with three stories of floor-to-ceiling glass sediment on five of masonry. Her father had taught her how to tell the difference between igneous and metamorphic rocks. The exhibition celebrated the injection-molded chair, and sculptures made from it. Over the phone, she told her father she was going into the museum now, and no phones inside, and that she would video-call them after she went back to her room.
 
@@ -425,7 +425,7 @@ She learned to polish them with a rag instead of the microfibre cloth. Bréal tu
 
 ---
 
-## Continuity Test
+# Continuity Test
 
 Lewis had a job now, at the old repair workshop that fixed Collie's phone back during grad school. He hated laptops and got handy with a microscope. Sometimes, new frames were milled instead of bought, because their fixer was reliable with bringing in liquor and spotty with chips and they were going to wait anyways. Maia wanted him in the electrical engineering department, but had to search for someone in the faculty to meet with him and see his projects. Fridays were paydays, when he would put his copper wires back into his backpack to put at home. Madam Swartz had grown a habit of patting him on the head on those, even though he definitely wasn't that age anymore.
 
@@ -593,7 +593,7 @@ He held his breath as he helped puff the sage smoke onto the apiary.
 
 ---
 
-## Fortification
+# Fortification
 
 ## Standard Loaf, version 2daeb1ae
 
@@ -695,7 +695,7 @@ Boil water with aromatics and mushrooms, cook noodles till good. Rinse the leave
 
 ---
 
-## Formulary
+# Formulary
 
 The last doctor had left a note on the table, something about how Rusina is better at soups and Seia is better at pastries, as well as which family hearths would not pass health inspections if med students conducted health inspections. The note itself was held down by a grip-trainer, someone had carved *moo* on the handle.
 
@@ -913,13 +913,13 @@ She hung the sausage on the coat rack at the front of the clinic, and slept on t
 
 ---
 
-## Notifiable
+# Notifiable
 
 
 
 ---
 
-## Off Label Part I
+# Off Label Part I
 
 Rosa spent the morning on horseback, the ranch had put her on a mare to help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her before noon, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
 
@@ -1133,7 +1133,7 @@ There was a figure, sat on the porch of the clinic. The mare took a few more ste
 
 ---
 
-## Madame II
+# Madame II
 
 The fall after that, another sum came into her account, along with it an instruction to buy gold, and that they were coming. *Your landlord had sold the house,* a synthesized voice was reading what the policeman typed out. *You have two weeks to leave the room.*
 
@@ -1414,13 +1414,13 @@ That was soup. She covered the fire, and brought the pot inside, where the soup 
 
 ---
 
-## Skywave
+# Skywave
 
 
 
 ---
 
-## Isolation
+# Isolation
 
 The coffee pot was once complained about, the way it turned water acrid and then made the cup noodle gross. Even now, that bitter threatened to pollute the acidic notes of the rose hips and blackberry by whoever plucked today's blend. Though, a gentle overthrowing of this herbal vinegar would not be entirely undesirable.
 
@@ -1639,13 +1639,13 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 ---
 
-## Untitled Neighbour
+# Untitled Neighbour
 
 
 
 ---
 
-## Pulp I
+# Pulp I
 
 The sky had waves in them, like polyurathane bags in the wind. She looked through her binoculars, nothing approaching the settlement.
 
@@ -1719,7 +1719,7 @@ In the valley proper, they popped a tent in some crevice and slept the day. Wate
 
 ---
 
-## Boil Water
+# Boil Water
 
 Maddy woke up some time in the night, before the sun rose up. She was in the top bunk, and Nadia was on the bottom. Some birds were outside, cawing. Lamplight shone through the bottom of the bedroom door. The LED lamp that Collie had in the office growing up, next to the little statue of Venus that always made her laugh.
 
@@ -1969,13 +1969,13 @@ Collie held out the two compacts and the brush.
 
 ---
 
-## Madame III
+# Madame III
 
 
 
 ---
 
-## Hyperbolic
+# Hyperbolic
 
 The Emeritus' property was something done in concrete and stone, in the brutalist style that was in vogue after the Second World War (unlike the red brick construction of the Swartz property that was popular before that). The windows were no longer glazed, but rather covered with wooden shutters that did not seem to be painted, or at least painted yet. Collie relaxed the fingers gripping the straps to her tote, and presented the doorman with her card.
 
@@ -2209,7 +2209,7 @@ Collie did not look at the bills that closely. She went to the market after, to 
 
 ---
 
-## Fitting
+# Fitting
 
 ---
 
@@ -2243,7 +2243,7 @@ No, she won't.
 
 ---
 
-## Ground
+# Ground
 
 *Nadia, be sweet and grab me a bottle of soda from the ice-box before you head to the greenhouse?* Alex Tsien said, kneeling before a waist-high wall coming up on the family's side of the third-floor hallway.
 
@@ -2489,7 +2489,7 @@ It was not just one.
 
 ---
 
-## Midnight
+# Midnight
 
 They did the dress first, the other two. Collie had the idea from a textbook she wrote and Nona actually made it work. It was labelled a saree when it was bought.
 
@@ -2761,7 +2761,7 @@ In his room, in the dark, Lewis refueled his lighter by himself.
 
 ---
 
-## Hold
+# Hold
 
 There was a private contract to fix a till. The client was not a store owner, but rather someone who refurbished tills, for stores. The move to University money was good for business in that way.
 
@@ -3173,7 +3173,7 @@ It was hard metal, warmed by her touch.
 
 ---
 
-## Wild Oats
+# Wild Oats
 
 A secretary was leaning on a workbench and staring at Bréal, when the latter saw the newly spun part blue on its surface.
 
@@ -3547,7 +3547,7 @@ She had the watch.
 
 ---
 
-## Mulberry
+# Mulberry
 
 Something was wrong with washer #17 in the university laundromat on the corner of Prospect Drive and Campus Parkway. The unit was on the end of the first row in, on the right, next to the machines with the German badges. Alex took off the bent-sheet control panel on its front and looked at the wiring. The original warning labels had faded to a translucence, and there was some text in Korean under that. On the back of the university's panel was a label, with the name of the student who rewired the machine and the professor who signed off on it.
 
@@ -3677,7 +3677,7 @@ The big radio needed the engine running, and the engine was noisy, so Lewis wire
 
 ---
 
-## Untitled Collie
+# Untitled Collie
 
 The world did not yet end. The pharmacist was busy with something behind the shelves. Rae grabbed a granola bar and scanned it herself. A bottle of hair bleach too.
 
@@ -4049,7 +4049,7 @@ The wagon was a mess. Hopper was still in there, some other things weren't. He w
 
 ---
 
-## Notions
+# Notions
 
 The town was dry, and sandy at the margins. Nadia, Lewis, and Maddy rode in before dark and checked in as university officials. Nadia bought a discount for dinner by opening her leather wallet to the other side and presenting the ration card stamped with the Swartz name. They shared an onion and egg pie, with less butter than they were used to. For vegetables they had something they and the town called kimchi, though the specific spice profile would have been alien to their parents. Ale with hops washed it down. It was good.
 
@@ -4289,7 +4289,7 @@ When they departed from the town, Nadia put into the logbook—the one not for t
 
 ---
 
-## Glean
+# Glean
 
 He was hungry, first thing he noticed when he woke up was that he was hungry.
 
@@ -4437,31 +4437,31 @@ It was an okay day.
 
 ---
 
-## Pulp II
+# Pulp II
 
 
 
 ---
 
-## Untitled Diana
+# Untitled Diana
 
 
 
 ---
 
-## Ruts
+# Ruts
 
 
 
 ---
 
-## Madame IV
+# Madame IV
 
 
 
 ---
 
-## Splendor
+# Splendor
 
 It was some time in the afternoon. Birds were chirping outside, and the cherry tree did not move, because no wind came through the glass roof. Ada signed for the delivery at the door and let two of the helpers carry it up.
 
@@ -5192,6 +5192,6 @@ He kept in the ice box what the chef let him bring home. It was good breakfast f
 
 ---
 
-## Colt
+# Colt
 
 

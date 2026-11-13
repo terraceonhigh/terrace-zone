@@ -46,7 +46,9 @@ def main():
     for md in md_files:
         content = md.read_text(encoding="utf-8").strip()
         word_count += len(content.split())
-        chapters.append(f"## {chapter_title(md)}\n\n{content}")
+        # one `#` heading per manuscript file = one chapter; the files' own
+        # `##`/`###` (recipes, lists) stay formatting inside the chapter
+        chapters.append(f"# {chapter_title(md)}\n\n{content}")
 
     body = "\n\n---\n\n".join(chapters)
     front = FRONT_MATTER.format(
