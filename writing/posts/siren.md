@@ -191,3 +191,7 @@ The child asked why not sell a coat nobody was wearing.
 He looked at his wife, settling the accounts through her glasses.
 
 "Because it reminds her of home."
+
+---
+
+*A/N:* [Kiki Rockwell, "Selkie"](https://www.youtube.com/watch?v=UxSTrwjaOws). Vibed to this one when I was writing. Certainly a different take but holy if the lyrics are not godly and the tune sublime. Like hearing a greater wilder being sing.
