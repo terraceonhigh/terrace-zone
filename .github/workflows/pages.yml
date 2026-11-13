@@ -7,6 +7,7 @@ name: Pages
 on:
   push:
     branches: [main]
+  pull_request:        # build only, to catch breakage before it reaches main
   workflow_dispatch:
 
 permissions:
@@ -58,6 +59,7 @@ jobs:
           path: .
 
   deploy:
+    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-24.04
     environment:
