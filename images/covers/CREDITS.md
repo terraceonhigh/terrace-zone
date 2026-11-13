@@ -4,7 +4,7 @@ Temporary covers until the paintings are done. All public domain: the Art Instit
 
 - `siren`: *A Mermaid*, John William Waterhouse (British, 1849–1917), 1900. Public domain. <https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_A_Mermaid.jpg>
 - `fiat-lux`: *The Pier with a Lamp, plate 15 from Imaginary Prisons*, Giovanni Battista Piranesi, 1761. Cropped to the plate. <https://www.artic.edu/artworks/7380>
-- `mine`: *The Child's Bath*, Mary Cassatt (American, 1844–1926), 1893. <https://www.artic.edu/artworks/111442>
+- `mine`: *Vampire* (*Love and Pain*), Edvard Munch (Norwegian, 1863–1944), 1895. Public domain. <https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg>
 - `chignon`: *Woman Holding a Tortoise-shell Hair-comb*, Kitagawa Utamaro 喜多川 歌麿, c. 1795/96. <https://www.artic.edu/artworks/24001>
 - `falcon`: *The Falconer*, Samuel William Reynolds the elder, 1797. <https://www.artic.edu/artworks/12848>
 - `bakelite`: *Mules Harnessed*, Victor Adam (French, 1801-1866), n.d. <https://www.artic.edu/artworks/117978>
