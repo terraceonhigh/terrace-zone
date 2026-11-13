@@ -2,6 +2,7 @@
 title: Mine
 date: 2026-06-10
 ao3_url: https://archiveofourown.org/works/86406496
+pin: 2
 fandom: Original Work
 word_count: 3,212
 summary: Gerald and Marianne go to the GP. An omegaverse story about two people who love each other very carefully.

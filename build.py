@@ -74,7 +74,8 @@ def build_post(md_path, template_html):
     out_path.write_text(html, encoding="utf-8")
     return {"title": title, "date": date, "slug": slug,
             "word_count": word_count, "summary": summary,
-            "cover": meta.get("cover", ""), "tile": meta.get("tile", "")}
+            "cover": meta.get("cover", ""), "tile": meta.get("tile", ""),
+            "pin": meta.get("pin", "")}
 
 
 COVER_DIR = Path("images/covers")
@@ -106,7 +107,9 @@ def tile_shape(p):
 
 def build_index(posts):
     """Rebuild the POSTS_START … POSTS_END block in writing/index.html as a gallery."""
+    # newest first; posts with `pin: N` in front matter go up front, in N order
     posts_sorted = sorted(posts, key=lambda p: p["date"], reverse=True)
+    posts_sorted.sort(key=lambda p: int(p["pin"]) if p["pin"].isdigit() else 10**6)
 
     if not posts_sorted:
         items_html = '<p style="color: var(--muted); font-size: 0.95rem;">Nothing here yet.</p>'

@@ -307,7 +307,6 @@ section { margin-bottom: 4.5rem; }
 .post-date { font-family: var(--font-ui); font-size: 0.75rem; color: var(--faint); white-space: nowrap; font-variant-numeric: tabular-nums; }
 
 /* ── Writing gallery: tiles wait for paintings (images/covers/<slug>.webp) ── */
-.start-here { font-family: var(--font-body); font-style: italic; color: var(--muted); margin: -0.25rem 0 1.25rem; }
 .gallery {
   list-style: none;
   display: grid;
@@ -326,6 +325,7 @@ section { margin-bottom: 4.5rem; }
   display: flex; align-items: center; justify-content: center;
 }
 .tile-wide .tile-art { aspect-ratio: 2 / 1; }
+.tile-wide .tile-art img { object-position: 50% 22%; }
 .tile-tall .tile-art { aspect-ratio: auto; flex: 1; min-height: 200px; }
 .tile-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .tile-art.is-pending {
