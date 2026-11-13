@@ -3,7 +3,7 @@
 Temporary covers until the paintings are done. All public domain: the Art Institute of Chicago open access collection (CC0), except where noted.
 
 - `siren`: *A Mermaid*, John William Waterhouse (British, 1849–1917), 1900. Public domain. <https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_A_Mermaid.jpg>
-- `fiat-lux`: *The Song of the Lark*, Jules Breton (French, 1827–1906), 1884. <https://www.artic.edu/artworks/94841>
+- `fiat-lux`: *The Pier with a Lamp, plate 15 from Imaginary Prisons*, Giovanni Battista Piranesi, 1761. Cropped to the plate. <https://www.artic.edu/artworks/7380>
 - `mine`: *The Child's Bath*, Mary Cassatt (American, 1844–1926), 1893. <https://www.artic.edu/artworks/111442>
 - `chignon`: *Woman Holding a Tortoise-shell Hair-comb*, Kitagawa Utamaro 喜多川 歌麿, c. 1795/96. <https://www.artic.edu/artworks/24001>
 - `falcon`: *The Falconer*, Samuel William Reynolds the elder, 1797. <https://www.artic.edu/artworks/12848>
