@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>$title$</title>
+<meta name="author" content="Terrace">
+$if(summary)$<meta name="description" content="$summary$">$endif$
+<meta name="dcterms.created" content="$date$">
+<link rel="stylesheet" href="book.css">
+</head>
+<body>
+<section class="titlepage">
+  <h1>$title$</h1>
+  $if(summary)$<p class="summary">$summary$</p>$endif$
+  <p class="colophon">Terrace · $date$$if(words)$ · $words$ words$endif$<br>terrace.zone/writing/$slug$.html</p>
+</section>
+$if(toc)$
+<nav class="contents">
+  <p class="contents-head">Contents</p>
+  $table-of-contents$
+</nav>
+$endif$
+<main>
+$body$
+</main>
+</body>
+</html>

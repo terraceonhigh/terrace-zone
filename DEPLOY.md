@@ -1,21 +1,21 @@
 # Deploying terrace.zone
 
-The site is plain static files served straight from the repo root. There is no build
-step on the host: `build.py` runs **locally** and its output (`writing/*.html`) is
-committed.
+The site is static files. `.github/workflows/pages.yml` builds it on every push to
+`main` (`build.py`: post HTML, the gallery, EPUBs via pandoc, PDFs via WeasyPrint) and
+deploys the result to Pages. `writing/downloads/` is build output and is not committed;
+`writing/*.html` still is, so the repo previews without a build.
 
 ## Hosting: GitHub Pages
 
-The repo is <https://github.com/terraceonhigh/terrace-zone>, and Pages serves `main`
-from the root. Pushing to `main` redeploys.
+The repo is <https://github.com/terraceonhigh/terrace-zone>. Settings → Pages →
+Source must be **GitHub Actions**. Pushing to `main` redeploys.
 
 ```bash
-git push        # that's the whole deploy
+git push        # that's the whole deploy; watch it under Actions → Pages
 ```
 
-> **Do not** set a build command that runs `build.py` on the host. It shells out to
-> pandoc, which isn't present in hosted build images, so the deploy would fail. Build
-> locally, commit the HTML.
+To build locally: `pip install weasyprint` (optional; without it the PDFs are skipped),
+pandoc 3.x on PATH, then `python3 build.py`.
 
 ### Custom domain ✅ live at https://terrace.zone
 

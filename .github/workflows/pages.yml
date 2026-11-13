@@ -1,0 +1,70 @@
+# Build and deploy terrace.zone to GitHub Pages.
+# Builds the site (build.py), the EPUBs (pandoc) and the PDFs (WeasyPrint),
+# so writing/downloads/ is never committed. Needs Settings → Pages → Source:
+# "GitHub Actions".
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:        # build only, to catch breakage before it reaches main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  PANDOC_VERSION: "3.9"
+  WEASYPRINT_VERSION: "70.0"
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc ${{ env.PANDOC_VERSION }}
+        run: |
+          curl -fsSL --max-time 120 -o /tmp/pandoc.deb \
+            "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb"
+          sudo dpkg -i /tmp/pandoc.deb
+          pandoc --version | head -1
+
+      - name: Install WeasyPrint's system libraries
+        run: |
+          sudo apt-get update -q
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -q libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install WeasyPrint ${{ env.WEASYPRINT_VERSION }}
+        run: pip install "weasyprint==${WEASYPRINT_VERSION}" brotli
+
+      - name: Build site, EPUBs and PDFs
+        run: python build.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

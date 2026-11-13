@@ -23,7 +23,7 @@ date: {date}
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
 word_count: {word_count}
-summary: At the beginning, a restaurant advertised that they used locally grown tomatoes. A Cascadian university sleepwalks into statehood. Post-collapse nobledark fiction based on the Soviet collapse and Cuba's Período especial.
+summary: When the world ended she learned to keep everyone alive; when it began again, she could not stop.
 ---
 
 > This is the canary version of *Fiat Lux*. It changes more often and may contain rougher prose than the relatively stable version on AO3.
@@ -32,7 +32,9 @@ summary: At the beginning, a restaurant advertised that they used locally grown 
 
 def chapter_title(md_path):
     slug = re.sub(r"^\d+-", "", md_path.stem)
-    return slug.replace("-", " ").title()
+    title = slug.replace("-", " ").title()
+    # .title() makes "Madame Ii" of "madame-ii"; keep roman numerals upper case
+    return re.sub(r"\b([IVX][ivx]*)\b", lambda m: m.group(1).upper(), title)
 
 
 def main():
@@ -44,7 +46,9 @@ def main():
     for md in md_files:
         content = md.read_text(encoding="utf-8").strip()
         word_count += len(content.split())
-        chapters.append(f"## {chapter_title(md)}\n\n{content}")
+        # one `#` heading per manuscript file = one chapter; the files' own
+        # `##`/`###` (recipes, lists) stay formatting inside the chapter
+        chapters.append(f"# {chapter_title(md)}\n\n{content}")
 
     body = "\n\n---\n\n".join(chapters)
     front = FRONT_MATTER.format(
