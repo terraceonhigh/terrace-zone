@@ -1,0 +1,63 @@
+/* WeasyPrint stylesheet for the PDF downloads (tools/make-pdfs.py).
+   A5 book: title page, contents with page numbers, one chapter per page
+   run, running chapter title, folios. Fonts are the site's own (SIL OFL). */
+@font-face { font-family: "Bona Nova"; font-style: normal; font-weight: 400; src: url("../../fonts/bona-nova-400.woff2"); }
+@font-face { font-family: "Bona Nova"; font-style: italic; font-weight: 400; src: url("../../fonts/bona-nova-400italic.woff2"); }
+@font-face { font-family: "Bona Nova"; font-style: normal; font-weight: 700; src: url("../../fonts/bona-nova-700.woff2"); }
+@font-face { font-family: "IM Fell Double Pica SC"; src: url("../../fonts/im-fell-double-pica-sc-400.woff2"); }
+@font-face { font-family: "Syne Mono"; src: url("../../fonts/syne-mono-400.woff2"); }
+
+@page {
+  size: A5;
+  margin: 17mm 15mm 19mm;
+  @top-center { content: string(chapter); font: italic 7.5pt "Bona Nova"; color: #666; }
+  @bottom-center { content: counter(page); font: 7.5pt "Bona Nova"; color: #666; }
+}
+@page front { @top-center { content: none; } @bottom-center { content: none; } }
+
+html { font-family: "Bona Nova", Georgia, serif; font-size: 10.5pt; line-height: 1.45; color: #111; }
+body { margin: 0; }
+
+.titlepage { page: front; text-align: center; padding-top: 38mm; break-after: page; }
+.titlepage h1 { font-size: 26pt; font-weight: 700; line-height: 1.1; margin: 0 0 9mm; }
+.titlepage .summary { font-style: italic; font-size: 10pt; color: #333; margin: 0 8mm; }
+.titlepage .colophon { font-size: 7.5pt; color: #666; margin-top: 45mm; line-height: 1.6; }
+
+.contents { page: front; break-after: page; }
+.contents-head { font: 700 8pt "Bona Nova"; letter-spacing: 0.14em; text-transform: uppercase; margin: 6mm 0 6mm; }
+.contents ul { list-style: none; margin: 0; padding: 0; font-size: 9.5pt; line-height: 1.55; counter-reset: ch; }
+.contents li { counter-increment: ch; }
+.contents li ul { display: none; }
+.contents a { color: inherit; text-decoration: none; }
+.contents a::before { content: counter(ch) ".  "; color: #777; }
+.contents a::after { content: leader(". ") target-counter(attr(href), page); color: #777; }
+
+main p { margin: 0; text-align: justify; hyphens: auto; orphans: 2; widows: 2; }
+main p + p { text-indent: 1.2em; }
+main hr { border: 0; text-align: center; margin: 0.9em 0; height: 1em; }
+main hr::after { content: "⁂"; font-size: 9pt; color: #555; }
+main hr + p { text-indent: 0; }
+main section.level2 > hr:last-child { display: none; }
+main blockquote { margin: 0.8em 1.2em; font-style: italic; color: #333; }
+main blockquote p { text-indent: 0; }
+
+main section.level2 { break-before: page; }
+main h2 {
+  string-set: chapter content();
+  font-size: 16pt; font-weight: 700; line-height: 1.2; text-align: left;
+  margin: 16mm 0 8mm; break-after: avoid;
+}
+main h2 + p, main h3 + p, main h4 + p { text-indent: 0; }
+main h3 { font: 700 7.5pt "Bona Nova"; letter-spacing: 0.14em; text-transform: uppercase; color: #444; margin: 1.6em 0 0.6em; break-after: avoid; }
+main h4 { font-size: 9pt; font-weight: 700; margin: 1.2em 0 0.4em; break-after: avoid; }
+main ul, main ol { margin: 0.4em 0 0.6em; padding-left: 1.4em; }
+main table { border-collapse: collapse; font-size: 8.5pt; margin: 0.6em 0; break-inside: avoid; width: 100%; }
+main th, main td { border-bottom: 0.4pt solid #999; padding: 0.15em 0.4em 0.15em 0; text-align: left; vertical-align: top; }
+main code { font-family: "Syne Mono", monospace; font-size: 0.85em; }
+main img { max-width: 100%; }
+main a { color: inherit; text-decoration: none; }
+/* a preface (Fiat Lux's canary note) shares the first chapter's page */
+main > section.level2:first-of-type { break-before: auto; }
+main > blockquote:first-child { margin: 0 0 4mm; font-size: 9pt; }
+/* recipes, lists and other headed inserts inside a chapter: set flush, ragged */
+main section.level3 p, main section.level4 p { text-indent: 0; text-align: left; hyphens: manual; }

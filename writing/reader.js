@@ -122,14 +122,23 @@
       });
     });
   }
-  var dl = document.querySelector('.post-meta a[href$=".epub"]');
-  if (dl) {
-    var dlp = el("p", { "class": "rd-dl" });
-    var dla = el("a", { href: dl.getAttribute("href"), download: "" }, "Download EPUB");
-    dlp.appendChild(dla);
-    dlp.appendChild(document.createTextNode(" for Apple Books, Kobo, Kindle (via Send to Kindle) and the rest."));
-    toc.appendChild(dlp);
-  }
+  /* download menu, built from the meta line's links (which work without JS) */
+  var DL_NOTES = {
+    epub: ["EPUB", "For Apple Books, Kobo, Kindle (via Send to Kindle) and other e-readers"],
+    pdf: ["PDF", "A5 pages, for printing or reading offline"]
+  };
+  var dls = Array.prototype.slice.call(document.querySelectorAll(".post-meta a[download]"));
+  var dlBtn = el("button", { type: "button", "class": "rd-btn", "aria-expanded": "false", "aria-controls": "rd-dl" }, "↓ Download");
+  var dlMenu = el("div", { "class": "rd-panel rd-dlmenu", id: "rd-dl", hidden: "" });
+  dls.forEach(function (d) {
+    var ext = (d.getAttribute("href").split(".").pop() || "").toLowerCase();
+    var note = DL_NOTES[ext] || [ext.toUpperCase(), ""];
+    var a = el("a", { href: d.getAttribute("href"), download: "" });
+    a.appendChild(el("strong", {}, note[0]));
+    if (note[1]) a.appendChild(el("span", {}, note[1]));
+    dlMenu.appendChild(a);
+  });
+  if (dls.length) bar.insertBefore(dlBtn, aaBtn);
 
   /* Aa panel */
   var aa = el("div", { "class": "rd-panel rd-aa", id: "rd-aa", hidden: "" });
@@ -157,6 +166,7 @@
 
   bar.appendChild(toc);
   bar.appendChild(aa);
+  bar.appendChild(dlMenu);
   header.parentNode.insertBefore(bar, header.nextSibling);
 
   /* end-of-chapter navigation */
@@ -173,7 +183,7 @@
 
   /* ---- panels ---- */
   function closePanels() {
-    [[toc, tocBtn], [aa, aaBtn]].forEach(function (p) { p[0].hidden = true; p[1].setAttribute("aria-expanded", "false"); });
+    [[toc, tocBtn], [aa, aaBtn], [dlMenu, dlBtn]].forEach(function (p) { p[0].hidden = true; p[1].setAttribute("aria-expanded", "false"); });
   }
   function openPanel(p, b) {
     var was = !p.hidden;
@@ -182,6 +192,7 @@
   }
   tocBtn.addEventListener("click", function (e) { e.stopPropagation(); openPanel(toc, tocBtn); });
   aaBtn.addEventListener("click", function (e) { e.stopPropagation(); openPanel(aa, aaBtn); });
+  dlBtn.addEventListener("click", function (e) { e.stopPropagation(); openPanel(dlMenu, dlBtn); });
   document.addEventListener("click", function (e) { if (!bar.contains(e.target)) closePanels(); });
   toc.addEventListener("click", function (e) { if (e.target.tagName === "A" && e.target.hash) closePanels(); });
 

@@ -560,9 +560,46 @@ html.rd-wide .wrap { max-width: 980px; }
 
 @media (max-width: 520px) {
   .reader-bar { margin-inline: -1.25rem; padding-inline: 1.25rem; flex-wrap: wrap; row-gap: 0.3rem; }
-  .rd-where { flex: 1; }
-  .rd-left { order: 3; flex-basis: 100%; margin-left: 0; font-size: 0.72rem; }
+  .rd-btn[aria-controls="rd-dl"] { margin-left: auto; }
+  .rd-where { order: 3; flex: 1 1 55%; font-size: 0.74rem; }
+  .rd-left { order: 4; margin-left: auto; font-size: 0.72rem; }
   .rd-toc, .rd-aa { left: 0.75rem; right: 0.75rem; width: auto; }
   .rd-foot a { max-width: 100%; }
 }
-@media print { .reader-bar, .rd-foot, .rd-toast { display: none !important; } .chapter[hidden] { display: block !important; } }
+.rd-dlmenu { right: 1.5rem; width: min(20rem, calc(100% - 3rem)); }
+.rd-dlmenu a { display: block; padding: 0.45rem 0; border-top: 1px solid var(--border); color: var(--text); }
+.rd-dlmenu a:first-child { border-top: 0; }
+.rd-dlmenu a strong { color: var(--accent); }
+.rd-dlmenu a span { display: block; color: var(--faint); font-size: 0.74rem; }
+@media (max-width: 520px) { .rd-dlmenu { left: 0.75rem; right: 0.75rem; width: auto; } }
+
+/* ── Print / PDF (tools/make-pdfs.py prints these pages with Chromium) ── */
+@page { size: A5; margin: 18mm 16mm 20mm; }
+@media print {
+  :root { --bg: #fff; --text: #000; --muted: #333; --faint: #555; --border: #bbb; }
+  html, body { background: #fff !important; padding: 0 !important; }
+  body::before { display: none !important; }
+  .wrap { max-width: none !important; margin: 0 !important; padding: 0 !important;
+          border: 0 !important; box-shadow: none !important; border-radius: 0 !important; overflow: visible !important; }
+  nav, .back-link, footer, .reader-bar, .rd-foot, .rd-toast, .post-meta { display: none !important; }
+  .chapter[hidden], .chapter-preface[hidden] { display: block !important; }
+  .post-header { text-align: center; padding: 30mm 0 0; margin: 0; border: 0; break-after: page; }
+  .post-header h1 { font-size: 26pt; }
+  .post-summary { font-size: 10pt; max-width: 80%; margin: 8mm auto 0; }
+  .print-colophon { display: block !important; margin-top: 40mm; font-family: var(--font-ui); font-size: 8pt; color: #555; }
+  .print-toc { display: block !important; break-after: page; font-family: var(--font-body); }
+  .print-toc h2 { font-family: var(--font-ui); font-size: 9pt; letter-spacing: 0.12em; text-transform: uppercase; margin: 0 0 6mm; }
+  .print-toc ol { padding-left: 1.6em; margin: 0; font-size: 9pt; line-height: 1.35; }
+  .post-body .chapter > hr:last-child { display: none; }
+  .print-toc a { color: #000; text-decoration: none; }
+  .post-body { font-size: 10.5pt !important; line-height: 1.5 !important; max-width: none !important; text-align: justify; hyphens: auto; }
+  .post-body p { margin: 0 0 0.6em; orphans: 2; widows: 2; }
+  .post-body .chapter { break-before: page; }
+  .post-body .chapter-preface + .chapter, .post-body > .chapter:first-child { break-before: auto; }
+  .post-body h2 { margin: 18mm 0 8mm; font-size: 17pt; break-after: avoid; }
+  .post-body h3, .post-body h4 { break-after: avoid; }
+  .post-body hr { break-after: avoid; }
+  .post-body a { color: #000; text-decoration: none; }
+  .post-body img, .post-body table, .post-body blockquote { break-inside: avoid; }
+}
+.print-toc, .print-colophon { display: none; }

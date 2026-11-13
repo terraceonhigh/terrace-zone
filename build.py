@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Convert writing/posts/*.md → writing/*.html and regenerate writing/index.html.
-Requires: pandoc (brew install pandoc)
+Requires: pandoc (brew install pandoc); for PDFs, WeasyPrint (see tools/make-pdfs.py)
 
 Usage:
     python3 build.py
@@ -10,6 +10,7 @@ Usage:
 import os
 import re
 import subprocess
+import sys
 from pathlib import Path
 
 POSTS_DIR = Path("writing/posts")
@@ -103,7 +104,9 @@ def build_post(md_path, template_html):
     sum_block = (f'<p class="post-summary">{summary}</p>' if summary else "")
     slug = md_path.stem
     epub = build_epub(md_path, meta, body_md, slug)
-    dl_block = f' · <a href="downloads/{epub.name}" download>EPUB</a>'
+    # the PDF is typeset from the same Markdown afterwards (tools/make-pdfs.py)
+    dl_block = (f' · <a href="downloads/{epub.name}" download>EPUB</a>'
+                f' · <a href="downloads/{slug}.pdf" download>PDF</a>')
 
     html = (template_html
             .replace("{{TITLE}}", title)
@@ -200,6 +203,16 @@ def main():
 
     build_index(posts)
     print(f"  index: writing/index.html  ({len(posts)} posts)")
+
+    # PDFs: typeset by WeasyPrint; skipped (old PDFs kept) when it isn't
+    # installed in this Python
+    try:
+        import weasyprint  # noqa: F401
+    except ImportError:
+        print("  pdf: SKIPPED, WeasyPrint not installed; existing PDFs kept "
+              "(pip install weasyprint)")
+        return
+    subprocess.run([sys.executable, "tools/make-pdfs.py"], check=True)
 
 
 if __name__ == "__main__":
