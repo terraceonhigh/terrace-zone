@@ -89,6 +89,8 @@
   var progFill = el("span");
   prog.appendChild(progFill);
   if (multi) bar.appendChild(tocBtn);
+  else bar.classList.add("rd-solo");
+  bar.appendChild(el("span", { "class": "rd-break", "aria-hidden": "true" }));
   bar.appendChild(where);
   bar.appendChild(left);
   bar.appendChild(aaBtn);
@@ -221,6 +223,7 @@
     chapters.forEach(function (x) { x.sec.hidden = single && x !== c; });
     if (preface) preface.hidden = single && c.i !== 0;
     foot.hidden = !single;
+    document.documentElement.classList.toggle("rd-single", single);
     if (single) {
       var p = chapters[c.i - 1], n = chapters[c.i + 1];
       prevA.hidden = !p; nextA.hidden = !n;
