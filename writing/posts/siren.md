@@ -2,7 +2,7 @@
 title: Siren
 date: 2026-11-13
 fandom: Original Work
-word_count: 1,232
+word_count: 1,237
 summary: Siobhan wears her coat to every class. A selkie story about a coat, a safe, and the weather.
 ---
 
@@ -10,7 +10,7 @@ The overachiever had a suit on, someone had fingerless gloves, and she had her c
 
 It was a grey thing, with fur so dense you could not see the bottom, and black dots like overeager freckles. It had a sheen to it, some kind of fabric softener, perhaps, and looked healthier than her salt-brined hair.
 
-It was not the first time Walter had seen her. She swam in the bay without her coat or anything else, and Walter became infatuated with ice fishing one winter.
+It was not the first time Walter had seen her. She swam in the bay without her coat or anything else. Walter begged his coach until she allowed him to practice his figure skating there.
 
 There was a zipper, and she had put on a hood and drawstrings herself.
 
