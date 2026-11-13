@@ -1,9 +1,9 @@
 ---
 title: Fiat Lux
-date: 2026-11-09
+date: 2026-11-13
 ao3_url: https://archiveofourown.org/works/89851861
 fandom: Original Work
-word_count: 40,147
+word_count: 43,724
 summary: When the world ended she learned to keep everyone alive; when it began again, she could not stop.
 ---
 
@@ -913,12 +913,6 @@ She hung the sausage on the coat rack at the front of the clinic, and slept on t
 
 ---
 
-# Notifiable
-
-
-
----
-
 # Off Label Part I
 
 Rosa spent the morning on horseback, the ranch had put her on a mare to help with driving the cattle in. There were several small expletives she would rather not repeat, and a curse to her past self for not paying attention during the four-credit riding course. Someone rode for her before noon, she tossed her whip to the closest townsman and followed. The rider's horse did not so much as slow down in the u-turn.
@@ -969,7 +963,7 @@ Shit. Okay, breathe in, four seconds, hold, four seconds, breathe out, four seco
 
 Doesn't mean much.
 
-Okay, what's next, what's next. What did Doctor Franklin say in freshman year?
+Okay, what's next, what's next. What did Mom say in freshman Field Medicine?
 
 *How old?*
 
@@ -1414,12 +1408,6 @@ That was soup. She covered the fire, and brought the pot inside, where the soup 
 
 ---
 
-# Skywave
-
-
-
----
-
 # Isolation
 
 The coffee pot was once complained about, the way it turned water acrid and then made the cup noodle gross. Even now, that bitter threatened to pollute the acidic notes of the rose hips and blackberry by whoever plucked today's blend. Though, a gentle overthrowing of this herbal vinegar would not be entirely undesirable.
@@ -1639,12 +1627,6 @@ Bréal was in the office tent, where the engineering department had laid the pen
 
 ---
 
-# Untitled Neighbour
-
-
-
----
-
 # Pulp I
 
 The sky had waves in them, like polyurathane bags in the wind. She looked through her binoculars, nothing approaching the settlement.
@@ -1707,15 +1689,87 @@ Atlanta put a few rounds in too, only she preferred buckshot.
 
 "It ain't for the ridge."
 
-The suppressors were the dear part. Atlanta kept her duckbill choke in her back pocket in any case
+The suppressors were the dear part. Atlanta kept her duckbill choke in her back pocket in any case.
 
 They set off just after day broke, bit slower than the run, as not to kick up so much dust.
 
-Old maps of the part had an oasis a day out, at the pace they were going, it was more like a day anb a half.
+Old maps of the part had an oasis a day out, at the pace they were going, it was more like a day and a half.
 
 They rode the night as well, the lights lit the way. Nights weren't so dark now, not after the bombs fell god knows how long ago.
 
 In the valley proper, they popped a tent in some crevice and slept the day. Water was good, just harder on the engine to carry than they had counted. Was unusual for them to come out this far.
+
+By sundown, Atlanta was staring down the oasis on her binoculars, and Meager had an eye through his scope.
+
+"What're you seeing?" he asked.
+
+"Seem to be simple folk," she said. "And no sign of raiding."
+
+"They use chits. I saw someone buy a sack of beans with it."
+
+"How big is that scope on your thing?"
+
+"Alpine," he said, "cost me an arm and a leg."
+
+"Don't seem like you paid the price."
+
+"I had a helping hand."
+
+"Let's ride down, we'll fill at their well and probe."
+
+"I do the talking," she said. "Tell them we're just passing through. See if they have a proper pub we can sleep in."
+
+"How you gonna ask about the hogs?"
+
+"Track the sheriff a little, tell me if we can have a look at the jail."
+
+The pub was a bit run down, was a gas station before and still was. Two pumps out of commission and two still working. The store it attached to grew around it. Some bit was concrete from before, and some bits were wood and bricks and actually made to ventilate.
+
+"Ice cold ale," Meager said, "means ice house, means not ransacked awful."
+
+"Alright, Sherlock. Drink your damn ale."
+
+One was enough at noon, and then a convoy pulled up. Two trucks all in, crewed by hogs. Didn't do nothing to the town except pick up several crates and sign for something.
+
+"Bartender, what're those animals?"
+
+"Hush, them is the Francis crew, you won't know because you ain't from around."
+
+One of them came to the bar, called for the same ale as the riders did.
+
+"Ain't seen y'all around," the hog said. 
+
+"We just passing through, headed south," Atlanta lied.
+
+"What's at south? More women in those jeans? Might have to look myself."
+
+"A job or two, with any luck," Meager lied.
+
+"Well I'll drink to that."
+
+"You come here often?" Meager added.
+
+"Not enough," the hog chuckled. "Bartender here would love to have me every week, won't he?"
+
+The bartender chuckled.
+
+"Best be on my way now," the hog said, and left without paying, giving Atlanta a smack as he walked out.
+
+That night, the two of them slept in a room upstairs, with the bikes outside and their front wheels on a chair.
+
+They had all they needed, and left in the morning. The mountain pass was treacherous, but by southern lights they could just ride it east. Tried their best to avoid bridges and tolls and the tollmen.
+
+Second town they came onto, had all hogheaded men and women with fangs. Meager shot something and pulled its teeth, Atlanta put it on and went to town.
+
+Meager looked down the scope the entire day. Wasn't till dark did Atlanta come back.
+
+"Said their den is down the road we came, good bit of desert, and the boss will visit next week, with his crew."
+
+"Then we wait?"
+
+"Then we wait. Let me change out of my disguise first."
+
+They found a country
 
 ---
 
@@ -1966,12 +2020,6 @@ Collie held out the two compacts and the brush.
 *Just, keep them in one piece. They used to be grandma's.*
 
 *mmm.*
-
----
-
-# Madame III
-
-
 
 ---
 
@@ -2363,9 +2411,9 @@ His hand covered hers, he could feel her nose and forehead on the small of his b
 
 With his left hand, he held her hand in his; with a shuffle, his right palm smothered the light.
 
-The shuffle continued, and turned him supine. The hand that found her chin was still warmer than blood. He cursed himself for getting the order backwards, though her lips were soft candlelit or not.
+The shuffle continued, and turned him supine. The thumb that found her dimples was still warmer than blood. He cursed himself for getting the order backwards, though her lips were soft candlelit or not.
 
-She shifted the held hands.
+She shifted the held hands down.
 
 ---
 
@@ -2503,7 +2551,7 @@ Nerves. Collie had her have nothing but warm honeyed water for breakfast, and on
 
 *Um, uhh, to issue a weather warning.* Maia focused on the clock, and then the umbrellas next to the door, and then the parasol with tassels at the rim.
 
-Collie began to braid her hair, it involved knitting needles.
+Collie began to braid her hair, it involved knitting needles and one prior day of remembering how to knit curly hair.
 
 *Not just that, some senators don't know yet.* Nona replied.
 
@@ -3225,7 +3273,7 @@ Bréal grabbed a towel, the part was no longer blue. «Now, V, stand aside if yo
 
 «They do look very different, yes.»
 
-«The dad, he had me brick up a good chunk of the ground floor at his building.»
+«The dad, he is having me brick up a good chunk of the ground floor at his building.»
 
 «But it is the Madam that frequents us. What I do know of Mr Swartz is that he is an electrician working for the university.»
 
@@ -4005,6 +4053,16 @@ A sniffle.
 
 Mrs Klara from the daycare
 
+---
+
+```
+hubby: do you remember when i did your other shot as well
+hubby: i miss doing it
+hubby: i miss the stupid facts i said to distract you
+hubby: can't wait to do it again
+[sent]
+```
+
 Aunt Collie let Maddy sit in the wagon, grandma and grandpa were walking in front of them. Hopper was being strong too. Maddy stood up after a bit, and walked next to Aunt Collie. There were hairs wrapped around the axle, and the wheels were still spinning under the wagon.
 
 There was a half-built metro station along the highway, and winches that weren't put there by the old crew. Two trucks, one had the hood popped and a rag hanging by. Porta-potties too, and six men with guns. A boy a bit older than Lewis, in a beanie for the local soccer team. He was very nice.
@@ -4343,8 +4401,6 @@ They were sealing a window, a few windows, actually. One big continuous one to t
 
 A man was working on the door, and gestured at an apprentice to come have a look. Only that the apprentice was not there.
 
-<!-- The kids are still on their road trip. -->
-
 Bréal made them take off their bags, set them at a corner, he kept one eye on them as he worked the bricks.
 
 His wrist hurt by the time the big window was half-bricked up, and two layers after that, his hand slipped and the brick fell onto his toes.
@@ -4427,7 +4483,7 @@ He wanted to thank her, but he was smarter than that.
 
 One of the workmen lent him a shoulder to lean on, as they walked back to the truck. It rained on the way back home, and the dust from the day washed off into the truck bed.
 
-When they got home, he went back to his house, to dry off at the oil-drum fire someone had moved to the living room. Someone else took the money and came back with two loaves of bread and three onions. <!-- near-starvation for the household -->
+When they got home, he went back to his house, to dry off at the oil-drum fire someone had moved to the living room. Someone else took the money and came back with two loaves of bread and three onions. 
 
 They threw the onions into the fire, and used a metal pike to skewer them back out when they were done. The same pike as the one sleeping closest to the door held in their sleep.
 
@@ -4439,25 +4495,47 @@ It was an okay day.
 
 # Pulp II
 
+Imagine, if you will, a world, ten kilometres tall down to the micron, a diffuse light that comes from the top, miles and miles of empty marble white and then you see a town, a mangled one, of course. They saw what was supposed to be a supermarket set next to three industrial turbines, which wired and lit it. The shelves were stocked—were always stocked—, and the fridge section stocked with the same one carton end to end, the white fluid, the one good for burning and the one that kept you alive if you ate it. The nutrition label appeared to have been printed three times by four different misaligned machines.
 
-
----
-
-# Untitled Diana
-
-
+There was a power pole every ten feet, along the boulevard that was just named so because nobody was here to name it, and there were concrete cuboids stacked head to tail in the shape of a gridlock. It crossed a water feature that emulated a viaduct that emulated the river it was supposed to have been replaced by. and it continued until the vanishing point, there was no water, but there was a streetlight with seven heads that someone who knew greenery would have understood to be in the shape of a palm tree.
 
 ---
 
-# Ruts
-
-
+There was a cul-de-sac, and the wall sockets were roughly IEC C20, two mm of tolerance, at 150 volts. The taps give isopropyl alcohol, should be useful. I clipped Chloe in using my alligator clips, and let her charge. Blake checked that the locks worked, and set up binoculars underneath the awning. There were two sets of stairs and one of them lead to an upstairs kitchen. there were screwdrivers in the knife block. I had a gander at the outside, no visible settlements, doesn't mean no settlements. Two things dominated the landscape: A local supercomplex and a parking lot that was lit, so well lit, halides, my eyes told me. Blake took his turn with the outlet, and I sat next to the two dolls on the leatherette sofa filled with cork. The supercomplex played a skipping record of pseudorandom Rachmaninoff in chiptunes, and I drank the thing from the supermarket, it was an opaque white liquid and it tasted like pancake batter.
 
 ---
 
-# Madame IV
+We tagged the location for the parking lot, the cavalry can come take later. The sound of an airplane woke us, 34000 hours, the daily flight headed for bearing 192. Blake took a memory of what model it was, and we noted that it happened here too. The walk in the suburbs was almost relaxing, we just had to make sure to keep to the flat places, just in case a hill would cave and reveal its scaffolding. There were regularly spaced squares in the sidewalks, and the streetlights would be in it or not. We checked the electrics, 2.4 volts, the bulbs just never lit. And there were two bulbs for every buld, like Siamese twins, or like breasts, my mind wandered. The cars were of higher fidelity there, and there was a magazine on one of the dashes. Chloe checked for locks and grabbed it, there was a six-page introduction and the fold-out was just as long. There was coherent Lorem Ipsum and coupons inside. There were a few articles, mostly on things in the city, there was to be a diner, 400 years old by the magazine's report, though its own vintage could not be determined. And there was to be a bar, with what seemed to be actual interior shots, and its description was largely coherent before devolving into a shoe polishing recipe. Chloe put it in her cargo hold. The tires say Goodbeer but the engine I scanned was timed for a five-stroke.
 
+---
 
+Sabine was responsible for her dining hall on her morning shift of one-hundred and ninety-four days, four hours, twenty minutes, and sixteen seconds. Which meant a first four days spent collecting the unused cutlery and loading onto her colleague, who was a cart. And after one is filled, it was necessary to call for another one, to load again and send away. Then came the tablecloths, those called for laundering in a room hidden from the proper hallway, which was how the building was designed.
+
+Afterwards, a vacuum cleaner, a design unchanged since its inception and still insisted on having no disposable bag. She always began from the top left corner. It was relaxing, each chair required the same moving out of the way, each table required lifting, and by two weeks later she had reached the opposite corner and the laundry was done. On time. As always.
+
+Each tablecloth was to be set an eighth of an inch offset to one side, exactly as the Mistress had demonstrated before she left. Afterwards, the china—which was bone china—with a soup bowl on top of a salad plate on top of a charger, three different forks, two different spoons; A mug (for joe) and three glasses set in an arc, which was how the late Lady had preferred.
+
+Place cards were grown and pulped and made into card from the white pines in the orangerie. Sabine had never been to the orangerie herself, but it was important to know for entertaining the guests when they come. She also knew there was a ski lodge they could visit, and that the sheeps graze there for their harvest into tablecloth. She had decided that the ornamental lake was her favorite, how at its center one could not see the shore.
+
+Agnes delivered the flowers, along with their greenhouse, which was built in segments containing different seasons, They cut the youngest first, so that they would mature just when when the last flower was set. Agnes had the flat shoes that did not sink into the soil, so she did the cutting and Sabine did the setting. After she left, the carpet where the greenhouse was set had to be laundered, Sabine never held this against her.
+
+There was an uninvited guest, without shoes, and with a black sphere for a face.
+
+Sabine pulled a chair, and the guest sat down. They were smaller than the intended guests. She went to the closest kitchen and ladled tomato soup, with a proper puree done by the chef's stainless hands.
+
+"Who for?" The chef hung from a ceiling on rails.
+
+"A guest, singular."
+
+"Shall I notify Mother?"
+
+"Just the soup will do."
+
+"Very well."
+
+The round trip took 12 hours.
+
+"Tomato bisque, with basil and synthetic cream." Sabine set a fork along with the spoon.
 
 ---
 
@@ -5192,6 +5270,183 @@ He kept in the ice box what the chef let him bring home. It was good breakfast f
 
 ---
 
-# Colt
+# Episode
 
+```
+In escrow with the Dean's Office.
+```
 
+---
+
+Nadia,
+
+Maddy was right, your ration card says AB and mine says O. You were born on the ninth of October to a girl who everyone called Saffron.
+
+Do not for a moment think that you were not loved for every second of your life. 
+
+Your mother came to the shelter I ran when she was sixteen. Before that, her parents were terrible people who hurt her in many ways. Years before that, she had decided to run away, to find somewhere safer.
+
+She found herself on the east side, and she found work to sustain herself. She and her coworkers would jot down plate numbers and keep each other safe.
+
+And when one of them was sick, the others would help her every way they could. The economy was bad back then, and there was no grant money to help the down and out. And the Police would not help them if they got hurt, because the Police were too busy and because the Police were sometimes doing the hurting. Sometimes someone would disappear, and the rest of them would know which plate to avoid.
+
+I don't know if you remember, but after you came home I was once wrapped in bandages, to get my eyelids to look like yours. It was the psychology at the time that children did better with parents that looked familiar.
+
+Your mother had her surgeries too, from other doctors, but some things did not need putting on. You have her dimples, my dear, and you have her curly hair.
+
+Try to wash your hair often, I know it can be cold in the winter, but the oil gunks up fast in you.
+
+I never knew your father, and I did not make her say anything. I know the rest of us are there, but I know it is not the same. I am sorry about this emptiness, but I did it to keep her safe. 
+
+She came to the shelter in midsummer, I was not the one to treat her. The Doctor Franklin you know did. There was not much we could do, not because the medications were illegal, but because the city just did not have it. The ones that it did have, were distributed by a system with priorities.
+
+We knew ways, ways that we were not allowed to tell the residents, but she could not do it, because a friend of hers was found dead in a hotel room after she bled too much.
+
+I feel the need to say it again: even though you were an accident, you were never a mistake.
+
+Never to me, never to the others, never to Lewis and Maddy.
+
+I called in the few favours I had, and found the pills that allowed you to come out safe. It was very hard for your mother, not to share them with her friends. I did not make it easy, every week we had her come in and show us her pills, so we knew if any went missing.
+
+I had to do it to get funding, but it is okay to hate me. I did a lot of things for the 'greater good', but in the end most of them hurt the people I was caring for.
+
+She worked for as long as she could, and she made a point about not having to stay at the shelter I ran overnight. She kept the cash in her purse, or with the other girls. It was meant for you.
+
+One of her friends had taken time out of the night to crochet you a onesie, it is the toque with the yarn you call mango neapolitan. I had made it so that they would still hold you, even as you were growing up.
+
+Doctor Franklin had just lost hers when your mother was getting too heavy to work. You have to understand that there were few medicines back then, and that it was too dangerous if you were out there with her.
+
+There were bad weeks, when we had to lock her in a room when she was too emotional to be with other people. And it was hard on her too, she could not use a lot of the ways she used to manage her emotions when she was carrying you. She hurt a few of her friends over this, but it is very important that you understand she could not help it.
+
+She stayed clean through most of it, most of the time. It was the bravest she ever was, she said, it was harder than leaving her old family.
+
+Your mother had a sister, they were twins. She ran away first. That is all we know.
+
+Doctor Franklin told me that you were born very light, and she could hold you with both hands. I was told your mother could not bear to see you. You have to understand that she had already been through a lot.
+
+You were three pounds, four ounces, and you were quiet. That much never changed.
+
+Doctor Franklin brought you home, she had the better place and a second parent to help around. It was the sensible choice and everyone accepted it.
+
+Your mother chose to not give you her name, or to contact you, because she thought your life would be better without her. Doctor Franklin was richer than she would ever be. She did not come into the shelter after that, I do not blame her and never will. Her funeral was in spring, and I was not told until after.
+
+She loved you, and Doctor Franklin loved you too. She would have kept you if she could.
+
+Rosa was sick with something, and when you were about one we were not sure if she would make it. It had been after years of therapy for her too, and we were all so glad of her. Rosa was as much a miracle as you were.
+
+Doctor Franklin had to stay with her almost the entire time, and her partner was away most of the day in the financial district. It made her very sad that she was not able to come into work and help people.
+
+I started coming over to help with you two, and to keep Doctor Franklin company. The same way I sat at the end of the bed folding clothes and telling stories to you.
+
+Tell your nieces and nephews you love the King's New Clothes, and hated Goldilocks, because the king got embarrassed and Goldilocks ran away.
+
+Eventually, Doctor Franklin gave me the responsibility to care for you, before you had too much memory of her.
+
+She felt she had failed you too, and that is why I have never, and will never, speak of it. But you deserve to know when we are gone.
+
+I will tell you this: She did not fail you. For that year she did not fail you. You grew up between me and Collie, she was in the safer neighbourhood. You were sisters with Maddy since then.
+
+There was not a moment you were not loved. There was not a moment you weren't chosen.
+
+I know it is hard to feel safe after learning you had two other mothers. But see how they loved you each in their own way. I made your dinners and put you to sleep, that makes you mine, down to your flesh. That much will never change.
+
+Formula became harder to get, so we started you on solids early. You would not have a vegetable beside celery, and so we ate celery.
+
+You were so quiet, we were scared. We were scared that you might have come out with some illness. I cried when you talked, like anyone else.
+
+I am running out of paper. So:
+
+I know. And I know you are too scared to say. You take your time.
+
+Care for Maddy, she has her stories too.
+
+The Abacus, I am proud of how good you are at it. I know it was embarrassing, but I will be loud about it, forever.
+
+The toque, it is still good yarn. Make it something else for the next one. I won't cry.
+
+| The Luckiest,
+| Mom
+
+---
+
+# Spatchcock
+
+Nona had to deal with trouble in the apiary, and Collie and Nadia were there with her to manage. It was more convincing to have the two of them there.
+
+One of the old broilers stopped laying, so Maia thought it was sound to roast it. The giblets went back into the stuffing. Feathers were Nona's department.
+
+She knew how to marinate chicken feet, though. And collagen never stopped being an obsession. She brought the chicken into the bakery, and got enough bread for four.
+
+The oven was not as hot, so it took extra time. It was okay, though. They had to wait for Maddy to come home also.
+
+It was almost dark when she came back. At the table, Maddy asked for white meat, with no bone. Alex cut the bird.
+
+*So, kids. How was school?*
+
+*Learned to work on the trolley cables.*
+
+*Well, delivered a baby, twins, actually.*
+
+*that so, Maddy?*
+
+*Yeah, it was Madame Bréal's, Franklin made me do the drugs.*
+
+Lewis grabbed the gravy boat.
+
+*Did it go smooth?*
+
+*Oh heavens no. Rosa, my senior, passed out after she handed the madame over. I think it was sixteen hours all in, from last night.*
+
+*Wait, which floor was it?*
+
+*Third, in the old wing.*
+
+*Oh, yeah, that's where they made me give blood.*
+
+*Eat the stuffing, son. Maddy, did she lose a lot of blood?*
+
+*Yeah, think we ended up going through four Epsilons.*
+
+Lewis had a chuckle.
+
+*And Monsieur Bréal's hand got crushed pretty well, you watch out for that.*
+
+Alex laughed, and gave a glance at Maia.
+
+*Did Doctor Franklin stay up the entire time?*
+
+*No, she did the start and end, but she made Rosa run the middle, and Rosa was the one who called for relief.*
+
+*All healthy, then?*
+
+*The boys are a bit preterm, we think it was the heat wave. And the OR was like an oven too. Her blood pressure's gone down too, there was a couple days before when Doctor Franklin had to drag Monsieur Bréal outside to say she might not make it.*
+
+*But she did.*
+
+*She did. We'll be keeping her in observation for a while longer. That poor girl did not have the hips for it, I can tell you than much.*
+
+*Hips? What's hips got to do with it?*
+
+*Did we not learn that at the schoolhouse?*
+
+*I don't remember you two having a biology teacher.* Maia said.
+
+*Well, all you need to know is that wide hips makes it easier. And I figure you probably know subconsciously already.*
+
+Maddy kicked Lewis at the shin, softly.
+
+*What about yourself? That was what, eight hours in a single room?*
+
+*I did the cauterization, and it smelled exactly like the bird.*
+
+*Mads, ew!* 
+
+She got a flick to the forehead by Lewis, and Maia and Alex did not say anything.
+
+*What? It's all just meat.* Maddy said. *surely you've seen a squirrel or something roasted on a wire.*
+
+Lewis stressed the distinction between dead squirrels and eating squirrels. The phone rang in the other living room, and it was for Maddy. She grabbed her good sneakers, and her pillow, and put down her pillow, and picked up Hopper.
+
+*Patient privacy, but I should be back by morning.*
+
+The rest of the chicken went into the ice-box, in lunch trays. Nadia brought the whole tray to the bakery in the morning, and it was piping hot after just ten minutes.

@@ -37,6 +37,18 @@ def chapter_title(md_path):
     return re.sub(r"\b([IVX][ivx]*)\b", lambda m: m.group(1).upper(), title)
 
 
+def public_text(md_text):
+    """What readers see: drop the drafting notes the manuscript carries.
+
+    - `<!-- ... -->` comments (pandoc would pass them into the page source)
+    - `[STORYBOARD: ...]` paragraphs (planning beats for unwritten scenes)
+    """
+    text = re.sub(r"<!--.*?-->", "", md_text, flags=re.S)
+    paras = re.split(r"\n\s*\n", text)
+    paras = [p for p in paras if not p.lstrip().startswith("[STORYBOARD:")]
+    return re.sub(r"\n{3,}", "\n\n", "\n\n".join(paras)).strip()
+
+
 def main():
     manuscript_dir = Path(sys.argv[1]) / "manuscript"
     md_files = sorted(manuscript_dir.glob("*.md"))
@@ -44,7 +56,10 @@ def main():
     chapters = []
     word_count = 0
     for md in md_files:
-        content = md.read_text(encoding="utf-8").strip()
+        content = public_text(md.read_text(encoding="utf-8"))
+        if not content:  # an empty or notes-only file is not a chapter yet
+            print(f"  skip {md.name}: nothing public yet")
+            continue
         word_count += len(content.split())
         # one `#` heading per manuscript file = one chapter; the files' own
         # `##`/`###` (recipes, lists) stay formatting inside the chapter
@@ -56,7 +71,7 @@ def main():
         word_count=f"{word_count:,}",
     )
     OUT.write_text(f"{front}\n{body}\n", encoding="utf-8")
-    print(f"wrote {OUT} ({word_count:,} words, {len(md_files)} chapters)")
+    print(f"wrote {OUT} ({word_count:,} words, {len(chapters)} chapters)")
 
 
 if __name__ == "__main__":
