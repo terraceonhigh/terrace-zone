@@ -32,7 +32,9 @@ summary: At the beginning, a restaurant advertised that they used locally grown 
 
 def chapter_title(md_path):
     slug = re.sub(r"^\d+-", "", md_path.stem)
-    return slug.replace("-", " ").title()
+    title = slug.replace("-", " ").title()
+    # .title() makes "Madame Ii" of "madame-ii"; keep roman numerals upper case
+    return re.sub(r"\b([IVX][ivx]*)\b", lambda m: m.group(1).upper(), title)
 
 
 def main():

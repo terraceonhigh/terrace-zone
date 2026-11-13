@@ -15,6 +15,8 @@ from pathlib import Path
 POSTS_DIR = Path("writing/posts")
 OUT_DIR   = Path("writing")
 TEMPLATE  = Path("writing/_post_template.html")
+DL_DIR    = Path("writing/downloads")
+AUTHOR    = "Terrace"
 INDEX     = Path("writing/index.html")
 
 
@@ -41,6 +43,38 @@ def md_to_html(md_text):
     return result.stdout
 
 
+def build_epub(md_path, meta, body_md, slug):
+    """Write writing/downloads/<slug>.epub, one EPUB chapter per `##` heading.
+
+    The identifier and SOURCE_DATE_EPOCH are pinned so an unchanged post
+    rebuilds to the same bytes (no churn in git)."""
+    DL_DIR.mkdir(exist_ok=True)
+    out = DL_DIR / f"{slug}.epub"
+    args = ["pandoc", "--from=markdown", "--to=epub3", "--split-level=2",
+            "--metadata", f"title={meta.get('title', slug)}",
+            "--metadata", f"author={AUTHOR}",
+            "--metadata", "lang=en",
+            "--metadata", f"identifier=https://terrace.zone/writing/{slug}.html",
+            "-o", str(out)]
+    if meta.get("date"):
+        args += ["--metadata", f"date={meta['date']}"]
+    if meta.get("summary"):
+        args += ["--metadata", f"description={meta['summary']}"]
+    if len(re.findall(r"^## ", body_md, flags=re.M)) >= 2:
+        args += ["--toc", "--toc-depth=2"]
+    cover = next((COVER_DIR / f"{slug}.{e}" for e in ("jpg", "jpeg", "png", "webp")
+                  if (COVER_DIR / f"{slug}.{e}").exists()), None)
+    if cover:
+        args += ["--epub-cover-image", str(cover)]
+    env = dict(os.environ, SOURCE_DATE_EPOCH="0")
+    if meta.get("date"):
+        import datetime
+        d = datetime.datetime.strptime(meta["date"], "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc)
+        env["SOURCE_DATE_EPOCH"] = str(int(d.timestamp()))
+    subprocess.run(args, input=body_md, text=True, check=True, env=env)
+    return out
+
+
 def build_post(md_path, template_html):
     raw = md_path.read_text(encoding="utf-8")
     meta, body_md = parse_front_matter(raw)
@@ -59,6 +93,9 @@ def build_post(md_path, template_html):
     ao3_block = (f' · <a href="{ao3_url}" target="_blank" rel="noopener">AO3</a>'
                  if ao3_url else "")
     sum_block = (f'<p class="post-summary">{summary}</p>' if summary else "")
+    slug = md_path.stem
+    epub = build_epub(md_path, meta, body_md, slug)
+    dl_block = f' · <a href="downloads/{epub.name}" download>EPUB</a>'
 
     html = (template_html
             .replace("{{TITLE}}", title)
@@ -66,10 +103,10 @@ def build_post(md_path, template_html):
             .replace("{{WORD_COUNT_BLOCK}}", wc_block)
             .replace("{{FANDOM_BLOCK}}", fan_block)
             .replace("{{AO3_LINK}}", ao3_block)
+            .replace("{{DOWNLOAD_BLOCK}}", dl_block)
             .replace("{{SUMMARY_BLOCK}}", sum_block)
             .replace("{{BODY}}", body_html))
 
-    slug = md_path.stem
     out_path = OUT_DIR / f"{slug}.html"
     out_path.write_text(html, encoding="utf-8")
     return {"title": title, "date": date, "slug": slug,

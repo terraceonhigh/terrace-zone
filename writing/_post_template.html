@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="../style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>">
   <script src="../script.js"></script>
+  <script src="reader.js" defer></script>
 </head>
 <body>
 <div class="wrap">
@@ -26,7 +27,7 @@
   <article>
     <header class="post-header">
       <h1>{{TITLE}}</h1>
-      <p class="post-meta">{{DATE}}{{WORD_COUNT_BLOCK}}{{FANDOM_BLOCK}}{{AO3_LINK}}</p>
+      <p class="post-meta">{{DATE}}{{WORD_COUNT_BLOCK}}{{FANDOM_BLOCK}}{{AO3_LINK}}{{DOWNLOAD_BLOCK}}</p>
       {{SUMMARY_BLOCK}}
     </header>
     <div class="post-body">
@@ -38,7 +39,7 @@
     <span>terrace.zone</span>
     <div class="footer-links">
       <a href="../">Home</a>
-      <a href="./">Writing</a>
+      <a href="./" class="nav-cta">Writing</a>
     </div>
   </footer>
 

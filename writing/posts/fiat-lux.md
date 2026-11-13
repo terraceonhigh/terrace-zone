@@ -1133,7 +1133,7 @@ There was a figure, sat on the porch of the clinic. The mare took a few more ste
 
 ---
 
-## Madame Ii
+## Madame II
 
 The fall after that, another sum came into her account, along with it an instruction to buy gold, and that they were coming. *Your landlord had sold the house,* a synthesized voice was reading what the policeman typed out. *You have two weeks to leave the room.*
 
@@ -1969,7 +1969,7 @@ Collie held out the two compacts and the brush.
 
 ---
 
-## Madame Iii
+## Madame III
 
 
 
@@ -4437,7 +4437,7 @@ It was an okay day.
 
 ---
 
-## Pulp Ii
+## Pulp II
 
 
 
@@ -4455,7 +4455,7 @@ It was an okay day.
 
 ---
 
-## Madame Iv
+## Madame IV
 
 
 
