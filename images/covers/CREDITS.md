@@ -11,6 +11,6 @@ Temporary covers until the paintings are done. All public domain: the Art Instit
 - `bibliogenesis`: *The Invalid Doll*, Artist unknown, 1870/79. <https://www.artic.edu/artworks/144639>
 - `chamomile`: *Afternoon Tea*, Jean François Raffaëlli (French, 1850–1924), c. 1880. <https://www.artic.edu/artworks/186425>
 - `little-augustus`: *For Sunday's Dinner*, William Michael Harnett (American, born Ireland, 1848–1892), 1888. <https://www.artic.edu/artworks/111377>
-- `conversion-therapy`: *Autograph Letter*, Julia Margaret Cameron, 20 June 1875. <https://www.artic.edu/artworks/136601>
+- `conversion-therapy`: *August Blue*, Henry Scott Tuke (British, 1858–1929), 1893–94. Tate. Public domain. <https://commons.wikimedia.org/wiki/File:Tuke,_Henry_Scott_(1858%E2%80%931929),_%22August_Blue,%22_1894.jpg>
 
 To replace one, drop the painting in as `<slug>.webp` (or jpg/png) and delete this line for it.
