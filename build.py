@@ -72,25 +72,60 @@ def build_post(md_path, template_html):
     slug = md_path.stem
     out_path = OUT_DIR / f"{slug}.html"
     out_path.write_text(html, encoding="utf-8")
-    return {"title": title, "date": date, "slug": slug}
+    return {"title": title, "date": date, "slug": slug,
+            "word_count": word_count, "summary": summary,
+            "cover": meta.get("cover", ""), "tile": meta.get("tile", "")}
+
+
+COVER_DIR = Path("images/covers")
+
+
+def words(p):
+    try:
+        return int(p["word_count"].replace(",", ""))
+    except (ValueError, AttributeError):
+        return 0
+
+
+def cover_for(p):
+    """A painting for the tile: front-matter `cover:`, else images/covers/<slug>.*"""
+    if p["cover"]:
+        return p["cover"]
+    for ext in ("webp", "jpg", "jpeg", "png"):
+        if (COVER_DIR / f"{p['slug']}.{ext}").exists():
+            return f"../images/covers/{p['slug']}.{ext}"
+    return ""
+
+
+def tile_shape(p):
+    """`tile: wide|tall|square` in front matter wins; else long works get a wide tile."""
+    if p["tile"] in ("wide", "tall", "square"):
+        return p["tile"]
+    return "wide" if words(p) >= 10000 else "square"
 
 
 def build_index(posts):
-    """Rebuild the POSTS_START … POSTS_END block in writing/index.html."""
+    """Rebuild the POSTS_START … POSTS_END block in writing/index.html as a gallery."""
     posts_sorted = sorted(posts, key=lambda p: p["date"], reverse=True)
 
     if not posts_sorted:
         items_html = '<p style="color: var(--muted); font-size: 0.95rem;">Nothing here yet.</p>'
     else:
-        rows = []
+        tiles = []
         for p in posts_sorted:
-            rows.append(
-                f'<li>'
-                f'<span class="post-title"><a href="{p["slug"]}.html">{p["title"]}</a></span>'
-                f'<span class="post-date">{p["date"]}</span>'
-                f'</li>'
+            cover = cover_for(p)
+            art = (f'<img src="{cover}" alt="" loading="lazy">' if cover
+                   else '<span class="tile-pending">painting to come</span>')
+            wc = f' · {p["word_count"]} words' if p["word_count"] else ""
+            tiles.append(
+                f'<li class="tile tile-{tile_shape(p)}">'
+                f'<div class="tile-art{"" if cover else " is-pending"}">{art}</div>'
+                f'<div class="tile-body">'
+                f'<span class="tile-title"><a href="{p["slug"]}.html">{p["title"]}</a></span>'
+                f'<span class="tile-meta">{p["date"]}{wc}</span>'
+                f'</div></li>'
             )
-        items_html = '<ul class="post-list">\n' + "\n".join(rows) + "\n</ul>"
+        items_html = '<ul class="gallery">\n' + "\n".join(tiles) + "\n</ul>"
 
     index_html = INDEX.read_text(encoding="utf-8")
     index_html = re.sub(
