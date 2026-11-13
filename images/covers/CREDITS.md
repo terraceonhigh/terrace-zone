@@ -8,7 +8,7 @@ Temporary covers until the paintings are done. All public domain: the Art Instit
 - `chignon`: *Woman Combing Her Hair*, Edgar Degas (French, 1834–1917), c. 1888–90. The Met, CC0. <https://commons.wikimedia.org/wiki/File:Woman_Combing_Her_Hair_MET_DT1917.jpg>
 - `falcon`: *The Falconer*, Samuel William Reynolds the elder, 1797. <https://www.artic.edu/artworks/12848>
 - `bakelite`: *Charge of the Lancers*, Umberto Boccioni (Italian, 1882–1916), 1915. Public domain. <https://commons.wikimedia.org/wiki/File:Umberto_Boccioni_-_Charge_of_the_Lancers.jpg>
-- `bibliogenesis`: *The Invalid Doll*, Artist unknown, 1870/79. <https://www.artic.edu/artworks/144639>
+- `bibliogenesis`: *The Lacemaker*, Johannes Vermeer (Dutch, 1632–1675), c. 1669–71. Louvre. Public domain. <https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_lacemaker_(c.1669-1671).jpg>
 - `chamomile`: *The Isolator*, cover of *Science and Invention*, July 1925 (Hugo Gernsback's magazine). Public domain. <https://commons.wikimedia.org/wiki/File:Science_and_Invention_July_1925_cover_(cropped).jpg>
 - `little-augustus`: *Still life with eggs and thrushes*, Roman fresco from the House of Julia Felix, Pompeii, before 79 CE. National Archaeological Museum, Naples. Public domain. <https://commons.wikimedia.org/wiki/File:House_of_Julia_Felix_still_life_eggs.jpg>
 - `conversion-therapy`: *August Blue*, Henry Scott Tuke (British, 1858–1929), 1893–94. Tate. Public domain. <https://commons.wikimedia.org/wiki/File:Tuke,_Henry_Scott_(1858%E2%80%931929),_%22August_Blue,%22_1894.jpg>
