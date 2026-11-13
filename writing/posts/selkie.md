@@ -6,7 +6,7 @@ word_count: 1,232
 summary: Siobhan wears her coat to every class. A selkie story about a coat, a safe, and the weather.
 ---
 
-The overachiever had a suit on, someone had fingerless gloves, and she had her coat. It was the way of things in that class. 
+The overachiever had a suit on, someone had fingerless gloves, and she had her coat. It was the way of things in that class.
 
 It was a grey thing, with fur so dense you could not see the bottom, and black dots like overeager freckles. It had a sheen to it, some kind of fabric softener, perhaps, and looked healthier than her salt-brined hair.
 
@@ -20,7 +20,7 @@ She packed a bagel from home, with cucumber and tuna salad. He brought her a cof
 
 She closed her notebook.
 
-Her name was Siobhan, she was from Newfoundland. Her father kept a lighthouse, and she was brought up in a boarding school.
+Her name was Siobhan; she was from Newfoundland. Her father kept a lighthouse, and she was brought up in a boarding school.
 
 Her mother had died when she was young, and the father didn't call.
 
@@ -28,13 +28,13 @@ Her mother had died when she was young, and the father didn't call.
 
 She hung her coat on the chair inside out, between her and the back of her seat.
 
-"A rum highball for me." She said to the waiter. "And the sablefish."
+"A rum highball for me," she said to the waiter. "And the sablefish."
 
 He asked for a dynamite roll. She had a laugh like a seagull.
 
-They talked about school, she was failing Organic Chemistry, and he had an insistence on bringing a pot of ink to exams. 
+They talked about school: she was failing Organic Chemistry, and he had an insistence on bringing a pot of ink to exams.
 
-He paid the bill when she went to the powder room, she had taken her coat with her.
+He paid the bill when she went to the powder room; she had taken her coat with her.
 
 ---
 
@@ -82,7 +82,7 @@ Siobhan was made to help Grandma Sigrid in the kitchen, reaching for cupboards a
 
 Siobhan was silent.
 
-"She left the door open when my father woke up, breakfast was still warm on the table."
+"She left the door open when my father woke up; breakfast was still warm on the table."
 
 "Did she ever come back?"
 
@@ -94,7 +94,7 @@ Grandma Sigrid made Siobhan grab baking powder.
 
 That night, the coat was on his chair, where he could see it.
 
-"What did grandma say?"
+"What did Grandma say?"
 
 "Nothing," Siobhan said. "We talked about carpets."
 
@@ -120,7 +120,7 @@ She insisted on hiking, even though she would get dizzy just at the foothills. T
 
 "You never noticed?"
 
-"I just did, is that a knot?"
+"I just did. Is that a knot?"
 
 "A sheet bend, from a textbook."
 
@@ -142,9 +142,9 @@ She drank it, looking out the westward window. Not at the building it looked out
 
 "Yes?"
 
-"My coat, I need you to lock it up."
+"My coat. I need you to lock it up."
 
-He tried to bring her back to the couch, but she said "No, now, please. I need you to."
+He tried to bring her back to the couch, but she said, "No, now, please. I need you to."
 
 They went to the wardrobe, with the toolbox and the grey coat with black freckles. She held the coat, and brushed at the fur according to its grain. It did not have a heartbeat, but the fur still stood back up where her finger had just been.
 
