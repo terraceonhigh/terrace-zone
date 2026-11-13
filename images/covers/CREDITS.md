@@ -9,7 +9,7 @@ Temporary covers until the paintings are done. All public domain: the Art Instit
 - `falcon`: *The Falconer*, Samuel William Reynolds the elder, 1797. <https://www.artic.edu/artworks/12848>
 - `bakelite`: *Charge of the Lancers*, Umberto Boccioni (Italian, 1882–1916), 1915. Public domain. <https://commons.wikimedia.org/wiki/File:Umberto_Boccioni_-_Charge_of_the_Lancers.jpg>
 - `bibliogenesis`: *The Invalid Doll*, Artist unknown, 1870/79. <https://www.artic.edu/artworks/144639>
-- `chamomile`: *Afternoon Tea*, Jean François Raffaëlli (French, 1850–1924), c. 1880. <https://www.artic.edu/artworks/186425>
+- `chamomile`: *The Isolator*, cover of *Science and Invention*, July 1925 (Hugo Gernsback's magazine). Public domain. <https://commons.wikimedia.org/wiki/File:Science_and_Invention_July_1925_cover_(cropped).jpg>
 - `little-augustus`: *Still life with eggs and thrushes*, Roman fresco from the House of Julia Felix, Pompeii, before 79 CE. National Archaeological Museum, Naples. Public domain. <https://commons.wikimedia.org/wiki/File:House_of_Julia_Felix_still_life_eggs.jpg>
 - `conversion-therapy`: *August Blue*, Henry Scott Tuke (British, 1858–1929), 1893–94. Tate. Public domain. <https://commons.wikimedia.org/wiki/File:Tuke,_Henry_Scott_(1858%E2%80%931929),_%22August_Blue,%22_1894.jpg>
 
