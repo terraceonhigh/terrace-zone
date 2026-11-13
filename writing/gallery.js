@@ -1,80 +1,74 @@
 /* terrace.zone writing gallery: pack the tiles so the grid is always a clean
    rectangle, flush at the bottom, at any column count.
-   Tiles keep their order and their asked-for shape (square, wide, tall);
-   then every hole left at the bottom is filled by growing a neighbour into it
-   (down first, then sideways). Without JS the CSS grid still works, just
+   Tiles keep their order. A tile asked to be wide or tall keeps that shape;
+   square tiles may be promoted to wide (2x1) or tall (1x2), never 2x2. The
+   packer tries the fewest promotions first (latest tiles first) until the
+   first-fit layout has no holes. Without JS the CSS grid still works, just
    with possible gaps on the last row. */
 (function () {
   var grid = document.querySelector(".gallery");
   if (!grid) return;
   var tiles = Array.prototype.slice.call(grid.querySelectorAll(".tile"));
+  var SQ = { w: 1, h: 1 }, WIDE = { w: 2, h: 1 }, TALL = { w: 1, h: 2 };
 
-  function want(t) {
-    if (t.classList.contains("tile-wide")) return { w: 2, h: 1 };
-    if (t.classList.contains("tile-tall")) return { w: 1, h: 2 };
-    return { w: 1, h: 1 };
+  function asked(t) {
+    if (t.classList.contains("tile-wide")) return WIDE;
+    if (t.classList.contains("tile-tall")) return TALL;
+    return SQ;
+  }
+
+  // first-fit (dense) placement; returns boxes, or null if it leaves a hole
+  function pack(shapes, cols) {
+    var occ = [], box = [];
+    function free(r, c) { return !(occ[r] && occ[r][c]); }
+    for (var i = 0; i < shapes.length; i++) {
+      var w = Math.min(shapes[i].w, cols), h = shapes[i].h, placed = false;
+      for (var r = 0; !placed; r++) {
+        for (var c = 0; c + w <= cols && !placed; c++) {
+          var ok = true;
+          for (var rr = r; rr < r + h && ok; rr++)
+            for (var cc = c; cc < c + w && ok; cc++) ok = free(rr, cc);
+          if (ok) {
+            for (rr = r; rr < r + h; rr++) { occ[rr] = occ[rr] || []; for (cc = c; cc < c + w; cc++) occ[rr][cc] = 1; }
+            box[i] = { r: r, c: c, w: w, h: h }; placed = true;
+          }
+        }
+      }
+    }
+    for (var r2 = 0; r2 < occ.length; r2++)
+      for (var c2 = 0; c2 < cols; c2++) if (free(r2, c2)) return { box: box, holes: true };
+    return { box: box, holes: false };
   }
 
   function layout() {
     var cols = parseInt(getComputedStyle(grid).getPropertyValue("--cols"), 10) || 4;
-    var occ = [];              // occ[r][c] = index of tile, or undefined
-    var box = [];              // {r, c, w, h}
-    function free(r, c) { return !(occ[r] && occ[r][c] !== undefined); }
-    function mark(i) {
-      var b = box[i];
-      for (var r = b.r; r < b.r + b.h; r++) {
-        occ[r] = occ[r] || [];
-        for (var c = b.c; c < b.c + b.w; c++) occ[r][c] = i;
-      }
-    }
+    var base = tiles.map(asked);
+    var free = [];                              // indices of square tiles, latest first
+    base.forEach(function (s, i) { if (s === SQ) free.unshift(i); });
 
-    // 1. first-fit placement, in order (like grid-auto-flow: dense)
-    tiles.forEach(function (t, i) {
-      var s = want(t), w = Math.min(s.w, cols), h = s.h;
-      for (var r = 0; ; r++) {
-        for (var c = 0; c + w <= cols; c++) {
-          var ok = true;
-          for (var rr = r; rr < r + h && ok; rr++)
-            for (var cc = c; cc < c + w && ok; cc++) ok = free(rr, cc);
-          if (ok) { box[i] = { r: r, c: c, w: w, h: h }; mark(i); return; }
+    var best = pack(base, cols);
+    // try k promotions, k = 1, 2, ...; each promoted tile goes wide or tall
+    for (var k = 1; best.holes && k <= free.length && k <= 6; k++) {
+      var found = null;
+      (function choose(start, picked) {
+        if (found) return;
+        if (picked.length === k) {
+          var n = 1 << k;
+          for (var m = 0; m < n && !found; m++) {
+            var shapes = base.slice();
+            picked.forEach(function (idx, j) { shapes[idx] = (m >> j) & 1 ? TALL : WIDE; });
+            var p = pack(shapes, cols);
+            if (!p.holes) found = p;
+          }
+          return;
         }
-      }
-    });
+        for (var s = start; s < free.length && !found; s++) choose(s + 1, picked.concat(free[s]));
+      })(0, []);
+      if (found) best = found;
+    }
 
-    // 2. fill holes so the bottom is flush. For each hole, try in order:
-    //    grow the left neighbour right, grow the tile above down, grow the
-    //    right neighbour left; first with tiles kept at most 2x2, then without.
-    var rows = occ.length;
-    function growRight(r, c, cap) {
-      if (c === 0 || free(r, c - 1)) return false;
-      var i = occ[r][c - 1], b = box[i];
-      if (b.c + b.w !== c || b.w >= cap) return false;
-      for (var k = b.r; k < b.r + b.h; k++) if (!free(k, c)) return false;
-      b.w++; mark(i); return true;
-    }
-    function growDown(r, c, cap) {
-      if (r === 0 || free(r - 1, c)) return false;
-      var i = occ[r - 1][c], b = box[i];
-      if (b.r + b.h !== r || b.h >= cap) return false;
-      for (var k = b.c; k < b.c + b.w; k++) if (!free(r, k)) return false;
-      b.h++; mark(i); return true;
-    }
-    function growLeft(r, c, cap) {
-      if (c + 1 >= cols || free(r, c + 1)) return false;
-      var i = occ[r][c + 1], b = box[i];
-      if (b.c !== c + 1 || b.w >= cap) return false;
-      for (var k = b.r; k < b.r + b.h; k++) if (!free(k, c)) return false;
-      b.c--; b.w++; mark(i); return true;
-    }
-    [2, 99].forEach(function (cap) {
-      for (var r = 0; r < rows; r++)
-        for (var c = 0; c < cols; c++)
-          if (free(r, c)) growRight(r, c, cap) || growDown(r, c, cap) || growLeft(r, c, cap);
-    });
-
-    // 3. apply
     tiles.forEach(function (t, i) {
-      var b = box[i];
+      var b = best.box[i];
       t.style.gridColumn = (b.c + 1) + " / span " + b.w;
       t.style.gridRow = (b.r + 1) + " / span " + b.h;
       t.style.setProperty("--rows", b.h);
@@ -82,7 +76,7 @@
   }
 
   layout();
-  var last = null;
+  var last = getComputedStyle(grid).getPropertyValue("--cols");
   window.addEventListener("resize", function () {
     var cols = getComputedStyle(grid).getPropertyValue("--cols");
     if (cols !== last) { last = cols; layout(); }
