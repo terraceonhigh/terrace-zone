@@ -7,7 +7,7 @@ Temporary covers until the paintings are done. All public domain: the Art Instit
 - `mine`: *Vampire* (*Love and Pain*), Edvard Munch (Norwegian, 1863–1944), 1895. Public domain. <https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_Vampire_(1895)_-_Google_Art_Project.jpg>
 - `chignon`: *Woman Combing Her Hair*, Edgar Degas (French, 1834–1917), c. 1888–90. The Met, CC0. <https://commons.wikimedia.org/wiki/File:Woman_Combing_Her_Hair_MET_DT1917.jpg>
 - `falcon`: *The Falconer*, Samuel William Reynolds the elder, 1797. <https://www.artic.edu/artworks/12848>
-- `bakelite`: *Mules Harnessed*, Victor Adam (French, 1801-1866), n.d. <https://www.artic.edu/artworks/117978>
+- `bakelite`: *Charge of the Lancers*, Umberto Boccioni (Italian, 1882–1916), 1915. Public domain. <https://commons.wikimedia.org/wiki/File:Umberto_Boccioni_-_Charge_of_the_Lancers.jpg>
 - `bibliogenesis`: *The Invalid Doll*, Artist unknown, 1870/79. <https://www.artic.edu/artworks/144639>
 - `chamomile`: *Afternoon Tea*, Jean François Raffaëlli (French, 1850–1924), c. 1880. <https://www.artic.edu/artworks/186425>
 - `little-augustus`: *Still life with eggs and thrushes*, Roman fresco from the House of Julia Felix, Pompeii, before 79 CE. National Archaeological Museum, Naples. Public domain. <https://commons.wikimedia.org/wiki/File:House_of_Julia_Felix_still_life_eggs.jpg>
