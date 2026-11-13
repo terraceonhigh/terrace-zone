@@ -3,7 +3,7 @@ title: Siren
 date: 2026-11-13
 fandom: Original Work
 word_count: 1,240
-summary: Siobhan wears her coat to every class. A selkie story about a coat, a safe, and the weather.
+summary: Siobhan wears her coat to every class.
 ---
 
 The overachiever had a suit on, someone had fingerless gloves, and she had her coat. It was the way of things in that class.
