@@ -124,21 +124,13 @@
       });
     });
   }
-  /* download menu, built from the meta line's links (which work without JS) */
-  var DL_NOTES = {
-    epub: ["EPUB", "For Apple Books, Kobo, Kindle (via Send to Kindle) and other e-readers"],
-    pdf: ["PDF", "A5 pages, for printing or reading offline"]
-  };
-  var dls = Array.prototype.slice.call(document.querySelectorAll(".post-meta a[download]"));
+  /* download menu: EPUB and PDF as two pills, built from the end-of-story
+     links (which work without JS) */
+  var dls = Array.prototype.slice.call(document.querySelectorAll(".post-links a[download]"));
   var dlBtn = el("button", { type: "button", "class": "rd-btn", "aria-expanded": "false", "aria-controls": "rd-dl" }, "↓ Download");
   var dlMenu = el("div", { "class": "rd-panel rd-dlmenu", id: "rd-dl", hidden: "" });
   dls.forEach(function (d) {
-    var ext = (d.getAttribute("href").split(".").pop() || "").toLowerCase();
-    var note = DL_NOTES[ext] || [ext.toUpperCase(), ""];
-    var a = el("a", { href: d.getAttribute("href"), download: "" });
-    a.appendChild(el("strong", {}, note[0]));
-    if (note[1]) a.appendChild(el("span", {}, note[1]));
-    dlMenu.appendChild(a);
+    dlMenu.appendChild(el("a", { href: d.getAttribute("href"), download: "", "class": "rd-pill" }, d.textContent));
   });
   if (dls.length) bar.insertBefore(dlBtn, aaBtn);
 
@@ -170,7 +162,7 @@
   bar.appendChild(aa);
   bar.appendChild(dlMenu);
   // after the title block: the hero (painting + title) and its credit, if any
-  var anchor = document.querySelector(".cover-credit") || header.closest(".post-hero") || header;
+  var anchor = document.querySelector(".post-epigraph") || header.closest(".post-hero") || header;
   anchor.parentNode.insertBefore(bar, anchor.nextSibling);
 
   /* end-of-chapter navigation */
