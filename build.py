@@ -144,7 +144,7 @@ def build_post(md_path, template_html, credits=None):
     # the PDF is typeset from the same Markdown afterwards (tools/make-pdfs.py)
     links = [f'<a href="downloads/{epub.name}" download>EPUB</a>',
              f'<a href="downloads/{slug}.pdf" download>PDF</a>']
-    if ao3_url:
+    if ao3_url and ao3_url not in body_md:   # skip when the text already links it (Fiat Lux's note)
         links.append(f'<a href="{ao3_url}" target="_blank" rel="noopener" data-ao3>Read on AO3</a>')
     links_block = ('<p class="post-links"><span class="dl-label">Download </span>'
                    + '<span class="sep"> · </span>'.join(links) + "</p>")
