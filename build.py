@@ -144,10 +144,14 @@ def build_post(md_path, template_html, credits=None):
     # the PDF is typeset from the same Markdown afterwards (tools/make-pdfs.py)
     links = [f'<a href="downloads/{epub.name}" download>EPUB</a>',
              f'<a href="downloads/{slug}.pdf" download>PDF</a>']
-    if ao3_url and ao3_url not in body_md:   # skip when the text already links it (Fiat Lux's note)
-        links.append(f'<a href="{ao3_url}" target="_blank" rel="noopener" data-ao3>Read on AO3</a>')
-    links_block = ('<p class="post-links"><span class="dl-label">Download </span>'
+    # EPUB/PDF line for readers without JS (reader.js shows them as the
+    # Download menu instead), then the AO3 card where a reader finishes
+    links_block = ('<p class="post-links">Download '
                    + '<span class="sep"> · </span>'.join(links) + "</p>")
+    if ao3_url:
+        links_block += ('<aside class="ao3-card"><p>Liked it? Kudos and comments live on AO3.</p>'
+                        f'<a class="pill" href="{ao3_url}" target="_blank" rel="noopener">'
+                        'Leave kudos on AO3 ↗</a></aside>')
     wc_attr = word_count.replace(",", "")
 
     html = (template_html
