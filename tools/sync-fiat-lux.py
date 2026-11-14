@@ -26,7 +26,7 @@ word_count: {word_count}
 summary: When the world ended she learned to keep everyone alive; when it began again, she could not stop.
 ---
 
-> This is the canary version of *Fiat Lux*. It changes more often and may contain rougher prose than the relatively stable version on AO3.
+> This is the canary version of *Fiat Lux*. It changes more often and may contain rougher prose than the relatively stable version on [AO3](https://archiveofourown.org/works/89851861).
 """
 
 
