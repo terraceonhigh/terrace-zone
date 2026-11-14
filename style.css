@@ -413,9 +413,15 @@ section { margin-bottom: 4.5rem; }
   margin: 2.5rem 0 0; font-family: var(--font-ui); font-size: 0.75rem; color: var(--faint); text-align: center;
 }
 .post-links a { color: var(--muted); }
-/* with JS, EPUB/PDF live in the Download menu; the end line keeps AO3 only */
-html.rd-on .post-links .dl-label, html.rd-on .post-links a[download], html.rd-on .post-links .sep { display: none; }
-html.rd-on .post-links:not(:has(a[data-ao3])) { display: none; }
+html.rd-on .post-links { display: none; }      /* the Download menu has them */
+.ao3-card {
+  margin: 2.5rem 0 0; padding: 1.4rem 0 0; border-top: 1px solid var(--border);
+  text-align: center; font-family: var(--font-ui); font-size: 0.8rem; color: var(--muted);
+}
+.ao3-card { padding-bottom: 2rem; }
+.rd-foot:not([hidden]) ~ .ao3-card { border-top: 0; margin-top: 0.5rem; }
+.ao3-card p { margin: 0 0 0.9rem; }
+.ao3-card[hidden] { display: none; }
 @media (max-width: 520px) {
   .post-cover { min-height: min(72vh, 520px); }
   .post-hero .post-header { padding: 3rem 1.1rem 1.1rem; }
@@ -634,12 +640,12 @@ html.rd-single .post-body .chapter > hr:last-child { display: none; }
 .rd-dlmenu { right: 1.5rem; display: flex; gap: 0.5rem; padding: 0.6rem; }
 .rd-dlmenu[hidden] { display: none; }
 /* same pill as the Writing button in the nav */
-.rd-pill {
+.rd-pill, .pill {
   font-family: var(--font-ui); font-size: 0.78rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase;
   color: var(--accent); border: 1px solid var(--accent); border-radius: 980px; padding: 0.55rem 1.1rem;
-  text-decoration: none; white-space: nowrap;
+  text-decoration: none; white-space: nowrap; display: inline-block;
 }
-.rd-pill:hover, .rd-pill:focus-visible { color: var(--on-accent); background: var(--accent); text-decoration: none; }
+.rd-pill:hover, .rd-pill:focus-visible, .pill:hover, .pill:focus-visible { color: var(--on-accent); background: var(--accent); text-decoration: none; }
 @media (max-width: 520px) { .rd-dlmenu { right: 0.75rem; } }
 
 /* ── Print / PDF (tools/make-pdfs.py prints these pages with Chromium) ── */
@@ -650,7 +656,7 @@ html.rd-single .post-body .chapter > hr:last-child { display: none; }
   body::before { display: none !important; }
   .wrap { max-width: none !important; margin: 0 !important; padding: 0 !important;
           border: 0 !important; box-shadow: none !important; border-radius: 0 !important; overflow: visible !important; }
-  nav, .back-link, footer, .post-cover, .cover-credit, .post-links, .reader-bar, .rd-foot, .rd-toast, .post-meta { display: none !important; }
+  nav, .back-link, footer, .post-cover, .cover-credit, .post-links, .ao3-card, .reader-bar, .rd-foot, .rd-toast, .post-meta { display: none !important; }
   .chapter[hidden], .chapter-preface[hidden] { display: block !important; }
   .post-hero { display: block; background: none; }
   .post-header, .post-hero .post-header { text-align: center; padding: 30mm 0 0; margin: 0; border: 0; break-after: page; color: #000; text-shadow: none; }

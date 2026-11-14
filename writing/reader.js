@@ -217,6 +217,9 @@
     chapters.forEach(function (x) { x.sec.hidden = single && x !== c; });
     if (preface) preface.hidden = single && c.i !== 0;
     foot.hidden = !single;
+    // the AO3 card belongs after the last chapter, not after each one
+    var card = document.querySelector(".ao3-card");
+    if (card) card.hidden = single && c.i !== chapters.length - 1;
     document.documentElement.classList.toggle("rd-single", single);
     if (single) {
       var p = chapters[c.i - 1], n = chapters[c.i + 1];
