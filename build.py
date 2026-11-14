@@ -106,12 +106,21 @@ def add_cover(html, slug, meta, credits):
     credit = ""
     if slug in credits:
         text, url = credits[slug]
-        credit = (f'<p class="cover-credit">{text} '
-                  f'<a href="{url}" target="_blank" rel="noopener">Source</a></p>')
+        full = re.sub(r"<[^>]+>", "", text)
+        credit = (f'<a class="cover-credit" href="{url}" target="_blank" rel="noopener" '
+                  f'title="{full}">{short_credit(text)}</a>')
     fig = f'<figure class="post-cover"><img src="{src}" alt="" decoding="async"></figure>'
-    return re.sub(r'(<header class="post-header">.*?</header>)',
-                  lambda m: f'<div class="post-hero">{fig}{m.group(1)}</div>{credit}',
+    return re.sub(r'(<header class="post-header"[^>]*>.*?</header>)',
+                  lambda m: f'<div class="post-hero">{fig}{m.group(1)}{credit}</div>',
                   html, count=1, flags=re.S)
+
+
+def short_credit(text):
+    """'<em>A Mermaid</em>, John William Waterhouse (British, 1849–1917), 1900.
+    Public domain.' -> '<em>A Mermaid</em>, John William Waterhouse, 1900'"""
+    t = re.sub(r" \([^)]*\)", "", text)          # (nationality, dates)
+    t = re.split(r"(?<!\bc)\.\s(?=[A-Z])", t, maxsplit=1)[0]  # first sentence ("c. 1888" is not an end)
+    return t.rstrip(". ")
 
 
 def build_post(md_path, template_html, credits=None):
@@ -123,29 +132,29 @@ def build_post(md_path, template_html, credits=None):
     body_html = md_to_html(body_md)
 
     ao3_url    = meta.get("ao3_url", "")
-    fandom     = meta.get("fandom", "")
     word_count = meta.get("word_count", "")
     summary    = meta.get("summary", "")
 
-    wc_block  = f' · {word_count} words' if word_count else ""
-    fan_block = f' · {fandom}' if fandom else ""
-    ao3_block = (f' · <a href="{ao3_url}" target="_blank" rel="noopener">AO3</a>'
-                 if ao3_url else "")
-    sum_block = (f'<p class="post-summary">{summary}</p>' if summary else "")
+    # D layout: the painting carries the title alone; the tagline sits under it
+    # as an epigraph; downloads and AO3 sit in a quiet line after the story
+    # (reader.js also lists them in its Download menu)
+    sum_block = (f'<p class="post-epigraph">{summary}</p>' if summary else "")
     slug = md_path.stem
     epub = build_epub(md_path, meta, body_md, slug)
     # the PDF is typeset from the same Markdown afterwards (tools/make-pdfs.py)
-    dl_block = (f' · <a href="downloads/{epub.name}" download>EPUB</a>'
-                f' · <a href="downloads/{slug}.pdf" download>PDF</a>')
+    links = [f'<a href="downloads/{epub.name}" download>EPUB</a>',
+             f'<a href="downloads/{slug}.pdf" download>PDF</a>']
+    if ao3_url:
+        links.append(f'<a href="{ao3_url}" target="_blank" rel="noopener" data-ao3>Read on AO3</a>')
+    links_block = ('<p class="post-links"><span class="dl-label">Download </span>'
+                   + '<span class="sep"> · </span>'.join(links) + "</p>")
+    wc_attr = word_count.replace(",", "")
 
     html = (template_html
             .replace("{{TITLE}}", title)
-            .replace("{{DATE}}", date)
-            .replace("{{WORD_COUNT_BLOCK}}", wc_block)
-            .replace("{{FANDOM_BLOCK}}", fan_block)
-            .replace("{{AO3_LINK}}", ao3_block)
-            .replace("{{DOWNLOAD_BLOCK}}", dl_block)
+            .replace("{{WORDS}}", wc_attr)
             .replace("{{SUMMARY_BLOCK}}", sum_block)
+            .replace("{{LINKS_BLOCK}}", links_block)
             .replace("{{BODY}}", body_html))
     html = add_cover(html, slug, meta, credits or {})
 
